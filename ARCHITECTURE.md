@@ -188,3 +188,15 @@ drain top, wall thickness 0 (not surveyed, not drawn).
 - Repository trimmed: `GeoPDF/`, `as_drawn/shp/`, `derived/shp/` and the per-ward shapefiles in `derived/wards/` are git-ignored and live in release
   **v1.0** (218 MB PDFs, 27 MB + 47 MB shapefile zips, built by `zipfile` — `zip` is not installed
   here). History was rewritten (single commit, force-pushed) so the PDFs are not in the clone.
+
+## 2026-09-05 — sea, and maps in the README
+
+- `run_maps.py` now fills the Bay of Bengal and draws the shoreline, using the **same** OSM
+  coastline that clips the ward polygons in `run_wards.py`, so the two can never disagree. Without
+  it the ward outlines sat in a black void and every coastal ward read as running into the sea.
+- Note: OSM's `natural=coastline` runs outside the Chennai Port breakwaters, so the dock basins fall
+  on the land side and ward 60's boundary legitimately covers them (likewise ward 1 over the Ennore
+  creek mouth). No ward polygon overlaps the open sea — measured at 0.00 km².
+- Provenance map now separates junction links from straight schedule chords.
+- `maps/preview/` holds 1000 px, 256-colour previews (~250 KB each) embedded in the README; each
+  links to the full 2800 × 4000 px PNG.

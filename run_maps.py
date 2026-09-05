@@ -17,8 +17,10 @@ import matplotlib.pyplot as plt
 from matplotlib.collections import LineCollection
 from matplotlib.colors import LinearSegmentedColormap, ListedColormap, BoundaryNorm
 from matplotlib.lines import Line2D
-from matplotlib.patches import Patch
+from matplotlib.patches import Patch, Polygon as MplPolygon
 from pyproj import Transformer
+from shapely.geometry import box as sbox, shape as sshape, LineString, Point
+from shapely.ops import linemerge, unary_union, polygonize
 
 OUT = "maps"; os.makedirs(OUT, exist_ok=True)
 TF = Transformer.from_crs("EPSG:4326", "EPSG:32644", always_xy=True)
@@ -32,6 +34,31 @@ osm = json.load(open("derived/osm/roads.json"))
 roads = [[TF.transform(g["lon"], g["lat"]) for g in w["geometry"]] for w in osm["elements"]
          if "geometry" in w and w.get("tags", {}).get("highway") in
          ("motorway", "trunk", "primary", "secondary", "tertiary", "residential", "unclassified")]
+# ---- sea ---------------------------------------------------------------------
+# Without a shoreline the ward outlines float in a black void and every coastal
+# ward looks like it runs into the Bay of Bengal. Same coastline that clips the
+# ward polygons in run_wards.py, so the two can never disagree.
+def sea_polygon():
+    coast = json.load(open("derived/osm/coastline.json"))
+    merged = linemerge(unary_union([LineString([(g["lon"], g["lat"]) for g in w["geometry"]])
+                                    for w in coast["elements"] if w.get("type") == "way"]))
+    bb = sbox(80.05, 12.80, 80.45, 13.35)
+    parts = [merged] if merged.geom_type == "LineString" else list(merged.geoms)
+    ext = []
+    for ln in parts:                       # run the free ends out to the bbox so it splits
+        c = list(ln.coords)
+        for end in (0, -1):
+            q = bb.boundary.interpolate(bb.boundary.project(Point(c[end])))
+            c = ([tuple(q.coords[0])] + c) if end == 0 else (c + [tuple(q.coords[0])])
+        ext.append(LineString(c))
+    pieces = list(polygonize(unary_union([bb.boundary] + ext)))
+    inland = [sshape(f["geometry"]).representative_point() for f in json.load(open("web/data/wards.json"))["features"]]
+    land = unary_union([p for p in pieces if sum(p.contains(q) for q in inland) >= 3])
+    return bb.difference(land), merged
+
+
+SEA, COASTLINE = sea_polygon()
+
 isDrawn = lambda c: "geometry_inferred" not in c["fg"] and "junction_link" not in c["fg"] and not c["x"]
 isRouted = lambda c: "road_routed" in c["fg"]
 
@@ -53,6 +80,14 @@ def base(title, subtitle):
     fig = plt.figure(figsize=(W, H), dpi=200, facecolor=BG)
     ax = fig.add_axes([0.02, 0.06, 0.96, 0.88]); ax.set_facecolor(BG)
     ax.set_xlim(X0, X1); ax.set_ylim(Y0, Y1); ax.set_aspect("equal"); ax.axis("off")
+    for poly in ([SEA] if SEA.geom_type == "Polygon" else list(SEA.geoms)):
+        ax.add_patch(MplPolygon(np.array([TF.transform(*c) for c in poly.exterior.coords]),
+                                closed=True, facecolor="#071a2b", edgecolor="none", zorder=0))
+    for ln in ([COASTLINE] if COASTLINE.geom_type == "LineString" else list(COASTLINE.geoms)):
+        a = np.array([TF.transform(*c) for c in ln.coords])
+        ax.plot(a[:, 0], a[:, 1], color="#2d5a7a", lw=0.8, zorder=1)
+    ax.text(*TF.transform(80.345, 13.16), "BAY OF BENGAL", color="#2d5a7a", fontsize=9,
+            rotation=-72, ha="center", va="center", zorder=1, style="italic")
     ax.add_collection(LineCollection(roads, colors="#1e2a33", linewidths=0.35, zorder=1))
     for f in wards["features"]:
         g = f["geometry"]; rings = g["coordinates"] if g["type"] == "Polygon" else [r for p in g["coordinates"] for r in p]
@@ -148,14 +183,17 @@ legend(ax, [Line2D([], [], color="#ff3b4f", lw=2.5, label=f"falls uphill — {su
 fig.savefig(f"{OUT}/swd_network_gradient.png", facecolor=BG); plt.close(fig)
 
 # ---- 3. provenance ---------------------------------------------------------
+isJunction = lambda c: "junction_link" in c["fg"]
 def prov_col(c):
-    return "#25c8bd" if isDrawn(c) else "#e0b84a" if isRouted(c) else "#8f7bd6" if c["x"] else "#d05ae0"
+    return ("#25c8bd" if isDrawn(c) else "#e0b84a" if isRouted(c) else "#8f7bd6" if c["x"]
+            else "#5fb0e8" if isJunction(c) else "#d05ae0")
 fig, ax = base("Chennai storm water drains — what was drawn, what was inferred",
                f"{N_DRAWN:,} conduits traced off the sheets; the rest were added so that water can route")
 draw(ax, sorted(conds, key=isDrawn), prov_col, arrows=False)
 legend(ax, [Line2D([], [], color="#25c8bd", lw=2.5, label=f"traced from a sheet — {N_DRAWN:,}"),
             Line2D([], [], color="#e0b84a", lw=2.5, label=f"schedule link routed along OSM roads — {sum(1 for c in conds if isRouted(c)):,}"),
-            Line2D([], [], color="#d05ae0", lw=2.5, label=f"schedule link, straight chord — {sum(1 for c in conds if not isDrawn(c) and not isRouted(c) and not c['x']):,}"),
+            Line2D([], [], color="#d05ae0", lw=2.5, label=f"schedule link, straight chord — {sum(1 for c in conds if not isDrawn(c) and not isRouted(c) and not c['x'] and not isJunction(c)):,}"),
+            Line2D([], [], color="#5fb0e8", lw=2.5, label=f"junction link, where two drawn runs touch — {sum(1 for c in conds if isJunction(c) and not c['x']):,}"),
             Line2D([], [], color="#8f7bd6", lw=2.5, label=f"cross-ward join — {sum(1 for c in conds if c['x']):,}")], "Provenance")
 fig.savefig(f"{OUT}/swd_network_provenance.png", facecolor=BG); plt.close(fig)
 

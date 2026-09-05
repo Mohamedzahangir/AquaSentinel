@@ -19,6 +19,46 @@ Everything is **EPSG:32644** (WGS 84 / UTM zone 44N), the CRS the sheets declare
 
 ---
 
+## Maps
+
+Six views of the same network, all rendered by [`run_maps.py`](run_maps.py). Each preview links to the full 2800 × 4000 px PNG in [`maps/`](maps). Arrowheads point downstream (`from_uid` → `to_uid`), one per conduit over 60 m; ward outlines are dotted, amber where a survey sheet exists and grey where it does not; the shoreline is the OSM coastline.
+
+### Invert levels and direction of flow
+
+[![Invert levels](maps/preview/swd_network_invert_levels.png)](maps/swd_network_invert_levels.png)
+
+Every conduit coloured by its upstream invert — the bed of the drain, in metres above mean sea level. Blue is near sea level, red is inland high ground. This is the map to read if you want to know which way the city actually drains.
+
+### Surveyed gradient
+
+[![Gradient](maps/preview/swd_network_gradient.png)](maps/swd_network_gradient.png)
+
+Fall between surveyed inverts divided by run length. **Red conduits fall uphill in their assigned direction of flow** — 1,362 of them. Some are silted sumps, some are survey noise, and an engineer needs to be able to find them; this map exists to make them findable.
+
+### What was drawn, and what was inferred
+
+[![Provenance](maps/preview/swd_network_provenance.png)](maps/swd_network_provenance.png)
+
+Provenance, and the most important map here for anyone planning to use the data. Cyan is traced off a sheet. Amber, magenta, blue and violet are connections **this pipeline added** so that water can route — they are not survey. Nothing was invented silently: the 857 schedule chords whose road route ran more than 1.5× the straight line were dropped rather than drawn.
+
+### As drawn on the sheets
+
+[![As drawn](maps/preview/swd_network_as_drawn.png)](maps/swd_network_as_drawn.png)
+
+Only the 3,959 conduits traced off a sheet, with nothing joined or inferred, and the 247 outfalls actually marked `(OL)`. This is the honest dataset — and the gaps in it are real gaps in the survey, not extraction failures.
+
+### Surveyed section width
+
+[![Section width](maps/preview/swd_network_section_width.png)](maps/swd_network_section_width.png)
+
+Line weight and tint follow the drain width from the schedule, 0.12 m to 10.2 m. The trunk drains stand out from the street drains that feed them. Grey means no section was surveyed at that point.
+
+### Manholes against the December 2015 flood record
+
+[![2015 flood record](maps/preview/swd_network_flood_record_2015.png)](maps/swd_network_flood_record_2015.png)
+
+Each manhole coloured by its distance to the nearest street recorded as flooded in December 2015 ([osm-in/flood-map](http://github.com/osm-in/flood-map)). This is an **overlay of two independent records, not a model result** — it shows where the drains sit relative to what flooded, and nothing about cause.
+
 ## Outputs
 
 ```
