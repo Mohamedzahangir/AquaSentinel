@@ -1,0 +1,1217 @@
+[
+ {
+  "ward": 59,
+  "role": "road_name",
+  "text": "Thayar Sahib Street",
+  "east": 420729.0,
+  "north": 1444358.2,
+  "conf": 1.0,
+  "size_pt": 61.08
+ },
+ {
+  "ward": 59,
+  "role": "road_name",
+  "text": "lippu St4th LaneOwliya StreetOwliyaAnnasamiN3rd LaneStreetOwliya, OwliyaBangaru Naiken StBabar AganaUD7 479StreetAnnasamyDX!!MOLaneMuktharunnisha StStreetau07 75lThayaryaraneIst Lane5th Lane6th Lane7th LaneBalamuthuUnnishAli StUnnis Ali StreetD10ISLsluunPuDTD7,AppavuQLStreet",
+  "east": 421108.6,
+  "north": 1444498.85,
+  "conf": 0.942,
+  "size_pt": 164.64
+ },
+ {
+  "ward": 59,
+  "role": "road_name",
+  "text": "Bang\u00f6ru Naicken St",
+  "east": 421001.93,
+  "north": 1444348.67,
+  "conf": 1.0,
+  "size_pt": 62.16
+ },
+ {
+  "ward": 59,
+  "role": "road_name",
+  "text": "Wallajah Road",
+  "east": 421723.44,
+  "north": 1444458.63,
+  "conf": 1.0,
+  "size_pt": 39.6
+ },
+ {
+  "ward": 59,
+  "role": "road_name",
+  "text": "Pallavan Salai",
+  "east": 421565.55,
+  "north": 1445646.4,
+  "conf": 1.0,
+  "size_pt": 42.96
+ },
+ {
+  "ward": 59,
+  "role": "road_name",
+  "text": "Plllyuzkambareswara ASVallalAmman Koil StreetRavanai StreetSivaram StreetPonappa StreetDhanappaRasappa Chetty Street",
+  "east": 421605.13,
+  "north": 1446888.77,
+  "conf": 0.922,
+  "size_pt": 142.08
+ },
+ {
+  "ward": 59,
+  "role": "road_name",
+  "text": "Stringer StreetIssac Street",
+  "east": 421569.89,
+  "north": 1446481.74,
+  "conf": 1.0,
+  "size_pt": 45.96
+ },
+ {
+  "ward": 59,
+  "role": "road_name",
+  "text": "Dams Road",
+  "east": 420752.5,
+  "north": 1444712.32,
+  "conf": 1.0,
+  "size_pt": 32.4
+ },
+ {
+  "ward": 59,
+  "role": "road_name",
+  "text": "Ponappa Street",
+  "east": 421670.84,
+  "north": 1446867.39,
+  "conf": 1.0,
+  "size_pt": 48.36
+ },
+ {
+  "ward": 59,
+  "role": "road_name",
+  "text": "Nyniappa Maistry StreetBangarammaiStreetParamasivam StreetKalappa Streetreety StreetThanja MurugappaStreetNyniappa Maistry StreetKolanda StreetAnthony StreetJessan StreetPereira StreetStVengu (C) :",
+  "east": 421647.77,
+  "north": 1446639.11,
+  "conf": 1.0,
+  "size_pt": 162.0
+ },
+ {
+  "ward": 59,
+  "role": "road_name",
+  "text": "Kolanda Street",
+  "east": 421606.18,
+  "north": 1446584.18,
+  "conf": 1.0,
+  "size_pt": 46.2
+ },
+ {
+  "ward": 59,
+  "role": "road_name",
+  "text": "AnnamalaiLanePedduStreet",
+  "east": 421801.01,
+  "north": 1446698.59,
+  "conf": 1.0,
+  "size_pt": 45.12
+ },
+ {
+  "ward": 59,
+  "role": "road_name",
+  "text": "Nainiappan Naicken Street",
+  "east": 421892.76,
+  "north": 1446903.69,
+  "conf": 1.0,
+  "size_pt": 82.08
+ },
+ {
+  "ward": 59,
+  "role": "road_name",
+  "text": "Mannady Street",
+  "east": 421568.93,
+  "north": 1446672.45,
+  "conf": 1.0,
+  "size_pt": 47.76
+ },
+ {
+  "ward": 59,
+  "role": "road_name",
+  "text": "Bommu Street",
+  "east": 421550.41,
+  "north": 1446720.18,
+  "conf": 1.0,
+  "size_pt": 44.76
+ },
+ {
+  "ward": 59,
+  "role": "road_name",
+  "text": "Kalappa Street",
+  "east": 421641.32,
+  "north": 1446718.17,
+  "conf": 1.0,
+  "size_pt": 46.2
+ },
+ {
+  "ward": 59,
+  "role": "road_name",
+  "text": "Subbu Street",
+  "east": 421562.06,
+  "north": 1446770.24,
+  "conf": 1.0,
+  "size_pt": 40.44
+ },
+ {
+  "ward": 59,
+  "role": "road_name",
+  "text": "Jessan Street",
+  "east": 421574.54,
+  "north": 1446585.14,
+  "conf": 1.0,
+  "size_pt": 42.24
+ },
+ {
+  "ward": 59,
+  "role": "road_name",
+  "text": "Ravanai Street",
+  "east": 421686.19,
+  "north": 1446922.0,
+  "conf": 1.0,
+  "size_pt": 45.36
+ },
+ {
+  "ward": 59,
+  "role": "road_name",
+  "text": "Ekambareswara Agraharam StHrol\u043c.....Mint StreetEkambareswara Agraharam StRavanai StreetKesava StreetDonanna Str",
+  "east": 421728.73,
+  "north": 1446963.81,
+  "conf": 0.922,
+  "size_pt": 107.04
+ },
+ {
+  "ward": 59,
+  "role": "road_name",
+  "text": "LaneDevaraju Mudali StreetX4710OWRattan Bazaar RoadaU0T(W) XWIDMS",
+  "east": 422010.22,
+  "north": 1446864.64,
+  "conf": 0.8,
+  "size_pt": 91.56
+ },
+ {
+  "ward": 59,
+  "role": "road_name",
+  "text": "Venkatachala Mudali Street",
+  "east": 421923.66,
+  "north": 1446895.12,
+  "conf": 1.0,
+  "size_pt": 83.16
+ },
+ {
+  "ward": 59,
+  "role": "road_name",
+  "text": "Raghunayakulu Street",
+  "east": 421833.28,
+  "north": 1446942.53,
+  "conf": 1.0,
+  "size_pt": 67.08
+ },
+ {
+  "ward": 59,
+  "role": "road_name",
+  "text": "Adams Street",
+  "east": 422121.13,
+  "north": 1444570.71,
+  "conf": 1.0,
+  "size_pt": 34.32
+ },
+ {
+  "ward": 59,
+  "role": "road_name",
+  "text": "Ellis Road",
+  "east": 421044.04,
+  "north": 1444651.25,
+  "conf": 1.0,
+  "size_pt": 30.6
+ },
+ {
+  "ward": 59,
+  "role": "road_name",
+  "text": "Frazer Bridge Road",
+  "east": 422186.84,
+  "north": 1446732.03,
+  "conf": 1.0,
+  "size_pt": 60.6
+ },
+ {
+  "ward": 59,
+  "role": "road_name",
+  "text": "Esplanade Road",
+  "east": 422504.53,
+  "north": 1446873.53,
+  "conf": 1.0,
+  "size_pt": 49.08
+ },
+ {
+  "ward": 59,
+  "role": "road_name",
+  "text": "Laws, Bridge",
+  "east": 420911.76,
+  "north": 1446048.35,
+  "conf": 1.0,
+  "size_pt": 36.48
+ },
+ {
+  "ward": 59,
+  "role": "road_name",
+  "text": "Periyar Bridge",
+  "east": 421426.07,
+  "north": 1445264.87,
+  "conf": 1.0,
+  "size_pt": 32.88
+ },
+ {
+  "ward": 59,
+  "role": "road_name",
+  "text": "Quaid-E-Milleth Bridge",
+  "east": 422084.83,
+  "north": 1445900.18,
+  "conf": 1.0,
+  "size_pt": 52.68
+ },
+ {
+  "ward": 59,
+  "role": "road_name",
+  "text": "Anna Salai (Statue)",
+  "east": 421821.43,
+  "north": 1445648.62,
+  "conf": 1.0,
+  "size_pt": 46.44
+ },
+ {
+  "ward": 59,
+  "role": "road_name",
+  "text": "Harris Bridge",
+  "east": 420746.78,
+  "north": 1444815.08,
+  "conf": 1.0,
+  "size_pt": 39.24
+ },
+ {
+  "ward": 59,
+  "role": "road_name",
+  "text": "Blackers Road",
+  "east": 420851.44,
+  "north": 1444814.55,
+  "conf": 1.0,
+  "size_pt": 44.4
+ },
+ {
+  "ward": 59,
+  "role": "road_name",
+  "text": "Bangarammai St",
+  "east": 421612.64,
+  "north": 1446752.67,
+  "conf": 1.0,
+  "size_pt": 51.72
+ },
+ {
+  "ward": 59,
+  "role": "road_name",
+  "text": "South Mint Street",
+  "east": 421762.7,
+  "north": 1446609.9,
+  "conf": 1.0,
+  "size_pt": 55.68
+ },
+ {
+  "ward": 59,
+  "role": "road_name",
+  "text": "Swami Sivananda Salai",
+  "east": 422306.21,
+  "north": 1444767.88,
+  "conf": 1.0,
+  "size_pt": 71.4
+ },
+ {
+  "ward": 59,
+  "role": "road_name",
+  "text": "BVERSwami Sivananda Salai",
+  "east": 421592.22,
+  "north": 1445039.55,
+  "conf": 0.65,
+  "size_pt": 60.72
+ },
+ {
+  "ward": 59,
+  "role": "road_name",
+  "text": "General Hospital Road",
+  "east": 421710.63,
+  "north": 1446296.74,
+  "conf": 1.0,
+  "size_pt": 68.04
+ },
+ {
+  "ward": 59,
+  "role": "road_name",
+  "text": "Wallajah Road",
+  "east": 421219.5,
+  "north": 1444699.09,
+  "conf": 1.0,
+  "size_pt": 36.24
+ },
+ {
+  "ward": 59,
+  "role": "road_name",
+  "text": "Burial Ground Road",
+  "east": 421612.11,
+  "north": 1445927.81,
+  "conf": 1.0,
+  "size_pt": 60.96
+ },
+ {
+  "ward": 59,
+  "role": "road_name",
+  "text": "Wall Tax Road",
+  "east": 421487.03,
+  "north": 1446791.09,
+  "conf": 1.0,
+  "size_pt": 42.72
+ },
+ {
+  "ward": 59,
+  "role": "road_name",
+  "text": "Varatharaja LanePilliyar Koil Street",
+  "east": 421557.19,
+  "north": 1446993.12,
+  "conf": 1.0,
+  "size_pt": 57.24
+ },
+ {
+  "ward": 59,
+  "role": "road_name",
+  "text": "Evening Bazaar RoadankPC",
+  "east": 421831.17,
+  "north": 1446416.86,
+  "conf": 0.833,
+  "size_pt": 62.4
+ },
+ {
+  "ward": 59,
+  "role": "road_name",
+  "text": "Memorial HalRoad",
+  "east": 421775.29,
+  "north": 1446503.75,
+  "conf": 1.0,
+  "size_pt": 36.0
+ },
+ {
+  "ward": 59,
+  "role": "road_name",
+  "text": "Muthuswamy Road",
+  "east": 422184.62,
+  "north": 1446475.6,
+  "conf": 1.0,
+  "size_pt": 51.72
+ },
+ {
+  "ward": 59,
+  "role": "road_name",
+  "text": "Muthuswamy Road-",
+  "east": 422070.86,
+  "north": 1446261.29,
+  "conf": 1.0,
+  "size_pt": 46.56
+ },
+ {
+  "ward": 59,
+  "role": "road_name",
+  "text": "South Mint Street",
+  "east": 421746.3,
+  "north": 1446412.1,
+  "conf": 1.0,
+  "size_pt": 55.8
+ },
+ {
+  "ward": 59,
+  "role": "road_name",
+  "text": "Anna Salai (Mount Road)",
+  "east": 420882.24,
+  "north": 1444701.1,
+  "conf": 1.0,
+  "size_pt": 59.28
+ },
+ {
+  "ward": 59,
+  "role": "road_name",
+  "text": "KrishnappaStreetHanumantharayarKoil StreetSamuthra (M) Street Gengaraman StSSV",
+  "east": 421809.05,
+  "north": 1447145.31,
+  "conf": 1.0,
+  "size_pt": 114.84
+ },
+ {
+  "ward": 59,
+  "role": "road_name",
+  "text": "Ayya Pillai Street",
+  "east": 421960.59,
+  "north": 1447023.07,
+  "conf": 1.0,
+  "size_pt": 53.88
+ },
+ {
+  "ward": 59,
+  "role": "road_name",
+  "text": "pooy asog pipusyo yspuans lptan75 uDuSSCVenkatachalaLaneAyya Pillai StreetBat Lathereetet",
+  "east": 421986.09,
+  "north": 1447054.08,
+  "conf": 1.0,
+  "size_pt": 121.68
+ },
+ {
+  "ward": 59,
+  "role": "road_name",
+  "text": "Francis Joseph Street",
+  "east": 422588.87,
+  "north": 1447102.23,
+  "conf": 1.0,
+  "size_pt": 68.16
+ },
+ {
+  "ward": 59,
+  "role": "road_name",
+  "text": "Nannayan Street",
+  "east": 421522.27,
+  "north": 1447102.45,
+  "conf": 1.0,
+  "size_pt": 51.48
+ },
+ {
+  "ward": 59,
+  "role": "road_name",
+  "text": "Evening Bazaar Road",
+  "east": 421979.85,
+  "north": 1446705.04,
+  "conf": 1.0,
+  "size_pt": 63.24
+ },
+ {
+  "ward": 59,
+  "role": "road_name",
+  "text": "Fly Over",
+  "east": 421429.25,
+  "north": 1446158.42,
+  "conf": 1.0,
+  "size_pt": 24.96
+ },
+ {
+  "ward": 59,
+  "role": "road_name",
+  "text": "Fly Over",
+  "east": 421468.08,
+  "north": 1445908.55,
+  "conf": 1.0,
+  "size_pt": 24.36
+ },
+ {
+  "ward": 59,
+  "role": "road_name",
+  "text": "Anna Salai (Mount Road)",
+  "east": 421703.01,
+  "north": 1445564.8,
+  "conf": 1.0,
+  "size_pt": 57.96
+ },
+ {
+  "ward": 59,
+  "role": "road_name",
+  "text": "Fly Over",
+  "east": 422066.31,
+  "north": 1446092.06,
+  "conf": 1.0,
+  "size_pt": 19.08
+ },
+ {
+  "ward": 59,
+  "role": "road_name",
+  "text": "SubramaniLane",
+  "east": 422039.32,
+  "north": 1446949.84,
+  "conf": 1.0,
+  "size_pt": 32.28
+ },
+ {
+  "ward": 59,
+  "role": "road_name",
+  "text": "Gandhi Nagar",
+  "east": 421876.46,
+  "north": 1445965.06,
+  "conf": 1.0,
+  "size_pt": 41.28
+ },
+ {
+  "ward": 59,
+  "role": "road_name",
+  "text": "StreetEla Kandhappan StreetEdapalayamNannayan StreetOF 3",
+  "east": 421541.31,
+  "north": 1447132.71,
+  "conf": 1.0,
+  "size_pt": 89.88
+ },
+ {
+  "ward": 59,
+  "role": "road_name",
+  "text": "service road",
+  "east": 421425.65,
+  "north": 1445059.02,
+  "conf": 1.0,
+  "size_pt": 29.52
+ },
+ {
+  "ward": 59,
+  "role": "road_name",
+  "text": "service road",
+  "east": 421336.44,
+  "north": 1444900.8,
+  "conf": 1.0,
+  "size_pt": 33.96
+ },
+ {
+  "ward": 59,
+  "role": "road_name",
+  "text": "service road",
+  "east": 421600.36,
+  "north": 1444878.26,
+  "conf": 1.0,
+  "size_pt": 32.16
+ },
+ {
+  "ward": 59,
+  "role": "road_name",
+  "text": "service road",
+  "east": 421666.4,
+  "north": 1444648.6,
+  "conf": 1.0,
+  "size_pt": 35.64
+ },
+ {
+  "ward": 59,
+  "role": "road_name",
+  "text": "service road",
+  "east": 421154.1,
+  "north": 1446042.64,
+  "conf": 1.0,
+  "size_pt": 36.72
+ },
+ {
+  "ward": 59,
+  "role": "road_name",
+  "text": "service road",
+  "east": 421265.32,
+  "north": 1446016.28,
+  "conf": 1.0,
+  "size_pt": 36.12
+ },
+ {
+  "ward": 59,
+  "role": "road_name",
+  "text": "PallavanKudieruppu",
+  "east": 421398.45,
+  "north": 1445493.36,
+  "conf": 1.0,
+  "size_pt": 59.04
+ },
+ {
+  "ward": 59,
+  "role": "road_name",
+  "text": "VOC Salal",
+  "east": 421602.9,
+  "north": 1446423.53,
+  "conf": 1.0,
+  "size_pt": 28.92
+ },
+ {
+  "ward": 59,
+  "role": "road_name",
+  "text": "Nainiappan Naicken StreetThirumalaiLaneA194.625AmarsingLal Laneial Hall",
+  "east": 421822.91,
+  "north": 1446586.72,
+  "conf": 1.0,
+  "size_pt": 81.96
+ },
+ {
+  "ward": 59,
+  "role": "road_name",
+  "text": "Siganan Street",
+  "east": 421656.45,
+  "north": 1447098.64,
+  "conf": 1.0,
+  "size_pt": 38.76
+ },
+ {
+  "ward": 59,
+  "role": "road_name",
+  "text": "NarayanappaLane",
+  "east": 421829.37,
+  "north": 1446821.88,
+  "conf": 1.0,
+  "size_pt": 39.0
+ },
+ {
+  "ward": 59,
+  "role": "road_name",
+  "text": "IhayarThayar2na LaneIst Lane",
+  "east": 420982.77,
+  "north": 1444480.01,
+  "conf": 1.0,
+  "size_pt": 60.6
+ },
+ {
+  "ward": 59,
+  "role": "road_name",
+  "text": "UnnishAli St",
+  "east": 421036.42,
+  "north": 1444445.62,
+  "conf": 1.0,
+  "size_pt": 40.56
+ },
+ {
+  "ward": 59,
+  "role": "road_name",
+  "text": "Nallathambi/Street",
+  "east": 421095.9,
+  "north": 1444696.65,
+  "conf": 1.0,
+  "size_pt": 36.0
+ },
+ {
+  "ward": 59,
+  "role": "road_name",
+  "text": "Bhootha Perumal",
+  "east": 420629.74,
+  "north": 1444649.98,
+  "conf": 1.0,
+  "size_pt": 53.64
+ },
+ {
+  "ward": 59,
+  "role": "road_name",
+  "text": "Thiru.",
+  "east": 420606.99,
+  "north": 1444372.59,
+  "conf": 1.0,
+  "size_pt": 13.92
+ },
+ {
+  "ward": 59,
+  "role": "road_name",
+  "text": "Vi. Ka Salai (G P Road)",
+  "east": 420623.81,
+  "north": 1444461.7,
+  "conf": 1.0,
+  "size_pt": 73.92
+ },
+ {
+  "ward": 59,
+  "role": "road_name",
+  "text": "Anna Salai (Mount Road)",
+  "east": 421178.34,
+  "north": 1445010.02,
+  "conf": 1.0,
+  "size_pt": 61.32
+ },
+ {
+  "ward": 59,
+  "role": "road_name",
+  "text": "S.M Nagar Main Road",
+  "east": 421856.35,
+  "north": 1445911.19,
+  "conf": 1.0,
+  "size_pt": 67.92
+ },
+ {
+  "ward": 59,
+  "role": "road_name",
+  "text": "LackmadossStreet",
+  "east": 421855.82,
+  "north": 1447062.23,
+  "conf": 1.0,
+  "size_pt": 38.04
+ },
+ {
+  "ward": 59,
+  "role": "road_name",
+  "text": "Koil Street Ext",
+  "east": 420626.99,
+  "north": 1444628.18,
+  "conf": 1.0,
+  "size_pt": 46.44
+ },
+ {
+  "ward": 59,
+  "role": "road_name",
+  "text": "Lane",
+  "east": 421480.57,
+  "north": 1447004.76,
+  "conf": 1.0,
+  "size_pt": 13.32
+ },
+ {
+  "ward": 59,
+  "role": "road_name",
+  "text": "Ellis Road",
+  "east": 421042.03,
+  "north": 1444316.39,
+  "conf": 1.0,
+  "size_pt": 30.6
+ },
+ {
+  "ward": 59,
+  "role": "road_name",
+  "text": "Netaji Subhash Chandra Bose Road",
+  "east": 422309.39,
+  "north": 1446994.28,
+  "conf": 1.0,
+  "size_pt": 112.68
+ },
+ {
+  "ward": 59,
+  "role": "road_name",
+  "text": "Appavu Street",
+  "east": 421284.27,
+  "north": 1444493.03,
+  "conf": 1.0,
+  "size_pt": 43.68
+ },
+ {
+  "ward": 59,
+  "role": "location_names",
+  "text": "MysaanHospital",
+  "east": 420950.39,
+  "north": 1444364.02,
+  "conf": 1.0,
+  "size_pt": 24.12
+ },
+ {
+  "ward": 59,
+  "role": "location_names",
+  "text": "Chepauk",
+  "east": 421999.75,
+  "north": 1444401.8,
+  "conf": 1.0,
+  "size_pt": 24.6
+ },
+ {
+  "ward": 59,
+  "role": "location_names",
+  "text": "Park",
+  "east": 421986.41,
+  "north": 1446234.4,
+  "conf": 1.0,
+  "size_pt": 13.08
+ },
+ {
+  "ward": 59,
+  "role": "location_names",
+  "text": "Park",
+  "east": 422262.83,
+  "north": 1446870.78,
+  "conf": 1.0,
+  "size_pt": 13.08
+ },
+ {
+  "ward": 59,
+  "role": "location_names",
+  "text": "Military",
+  "east": 421715.4,
+  "north": 1445681.43,
+  "conf": 1.0,
+  "size_pt": 21.6
+ },
+ {
+  "ward": 59,
+  "role": "location_names",
+  "text": "Armenian",
+  "east": 421351.15,
+  "north": 1445873.94,
+  "conf": 1.0,
+  "size_pt": 27.84
+ },
+ {
+  "ward": 59,
+  "role": "location_names",
+  "text": "Burial",
+  "east": 421398.66,
+  "north": 1445873.94,
+  "conf": 1.0,
+  "size_pt": 16.68
+ },
+ {
+  "ward": 59,
+  "role": "location_names",
+  "text": "Ground",
+  "east": 421439.72,
+  "north": 1445873.94,
+  "conf": 1.0,
+  "size_pt": 20.76
+ },
+ {
+  "ward": 59,
+  "role": "location_names",
+  "text": "OmandurarGovernment Estate",
+  "east": 421555.6,
+  "north": 1444972.14,
+  "conf": 1.0,
+  "size_pt": 58.56
+ },
+ {
+  "ward": 59,
+  "role": "location_names",
+  "text": "DoordarshanKendra Chennai",
+  "east": 421954.88,
+  "north": 1444652.73,
+  "conf": 1.0,
+  "size_pt": 48.84
+ },
+ {
+  "ward": 59,
+  "role": "location_names",
+  "text": "Rajiv GandhiGeneral Hospital",
+  "east": 421560.47,
+  "north": 1446233.35,
+  "conf": 1.0,
+  "size_pt": 49.92
+ },
+ {
+  "ward": 59,
+  "role": "location_names",
+  "text": "ParkTown PO",
+  "east": 421868.63,
+  "north": 1446408.18,
+  "conf": 1.0,
+  "size_pt": 25.44
+ },
+ {
+  "ward": 59,
+  "role": "location_names",
+  "text": "State Bankof India",
+  "east": 421789.16,
+  "north": 1446459.72,
+  "conf": 1.0,
+  "size_pt": 34.2
+ },
+ {
+  "ward": 59,
+  "role": "location_names",
+  "text": ":MemorialHall",
+  "east": 421778.57,
+  "north": 1446411.36,
+  "conf": 1.0,
+  "size_pt": 26.76
+ },
+ {
+  "ward": 59,
+  "role": "location_names",
+  "text": "Chennai Central RPF",
+  "east": 421297.6,
+  "north": 1446441.2,
+  "conf": 1.0,
+  "size_pt": 64.56
+ },
+ {
+  "ward": 59,
+  "role": "location_names",
+  "text": "PhilatelicBureau",
+  "east": 420816.52,
+  "north": 1444696.02,
+  "conf": 1.0,
+  "size_pt": 26.88
+ },
+ {
+  "ward": 59,
+  "role": "location_names",
+  "text": "ShantiDevi",
+  "east": 421019.92,
+  "north": 1444673.48,
+  "conf": 1.0,
+  "size_pt": 18.96
+ },
+ {
+  "ward": 59,
+  "role": "location_names",
+  "text": "Indian",
+  "east": 422392.78,
+  "north": 1446791.61,
+  "conf": 1.0,
+  "size_pt": 16.92
+ },
+ {
+  "ward": 59,
+  "role": "location_names",
+  "text": "Bank",
+  "east": 422428.44,
+  "north": 1446791.61,
+  "conf": 1.0,
+  "size_pt": 14.16
+ },
+ {
+  "ward": 59,
+  "role": "location_names",
+  "text": "JeyasriPure Veg",
+  "east": 420674.19,
+  "north": 1444534.52,
+  "conf": 1.0,
+  "size_pt": 27.96
+ },
+ {
+  "ward": 59,
+  "role": "location_names",
+  "text": "AnnaStatue",
+  "east": 421118.33,
+  "north": 1444812.96,
+  "conf": 1.0,
+  "size_pt": 19.44
+ },
+ {
+  "ward": 59,
+  "role": "location_names",
+  "text": "The",
+  "east": 421865.03,
+  "north": 1445643.01,
+  "conf": 1.0,
+  "size_pt": 8.64
+ },
+ {
+  "ward": 59,
+  "role": "location_names",
+  "text": "Stiprupless Majesty",
+  "east": 421932.65,
+  "north": 1445641.74,
+  "conf": 1.0,
+  "size_pt": 58.92
+ },
+ {
+  "ward": 59,
+  "role": "location_names",
+  "text": "MadrasUnited Club",
+  "east": 422105.36,
+  "north": 1446700.28,
+  "conf": 1.0,
+  "size_pt": 34.92
+ },
+ {
+  "ward": 59,
+  "role": "location_names",
+  "text": "State BankE-Corner",
+  "east": 421145.74,
+  "north": 1444668.18,
+  "conf": 1.0,
+  "size_pt": 34.2
+ },
+ {
+  "ward": 59,
+  "role": "location_names",
+  "text": "The Island",
+  "east": 421865.56,
+  "north": 1445539.93,
+  "conf": 1.0,
+  "size_pt": 30.36
+ },
+ {
+  "ward": 59,
+  "role": "location_names",
+  "text": "Muniswarar.Koil",
+  "east": 421475.28,
+  "north": 1445743.66,
+  "conf": 1.0,
+  "size_pt": 33.48
+ },
+ {
+  "ward": 59,
+  "role": "location_names",
+  "text": "GovernersBodyguardiMosque",
+  "east": 421434.64,
+  "north": 1445384.14,
+  "conf": 1.0,
+  "size_pt": 31.8
+ },
+ {
+  "ward": 59,
+  "role": "location_names",
+  "text": "Railway Station",
+  "east": 421580.05,
+  "north": 1446033.53,
+  "conf": 1.0,
+  "size_pt": 46.44
+ },
+ {
+  "ward": 59,
+  "role": "location_names",
+  "text": "Railway_",
+  "east": 421215.9,
+  "north": 1446181.81,
+  "conf": 1.0,
+  "size_pt": 22.08
+ },
+ {
+  "ward": 59,
+  "role": "location_names",
+  "text": "station",
+  "east": 421261.51,
+  "north": 1446183.18,
+  "conf": 1.0,
+  "size_pt": 20.28
+ },
+ {
+  "ward": 59,
+  "role": "location_names",
+  "text": "Dr. M. G. RChennai CentralRailway Station",
+  "east": 421438.88,
+  "north": 1446450.2,
+  "conf": 1.0,
+  "size_pt": 48.6
+ },
+ {
+  "ward": 59,
+  "role": "location_names",
+  "text": "General Hospital(Central)",
+  "east": 421654.23,
+  "north": 1446263.09,
+  "conf": 1.0,
+  "size_pt": 49.92
+ },
+ {
+  "ward": 59,
+  "role": "location_names",
+  "text": "Pallavan",
+  "east": 421591.05,
+  "north": 1445911.19,
+  "conf": 1.0,
+  "size_pt": 24.12
+ },
+ {
+  "ward": 59,
+  "role": "location_names",
+  "text": "Salai",
+  "east": 421633.28,
+  "north": 1445911.19,
+  "conf": 1.0,
+  "size_pt": 14.16
+ },
+ {
+  "ward": 59,
+  "role": "location_names",
+  "text": "Chennai Fort",
+  "east": 422263.14,
+  "north": 1446755.1,
+  "conf": 1.0,
+  "size_pt": 38.64
+ },
+ {
+  "ward": 59,
+  "role": "location_names",
+  "text": "RailwayStation",
+  "east": 422387.17,
+  "north": 1446586.09,
+  "conf": 1.0,
+  "size_pt": 23.76
+ },
+ {
+  "ward": 59,
+  "role": "location_names",
+  "text": "RailwayStation",
+  "east": 421297.49,
+  "north": 1445406.79,
+  "conf": 1.0,
+  "size_pt": 22.2
+ },
+ {
+  "ward": 59,
+  "role": "location_names",
+  "text": "MMCGround",
+  "east": 422270.02,
+  "north": 1447088.48,
+  "conf": 1.0,
+  "size_pt": 21.24
+ },
+ {
+  "ward": 59,
+  "role": "location_names",
+  "text": "DefenceQuarters",
+  "east": 422132.13,
+  "north": 1447083.29,
+  "conf": 1.0,
+  "size_pt": 25.2
+ },
+ {
+  "ward": 59,
+  "role": "location_names",
+  "text": "King GeorgeStatue",
+  "east": 422148.85,
+  "north": 1447023.71,
+  "conf": 1.0,
+  "size_pt": 36.96
+ },
+ {
+  "ward": 59,
+  "role": "location_names",
+  "text": "SSVHr SecSchool",
+  "east": 421710.53,
+  "north": 1447076.2,
+  "conf": 1.0,
+  "size_pt": 20.88
+ },
+ {
+  "ward": 59,
+  "role": "location_names",
+  "text": "AB Parekh HrSec School",
+  "east": 421608.94,
+  "north": 1447022.22,
+  "conf": 1.0,
+  "size_pt": 43.2
+ },
+ {
+  "ward": 59,
+  "role": "location_names",
+  "text": "\u2022 Blue StarInternational",
+  "east": 421524.17,
+  "north": 1447069.21,
+  "conf": 1.0,
+  "size_pt": 38.04
+ },
+ {
+  "ward": 59,
+  "role": "location_names",
+  "text": "Hotelsaravanabhavan",
+  "east": 422440.29,
+  "north": 1447053.23,
+  "conf": 1.0,
+  "size_pt": 26.64
+ },
+ {
+  "ward": 59,
+  "role": "location_names",
+  "text": "AdyarAnandBhavan",
+  "east": 422495.64,
+  "north": 1447054.72,
+  "conf": 1.0,
+  "size_pt": 21.0
+ },
+ {
+  "ward": 59,
+  "role": "location_names",
+  "text": "HighCourt",
+  "east": 422501.35,
+  "north": 1447106.68,
+  "conf": 1.0,
+  "size_pt": 15.24
+ },
+ {
+  "ward": 59,
+  "role": "location_names",
+  "text": "Madras Medical CollegeLadies Hostel",
+  "east": 421295.59,
+  "north": 1446067.61,
+  "conf": 1.0,
+  "size_pt": 72.12
+ },
+ {
+  "ward": 59,
+  "role": "location_names",
+  "text": "Southern RailwayHeadquarters",
+  "east": 421642.27,
+  "north": 1446390.3,
+  "conf": 1.0,
+  "size_pt": 53.88
+ }
+]

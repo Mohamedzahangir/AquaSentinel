@@ -1,0 +1,722 @@
+[
+ {
+  "ward": 74,
+  "role": "road_name",
+  "text": "MedavakkamTank Road 2nd StMedavakkamRoadARAATTAT1st StreetTank",
+  "east": 418128.6,
+  "north": 1446895.64,
+  "conf": 0.9,
+  "size_pt": 99.0
+ },
+ {
+  "ward": 74,
+  "role": "road_name",
+  "text": "OtteriBridge",
+  "east": 418871.51,
+  "north": 1448106.9,
+  "conf": 1.0,
+  "size_pt": 17.28
+ },
+ {
+  "ward": 74,
+  "role": "road_name",
+  "text": "Medavakkam Tank Rd",
+  "east": 417721.1,
+  "north": 1447379.76,
+  "conf": 1.0,
+  "size_pt": 63.6
+ },
+ {
+  "ward": 74,
+  "role": "road_name",
+  "text": "Bridge",
+  "east": 418064.78,
+  "north": 1446827.58,
+  "conf": 1.0,
+  "size_pt": 17.28
+ },
+ {
+  "ward": 74,
+  "role": "road_name",
+  "text": "Ak Sami Nagar",
+  "east": 417850.23,
+  "north": 1447211.79,
+  "conf": 1.0,
+  "size_pt": 47.64
+ },
+ {
+  "ward": 74,
+  "role": "road_name",
+  "text": "9th St",
+  "east": 417923.26,
+  "north": 1447214.01,
+  "conf": 1.0,
+  "size_pt": 19.32
+ },
+ {
+  "ward": 74,
+  "role": "road_name",
+  "text": "TrustHospitChennaMedavakkam Tank Road",
+  "east": 417781.44,
+  "north": 1447113.57,
+  "conf": 1.0,
+  "size_pt": 58.68
+ },
+ {
+  "ward": 74,
+  "role": "road_name",
+  "text": "7th St",
+  "east": 417959.25,
+  "north": 1447274.03,
+  "conf": 1.0,
+  "size_pt": 18.84
+ },
+ {
+  "ward": 74,
+  "role": "road_name",
+  "text": "3rd Street",
+  "east": 418260.37,
+  "north": 1447274.56,
+  "conf": 1.0,
+  "size_pt": 31.68
+ },
+ {
+  "ward": 74,
+  "role": "road_name",
+  "text": "Varadhammal Garden Main St",
+  "east": 418253.81,
+  "north": 1447237.4,
+  "conf": 1.0,
+  "size_pt": 92.16
+ },
+ {
+  "ward": 74,
+  "role": "road_name",
+  "text": "3nd Street",
+  "east": 418213.91,
+  "north": 1447187.98,
+  "conf": 1.0,
+  "size_pt": 32.88
+ },
+ {
+  "ward": 74,
+  "role": "road_name",
+  "text": "c20Barrakka Road",
+  "east": 418026.67,
+  "north": 1447112.62,
+  "conf": 1.0,
+  "size_pt": 41.76
+ },
+ {
+  "ward": 74,
+  "role": "road_name",
+  "text": "ThandumariammanSubrayan Ist StreetLOKoil Street2ndStreet&Othavadai StreetSubbarayan 1sttreetA22",
+  "east": 418063.61,
+  "north": 1447869.5,
+  "conf": 1.0,
+  "size_pt": 130.44
+ },
+ {
+  "ward": 74,
+  "role": "road_name",
+  "text": "Subrayan",
+  "east": 418163.0,
+  "north": 1447772.02,
+  "conf": 1.0,
+  "size_pt": 26.88
+ },
+ {
+  "ward": 74,
+  "role": "road_name",
+  "text": "Chinnababu StreetSubrayan75 puz5th St.Lane3rd StreetA21",
+  "east": 418263.34,
+  "north": 1447794.14,
+  "conf": 1.0,
+  "size_pt": 93.84
+ },
+ {
+  "ward": 74,
+  "role": "road_name",
+  "text": "Subrayan Main Street",
+  "east": 418223.86,
+  "north": 1447727.98,
+  "conf": 1.0,
+  "size_pt": 67.08
+ },
+ {
+  "ward": 74,
+  "role": "road_name",
+  "text": "SubrayanA165th StreetSubrayan5th Street2.99Kesavan StSubrayan",
+  "east": 418364.63,
+  "north": 1447908.45,
+  "conf": 1.0,
+  "size_pt": 70.2
+ },
+ {
+  "ward": 74,
+  "role": "road_name",
+  "text": "5th Street",
+  "east": 418412.36,
+  "north": 1447746.82,
+  "conf": 1.0,
+  "size_pt": 31.92
+ },
+ {
+  "ward": 74,
+  "role": "road_name",
+  "text": "Street4thSubrayanSubrayanTB44th StreetAth St. 6th Lane9B5B63.689",
+  "east": 418488.15,
+  "north": 1447806.52,
+  "conf": 1.0,
+  "size_pt": 72.0
+ },
+ {
+  "ward": 74,
+  "role": "road_name",
+  "text": "StreetChoolaimadu StretSelva Perumal Koil SSanthiappan Main StTNSCBColony2 StreetSandhiappanSanhiyappan 3rd Street3rd Street",
+  "east": 418623.94,
+  "north": 1447966.66,
+  "conf": 1.0,
+  "size_pt": 116.04
+ },
+ {
+  "ward": 74,
+  "role": "road_name",
+  "text": "Subrayan 4th Street2nd Street4th Lane",
+  "east": 418529.85,
+  "north": 1447863.15,
+  "conf": 1.0,
+  "size_pt": 96.0
+ },
+ {
+  "ward": 74,
+  "role": "road_name",
+  "text": "3.032Ist Street 3.668B4 S.V.M.NagarLaneB1 (OLB5 Tnscb Road 'A02.76336-Muthu.682MaariDDOAmman Koil0B7S.V.M. Nagar Tnscb Road EIDBONWASSri DevilTnscb RoadKarumarriyamman S. V.M.NagaTemapleTnscb RoaS.V.M.NagarOtteri Dumping.O Ground Link Roadscb Road FIDDNWAS",
+  "east": 418602.67,
+  "north": 1447693.27,
+  "conf": 0.948,
+  "size_pt": 148.08
+ },
+ {
+  "ward": 74,
+  "role": "road_name",
+  "text": "Selva Perumal Koil StreetChoolaimadu Street",
+  "east": 418709.25,
+  "north": 1447998.09,
+  "conf": 1.0,
+  "size_pt": 80.4
+ },
+ {
+  "ward": 74,
+  "role": "road_name",
+  "text": "VA12Thennamara4.581Thottam(K.H Road)nkarabathan\u0131LaneTrust Squre StreetSamypathan Streetarara Bathan Street\u2192A104.657",
+  "east": 417921.25,
+  "north": 1447921.57,
+  "conf": 1.0,
+  "size_pt": 100.44
+ },
+ {
+  "ward": 74,
+  "role": "road_name",
+  "text": "Sankarara Bathan StreetA1(4.65",
+  "east": 417959.99,
+  "north": 1447867.17,
+  "conf": 1.0,
+  "size_pt": 74.52
+ },
+ {
+  "ward": 74,
+  "role": "road_name",
+  "text": "Temple Road",
+  "east": 417771.7,
+  "north": 1447333.93,
+  "conf": 1.0,
+  "size_pt": 39.0
+ },
+ {
+  "ward": 74,
+  "role": "road_name",
+  "text": "New Secretariat Colony Mani St",
+  "east": 417848.01,
+  "north": 1447540.54,
+  "conf": 1.0,
+  "size_pt": 93.84
+ },
+ {
+  "ward": 74,
+  "role": "road_name",
+  "text": "Chengalvarayan SA23pDoy4.6241Reddy Colony Ro\u00bad",
+  "east": 417948.77,
+  "north": 1447687.02,
+  "conf": 1.0,
+  "size_pt": 72.48
+ },
+ {
+  "ward": 74,
+  "role": "road_name",
+  "text": "Bajanai Koilgarakha 2nd StSt Lane",
+  "east": 418089.97,
+  "north": 1447620.87,
+  "conf": 1.0,
+  "size_pt": 87.84
+ },
+ {
+  "ward": 74,
+  "role": "road_name",
+  "text": "Nallaiah Naidu St",
+  "east": 418145.11,
+  "north": 1447665.01,
+  "conf": 1.0,
+  "size_pt": 52.92
+ },
+ {
+  "ward": 74,
+  "role": "road_name",
+  "text": "Nagar Ist StA.K. Sami",
+  "east": 417950.25,
+  "north": 1447441.79,
+  "conf": 1.0,
+  "size_pt": 40.56
+ },
+ {
+  "ward": 74,
+  "role": "road_name",
+  "text": "3rd StreetStreet2nd St",
+  "east": 418156.75,
+  "north": 1447315.83,
+  "conf": 1.0,
+  "size_pt": 51.96
+ },
+ {
+  "ward": 74,
+  "role": "road_name",
+  "text": "Temple 2nd St",
+  "east": 417843.67,
+  "north": 1447512.17,
+  "conf": 1.0,
+  "size_pt": 45.0
+ },
+ {
+  "ward": 74,
+  "role": "road_name",
+  "text": "Temple 3rd St",
+  "east": 417872.14,
+  "north": 1447465.71,
+  "conf": 1.0,
+  "size_pt": 43.92
+ },
+ {
+  "ward": 74,
+  "role": "road_name",
+  "text": "Temple 4th St",
+  "east": 417866.64,
+  "north": 1447412.26,
+  "conf": 1.0,
+  "size_pt": 43.92
+ },
+ {
+  "ward": 74,
+  "role": "road_name",
+  "text": "Nagar 6th StAk Sami",
+  "east": 417838.17,
+  "north": 1447299.43,
+  "conf": 1.0,
+  "size_pt": 41.16
+ },
+ {
+  "ward": 74,
+  "role": "road_name",
+  "text": "SecretariatColony 7th St.",
+  "east": 417996.93,
+  "north": 1447495.13,
+  "conf": 1.0,
+  "size_pt": 42.84
+ },
+ {
+  "ward": 74,
+  "role": "road_name",
+  "text": "Subrayan5thStreet",
+  "east": 418467.82,
+  "north": 1447721.74,
+  "conf": 1.0,
+  "size_pt": 31.68
+ },
+ {
+  "ward": 74,
+  "role": "road_name",
+  "text": "Tnscb Road FS.V.M.Nagar",
+  "east": 418532.81,
+  "north": 1447585.31,
+  "conf": 1.0,
+  "size_pt": 44.4
+ },
+ {
+  "ward": 74,
+  "role": "road_name",
+  "text": "S.V.M.NagahTnscb Road H",
+  "east": 418682.37,
+  "north": 1447709.46,
+  "conf": 1.0,
+  "size_pt": 45.72
+ },
+ {
+  "ward": 74,
+  "role": "road_name",
+  "text": "Ist'Street",
+  "east": 418740.47,
+  "north": 1447821.97,
+  "conf": 1.0,
+  "size_pt": 30.24
+ },
+ {
+  "ward": 74,
+  "role": "road_name",
+  "text": "4th StreetSubrayan2nd Lane",
+  "east": 418504.87,
+  "north": 1447934.38,
+  "conf": 1.0,
+  "size_pt": 62.16
+ },
+ {
+  "ward": 74,
+  "role": "road_name",
+  "text": "A44th StreetSubrayanIst Lane",
+  "east": 418504.02,
+  "north": 1447981.16,
+  "conf": 1.0,
+  "size_pt": 61.44
+ },
+ {
+  "ward": 74,
+  "role": "road_name",
+  "text": "Pumping Station Road",
+  "east": 418351.71,
+  "north": 1447627.75,
+  "conf": 1.0,
+  "size_pt": 69.96
+ },
+ {
+  "ward": 74,
+  "role": "road_name",
+  "text": "Sivagamipuram(Barrakka Road)",
+  "east": 418272.02,
+  "north": 1447578.54,
+  "conf": 1.0,
+  "size_pt": 50.16
+ },
+ {
+  "ward": 74,
+  "role": "road_name",
+  "text": "Subrayan 2nd Street",
+  "east": 418170.41,
+  "north": 1447904.11,
+  "conf": 1.0,
+  "size_pt": 64.8
+ },
+ {
+  "ward": 74,
+  "role": "road_name",
+  "text": "Subrayan 3rd Street",
+  "east": 418272.76,
+  "north": 1447902.1,
+  "conf": 1.0,
+  "size_pt": 63.72
+ },
+ {
+  "ward": 74,
+  "role": "road_name",
+  "text": "A.K.SamiNagar9thStreetxMedavakkamSecretariatC16lomficolony Ist Street,4.819",
+  "east": 417904.53,
+  "north": 1447119.71,
+  "conf": 1.0,
+  "size_pt": 90.48
+ },
+ {
+  "ward": 74,
+  "role": "road_name",
+  "text": "4.0UA.K.Sami Nagar9thStreet",
+  "east": 417938.61,
+  "north": 1447163.63,
+  "conf": 1.0,
+  "size_pt": 49.2
+ },
+ {
+  "ward": 74,
+  "role": "road_name",
+  "text": "4thStreetSecretariatAk SamiColony 3.:Nagar8th StreetSecretariat ColonyC47th St4.169gCri",
+  "east": 418026.46,
+  "north": 1447316.68,
+  "conf": 1.0,
+  "size_pt": 90.0
+ },
+ {
+  "ward": 74,
+  "role": "road_name",
+  "text": "SecretariatColony",
+  "east": 418096.85,
+  "north": 1447422.1,
+  "conf": 1.0,
+  "size_pt": 33.12
+ },
+ {
+  "ward": 74,
+  "role": "road_name",
+  "text": "Baracca Rd Ist StreetBarrakka Road",
+  "east": 418051.02,
+  "north": 1447658.66,
+  "conf": 1.0,
+  "size_pt": 91.08
+ },
+ {
+  "ward": 74,
+  "role": "road_name",
+  "text": "Medavakkam2nd Street",
+  "east": 418140.45,
+  "north": 1446984.23,
+  "conf": 1.0,
+  "size_pt": 39.24
+ },
+ {
+  "ward": 74,
+  "role": "road_name",
+  "text": "Ranganadhapurm SlumStreet2nd",
+  "east": 417853.51,
+  "north": 1447582.24,
+  "conf": 1.0,
+  "size_pt": 70.8
+ },
+ {
+  "ward": 74,
+  "role": "road_name",
+  "text": "SamypathanStreetChengalvarayanStreet2nd Lane",
+  "east": 417828.32,
+  "north": 1447714.12,
+  "conf": 1.0,
+  "size_pt": 93.48
+ },
+ {
+  "ward": 74,
+  "role": "road_name",
+  "text": "8th Street",
+  "east": 417993.54,
+  "north": 1447418.18,
+  "conf": 1.0,
+  "size_pt": 32.04
+ },
+ {
+  "ward": 74,
+  "role": "road_name",
+  "text": "\u2022 Divan BhadurShanmugam Road",
+  "east": 417760.48,
+  "north": 1447466.02,
+  "conf": 1.0,
+  "size_pt": 56.28
+ },
+ {
+  "ward": 74,
+  "role": "road_name",
+  "text": "1stStreet",
+  "east": 417881.67,
+  "north": 1447253.18,
+  "conf": 1.0,
+  "size_pt": 17.76
+ },
+ {
+  "ward": 74,
+  "role": "road_name",
+  "text": "Otteri DumpingGround Link Road",
+  "east": 418457.66,
+  "north": 1447510.9,
+  "conf": 1.0,
+  "size_pt": 55.2
+ },
+ {
+  "ward": 74,
+  "role": "road_name",
+  "text": "SubrayanMain St. Lane",
+  "east": 418130.19,
+  "north": 1447796.78,
+  "conf": 1.0,
+  "size_pt": 44.88
+ },
+ {
+  "ward": 74,
+  "role": "road_name",
+  "text": "Subrayan5th Street",
+  "east": 418321.87,
+  "north": 1447871.4,
+  "conf": 1.0,
+  "size_pt": 32.04
+ },
+ {
+  "ward": 74,
+  "role": "road_name",
+  "text": "2nd Street",
+  "east": 418717.29,
+  "north": 1447863.89,
+  "conf": 1.0,
+  "size_pt": 33.0
+ },
+ {
+  "ward": 74,
+  "role": "road_name",
+  "text": "Othavadai StreetLaneA11",
+  "east": 417988.15,
+  "north": 1447766.62,
+  "conf": 1.0,
+  "size_pt": 51.12
+ },
+ {
+  "ward": 74,
+  "role": "road_name",
+  "text": "4th Street",
+  "east": 418130.4,
+  "north": 1447472.8,
+  "conf": 1.0,
+  "size_pt": 31.8
+ },
+ {
+  "ward": 74,
+  "role": "location_names",
+  "text": "OtteriPolice Station",
+  "east": 418225.76,
+  "north": 1446959.46,
+  "conf": 1.0,
+  "size_pt": 42.6
+ },
+ {
+  "ward": 74,
+  "role": "location_names",
+  "text": "TNSCBColony",
+  "east": 418610.71,
+  "north": 1447958.51,
+  "conf": 1.0,
+  "size_pt": 19.68
+ },
+ {
+  "ward": 74,
+  "role": "location_names",
+  "text": "Otteri UrbanEco Forest",
+  "east": 418450.89,
+  "north": 1447580.02,
+  "conf": 1.0,
+  "size_pt": 37.44
+ },
+ {
+  "ward": 74,
+  "role": "location_names",
+  "text": "Sri SakthlfVinayagarlTempleAl Najeeb",
+  "east": 418103.73,
+  "north": 1447241.32,
+  "conf": 1.0,
+  "size_pt": 43.2
+ },
+ {
+  "ward": 74,
+  "role": "location_names",
+  "text": "ChennaiHeartCentre",
+  "east": 417756.03,
+  "north": 1447406.33,
+  "conf": 1.0,
+  "size_pt": 24.12
+ },
+ {
+  "ward": 74,
+  "role": "location_names",
+  "text": "K.M.Hospitals,Chennai",
+  "east": 417862.09,
+  "north": 1447041.91,
+  "conf": 1.0,
+  "size_pt": 40.92
+ },
+ {
+  "ward": 74,
+  "role": "location_names",
+  "text": "TrustHospital,Chennai",
+  "east": 417810.33,
+  "north": 1447126.59,
+  "conf": 1.0,
+  "size_pt": 25.44
+ },
+ {
+  "ward": 74,
+  "role": "location_names",
+  "text": "Pond",
+  "east": 418361.24,
+  "north": 1447370.24,
+  "conf": 1.0,
+  "size_pt": 13.8
+ },
+ {
+  "ward": 74,
+  "role": "location_names",
+  "text": "Pond",
+  "east": 418313.19,
+  "north": 1447117.38,
+  "conf": 1.0,
+  "size_pt": 13.8
+ },
+ {
+  "ward": 74,
+  "role": "location_names",
+  "text": "Sri DevilTKarumarriyamman.Temaple",
+  "east": 418589.44,
+  "north": 1447713.91,
+  "conf": 1.0,
+  "size_pt": 55.08
+ },
+ {
+  "ward": 74,
+  "role": "location_names",
+  "text": "AMuthuMaariAmman Koil",
+  "east": 418573.77,
+  "north": 1447766.51,
+  "conf": 1.0,
+  "size_pt": 37.56
+ },
+ {
+  "ward": 74,
+  "role": "location_names",
+  "text": "Income TaxQuarters",
+  "east": 418283.76,
+  "north": 1447682.15,
+  "conf": 1.0,
+  "size_pt": 35.64
+ },
+ {
+  "ward": 74,
+  "role": "location_names",
+  "text": "ThangamMatriculationSchool",
+  "east": 418208.4,
+  "north": 1447661.83,
+  "conf": 1.0,
+  "size_pt": 38.28
+ },
+ {
+  "ward": 74,
+  "role": "location_names",
+  "text": "SecretaritColonySchool",
+  "east": 418158.13,
+  "north": 1447389.92,
+  "conf": 1.0,
+  "size_pt": 29.04
+ },
+ {
+  "ward": 74,
+  "role": "location_names",
+  "text": "Jamia MasjidKilapauk",
+  "east": 418038.21,
+  "north": 1447023.07,
+  "conf": 1.0,
+  "size_pt": 39.96
+ },
+ {
+  "ward": 74,
+  "role": "location_names",
+  "text": "The PentecostalMission KellysChurch",
+  "east": 418091.55,
+  "north": 1447077.58,
+  "conf": 1.0,
+  "size_pt": 50.04
+ }
+]

@@ -1,0 +1,938 @@
+[
+ {
+  "ward": 172,
+  "role": "road_name",
+  "text": "BridgeKotturpuram",
+  "east": 418090.73,
+  "north": 1440159.55,
+  "conf": 1.0,
+  "size_pt": 39.12
+ },
+ {
+  "ward": 172,
+  "role": "road_name",
+  "text": "Fly Over",
+  "east": 417733.68,
+  "north": 1438020.14,
+  "conf": 1.0,
+  "size_pt": 25.2
+ },
+ {
+  "ward": 172,
+  "role": "road_name",
+  "text": "Culvert",
+  "east": 418722.82,
+  "north": 1436630.98,
+  "conf": 1.0,
+  "size_pt": 19.8
+ },
+ {
+  "ward": 172,
+  "role": "road_name",
+  "text": "ainLink RoadKottur GardenKottur GardenIst Cross RoadKottur GardenCircularKottur Garden Circular RoadRoadKottur GardenIl Loop StreetSupermarketHertiage Fresh/ Cross StreetKottur crcen cenue Kottur GardenKottur Garden IV Main RIII Loop Street|l Cross StreetLaneI|I MainKotturLane",
+  "east": 417950.83,
+  "north": 1439467.09,
+  "conf": 0.97,
+  "size_pt": 158.16
+ },
+ {
+  "ward": 172,
+  "role": "road_name",
+  "text": "Kendriya Vidyalaya CLRI",
+  "east": 418315.72,
+  "north": 1438077.82,
+  "conf": 1.0,
+  "size_pt": 73.92
+ },
+ {
+  "ward": 172,
+  "role": "road_name",
+  "text": "MA ChidambaramNursing College",
+  "east": 418277.51,
+  "north": 1437705.6,
+  "conf": 1.0,
+  "size_pt": 53.64
+ },
+ {
+  "ward": 172,
+  "role": "road_name",
+  "text": "Institute of PrintingTechnology",
+  "east": 418418.05,
+  "north": 1437064.57,
+  "conf": 1.0,
+  "size_pt": 61.8
+ },
+ {
+  "ward": 172,
+  "role": "road_name",
+  "text": "Higher Secondary SchoolA. M.M.MatriculationV MainRoad -",
+  "east": 417819.93,
+  "north": 1439357.55,
+  "conf": 1.0,
+  "size_pt": 77.64
+ },
+ {
+  "ward": 172,
+  "role": "road_name",
+  "text": "House of PrayerCSI Church",
+  "east": 418131.79,
+  "north": 1437931.66,
+  "conf": 1.0,
+  "size_pt": 51.12
+ },
+ {
+  "ward": 172,
+  "role": "road_name",
+  "text": "MadhyaKailash",
+  "east": 418307.67,
+  "north": 1437923.51,
+  "conf": 1.0,
+  "size_pt": 22.08
+ },
+ {
+  "ward": 172,
+  "role": "road_name",
+  "text": "Turn Buls Road",
+  "east": 417969.67,
+  "north": 1439998.58,
+  "conf": 1.0,
+  "size_pt": 47.4
+ },
+ {
+  "ward": 172,
+  "role": "road_name",
+  "text": "Street4th CrosschitrChitra NagarStreetZrossStressStreetA41.6173rd CrossKOkturpuramPolice StationRoadA71.3732nd Cross3rd Cross St3rd CrossKotturpuram1.553Ist Cross Street1.196StreetKotturpuram Kotturpuram River Bank RoadKotturpuram 3rd Main ARgadA63rd Cross St Ist Cross StKotturpuramStation A3 Union Carbide ColonyIst Main RoadStreet2nd StreetKotturpuram 11st Cross St-\u2022 Nadar1.9841.565A5 (OL)2nd MaA1 (CKottur0.877",
+  "east": 417742.15,
+  "north": 1440003.34,
+  "conf": 1.0,
+  "size_pt": 188.4
+ },
+ {
+  "ward": 172,
+  "role": "road_name",
+  "text": "Kottur Garden 2nd Main Road",
+  "east": 418023.22,
+  "north": 1439574.82,
+  "conf": 1.0,
+  "size_pt": 94.8
+ },
+ {
+  "ward": 172,
+  "role": "road_name",
+  "text": "Kottur Garden Ist Main Road",
+  "east": 418018.03,
+  "north": 1439632.71,
+  "conf": 1.0,
+  "size_pt": 92.76
+ },
+ {
+  "ward": 172,
+  "role": "road_name",
+  "text": "1st StreetVaratha Purama srec",
+  "east": 418352.01,
+  "north": 1439212.13,
+  "conf": 0.767,
+  "size_pt": 40.2
+ },
+ {
+  "ward": 172,
+  "role": "road_name",
+  "text": "Lock Street",
+  "east": 418300.8,
+  "north": 1439381.26,
+  "conf": 1.0,
+  "size_pt": 32.76
+ },
+ {
+  "ward": 172,
+  "role": "road_name",
+  "text": "Thirvall..Nager 4th StreetThiruvalluvar",
+  "east": 418136.03,
+  "north": 1439184.51,
+  "conf": 1.0,
+  "size_pt": 51.36
+ },
+ {
+  "ward": 172,
+  "role": "road_name",
+  "text": "ThiruvalluvarNager Ist Street: Nono",
+  "east": 418263.86,
+  "north": 1439305.58,
+  "conf": 1.0,
+  "size_pt": 45.48
+ },
+ {
+  "ward": 172,
+  "role": "road_name",
+  "text": "Karunanithi NagarI|l StreetIhllNager 1Karunan\u0131th\u0131anithi NagarStreetKarunanithi NagarIII StreetIst StreetVarathaIst Sti",
+  "east": 418273.18,
+  "north": 1439193.83,
+  "conf": 1.0,
+  "size_pt": 117.24
+ },
+ {
+  "ward": 172,
+  "role": "road_name",
+  "text": "Streetha Puram2nd StreetVaradhapuramPandichery Road",
+  "east": 418388.95,
+  "north": 1439201.97,
+  "conf": 1.0,
+  "size_pt": 71.04
+ },
+ {
+  "ward": 172,
+  "role": "road_name",
+  "text": "Ganthi Mandabam Road",
+  "east": 417612.2,
+  "north": 1438403.15,
+  "conf": 1.0,
+  "size_pt": 73.92
+ },
+ {
+  "ward": 172,
+  "role": "road_name",
+  "text": "streetjardenar RoadGanapathy Avenue Kottur GardenKottur Garden IV Main RoadIIl Loop StreetNaidu I Lane>Naidu StreetNaidu I/ LaneNaidu IIl Lane",
+  "east": 418032.21,
+  "north": 1439382.74,
+  "conf": 1.0,
+  "size_pt": 116.16
+ },
+ {
+  "ward": 172,
+  "role": "road_name",
+  "text": "Ranjith Road",
+  "east": 417643.94,
+  "north": 1439308.02,
+  "conf": 1.0,
+  "size_pt": 37.68
+ },
+ {
+  "ward": 172,
+  "role": "road_name",
+  "text": "Pallipattu Main Road",
+  "east": 417976.87,
+  "north": 1437639.88,
+  "conf": 1.0,
+  "size_pt": 65.04
+ },
+ {
+  "ward": 172,
+  "role": "road_name",
+  "text": "Sardar Patel Road",
+  "east": 418132.11,
+  "north": 1438014.21,
+  "conf": 1.0,
+  "size_pt": 57.72
+ },
+ {
+  "ward": 172,
+  "role": "road_name",
+  "text": "Perumal Koil Street",
+  "east": 418332.01,
+  "north": 1438857.17,
+  "conf": 1.0,
+  "size_pt": 61.2
+ },
+ {
+  "ward": 172,
+  "role": "road_name",
+  "text": "Avenue Ist StreetBharathi",
+  "east": 418291.27,
+  "north": 1438514.48,
+  "conf": 1.0,
+  "size_pt": 56.28
+ },
+ {
+  "ward": 172,
+  "role": "road_name",
+  "text": "Lake View Road",
+  "east": 418341.96,
+  "north": 1438391.61,
+  "conf": 1.0,
+  "size_pt": 49.68
+ },
+ {
+  "ward": 172,
+  "role": "road_name",
+  "text": "West Canal Bank Road",
+  "east": 418430.64,
+  "north": 1438618.52,
+  "conf": 1.0,
+  "size_pt": 70.92
+ },
+ {
+  "ward": 172,
+  "role": "road_name",
+  "text": "Sri Ram Nager Main Road2ndSri Ram Nagar4th StreetShriram Nagar1st3rd Street2nd StreetShriramMainStree",
+  "east": 417955.38,
+  "north": 1437821.91,
+  "conf": 1.0,
+  "size_pt": 80.4
+ },
+ {
+  "ward": 172,
+  "role": "road_name",
+  "text": "Murugappa Road",
+  "east": 417687.54,
+  "north": 1439458.62,
+  "conf": 1.0,
+  "size_pt": 50.64
+ },
+ {
+  "ward": 172,
+  "role": "road_name",
+  "text": "MurugappaRoad",
+  "east": 417581.29,
+  "north": 1439501.9,
+  "conf": 1.0,
+  "size_pt": 31.68
+ },
+ {
+  "ward": 172,
+  "role": "road_name",
+  "text": "Ethiraj Street",
+  "east": 418069.36,
+  "north": 1437716.93,
+  "conf": 1.0,
+  "size_pt": 41.76
+ },
+ {
+  "ward": 172,
+  "role": "road_name",
+  "text": "Ferry Road",
+  "east": 417416.74,
+  "north": 1439459.15,
+  "conf": 1.0,
+  "size_pt": 30.12
+ },
+ {
+  "ward": 172,
+  "role": "road_name",
+  "text": "Asian College Of Journalism",
+  "east": 418331.06,
+  "north": 1436795.76,
+  "conf": 1.0,
+  "size_pt": 87.48
+ },
+ {
+  "ward": 172,
+  "role": "road_name",
+  "text": "3rd StreetIst StreetKoil 2nd StreetThiruveethi Amman",
+  "east": 418006.6,
+  "north": 1436783.48,
+  "conf": 1.0,
+  "size_pt": 88.92
+ },
+ {
+  "ward": 172,
+  "role": "road_name",
+  "text": "Kolikus StreetstKalikundram2nd Street",
+  "east": 417989.46,
+  "north": 1436845.6,
+  "conf": 1.0,
+  "size_pt": 86.76
+ },
+ {
+  "ward": 172,
+  "role": "road_name",
+  "text": "Cit Campus",
+  "east": 418337.41,
+  "north": 1436994.41,
+  "conf": 1.0,
+  "size_pt": 35.4
+ },
+ {
+  "ward": 172,
+  "role": "road_name",
+  "text": "Kalikundram Main Road",
+  "east": 417920.99,
+  "north": 1437041.61,
+  "conf": 1.0,
+  "size_pt": 72.84
+ },
+ {
+  "ward": 172,
+  "role": "road_name",
+  "text": "Bajanai Koil Street",
+  "east": 418066.82,
+  "north": 1437561.88,
+  "conf": 1.0,
+  "size_pt": 58.56
+ },
+ {
+  "ward": 172,
+  "role": "road_name",
+  "text": "Sri Ram Nagar Main RoadYogi Garden",
+  "east": 418009.35,
+  "north": 1437746.24,
+  "conf": 1.0,
+  "size_pt": 108.84
+ },
+ {
+  "ward": 172,
+  "role": "road_name",
+  "text": "shriram, Nagarsth street",
+  "east": 418084.07,
+  "north": 1437792.7,
+  "conf": 1.0,
+  "size_pt": 45.0
+ },
+ {
+  "ward": 172,
+  "role": "road_name",
+  "text": "Shriram Nagar4th Street",
+  "east": 417985.86,
+  "north": 1437811.86,
+  "conf": 1.0,
+  "size_pt": 45.0
+ },
+ {
+  "ward": 172,
+  "role": "road_name",
+  "text": "Srd Street",
+  "east": 417996.34,
+  "north": 1437839.48,
+  "conf": 1.0,
+  "size_pt": 31.92
+ },
+ {
+  "ward": 172,
+  "role": "road_name",
+  "text": "1stShriram NagarStreet",
+  "east": 418021.31,
+  "north": 1437888.38,
+  "conf": 1.0,
+  "size_pt": 44.88
+ },
+ {
+  "ward": 172,
+  "role": "road_name",
+  "text": "Street1st",
+  "east": 417976.44,
+  "north": 1437918.64,
+  "conf": 1.0,
+  "size_pt": 17.76
+ },
+ {
+  "ward": 172,
+  "role": "road_name",
+  "text": "Sardar Patel Road",
+  "east": 418025.65,
+  "north": 1438102.69,
+  "conf": 1.0,
+  "size_pt": 57.72
+ },
+ {
+  "ward": 172,
+  "role": "road_name",
+  "text": "Gandhi AvenueRajiv",
+  "east": 418386.83,
+  "north": 1438471.41,
+  "conf": 1.0,
+  "size_pt": 44.88
+ },
+ {
+  "ward": 172,
+  "role": "road_name",
+  "text": "Bharathi Avenue2nd Streeto",
+  "east": 418278.26,
+  "north": 1438597.35,
+  "conf": 1.0,
+  "size_pt": 50.64
+ },
+ {
+  "ward": 172,
+  "role": "road_name",
+  "text": "PeeliammanKoil Street",
+  "east": 418193.6,
+  "north": 1438658.42,
+  "conf": 1.0,
+  "size_pt": 36.0
+ },
+ {
+  "ward": 172,
+  "role": "road_name",
+  "text": "BharathiAvenue",
+  "east": 418305.13,
+  "north": 1438669.0,
+  "conf": 1.0,
+  "size_pt": 25.68
+ },
+ {
+  "ward": 172,
+  "role": "road_name",
+  "text": "Angalamman KoilStreet",
+  "east": 418397.52,
+  "north": 1438747.42,
+  "conf": 1.0,
+  "size_pt": 53.88
+ },
+ {
+  "ward": 172,
+  "role": "road_name",
+  "text": "Perumal Koil Street Extn.",
+  "east": 418252.22,
+  "north": 1438709.22,
+  "conf": 1.0,
+  "size_pt": 78.96
+ },
+ {
+  "ward": 172,
+  "role": "road_name",
+  "text": "Koil StreetAngalamman-",
+  "east": 418424.93,
+  "north": 1438800.97,
+  "conf": 1.0,
+  "size_pt": 39.12
+ },
+ {
+  "ward": 172,
+  "role": "road_name",
+  "text": "PerumalKoil Street",
+  "east": 418209.36,
+  "north": 1438907.44,
+  "conf": 1.0,
+  "size_pt": 32.52
+ },
+ {
+  "ward": 172,
+  "role": "road_name",
+  "text": "Narikuravar Colony4th StreetDuraisamyNagar3rd StreetStreet5thIst Streetikuravar ColonDuraisamy NagarThulukkanathammanKoil StreetStreet 4.404E84.3734.155E7E6 V",
+  "east": 418000.15,
+  "north": 1438943.0,
+  "conf": 1.0,
+  "size_pt": 105.0
+ },
+ {
+  "ward": 172,
+  "role": "road_name",
+  "text": "Koll LanePerumal",
+  "east": 418303.97,
+  "north": 1438935.8,
+  "conf": 1.0,
+  "size_pt": 28.2
+ },
+ {
+  "ward": 172,
+  "role": "road_name",
+  "text": "Tank Bund Road",
+  "east": 418123.65,
+  "north": 1438705.83,
+  "conf": 1.0,
+  "size_pt": 50.4
+ },
+ {
+  "ward": 172,
+  "role": "road_name",
+  "text": "780Koil StreetEast EllaiammanAvenueSowbakiyaGardenChellappaAVESa",
+  "east": 418374.13,
+  "north": 1439045.87,
+  "conf": 1.0,
+  "size_pt": 69.6
+ },
+ {
+  "ward": 172,
+  "role": "road_name",
+  "text": "D144414AvenueSakthiSouthLock Street",
+  "east": 418451.38,
+  "north": 1439020.68,
+  "conf": 1.0,
+  "size_pt": 57.0
+ },
+ {
+  "ward": 172,
+  "role": "road_name",
+  "text": "xa-Karunanithi Nagar// Street",
+  "east": 418264.6,
+  "north": 1439099.95,
+  "conf": 0.767,
+  "size_pt": 51.12
+ },
+ {
+  "ward": 172,
+  "role": "road_name",
+  "text": "GolonyAvvai",
+  "east": 417986.29,
+  "north": 1439165.04,
+  "conf": 1.0,
+  "size_pt": 19.56
+ },
+ {
+  "ward": 172,
+  "role": "road_name",
+  "text": "Arignar Anna Street'\" Str",
+  "east": 417784.58,
+  "north": 1439187.69,
+  "conf": 0.65,
+  "size_pt": 57.48
+ },
+ {
+  "ward": 172,
+  "role": "road_name",
+  "text": "Ponni Amman(Arianar Anp.Koil Street",
+  "east": 417791.67,
+  "north": 1439223.46,
+  "conf": 1.0,
+  "size_pt": 72.72
+ },
+ {
+  "ward": 172,
+  "role": "road_name",
+  "text": "Mannappa StreetGolonyAvvaiYadaval StreetStreetNew",
+  "east": 417996.02,
+  "north": 1439200.92,
+  "conf": 1.0,
+  "size_pt": 64.2
+ },
+ {
+  "ward": 172,
+  "role": "road_name",
+  "text": "|/ Street",
+  "east": 418181.64,
+  "north": 1439244.31,
+  "conf": 1.0,
+  "size_pt": 24.6
+ },
+ {
+  "ward": 172,
+  "role": "road_name",
+  "text": "Police Lane",
+  "east": 417895.59,
+  "north": 1439233.09,
+  "conf": 1.0,
+  "size_pt": 35.04
+ },
+ {
+  "ward": 172,
+  "role": "road_name",
+  "text": "Ist LaneVaradhapuram",
+  "east": 418389.37,
+  "north": 1439302.2,
+  "conf": 1.0,
+  "size_pt": 40.8
+ },
+ {
+  "ward": 172,
+  "role": "road_name",
+  "text": "4thNaiduLane",
+  "east": 418174.86,
+  "north": 1439299.76,
+  "conf": 1.0,
+  "size_pt": 22.68
+ },
+ {
+  "ward": 172,
+  "role": "road_name",
+  "text": "Naidu III Lane",
+  "east": 418101.53,
+  "north": 1439348.34,
+  "conf": 1.0,
+  "size_pt": 42.6
+ },
+ {
+  "ward": 172,
+  "role": "road_name",
+  "text": "RoadRanjith",
+  "east": 417482.24,
+  "north": 1439462.64,
+  "conf": 1.0,
+  "size_pt": 21.84
+ },
+ {
+  "ward": 172,
+  "role": "road_name",
+  "text": "Valliammai Achi Road",
+  "east": 417671.46,
+  "north": 1439384.01,
+  "conf": 1.0,
+  "size_pt": 65.04
+ },
+ {
+  "ward": 172,
+  "role": "road_name",
+  "text": "Kottur Garden1 MainRoadKottur GarderLoop StreetCresent Roa",
+  "east": 418181.11,
+  "north": 1439575.88,
+  "conf": 1.0,
+  "size_pt": 57.36
+ },
+ {
+  "ward": 172,
+  "role": "road_name",
+  "text": "I|I Main RoadKottur Garden",
+  "east": 418090.2,
+  "north": 1439506.56,
+  "conf": 1.0,
+  "size_pt": 44.04
+ },
+ {
+  "ward": 172,
+  "role": "road_name",
+  "text": "RanjithRoad",
+  "east": 417544.04,
+  "north": 1439659.38,
+  "conf": 1.0,
+  "size_pt": 20.4
+ },
+ {
+  "ward": 172,
+  "role": "road_name",
+  "text": "Arunachalam RoadDhandayuthapani NagarCross St",
+  "east": 417679.71,
+  "north": 1439727.43,
+  "conf": 1.0,
+  "size_pt": 129.72
+ },
+ {
+  "ward": 172,
+  "role": "road_name",
+  "text": "Ambadi Road",
+  "east": 417730.93,
+  "north": 1439632.61,
+  "conf": 1.0,
+  "size_pt": 40.68
+ },
+ {
+  "ward": 172,
+  "role": "road_name",
+  "text": "Vellaiyan Road",
+  "east": 417812.2,
+  "north": 1439769.24,
+  "conf": 1.0,
+  "size_pt": 43.68
+ },
+ {
+  "ward": 172,
+  "role": "road_name",
+  "text": "2nd StreetNagarChitra NagarChitrakanesKst twr ga roen3rd CrossChitroStreetCrossendStreetN\u00e0gStre1ststre",
+  "east": 417567.01,
+  "north": 1439873.91,
+  "conf": 0.969,
+  "size_pt": 84.6
+ },
+ {
+  "ward": 172,
+  "role": "road_name",
+  "text": "MaruthaiAvenue",
+  "east": 417582.25,
+  "north": 1439761.94,
+  "conf": 1.0,
+  "size_pt": 26.52
+ },
+ {
+  "ward": 172,
+  "role": "road_name",
+  "text": "zuramDhandayuthapani Nagar II StreetDhandayuthapani Nagar( Street",
+  "east": 417796.22,
+  "north": 1439852.32,
+  "conf": 1.0,
+  "size_pt": 100.44
+ },
+ {
+  "ward": 172,
+  "role": "road_name",
+  "text": "2nd Main RoadKotturpuram",
+  "east": 417912.53,
+  "north": 1440048.96,
+  "conf": 1.0,
+  "size_pt": 46.08
+ },
+ {
+  "ward": 172,
+  "role": "road_name",
+  "text": "Anna Street Extension",
+  "east": 418375.72,
+  "north": 1436700.3,
+  "conf": 1.0,
+  "size_pt": 69.72
+ },
+ {
+  "ward": 172,
+  "role": "road_name",
+  "text": "KandasamyStreet",
+  "east": 418058.14,
+  "north": 1437485.68,
+  "conf": 1.0,
+  "size_pt": 34.32
+ },
+ {
+  "ward": 172,
+  "role": "road_name",
+  "text": "7 Cross Street",
+  "east": 417963.85,
+  "north": 1439503.07,
+  "conf": 1.0,
+  "size_pt": 43.8
+ },
+ {
+  "ward": 172,
+  "role": "road_name",
+  "text": "LockStreetSouth",
+  "east": 418421.75,
+  "north": 1439105.77,
+  "conf": 1.0,
+  "size_pt": 18.24
+ },
+ {
+  "ward": 172,
+  "role": "road_name",
+  "text": "Rajiv Gandhi Salai",
+  "east": 418568.0,
+  "north": 1436890.9,
+  "conf": 1.0,
+  "size_pt": 53.64
+ },
+ {
+  "ward": 172,
+  "role": "road_name",
+  "text": "Cit Campus",
+  "east": 417955.6,
+  "north": 1436972.71,
+  "conf": 1.0,
+  "size_pt": 34.44
+ },
+ {
+  "ward": 172,
+  "role": "road_name",
+  "text": "CIT CAMPUS",
+  "east": 418269.15,
+  "north": 1437404.4,
+  "conf": 1.0,
+  "size_pt": 37.44
+ },
+ {
+  "ward": 172,
+  "role": "road_name",
+  "text": "Naidu I LaneNaidu I/ Lane",
+  "east": 418063.43,
+  "north": 1439350.35,
+  "conf": 1.0,
+  "size_pt": 42.24
+ },
+ {
+  "ward": 172,
+  "role": "road_name",
+  "text": "I|| Street",
+  "east": 418167.35,
+  "north": 1439207.8,
+  "conf": 1.0,
+  "size_pt": 26.16
+ },
+ {
+  "ward": 172,
+  "role": "road_name",
+  "text": "ThiruvalluvarIV Streetrin treelNagar",
+  "east": 418131.58,
+  "north": 1439155.73,
+  "conf": 1.0,
+  "size_pt": 54.96
+ },
+ {
+  "ward": 172,
+  "role": "road_name",
+  "text": "StreetNew",
+  "east": 418041.0,
+  "north": 1439153.93,
+  "conf": 1.0,
+  "size_pt": 17.76
+ },
+ {
+  "ward": 172,
+  "role": "road_name",
+  "text": "KoilPerumalStreet",
+  "east": 418326.62,
+  "north": 1438793.88,
+  "conf": 1.0,
+  "size_pt": 32.52
+ },
+ {
+  "ward": 172,
+  "role": "road_name",
+  "text": "CIT CAMPUS",
+  "east": 418446.41,
+  "north": 1437288.09,
+  "conf": 1.0,
+  "size_pt": 36.0
+ },
+ {
+  "ward": 172,
+  "role": "road_name",
+  "text": "Ellaiamman Koil Street",
+  "east": 418186.72,
+  "north": 1439023.33,
+  "conf": 1.0,
+  "size_pt": 71.16
+ },
+ {
+  "ward": 172,
+  "role": "road_name",
+  "text": "Kottur Garden 4th Main Road Extn",
+  "east": 418288.1,
+  "north": 1439548.79,
+  "conf": 1.0,
+  "size_pt": 98.76
+ },
+ {
+  "ward": 172,
+  "role": "road_name",
+  "text": "Anna Street (Kanagam)163.72",
+  "east": 417970.2,
+  "north": 1436721.78,
+  "conf": 1.0,
+  "size_pt": 72.36
+ },
+ {
+  "ward": 172,
+  "role": "road_name",
+  "text": "Gandhi Mandapam Road",
+  "east": 417800.03,
+  "north": 1439607.63,
+  "conf": 1.0,
+  "size_pt": 72.12
+ },
+ {
+  "ward": 172,
+  "role": "road_name",
+  "text": "Kottur GardenCresent RoadA11",
+  "east": 418201.53,
+  "north": 1439550.48,
+  "conf": 1.0,
+  "size_pt": 44.52
+ },
+ {
+  "ward": 172,
+  "role": "road_name",
+  "text": "East Kottur CanalGandhi Nagar",
+  "east": 418564.19,
+  "north": 1438957.82,
+  "conf": 1.0,
+  "size_pt": 56.64
+ },
+ {
+  "ward": 172,
+  "role": "road_name",
+  "text": "Staff Quarters Road",
+  "east": 417718.76,
+  "north": 1438835.9,
+  "conf": 1.0,
+  "size_pt": 62.28
+ },
+ {
+  "ward": 172,
+  "role": "road_name",
+  "text": "GuruvappanStreet",
+  "east": 418165.23,
+  "north": 1438869.02,
+  "conf": 1.0,
+  "size_pt": 34.08
+ },
+ {
+  "ward": 172,
+  "role": "size_label",
+  "text": "LVll",
+  "east": 418335.72,
+  "north": 1437137.81,
+  "conf": 0.5,
+  "size_pt": 11.88
+ }
+]

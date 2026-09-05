@@ -1,0 +1,668 @@
+[
+ {
+  "ward": 126,
+  "role": "road_name",
+  "text": "E30Trustpakkam North Street Sivaraman3.175SaE20Street2.365DRamakrishno846 Trustpakkam South StreetRoMutt Road_AndimanyamThottamAndimanyamThottamRamakrishna MuttState Bank of IndiaMandaveli BranchE1(OL)1.768",
+  "east": 420305.85,
+  "north": 1440258.57,
+  "conf": 1.0,
+  "size_pt": 156.24
+ },
+ {
+  "ward": 126,
+  "role": "road_name",
+  "text": "Cross Street14th Trust",
+  "east": 420998.31,
+  "north": 1440301.31,
+  "conf": 1.0,
+  "size_pt": 74.04
+ },
+ {
+  "ward": 126,
+  "role": "road_name",
+  "text": "13th Trust Cross Street",
+  "east": 420998.84,
+  "north": 1440330.19,
+  "conf": 1.0,
+  "size_pt": 74.16
+ },
+ {
+  "ward": 126,
+  "role": "road_name",
+  "text": "12th Trust Cross Street",
+  "east": 420999.79,
+  "north": 1440362.67,
+  "conf": 1.0,
+  "size_pt": 74.04
+ },
+ {
+  "ward": 126,
+  "role": "road_name",
+  "text": "11th Trust Cross Street",
+  "east": 420996.19,
+  "north": 1440391.66,
+  "conf": 1.0,
+  "size_pt": 73.32
+ },
+ {
+  "ward": 126,
+  "role": "road_name",
+  "text": "StreetCrossTrust6th",
+  "east": 420896.92,
+  "north": 1440331.04,
+  "conf": 1.0,
+  "size_pt": 71.64
+ },
+ {
+  "ward": 126,
+  "role": "road_name",
+  "text": "4th Trust Cross Street",
+  "east": 421025.4,
+  "north": 1440184.09,
+  "conf": 1.0,
+  "size_pt": 71.64
+ },
+ {
+  "ward": 126,
+  "role": "road_name",
+  "text": "3rd Trust Cross Street",
+  "east": 420863.37,
+  "north": 1440231.59,
+  "conf": 1.0,
+  "size_pt": 71.52
+ },
+ {
+  "ward": 126,
+  "role": "road_name",
+  "text": "5th Trust Cross Street",
+  "east": 420852.47,
+  "north": 1440125.37,
+  "conf": 1.0,
+  "size_pt": 71.88
+ },
+ {
+  "ward": 126,
+  "role": "road_name",
+  "text": "St.Marys Road",
+  "east": 420252.3,
+  "north": 1440485.61,
+  "conf": 1.0,
+  "size_pt": 44.4
+ },
+ {
+  "ward": 126,
+  "role": "road_name",
+  "text": "Manthavil Street",
+  "east": 420797.33,
+  "north": 1440483.71,
+  "conf": 1.0,
+  "size_pt": 49.68
+ },
+ {
+  "ward": 126,
+  "role": "road_name",
+  "text": "StreetTrust Cross3d",
+  "east": 420932.06,
+  "north": 1440148.43,
+  "conf": 1.0,
+  "size_pt": 69.0
+ },
+ {
+  "ward": 126,
+  "role": "road_name",
+  "text": "2nd Trust Main RoadMain Roadnd Laneli StreetStreet",
+  "east": 421181.61,
+  "north": 1440340.46,
+  "conf": 1.0,
+  "size_pt": 73.08
+ },
+ {
+  "ward": 126,
+  "role": "road_name",
+  "text": "West Circular Road",
+  "east": 420963.49,
+  "north": 1440438.11,
+  "conf": 1.0,
+  "size_pt": 58.8
+ },
+ {
+  "ward": 126,
+  "role": "road_name",
+  "text": "East Circular Road",
+  "east": 421354.64,
+  "north": 1440369.97,
+  "conf": 1.0,
+  "size_pt": 59.04
+ },
+ {
+  "ward": 126,
+  "role": "road_name",
+  "text": "Sadayappan Street",
+  "east": 420483.22,
+  "north": 1440314.01,
+  "conf": 1.0,
+  "size_pt": 54.24
+ },
+ {
+  "ward": 126,
+  "role": "road_name",
+  "text": "Arnagiri Street",
+  "east": 420486.4,
+  "north": 1440357.17,
+  "conf": 1.0,
+  "size_pt": 45.36
+ },
+ {
+  "ward": 126,
+  "role": "road_name",
+  "text": "Norton 3rd LanepDOYNortonIst Trust Link Street4th Trust Cross Street2nd Trust Link Street",
+  "east": 420571.8,
+  "north": 1440212.86,
+  "conf": 1.0,
+  "size_pt": 100.8
+ },
+ {
+  "ward": 126,
+  "role": "road_name",
+  "text": "Lazarus Church RoadZnd LaneIst Lane",
+  "east": 421225.95,
+  "north": 1440074.8,
+  "conf": 1.0,
+  "size_pt": 67.2
+ },
+ {
+  "ward": 126,
+  "role": "road_name",
+  "text": "South Canal Bank Road",
+  "east": 420837.97,
+  "north": 1440046.23,
+  "conf": 1.0,
+  "size_pt": 75.12
+ },
+ {
+  "ward": 126,
+  "role": "road_name",
+  "text": "3.160Srinivasan StreetSambandamStreetSrinivasanStreet",
+  "east": 420244.25,
+  "north": 1440416.42,
+  "conf": 1.0,
+  "size_pt": 60.96
+ },
+ {
+  "ward": 126,
+  "role": "road_name",
+  "text": "TChandrasekaranStreetF82.9TrusiLL",
+  "east": 420144.98,
+  "north": 1440362.36,
+  "conf": 1.0,
+  "size_pt": 67.08
+ },
+ {
+  "ward": 126,
+  "role": "road_name",
+  "text": "Venkatakrishna Road",
+  "east": 419945.06,
+  "north": 1440218.68,
+  "conf": 1.0,
+  "size_pt": 63.48
+ },
+ {
+  "ward": 126,
+  "role": "road_name",
+  "text": "Kamaraj Road",
+  "east": 419866.43,
+  "north": 1439957.89,
+  "conf": 1.0,
+  "size_pt": 43.68
+ },
+ {
+  "ward": 126,
+  "role": "road_name",
+  "text": "Leith Castle South StreetLeith car",
+  "east": 421550.96,
+  "north": 1440142.4,
+  "conf": 1.0,
+  "size_pt": 73.08
+ },
+ {
+  "ward": 126,
+  "role": "road_name",
+  "text": "-eryapalll StreeMalaiyappn StreetrayaMalaiyappanoStreet",
+  "east": 421226.48,
+  "north": 1440227.47,
+  "conf": 1.0,
+  "size_pt": 95.52
+ },
+ {
+  "ward": 126,
+  "role": "road_name",
+  "text": "Keith Castle North Street $f22175Leith Castle Middle StreetSDOSSO1D47!2]751Rajiv GandhiNagarLeith Castle MiddleStreetLeith Castle South Street14pUDOSSO1)Leith Castle Sor1!!oy",
+  "east": 421640.6,
+  "north": 1440204.82,
+  "conf": 0.838,
+  "size_pt": 176.16
+ },
+ {
+  "ward": 126,
+  "role": "road_name",
+  "text": "Norton Ist LanepDIst TrustCross StreetNorton 2nd Lane =2nd Trust Cross StreetIst TrustNorton 3rd LaneNorton 3rd Lane",
+  "east": 420770.13,
+  "north": 1440331.89,
+  "conf": 1.0,
+  "size_pt": 123.48
+ },
+ {
+  "ward": 126,
+  "role": "road_name",
+  "text": "Sivaraman Street",
+  "east": 420354.53,
+  "north": 1440421.92,
+  "conf": 1.0,
+  "size_pt": 53.28
+ },
+ {
+  "ward": 126,
+  "role": "road_name",
+  "text": "Mari Street",
+  "east": 420492.32,
+  "north": 1440414.73,
+  "conf": 1.0,
+  "size_pt": 34.32
+ },
+ {
+  "ward": 126,
+  "role": "road_name",
+  "text": "Ist TrustCross Street",
+  "east": 420830.14,
+  "north": 1440355.59,
+  "conf": 1.0,
+  "size_pt": 29.76
+ },
+ {
+  "ward": 126,
+  "role": "road_name",
+  "text": "Norton 2nd Lane",
+  "east": 420604.51,
+  "north": 1440350.19,
+  "conf": 1.0,
+  "size_pt": 52.8
+ },
+ {
+  "ward": 126,
+  "role": "road_name",
+  "text": "VenkatakrishnaLanePNagar 2nd Main RoadVanniyampathi(tnscb)&Vanniampathy StreetRK.R K Nagar2nMain Road(v",
+  "east": 419938.08,
+  "north": 1440098.18,
+  "conf": 1.0,
+  "size_pt": 106.32
+ },
+ {
+  "ward": 126,
+  "role": "road_name",
+  "text": "Madha Church Road",
+  "east": 421402.8,
+  "north": 1440435.99,
+  "conf": 1.0,
+  "size_pt": 62.04
+ },
+ {
+  "ward": 126,
+  "role": "road_name",
+  "text": "Trustpakkam South Street",
+  "east": 420253.25,
+  "north": 1440279.31,
+  "conf": 1.0,
+  "size_pt": 81.0
+ },
+ {
+  "ward": 126,
+  "role": "road_name",
+  "text": "Norton Ist Lane",
+  "east": 420716.48,
+  "north": 1440451.76,
+  "conf": 1.0,
+  "size_pt": 49.92
+ },
+ {
+  "ward": 126,
+  "role": "road_name",
+  "text": "4th TrustLink StreetJonahanLane1.2",
+  "east": 421362.16,
+  "north": 1440219.53,
+  "conf": 1.0,
+  "size_pt": 62.04
+ },
+ {
+  "ward": 126,
+  "role": "road_name",
+  "text": "SanthomeHign Road",
+  "east": 421448.73,
+  "north": 1440137.22,
+  "conf": 1.0,
+  "size_pt": 33.96
+ },
+ {
+  "ward": 126,
+  "role": "road_name",
+  "text": "MRTS",
+  "east": 419775.63,
+  "north": 1440301.74,
+  "conf": 1.0,
+  "size_pt": 20.4
+ },
+ {
+  "ward": 126,
+  "role": "road_name",
+  "text": "Loop Road",
+  "east": 421740.93,
+  "north": 1439907.22,
+  "conf": 1.0,
+  "size_pt": 33.48
+ },
+ {
+  "ward": 126,
+  "role": "road_name",
+  "text": "Cross StreetiTrust10th",
+  "east": 421451.48,
+  "north": 1440367.86,
+  "conf": 1.0,
+  "size_pt": 38.52
+ },
+ {
+  "ward": 126,
+  "role": "road_name",
+  "text": "Foreshore Estate",
+  "east": 421494.66,
+  "north": 1439890.82,
+  "conf": 1.0,
+  "size_pt": 45.72
+ },
+ {
+  "ward": 126,
+  "role": "road_name",
+  "text": "Rajiv Gandhi NagarMullima Nagar",
+  "east": 421691.82,
+  "north": 1440028.14,
+  "conf": 1.0,
+  "size_pt": 67.92
+ },
+ {
+  "ward": 126,
+  "role": "road_name",
+  "text": "Raja Thottam SlumNew Road",
+  "east": 421428.51,
+  "north": 1439840.35,
+  "conf": 1.0,
+  "size_pt": 65.52
+ },
+ {
+  "ward": 126,
+  "role": "road_name",
+  "text": "Road1.861Pattinapakkam Main",
+  "east": 421442.91,
+  "north": 1440040.1,
+  "conf": 1.0,
+  "size_pt": 74.52
+ },
+ {
+  "ward": 126,
+  "role": "road_name",
+  "text": "ith streetLeith Castle South Street",
+  "east": 421585.57,
+  "north": 1440090.14,
+  "conf": 1.0,
+  "size_pt": 71.04
+ },
+ {
+  "ward": 126,
+  "role": "road_name",
+  "text": "2ndCross St",
+  "east": 421661.87,
+  "north": 1440127.59,
+  "conf": 1.0,
+  "size_pt": 22.44
+ },
+ {
+  "ward": 126,
+  "role": "road_name",
+  "text": "Thiruveedhi AmmanKoil Street",
+  "east": 419806.74,
+  "north": 1440042.53,
+  "conf": 1.0,
+  "size_pt": 57.12
+ },
+ {
+  "ward": 126,
+  "role": "road_name",
+  "text": "VenkatakrishnaLanePerumal KoilThottam",
+  "east": 420010.05,
+  "north": 1440172.87,
+  "conf": 1.0,
+  "size_pt": 78.84
+ },
+ {
+  "ward": 126,
+  "role": "road_name",
+  "text": "AnnaiNagammai Streety",
+  "east": 420246.26,
+  "north": 1440006.88,
+  "conf": 1.0,
+  "size_pt": 53.64
+ },
+ {
+  "ward": 126,
+  "role": "road_name",
+  "text": "ThiruvengadamStreet",
+  "east": 420145.41,
+  "north": 1440020.74,
+  "conf": 1.0,
+  "size_pt": 43.2
+ },
+ {
+  "ward": 126,
+  "role": "road_name",
+  "text": "AmmaniammalStreetArunachalam StreetPat\u021bammalStreetVinayagamStreet",
+  "east": 419979.78,
+  "north": 1440462.44,
+  "conf": 1.0,
+  "size_pt": 66.12
+ },
+ {
+  "ward": 126,
+  "role": "road_name",
+  "text": "PattammalStreet",
+  "east": 419983.16,
+  "north": 1440458.21,
+  "conf": 1.0,
+  "size_pt": 33.72
+ },
+ {
+  "ward": 126,
+  "role": "road_name",
+  "text": "Jeth NagarIst Cross Street",
+  "east": 419901.57,
+  "north": 1440300.89,
+  "conf": 1.0,
+  "size_pt": 50.64
+ },
+ {
+  "ward": 126,
+  "role": "road_name",
+  "text": "ChockalingamStreet",
+  "east": 420158.85,
+  "north": 1440454.61,
+  "conf": 1.0,
+  "size_pt": 40.44
+ },
+ {
+  "ward": 126,
+  "role": "road_name",
+  "text": "Thiruvalluvarpet",
+  "east": 420040.0,
+  "north": 1440338.02,
+  "conf": 1.0,
+  "size_pt": 46.08
+ },
+ {
+  "ward": 126,
+  "role": "road_name",
+  "text": "AndimanyamThottamdia",
+  "east": 420305.95,
+  "north": 1440227.25,
+  "conf": 1.0,
+  "size_pt": 38.04
+ },
+ {
+  "ward": 126,
+  "role": "road_name",
+  "text": "NedachalamGardenAdanjan Street",
+  "east": 420579.85,
+  "north": 1440411.02,
+  "conf": 1.0,
+  "size_pt": 52.2
+ },
+ {
+  "ward": 126,
+  "role": "road_name",
+  "text": "Bharathi Nagar",
+  "east": 420841.25,
+  "north": 1440075.12,
+  "conf": 1.0,
+  "size_pt": 47.16
+ },
+ {
+  "ward": 126,
+  "role": "road_name",
+  "text": "2nd TruPeriyapalli StreetIst Loop2nd Loop Street And LaneStreet",
+  "east": 421163.83,
+  "north": 1440248.62,
+  "conf": 1.0,
+  "size_pt": 83.04
+ },
+ {
+  "ward": 126,
+  "role": "road_name",
+  "text": "3rd TrustLink Street",
+  "east": 421419.52,
+  "north": 1440306.71,
+  "conf": 1.0,
+  "size_pt": 33.96
+ },
+ {
+  "ward": 126,
+  "role": "road_name",
+  "text": "8th TrustStreet3rCross Street9th TrustLinCrossJonahanStreet",
+  "east": 421345.22,
+  "north": 1440308.4,
+  "conf": 1.0,
+  "size_pt": 60.12
+ },
+ {
+  "ward": 126,
+  "role": "road_name",
+  "text": "204An\u00e1ndhamColony",
+  "east": 420466.92,
+  "north": 1440084.74,
+  "conf": 0.767,
+  "size_pt": 28.2
+ },
+ {
+  "ward": 126,
+  "role": "road_name",
+  "text": "2nd Cross Street",
+  "east": 419919.03,
+  "north": 1440370.4,
+  "conf": 1.0,
+  "size_pt": 53.64
+ },
+ {
+  "ward": 126,
+  "role": "road_name",
+  "text": "MullimaNagar",
+  "east": 421648.54,
+  "north": 1439805.65,
+  "conf": 1.0,
+  "size_pt": 21.96
+ },
+ {
+  "ward": 126,
+  "role": "road_name",
+  "text": "Sringeri Mutt Road",
+  "east": 419813.09,
+  "north": 1440248.1,
+  "conf": 1.0,
+  "size_pt": 58.68
+ },
+ {
+  "ward": 126,
+  "role": "road_name",
+  "text": "SringeriMutt Road",
+  "east": 419865.48,
+  "north": 1440429.75,
+  "conf": 1.0,
+  "size_pt": 31.68
+ },
+ {
+  "ward": 126,
+  "role": "road_name",
+  "text": "South Canal Bank Road",
+  "east": 420569.69,
+  "north": 1440065.49,
+  "conf": 1.0,
+  "size_pt": 64.44
+ },
+ {
+  "ward": 126,
+  "role": "road_name",
+  "text": "17771)977795R.K. Mutt Road",
+  "east": 420363.21,
+  "north": 1440059.56,
+  "conf": 0.65,
+  "size_pt": 43.56
+ },
+ {
+  "ward": 126,
+  "role": "road_name",
+  "text": "New Road",
+  "east": 421381.21,
+  "north": 1439957.05,
+  "conf": 1.0,
+  "size_pt": 27.0
+ },
+ {
+  "ward": 126,
+  "role": "road_name",
+  "text": "Greenways RoadDhinakaran Salai(or) Dr.D.G.S.",
+  "east": 421329.46,
+  "north": 1440027.51,
+  "conf": 1.0,
+  "size_pt": 52.56
+ },
+ {
+  "ward": 126,
+  "role": "location_names",
+  "text": "PeriyandaverPharmacy",
+  "east": 420857.44,
+  "north": 1440198.37,
+  "conf": 1.0,
+  "size_pt": 42.72
+ },
+ {
+  "ward": 126,
+  "role": "location_names",
+  "text": "State Bank of IndiaMandaveli Branch <",
+  "east": 420223.3,
+  "north": 1440208.42,
+  "conf": 1.0,
+  "size_pt": 68.64
+ },
+ {
+  "ward": 126,
+  "role": "location_names",
+  "text": "St.LukesChurch",
+  "east": 420199.06,
+  "north": 1439910.18,
+  "conf": 1.0,
+  "size_pt": 27.72
+ }
+]

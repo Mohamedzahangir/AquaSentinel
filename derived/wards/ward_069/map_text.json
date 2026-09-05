@@ -1,0 +1,1514 @@
+[
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "Paper Mills Road",
+  "east": 417800.22,
+  "north": 1449343.29,
+  "conf": 1.0,
+  "size_pt": 52.56
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "Appadurai Ist StB1 (OL)W Madurai Pillai StreetMadurai Pillai St",
+  "east": 417244.08,
+  "north": 1448396.74,
+  "conf": 1.0,
+  "size_pt": 70.08
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "Platform 1",
+  "east": 417962.13,
+  "north": 1449125.49,
+  "conf": 1.0,
+  "size_pt": 32.16
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "Platform 2",
+  "east": 417965.1,
+  "north": 1449148.67,
+  "conf": 1.0,
+  "size_pt": 33.6
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "Siruvallur High Road",
+  "east": 417590.89,
+  "north": 1449249.0,
+  "conf": 1.0,
+  "size_pt": 62.4
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "Anderson Road",
+  "east": 417862.76,
+  "north": 1448181.69,
+  "conf": 1.0,
+  "size_pt": 46.08
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "Brooks Road",
+  "east": 417565.7,
+  "north": 1448450.61,
+  "conf": 1.0,
+  "size_pt": 39.36
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "Carriage Works Road",
+  "east": 417304.3,
+  "north": 1448867.37,
+  "conf": 1.0,
+  "size_pt": 64.68
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "Fisher Road",
+  "east": 417419.97,
+  "north": 1448564.48,
+  "conf": 1.0,
+  "size_pt": 37.08
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "Morasali MaranFlyover",
+  "east": 417895.99,
+  "north": 1449040.51,
+  "conf": 1.0,
+  "size_pt": 45.0
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "Pilkington Road",
+  "east": 418093.36,
+  "north": 1449098.19,
+  "conf": 1.0,
+  "size_pt": 47.76
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "Pilkington Road s",
+  "east": 417618.19,
+  "north": 1448334.3,
+  "conf": 1.0,
+  "size_pt": 48.0
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "Pilkington Road",
+  "east": 417634.91,
+  "north": 1448982.3,
+  "conf": 1.0,
+  "size_pt": 48.36
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "Madhavaram High Road",
+  "east": 418064.79,
+  "north": 1449961.34,
+  "conf": 1.0,
+  "size_pt": 71.76
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "Pallavan Salai",
+  "east": 417757.14,
+  "north": 1450701.84,
+  "conf": 1.0,
+  "size_pt": 42.84
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "Madhavaram High Road",
+  "east": 417897.9,
+  "north": 1450803.97,
+  "conf": 1.0,
+  "size_pt": 70.32
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "Bunder Garden",
+  "east": 417808.36,
+  "north": 1449510.82,
+  "conf": 1.0,
+  "size_pt": 43.56
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "Carpenter Street",
+  "east": 417468.76,
+  "north": 1449674.86,
+  "conf": 1.0,
+  "size_pt": 51.48
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "Chockalingam StMugundhaRamanuja StChinnakuzhandhaiStChinna Kuzhandai StPeriya PalayathammanKoil StChinnakuzhandhaiIst Cross Stnd Cross St3rd Cross St",
+  "east": 418032.93,
+  "north": 1450752.85,
+  "conf": 1.0,
+  "size_pt": 132.12
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "Vekateshwara NagarVeku-3rd StRoadMES I",
+  "east": 417976.42,
+  "north": 1451258.62,
+  "conf": 1.0,
+  "size_pt": 73.92
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "Main Road",
+  "east": 417874.93,
+  "north": 1451306.77,
+  "conf": 1.0,
+  "size_pt": 32.64
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "Vajiravelu StAmbetkar StSanthi NagariSt Marys RoadS.S.V.Koil 3rd St+3rdIst Lane3rd stKabilar St u2nd StSSV Koil3rd Lanew-2nd St00Somasundara VinayakarKoil 2ndChidhambaranarSomasundaraVinayakar Koil2ndStPerambur HiNatarajar Koil Stllango Stkambar StLakshmiKambaAmmanTempleSt",
+  "east": 418002.35,
+  "north": 1450288.04,
+  "conf": 1.0,
+  "size_pt": 155.4
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "kambar St",
+  "east": 417990.5,
+  "north": 1450191.84,
+  "conf": 1.0,
+  "size_pt": 32.64
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "ShivashakaranLaneStChinnakuzhiandhaiGowthaman2nd LaneIst Street",
+  "east": 418229.25,
+  "north": 1450791.69,
+  "conf": 0.929,
+  "size_pt": 75.12
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "aneFoxen",
+  "east": 417341.87,
+  "north": 1449447.96,
+  "conf": 1.0,
+  "size_pt": 34.92
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "Culvert-",
+  "east": 417594.17,
+  "north": 1448405.63,
+  "conf": 1.0,
+  "size_pt": 19.8
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "CulvertSenbagavalli StMylappa 2nd LaneAnderson Road",
+  "east": 417771.75,
+  "north": 1448359.38,
+  "conf": 1.0,
+  "size_pt": 113.64
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "Culvert",
+  "east": 417970.49,
+  "north": 1448380.55,
+  "conf": 1.0,
+  "size_pt": 19.8
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "6.3Rangasay\u00e9e StreetH8",
+  "east": 417205.46,
+  "north": 1449278.73,
+  "conf": 1.0,
+  "size_pt": 56.88
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "Anderson Road",
+  "east": 417855.14,
+  "north": 1448591.15,
+  "conf": 1.0,
+  "size_pt": 47.16
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "Pilkingtoan Road",
+  "east": 417690.37,
+  "north": 1448090.68,
+  "conf": 1.0,
+  "size_pt": 52.08
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "Constable_Road",
+  "east": 417523.79,
+  "north": 1448554.22,
+  "conf": 1.0,
+  "size_pt": 48.72
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "Pilkingtoan Road",
+  "east": 417593.0,
+  "north": 1449076.17,
+  "conf": 1.0,
+  "size_pt": 50.88
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "Pilips Road",
+  "east": 417486.12,
+  "north": 1448867.16,
+  "conf": 1.0,
+  "size_pt": 34.56
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "Tikkakulam St",
+  "east": 417887.21,
+  "north": 1448750.11,
+  "conf": 1.0,
+  "size_pt": 41.76
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "Bangaru Reddy St",
+  "east": 417754.6,
+  "north": 1448261.28,
+  "conf": 1.0,
+  "size_pt": 56.76
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "Annaisathya",
+  "east": 417816.62,
+  "north": 1448112.27,
+  "conf": 1.0,
+  "size_pt": 36.6
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "ylappa Gramani St*3rd StMylappPonnuvelpuram-1st StMylappa Ist Lan\u011b",
+  "east": 417829.53,
+  "north": 1448460.87,
+  "conf": 1.0,
+  "size_pt": 79.44
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "Ist Lane",
+  "east": 417913.77,
+  "north": 1448423.2,
+  "conf": 1.0,
+  "size_pt": 25.32
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "4th St",
+  "east": 417907.31,
+  "north": 1448487.12,
+  "conf": 1.0,
+  "size_pt": 19.68
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "MylappaGramani St",
+  "east": 417715.24,
+  "north": 1448309.22,
+  "conf": 1.0,
+  "size_pt": 34.2
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "Srinivasalu St",
+  "east": 417349.17,
+  "north": 1448160.63,
+  "conf": 1.0,
+  "size_pt": 41.16
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "2nd Sti",
+  "east": 417254.46,
+  "north": 1448182.54,
+  "conf": 1.0,
+  "size_pt": 21.12
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "Garden 1st StGnanambal",
+  "east": 417208.31,
+  "north": 1448185.29,
+  "conf": 1.0,
+  "size_pt": 42.96
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "Vasantha Garden 2nd Lane6.0112nd LaneIst Lane",
+  "east": 417335.41,
+  "north": 1448337.05,
+  "conf": 1.0,
+  "size_pt": 84.96
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "Sababathi (Lane) St,ane5th StineVasanthaPonnuvelpuramS.S.V.KoilGarden 3rd St2nd St 3rd Lane",
+  "east": 417438.07,
+  "north": 1448388.06,
+  "conf": 1.0,
+  "size_pt": 72.72
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "Garden 1st StVasantha",
+  "east": 417516.06,
+  "north": 1448370.49,
+  "conf": 1.0,
+  "size_pt": 43.2
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "3rd Lane1st5th StLanePonnuvelpuram",
+  "east": 417383.36,
+  "north": 1448382.77,
+  "conf": 1.0,
+  "size_pt": 45.36
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "S.S.V.Koil2nd St Ist Lane",
+  "east": 417394.36,
+  "north": 1449393.56,
+  "conf": 1.0,
+  "size_pt": 51.48
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "Murugesa Mudali StH19",
+  "east": 417417.86,
+  "north": 1449465.31,
+  "conf": 1.0,
+  "size_pt": 60.6
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "MasilamaniSt",
+  "east": 417332.35,
+  "north": 1449537.91,
+  "conf": 1.0,
+  "size_pt": 33.48
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "Paper Mills Road",
+  "east": 417570.14,
+  "north": 1449530.08,
+  "conf": 1.0,
+  "size_pt": 46.56
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "NeelamGardenLanelJamunabai Na",
+  "east": 417535.43,
+  "north": 1449917.32,
+  "conf": 1.0,
+  "size_pt": 53.76
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "Neelam Garden 2nd Street",
+  "east": 417580.2,
+  "north": 1449894.04,
+  "conf": 1.0,
+  "size_pt": 84.0
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "RagavanSt",
+  "east": 417717.25,
+  "north": 1449767.67,
+  "conf": 1.0,
+  "size_pt": 24.72
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "Sankarachari Madam St",
+  "east": 417569.3,
+  "north": 1449689.68,
+  "conf": 1.0,
+  "size_pt": 74.04
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "Sundaravinayagar Koil Ist St",
+  "east": 417628.14,
+  "north": 1449695.81,
+  "conf": 1.0,
+  "size_pt": 90.36
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "Sundaravinayaga5.sKoil 2nd St",
+  "east": 417693.01,
+  "north": 1449608.61,
+  "conf": 1.0,
+  "size_pt": 53.16
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "Garden StBunder",
+  "east": 417934.62,
+  "north": 1449585.86,
+  "conf": 1.0,
+  "size_pt": 55.44
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "VenugopalsamySt",
+  "east": 417849.32,
+  "north": 1449449.55,
+  "conf": 1.0,
+  "size_pt": 46.08
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "ArumughaMudali StBunder Garden 3rd Strumugha Mudali St",
+  "east": 417911.55,
+  "north": 1449704.7,
+  "conf": 1.0,
+  "size_pt": 82.44
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "Bunder Garden 2nd StBunder Garden Ist StBunder Garden",
+  "east": 417803.71,
+  "north": 1449686.82,
+  "conf": 1.0,
+  "size_pt": 82.08
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "Bhajanai Koil St",
+  "east": 417648.46,
+  "north": 1449962.72,
+  "conf": 1.0,
+  "size_pt": 50.4
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "MuniyappaSt",
+  "east": 417730.9,
+  "north": 1449883.35,
+  "conf": 1.0,
+  "size_pt": 31.08
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "Thirunavukarasu St",
+  "east": 417775.56,
+  "north": 1449881.65,
+  "conf": 1.0,
+  "size_pt": 57.72
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "NeelamGardenWeelam Garden Ist Stus1st",
+  "east": 417620.52,
+  "north": 1449866.63,
+  "conf": 1.0,
+  "size_pt": 90.36
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "Damotharam75",
+  "east": 417751.85,
+  "north": 1450015.32,
+  "conf": 1.0,
+  "size_pt": 49.08
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "Jamunabai.",
+  "east": 417818.42,
+  "north": 1450035.0,
+  "conf": 1.0,
+  "size_pt": 32.64
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "Madhavaram HighRoad North",
+  "east": 417780.43,
+  "north": 1451176.18,
+  "conf": 1.0,
+  "size_pt": 90.6
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "Thirunavukarasu St",
+  "east": 417895.25,
+  "north": 1450019.02,
+  "conf": 1.0,
+  "size_pt": 57.6
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "Vinayakar KoilSomasundara2nd",
+  "east": 417907.63,
+  "north": 1450250.16,
+  "conf": 1.0,
+  "size_pt": 42.12
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "Neelam Garden 3rd St",
+  "east": 417630.47,
+  "north": 1450343.29,
+  "conf": 1.0,
+  "size_pt": 70.56
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "Chockalingam St",
+  "east": 418154.21,
+  "north": 1450801.33,
+  "conf": 1.0,
+  "size_pt": 51.24
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "Chockalingam St",
+  "east": 418071.88,
+  "north": 1450822.7,
+  "conf": 1.0,
+  "size_pt": 51.24
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "Mugundha Ramanuja St",
+  "east": 418040.34,
+  "north": 1450930.65,
+  "conf": 1.0,
+  "size_pt": 71.88
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "Jamunabai Nagar",
+  "east": 417927.0,
+  "north": 1451026.11,
+  "conf": 1.0,
+  "size_pt": 51.84
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "Sabapathy StMaduraisamyMadam St",
+  "east": 417909.75,
+  "north": 1451100.19,
+  "conf": 1.0,
+  "size_pt": 60.84
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "VekateshwaraNagar1st.St.",
+  "east": 418022.25,
+  "north": 1451255.34,
+  "conf": 1.0,
+  "size_pt": 81.72
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "Thiruveethi Ave",
+  "east": 417896.2,
+  "north": 1451241.79,
+  "conf": 1.0,
+  "size_pt": 44.52
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "Santhi Nagar 2nd St!",
+  "east": 417653.64,
+  "north": 1450377.68,
+  "conf": 1.0,
+  "size_pt": 65.4
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "MariyanayagamMain St",
+  "east": 417957.48,
+  "north": 1449848.85,
+  "conf": 1.0,
+  "size_pt": 45.6
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "Ragavan St",
+  "east": 417802.97,
+  "north": 1449828.42,
+  "conf": 1.0,
+  "size_pt": 35.52
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "Konnur HighRoad(From 10 To15)naanarasu stSrinivasa Ragavan Stagavan StSrinivasaRagavan St",
+  "east": 417841.07,
+  "north": 1449894.67,
+  "conf": 0.922,
+  "size_pt": 97.44
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "Rajavelu St",
+  "east": 417985.73,
+  "north": 1449960.82,
+  "conf": 1.0,
+  "size_pt": 35.16
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "Puzhal Munusamy St",
+  "east": 417966.58,
+  "north": 1449892.24,
+  "conf": 1.0,
+  "size_pt": 64.8
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "Tikkakulam St",
+  "east": 417701.05,
+  "north": 1448924.94,
+  "conf": 1.0,
+  "size_pt": 41.64
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "Foxen St",
+  "east": 417401.98,
+  "north": 1449546.91,
+  "conf": 1.0,
+  "size_pt": 27.48
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "St/Foxen",
+  "east": 417469.5,
+  "north": 1449572.31,
+  "conf": 0.75,
+  "size_pt": 26.88
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "StBunderGarden",
+  "east": 417854.72,
+  "north": 1449546.17,
+  "conf": 1.0,
+  "size_pt": 30.36
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "Siruvallurpuram",
+  "east": 417706.45,
+  "north": 1449199.78,
+  "conf": 1.0,
+  "size_pt": 46.08
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "4th St",
+  "east": 417539.66,
+  "north": 1449849.38,
+  "conf": 1.0,
+  "size_pt": 19.68
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "Thanikachalam Lane",
+  "east": 418129.56,
+  "north": 1450951.18,
+  "conf": 1.0,
+  "size_pt": 58.44
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "KollanThottam",
+  "east": 417889.96,
+  "north": 1450938.48,
+  "conf": 1.0,
+  "size_pt": 23.52
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "PilkingtoanRoad",
+  "east": 417572.05,
+  "north": 1448336.52,
+  "conf": 1.0,
+  "size_pt": 32.16
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "BangaruReddySt",
+  "east": 417526.75,
+  "north": 1448287.73,
+  "conf": 1.0,
+  "size_pt": 27.84
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "MylappaGramani St",
+  "east": 417737.57,
+  "north": 1448467.22,
+  "conf": 1.0,
+  "size_pt": 34.32
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "Tikkakulam St",
+  "east": 417811.65,
+  "north": 1448674.86,
+  "conf": 1.0,
+  "size_pt": 41.76
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "Ayanavaram",
+  "east": 417682.75,
+  "north": 1448773.81,
+  "conf": 1.0,
+  "size_pt": 36.24
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "Rajeev GandhiNagar(slum) west",
+  "east": 417895.67,
+  "north": 1448917.64,
+  "conf": 1.0,
+  "size_pt": 54.72
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "2nd StVasanthaGarden",
+  "east": 417506.86,
+  "north": 1448712.54,
+  "conf": 1.0,
+  "size_pt": 37.92
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "MylappaGramani St",
+  "east": 417840.11,
+  "north": 1448550.94,
+  "conf": 1.0,
+  "size_pt": 34.2
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "- PaperMills Road",
+  "east": 417912.92,
+  "north": 1448540.46,
+  "conf": 1.0,
+  "size_pt": 31.32
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "Foxen Lane",
+  "east": 417398.49,
+  "north": 1449506.38,
+  "conf": 1.0,
+  "size_pt": 35.04
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "Market St",
+  "east": 417286.2,
+  "north": 1449484.79,
+  "conf": 1.0,
+  "size_pt": 30.12
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "6.221Foxen LaneMarket Street",
+  "east": 417243.13,
+  "north": 1449365.94,
+  "conf": 1.0,
+  "size_pt": 56.64
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "JagannathanColony",
+  "east": 417404.52,
+  "north": 1449347.84,
+  "conf": 1.0,
+  "size_pt": 37.8
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "Railway Road",
+  "east": 417546.12,
+  "north": 1449307.41,
+  "conf": 1.0,
+  "size_pt": 40.92
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "Ragavan Streeto",
+  "east": 417501.25,
+  "north": 1449756.67,
+  "conf": 1.0,
+  "size_pt": 44.52
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "Vinayagar Koil StVinayagar Koil 1stSomasundaraSomasundara2nd St3rd StVinayagar Koil StSomasundara",
+  "east": 418003.73,
+  "north": 1450492.51,
+  "conf": 1.0,
+  "size_pt": 98.28
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "Raja St",
+  "east": 418038.54,
+  "north": 1450565.22,
+  "conf": 1.0,
+  "size_pt": 23.28
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "2nd St",
+  "east": 417975.36,
+  "north": 1450488.91,
+  "conf": 1.0,
+  "size_pt": 21.24
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "3rd St",
+  "east": 418010.29,
+  "north": 1450486.69,
+  "conf": 1.0,
+  "size_pt": 19.68
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "Madhavaram HighRoad Lane",
+  "east": 417821.49,
+  "north": 1450192.9,
+  "conf": 1.0,
+  "size_pt": 54.36
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "2nd St",
+  "east": 417903.19,
+  "north": 1448453.68,
+  "conf": 1.0,
+  "size_pt": 21.24
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "2nd Lane",
+  "east": 417377.43,
+  "north": 1448283.29,
+  "conf": 1.0,
+  "size_pt": 28.56
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "SadayapaDossSA",
+  "east": 417986.69,
+  "north": 1449512.73,
+  "conf": 1.0,
+  "size_pt": 28.32
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "Arumugha Mudali St",
+  "east": 417923.08,
+  "north": 1449677.61,
+  "conf": 1.0,
+  "size_pt": 63.24
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "LakshmiammanKoil Ist St",
+  "east": 418010.71,
+  "north": 1450090.78,
+  "conf": 1.0,
+  "size_pt": 45.96
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "SomasundaraVinayagar Koil St",
+  "east": 417997.38,
+  "north": 1450038.18,
+  "conf": 1.0,
+  "size_pt": 53.64
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "Jawahar St",
+  "east": 418154.95,
+  "north": 1450410.6,
+  "conf": 1.0,
+  "size_pt": 33.96
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "Rajangam St",
+  "east": 418229.99,
+  "north": 1450645.75,
+  "conf": 1.0,
+  "size_pt": 39.72
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "Vasantha GardenIst Lane",
+  "east": 418267.66,
+  "north": 1450880.91,
+  "conf": 1.0,
+  "size_pt": 51.48
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "Perambur High Road",
+  "east": 418122.99,
+  "north": 1450253.12,
+  "conf": 1.0,
+  "size_pt": 64.92
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "TankLink Road",
+  "east": 417863.29,
+  "north": 1449400.44,
+  "conf": 1.0,
+  "size_pt": 30.48
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "Perambur",
+  "east": 418004.15,
+  "north": 1449407.95,
+  "conf": 1.0,
+  "size_pt": 29.4
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "ArtisiyanShanmugam St",
+  "east": 417922.55,
+  "north": 1449307.63,
+  "conf": 1.0,
+  "size_pt": 47.04
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "1st StYekangipuram",
+  "east": 417943.51,
+  "north": 1448784.82,
+  "conf": 1.0,
+  "size_pt": 63.72
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "Anderson Road",
+  "east": 417966.58,
+  "north": 1448527.86,
+  "conf": 1.0,
+  "size_pt": 46.92
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "Ananda_VinayagarKoil Main St",
+  "east": 417133.49,
+  "north": 1448206.56,
+  "conf": 1.0,
+  "size_pt": 55.56
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "ShivashakaranLane",
+  "east": 417161.64,
+  "north": 1448383.72,
+  "conf": 1.0,
+  "size_pt": 42.36
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "Konnur High Road (From 18To 15)",
+  "east": 417451.83,
+  "north": 1448059.88,
+  "conf": 1.0,
+  "size_pt": 113.52
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "PonnusamyPillai St",
+  "east": 417148.94,
+  "north": 1448303.5,
+  "conf": 1.0,
+  "size_pt": 35.16
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "2nd St 2nd Lane",
+  "east": 417813.55,
+  "north": 1450236.72,
+  "conf": 1.0,
+  "size_pt": 53.28
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "Maduraisamy Madam East St",
+  "east": 417526.65,
+  "north": 1450395.04,
+  "conf": 1.0,
+  "size_pt": 91.44
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "Sivakami St",
+  "east": 417306.95,
+  "north": 1449569.24,
+  "conf": 1.0,
+  "size_pt": 35.88
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "Jawahar St",
+  "east": 417643.38,
+  "north": 1450012.25,
+  "conf": 1.0,
+  "size_pt": 33.84
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "StMaduraisamy Madam",
+  "east": 417461.35,
+  "north": 1449951.08,
+  "conf": 1.0,
+  "size_pt": 71.88
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "StMarket",
+  "east": 417244.61,
+  "north": 1449568.92,
+  "conf": 1.0,
+  "size_pt": 29.28
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "Shanthi Nagar90ShanthiNagar",
+  "east": 417806.88,
+  "north": 1450426.68,
+  "conf": 1.0,
+  "size_pt": 54.36
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "Tank St",
+  "east": 418005.84,
+  "north": 1449387.53,
+  "conf": 1.0,
+  "size_pt": 22.2
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "3rd St",
+  "east": 417954.51,
+  "north": 1451250.37,
+  "conf": 1.0,
+  "size_pt": 18.48
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "Shanthi NagarMain Road",
+  "east": 417792.7,
+  "north": 1450341.81,
+  "conf": 1.0,
+  "size_pt": 44.28
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "Bangaru Reddy Street",
+  "east": 417581.68,
+  "north": 1448179.57,
+  "conf": 1.0,
+  "size_pt": 66.96
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "MadhavaramHigh Road",
+  "east": 417861.91,
+  "north": 1449204.44,
+  "conf": 1.0,
+  "size_pt": 38.16
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "LanerBeerShop",
+  "east": 417328.64,
+  "north": 1449243.28,
+  "conf": 1.0,
+  "size_pt": 18.0
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "Govindha Street",
+  "east": 417189.69,
+  "north": 1449240.74,
+  "conf": 1.0,
+  "size_pt": 48.12
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "Nagar",
+  "east": 417842.65,
+  "north": 1450061.25,
+  "conf": 1.0,
+  "size_pt": 18.0
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "2nd Cross St",
+  "east": 418133.05,
+  "north": 1450666.6,
+  "conf": 1.0,
+  "size_pt": 41.52
+ },
+ {
+  "ward": 69,
+  "role": "road_name",
+  "text": "Thanikachalam Street",
+  "east": 418038.97,
+  "north": 1450609.98,
+  "conf": 1.0,
+  "size_pt": 65.76
+ },
+ {
+  "ward": 69,
+  "role": "location_names",
+  "text": "ICF Quarters",
+  "east": 417480.08,
+  "north": 1448748.2,
+  "conf": 1.0,
+  "size_pt": 38.52
+ },
+ {
+  "ward": 69,
+  "role": "location_names",
+  "text": "SunnyvaleApartments",
+  "east": 417443.57,
+  "north": 1448309.85,
+  "conf": 1.0,
+  "size_pt": 35.52
+ },
+ {
+  "ward": 69,
+  "role": "location_names",
+  "text": "ICF KalyanaMandapam",
+  "east": 417969.54,
+  "north": 1449441.71,
+  "conf": 1.0,
+  "size_pt": 35.76
+ },
+ {
+  "ward": 69,
+  "role": "location_names",
+  "text": "Park",
+  "east": 417938.75,
+  "north": 1449329.96,
+  "conf": 1.0,
+  "size_pt": 13.08
+ },
+ {
+  "ward": 69,
+  "role": "location_names",
+  "text": "Adyar Anandan Bhavan",
+  "east": 417783.18,
+  "north": 1449207.19,
+  "conf": 1.0,
+  "size_pt": 43.08
+ },
+ {
+  "ward": 69,
+  "role": "location_names",
+  "text": "Sen",
+  "east": 417834.4,
+  "north": 1449508.6,
+  "conf": 1.0,
+  "size_pt": 9.96
+ },
+ {
+  "ward": 69,
+  "role": "location_names",
+  "text": "Hospital",
+  "east": 417872.71,
+  "north": 1449507.33,
+  "conf": 1.0,
+  "size_pt": 24.12
+ },
+ {
+  "ward": 69,
+  "role": "location_names",
+  "text": "Sri EshodhaHospital",
+  "east": 417226.94,
+  "north": 1448094.17,
+  "conf": 1.0,
+  "size_pt": 36.36
+ },
+ {
+  "ward": 69,
+  "role": "location_names",
+  "text": "PeramburLourdesChurch",
+  "east": 417700.0,
+  "north": 1449322.13,
+  "conf": 1.0,
+  "size_pt": 29.4
+ },
+ {
+  "ward": 69,
+  "role": "location_names",
+  "text": "PeramburCarriageWorks",
+  "east": 417498.5,
+  "north": 1449342.23,
+  "conf": 1.0,
+  "size_pt": 29.4
+ },
+ {
+  "ward": 69,
+  "role": "location_names",
+  "text": "Perambur",
+  "east": 418097.91,
+  "north": 1449405.52,
+  "conf": 1.0,
+  "size_pt": 29.4
+ },
+ {
+  "ward": 69,
+  "role": "location_names",
+  "text": "PerambarRailway Station",
+  "east": 418000.34,
+  "north": 1449185.39,
+  "conf": 1.0,
+  "size_pt": 46.68
+ },
+ {
+  "ward": 69,
+  "role": "location_names",
+  "text": "CorporationGround",
+  "east": 417940.55,
+  "north": 1449540.35,
+  "conf": 1.0,
+  "size_pt": 34.08
+ },
+ {
+  "ward": 69,
+  "role": "location_names",
+  "text": "Sembiyam",
+  "east": 417770.37,
+  "north": 1450743.96,
+  "conf": 1.0,
+  "size_pt": 30.0
+ },
+ {
+  "ward": 69,
+  "role": "location_names",
+  "text": "LakshmiAmman,Temple",
+  "east": 417992.4,
+  "north": 1450165.6,
+  "conf": 1.0,
+  "size_pt": 48.0
+ },
+ {
+  "ward": 69,
+  "role": "location_names",
+  "text": "Pond",
+  "east": 417434.36,
+  "north": 1448929.49,
+  "conf": 1.0,
+  "size_pt": 13.8
+ },
+ {
+  "ward": 69,
+  "role": "location_names",
+  "text": "Pond",
+  "east": 417774.5,
+  "north": 1450853.39,
+  "conf": 1.0,
+  "size_pt": 13.8
+ },
+ {
+  "ward": 69,
+  "role": "location_names",
+  "text": "Carriage WorkRailway Station",
+  "east": 417391.08,
+  "north": 1449118.4,
+  "conf": 1.0,
+  "size_pt": 46.56
+ },
+ {
+  "ward": 69,
+  "role": "size_label",
+  "text": "VV",
+  "east": 417581.89,
+  "north": 1449229.21,
+  "conf": 1.0,
+  "size_pt": 11.52
+ }
+]

@@ -1,0 +1,479 @@
+[
+ {
+  "ward": 29,
+  "role": "road_name",
+  "text": "B33.961Devarajan StreetTeacherThangaraj St",
+  "east": 419870.03,
+  "north": 1454808.58,
+  "conf": 1.0,
+  "size_pt": 51.72
+ },
+ {
+  "ward": 29,
+  "role": "road_name",
+  "text": "StreetKrishnaA6",
+  "east": 419655.06,
+  "north": 1454706.35,
+  "conf": 1.0,
+  "size_pt": 36.6
+ },
+ {
+  "ward": 29,
+  "role": "road_name",
+  "text": "A27Th4.012VM V NarayanasamyStreetTV K StreetThiruvengadam A11StreetA94.0414.097A8Thiruvengadam St3.725StreetA104.122",
+  "east": 419714.23,
+  "north": 1454831.65,
+  "conf": 1.0,
+  "size_pt": 88.68
+ },
+ {
+  "ward": 29,
+  "role": "road_name",
+  "text": "Devarajan 2ndCross Street",
+  "east": 419820.7,
+  "north": 1454937.79,
+  "conf": 1.0,
+  "size_pt": 35.04
+ },
+ {
+  "ward": 29,
+  "role": "road_name",
+  "text": "1st2nd Street",
+  "east": 419550.49,
+  "north": 1454989.54,
+  "conf": 1.0,
+  "size_pt": 37.56
+ },
+ {
+  "ward": 29,
+  "role": "road_name",
+  "text": "Raji Street",
+  "east": 419740.47,
+  "north": 1455010.82,
+  "conf": 1.0,
+  "size_pt": 33.36
+ },
+ {
+  "ward": 29,
+  "role": "road_name",
+  "text": "Parthasarathy st3ro Cross Street",
+  "east": 419584.14,
+  "north": 1455096.33,
+  "conf": 1.0,
+  "size_pt": 52.92
+ },
+ {
+  "ward": 29,
+  "role": "road_name",
+  "text": "Thiruvallur Street",
+  "east": 419780.38,
+  "north": 1455165.11,
+  "conf": 1.0,
+  "size_pt": 48.72
+ },
+ {
+  "ward": 29,
+  "role": "road_name",
+  "text": "Thir\u00fcvengadamSt",
+  "east": 419810.22,
+  "north": 1454895.89,
+  "conf": 1.0,
+  "size_pt": 43.56
+ },
+ {
+  "ward": 29,
+  "role": "road_name",
+  "text": "\u2022 Devarajan';Street",
+  "east": 419846.1,
+  "north": 1455244.91,
+  "conf": 1.0,
+  "size_pt": 27.12
+ },
+ {
+  "ward": 29,
+  "role": "road_name",
+  "text": "4.0821/Govindha Swami St",
+  "east": 419896.49,
+  "north": 1455178.98,
+  "conf": 1.0,
+  "size_pt": 57.84
+ },
+ {
+  "ward": 29,
+  "role": "road_name",
+  "text": "Devarajan Ste",
+  "east": 419845.58,
+  "north": 1455049.87,
+  "conf": 1.0,
+  "size_pt": 39.48
+ },
+ {
+  "ward": 29,
+  "role": "road_name",
+  "text": "B234.360B24Manikkavasagar Street5 04.436ManikkavasagarStreet",
+  "east": 420003.28,
+  "north": 1455090.82,
+  "conf": 1.0,
+  "size_pt": 66.72
+ },
+ {
+  "ward": 29,
+  "role": "road_name",
+  "text": "Manikkavasagar St",
+  "east": 420015.98,
+  "north": 1455021.61,
+  "conf": 1.0,
+  "size_pt": 57.24
+ },
+ {
+  "ward": 29,
+  "role": "road_name",
+  "text": "KrishnaStreet",
+  "east": 419665.86,
+  "north": 1454570.78,
+  "conf": 1.0,
+  "size_pt": 44.52
+ },
+ {
+  "ward": 29,
+  "role": "road_name",
+  "text": "U32944B23.719 cs&Dr Ambedkar./'St.eetB193.480rAsiriyarThangaraja Street",
+  "east": 419950.04,
+  "north": 1454780.43,
+  "conf": 1.0,
+  "size_pt": 67.8
+ },
+ {
+  "ward": 29,
+  "role": "road_name",
+  "text": "Kumari Anandan StreetMan..B204.043Mahathma",
+  "east": 419920.72,
+  "north": 1455036.64,
+  "conf": 1.0,
+  "size_pt": 66.24
+ },
+ {
+  "ward": 29,
+  "role": "road_name",
+  "text": "Gandhi Street",
+  "east": 419995.77,
+  "north": 1454984.04,
+  "conf": 1.0,
+  "size_pt": 41.76
+ },
+ {
+  "ward": 29,
+  "role": "road_name",
+  "text": "Devarajan Street",
+  "east": 419816.57,
+  "north": 1454504.64,
+  "conf": 1.0,
+  "size_pt": 51.48
+ },
+ {
+  "ward": 29,
+  "role": "road_name",
+  "text": "Thiruvengadam{\u00e4zns",
+  "east": 419695.07,
+  "north": 1454839.37,
+  "conf": 0.65,
+  "size_pt": 42.36
+ },
+ {
+  "ward": 29,
+  "role": "road_name",
+  "text": "Mahathma Gandhi St",
+  "east": 419948.56,
+  "north": 1454939.06,
+  "conf": 1.0,
+  "size_pt": 65.52
+ },
+ {
+  "ward": 29,
+  "role": "road_name",
+  "text": "Kamarajar Salai",
+  "east": 420098.12,
+  "north": 1455221.2,
+  "conf": 1.0,
+  "size_pt": 49.8
+ },
+ {
+  "ward": 29,
+  "role": "road_name",
+  "text": "04.2MalligaiSrd StreagarParthasarathy StreetStreet",
+  "east": 419536.83,
+  "north": 1454565.38,
+  "conf": 1.0,
+  "size_pt": 64.44
+ },
+ {
+  "ward": 29,
+  "role": "road_name",
+  "text": "Apparaj StreetApparaj3rd StApparaj StreetApparaj Street2nd StIst Street",
+  "east": 419675.06,
+  "north": 1454237.52,
+  "conf": 1.0,
+  "size_pt": 101.28
+ },
+ {
+  "ward": 29,
+  "role": "road_name",
+  "text": "4th Cross Street",
+  "east": 419763.02,
+  "north": 1454299.54,
+  "conf": 1.0,
+  "size_pt": 52.2
+ },
+ {
+  "ward": 29,
+  "role": "road_name",
+  "text": "2nd Street",
+  "east": 419760.16,
+  "north": 1454212.76,
+  "conf": 1.0,
+  "size_pt": 33.36
+ },
+ {
+  "ward": 29,
+  "role": "road_name",
+  "text": "Ist Street",
+  "east": 419719.52,
+  "north": 1454194.77,
+  "conf": 1.0,
+  "size_pt": 30.24
+ },
+ {
+  "ward": 29,
+  "role": "road_name",
+  "text": "Perumal Koil Street",
+  "east": 419568.9,
+  "north": 1454087.56,
+  "conf": 1.0,
+  "size_pt": 60.24
+ },
+ {
+  "ward": 29,
+  "role": "road_name",
+  "text": "Velu Street",
+  "east": 419820.7,
+  "north": 1453952.95,
+  "conf": 1.0,
+  "size_pt": 32.64
+ },
+ {
+  "ward": 29,
+  "role": "road_name",
+  "text": "Manali Main Road",
+  "east": 419582.13,
+  "north": 1453656.73,
+  "conf": 1.0,
+  "size_pt": 54.84
+ },
+ {
+  "ward": 29,
+  "role": "road_name",
+  "text": "2nd Cross StreetMunusamy 4thCross StreetPushpammal Streetfagan\u0105than strectyMunusamy",
+  "east": 419419.67,
+  "north": 1455198.56,
+  "conf": 1.0,
+  "size_pt": 85.56
+ },
+ {
+  "ward": 29,
+  "role": "road_name",
+  "text": "Seeyaian Street",
+  "east": 419411.41,
+  "north": 1455117.81,
+  "conf": 1.0,
+  "size_pt": 46.68
+ },
+ {
+  "ward": 29,
+  "role": "road_name",
+  "text": "VOC7S",
+  "east": 419904.95,
+  "north": 1454865.51,
+  "conf": 1.0,
+  "size_pt": 11.16
+ },
+ {
+  "ward": 29,
+  "role": "road_name",
+  "text": "Velu Street",
+  "east": 419401.04,
+  "north": 1453983.74,
+  "conf": 1.0,
+  "size_pt": 33.24
+ },
+ {
+  "ward": 29,
+  "role": "road_name",
+  "text": "Krishnan Street",
+  "east": 419496.19,
+  "north": 1454016.13,
+  "conf": 1.0,
+  "size_pt": 48.24
+ },
+ {
+  "ward": 29,
+  "role": "road_name",
+  "text": "Kannabiran Koil Street",
+  "east": 419707.77,
+  "north": 1454063.22,
+  "conf": 1.0,
+  "size_pt": 67.2
+ },
+ {
+  "ward": 29,
+  "role": "road_name",
+  "text": "Cross StreetApparaj 6th",
+  "east": 419799.43,
+  "north": 1454377.43,
+  "conf": 1.0,
+  "size_pt": 38.28
+ },
+ {
+  "ward": 29,
+  "role": "road_name",
+  "text": "Vedhachalam Street",
+  "east": 419717.72,
+  "north": 1454665.07,
+  "conf": 1.0,
+  "size_pt": 60.84
+ },
+ {
+  "ward": 29,
+  "role": "road_name",
+  "text": "EVRPeriyar StreetThiruvengadam Streetevaraj Street",
+  "east": 419796.89,
+  "north": 1454673.86,
+  "conf": 1.0,
+  "size_pt": 87.36
+ },
+ {
+  "ward": 29,
+  "role": "road_name",
+  "text": "Devaraj StreetD",
+  "east": 419820.28,
+  "north": 1454621.05,
+  "conf": 1.0,
+  "size_pt": 43.32
+ },
+ {
+  "ward": 29,
+  "role": "road_name",
+  "text": "4.097Vedhagiri Street",
+  "east": 419638.97,
+  "north": 1454788.89,
+  "conf": 1.0,
+  "size_pt": 46.2
+ },
+ {
+  "ward": 29,
+  "role": "road_name",
+  "text": "Anna StreetKarunaidhi StreetA294.314A284.1044>74.012M V NarayanasamyStr\u00e9etVedhagiri Cross StreetTV K StreeThiruvengadam A11StreetAQ",
+  "east": 419680.46,
+  "north": 1454888.16,
+  "conf": 0.953,
+  "size_pt": 78.6
+ },
+ {
+  "ward": 29,
+  "role": "road_name",
+  "text": "pP\u00fcddapiransStreet",
+  "east": 419868.97,
+  "north": 1454902.87,
+  "conf": 1.0,
+  "size_pt": 33.12
+ },
+ {
+  "ward": 29,
+  "role": "road_name",
+  "text": "Parthsarathy 2ndCross Street",
+  "east": 419699.2,
+  "north": 1455104.05,
+  "conf": 1.0,
+  "size_pt": 54.48
+ },
+ {
+  "ward": 29,
+  "role": "road_name",
+  "text": "Kannan Street",
+  "east": 419762.91,
+  "north": 1455065.53,
+  "conf": 1.0,
+  "size_pt": 34.8
+ },
+ {
+  "ward": 29,
+  "role": "road_name",
+  "text": "4.21sKumaran Main Street,",
+  "east": 419489.84,
+  "north": 1454999.49,
+  "conf": 1.0,
+  "size_pt": 51.12
+ },
+ {
+  "ward": 29,
+  "role": "road_name",
+  "text": "M GovindaswamyStreet",
+  "east": 419704.49,
+  "north": 1455244.27,
+  "conf": 1.0,
+  "size_pt": 51.84
+ },
+ {
+  "ward": 29,
+  "role": "road_name",
+  "text": "ChandiranStreetKannayiram Street",
+  "east": 419583.09,
+  "north": 1455293.91,
+  "conf": 1.0,
+  "size_pt": 57.72
+ },
+ {
+  "ward": 29,
+  "role": "road_name",
+  "text": "KannayiramEast Street",
+  "east": 419586.37,
+  "north": 1455218.03,
+  "conf": 1.0,
+  "size_pt": 38.64
+ },
+ {
+  "ward": 29,
+  "role": "road_name",
+  "text": "Chinnakannu Street",
+  "east": 419568.16,
+  "north": 1455147.12,
+  "conf": 1.0,
+  "size_pt": 59.76
+ },
+ {
+  "ward": 29,
+  "role": "road_name",
+  "text": "Ist Cross Street",
+  "east": 419457.66,
+  "north": 1455278.99,
+  "conf": 1.0,
+  "size_pt": 50.64
+ },
+ {
+  "ward": 29,
+  "role": "road_name",
+  "text": "Kanarajar Salai1st Cross Street",
+  "east": 419394.58,
+  "north": 1455331.48,
+  "conf": 1.0,
+  "size_pt": 51.84
+ },
+ {
+  "ward": 29,
+  "role": "road_name",
+  "text": "Perumal Koil3rd Cross Street",
+  "east": 419495.24,
+  "north": 1454170.85,
+  "conf": 1.0,
+  "size_pt": 52.2
+ }
+]

@@ -1,0 +1,1010 @@
+[
+ {
+  "ward": 107,
+  "role": "road_name",
+  "text": "Mayor Sathyamurthy Road",
+  "east": 418779.84,
+  "north": 1445458.46,
+  "conf": 1.0,
+  "size_pt": 82.08
+ },
+ {
+  "ward": 107,
+  "role": "road_name",
+  "text": "RoadMc NicholsMc Nichols RdNicholsWesternRoadSide SA",
+  "east": 417598.56,
+  "north": 1445314.43,
+  "conf": 1.0,
+  "size_pt": 102.0
+ },
+ {
+  "ward": 107,
+  "role": "road_name",
+  "text": "ChetpetBridge",
+  "east": 417945.58,
+  "north": 1444768.35,
+  "conf": 1.0,
+  "size_pt": 22.44
+ },
+ {
+  "ward": 107,
+  "role": "road_name",
+  "text": "16th Ave",
+  "east": 417755.61,
+  "north": 1444959.05,
+  "conf": 1.0,
+  "size_pt": 26.16
+ },
+ {
+  "ward": 107,
+  "role": "road_name",
+  "text": "17th Ave",
+  "east": 417800.48,
+  "north": 1444968.69,
+  "conf": 1.0,
+  "size_pt": 26.28
+ },
+ {
+  "ward": 107,
+  "role": "road_name",
+  "text": "CrossoB24EXII CrossIV StDOYVIII4.8860318St& XIII Cross14.969I|/ Street gT\u00cdDWV Cross StVILCross St2II Street {/ StreetB15B190;B165.095B17 Park4.6874.282Mangalapuram\"5th Street4.483B12-MangalapuramB116th st4.3994.3184.8opth strees0095.007Mayor Chittlbabu s7th Streetd StreetMangalapuramXVI8th Street5thClub RoadId Street9th StreetStreetst StreetB1018th10th Street<04.28711th Streetiambal St-Southre& Danammal StVIR.R.colonADB29B28Chittibabuchool Road5.1114thMangalapuramB30Venkatasamy12th Street5.119SchooSchool RoacStreetStreetMangalapuramStree13th Street",
+  "east": 418212.06,
+  "north": 1445323.32,
+  "conf": 0.987,
+  "size_pt": 191.64
+ },
+ {
+  "ward": 107,
+  "role": "road_name",
+  "text": "Jaganathapuram 2nd St",
+  "east": 417930.12,
+  "north": 1445270.72,
+  "conf": 1.0,
+  "size_pt": 75.24
+ },
+ {
+  "ward": 107,
+  "role": "road_name",
+  "text": "EVR Periyar Salai (Poonamallee)",
+  "east": 417138.72,
+  "north": 1445710.02,
+  "conf": 1.0,
+  "size_pt": 99.24
+ },
+ {
+  "ward": 107,
+  "role": "road_name",
+  "text": "Harrington Road",
+  "east": 417428.27,
+  "north": 1444910.16,
+  "conf": 1.0,
+  "size_pt": 51.0
+ },
+ {
+  "ward": 107,
+  "role": "road_name",
+  "text": "Care Centre4Mayor Ramanathan Road (Spur Tan)30COOUM",
+  "east": 418120.94,
+  "north": 1444967.94,
+  "conf": 1.0,
+  "size_pt": 108.24
+ },
+ {
+  "ward": 107,
+  "role": "road_name",
+  "text": "StationRoadPumpin StationCorporationModel LaneSNew StreetanathapJagD CB22JQ1 876",
+  "east": 417920.81,
+  "north": 1445433.17,
+  "conf": 0.962,
+  "size_pt": 87.72
+ },
+ {
+  "ward": 107,
+  "role": "road_name",
+  "text": "Jaganathapuram2nd LaneDr. GuruswamyBridge",
+  "east": 417781.75,
+  "north": 1445371.15,
+  "conf": 1.0,
+  "size_pt": 61.32
+ },
+ {
+  "ward": 107,
+  "role": "road_name",
+  "text": "DSL5.540Chetpet@Manoharan Street",
+  "east": 417864.51,
+  "north": 1445103.83,
+  "conf": 1.0,
+  "size_pt": 74.28
+ },
+ {
+  "ward": 107,
+  "role": "road_name",
+  "text": "VaiVaidhanathan StVaidyanathan LaneArunachalamMurugesan StLaneArunachalan2nd LaneArunachalam StMuthiappan Strunachalan3rd Lane",
+  "east": 416670.74,
+  "north": 1444998.11,
+  "conf": 1.0,
+  "size_pt": 95.64
+ },
+ {
+  "ward": 107,
+  "role": "road_name",
+  "text": "Venkatachalabathy st",
+  "east": 416644.17,
+  "north": 1445262.78,
+  "conf": 1.0,
+  "size_pt": 65.28
+ },
+ {
+  "ward": 107,
+  "role": "road_name",
+  "text": "D27College Hostel Rd5.944Pachaiyappas",
+  "east": 417209.2,
+  "north": 1445282.15,
+  "conf": 1.0,
+  "size_pt": 96.12
+ },
+ {
+  "ward": 107,
+  "role": "road_name",
+  "text": "Subbarayan St",
+  "east": 416558.98,
+  "north": 1445332.53,
+  "conf": 1.0,
+  "size_pt": 42.6
+ },
+ {
+  "ward": 107,
+  "role": "road_name",
+  "text": "Choolaimedu Bridge",
+  "east": 416729.47,
+  "north": 1444811.0,
+  "conf": 1.0,
+  "size_pt": 59.88
+ },
+ {
+  "ward": 107,
+  "role": "road_name",
+  "text": "StStPillaiyar Koil StreetgSarden / CrossCross@Appa (Rao)aArunachalamd\u00e9nIV LaneAppa (Rao) Garden IV Cross StApparao Garden 4th stAppa (Rao) Garden V Cross StJothiai(SIL",
+  "east": 416512.09,
+  "north": 1444900.11,
+  "conf": 1.0,
+  "size_pt": 162.84
+ },
+ {
+  "ward": 107,
+  "role": "road_name",
+  "text": "Mehta Nagar.Bridge",
+  "east": 416408.91,
+  "north": 1445170.5,
+  "conf": 1.0,
+  "size_pt": 39.72
+ },
+ {
+  "ward": 107,
+  "role": "road_name",
+  "text": "Arunachalan3rd Lane",
+  "east": 416634.12,
+  "north": 1444936.2,
+  "conf": 1.0,
+  "size_pt": 36.72
+ },
+ {
+  "ward": 107,
+  "role": "road_name",
+  "text": "Harrington Road",
+  "east": 416997.54,
+  "north": 1444967.2,
+  "conf": 1.0,
+  "size_pt": 48.12
+ },
+ {
+  "ward": 107,
+  "role": "road_name",
+  "text": "Egmore High Road",
+  "east": 418949.59,
+  "north": 1445560.16,
+  "conf": 1.0,
+  "size_pt": 58.08
+ },
+ {
+  "ward": 107,
+  "role": "road_name",
+  "text": "Culvert",
+  "east": 416934.25,
+  "north": 1444950.38,
+  "conf": 1.0,
+  "size_pt": 19.8
+ },
+ {
+  "ward": 107,
+  "role": "road_name",
+  "text": "(Avvaipuram) Slum Road1 (Ran) Car-",
+  "east": 416408.8,
+  "north": 1444885.93,
+  "conf": 1.0,
+  "size_pt": 75.48
+ },
+ {
+  "ward": 107,
+  "role": "road_name",
+  "text": "Jothiammal Nagar(Slum Road)",
+  "east": 416626.18,
+  "north": 1444843.81,
+  "conf": 1.0,
+  "size_pt": 53.04
+ },
+ {
+  "ward": 107,
+  "role": "road_name",
+  "text": "Harrington Road 13th Avenue",
+  "east": 417412.82,
+  "north": 1445060.23,
+  "conf": 1.0,
+  "size_pt": 91.68
+ },
+ {
+  "ward": 107,
+  "role": "road_name",
+  "text": "+Selvanathan& MurukesanKarkathammanStreetKoil Street",
+  "east": 417894.25,
+  "north": 1445007.31,
+  "conf": 1.0,
+  "size_pt": 66.0
+ },
+ {
+  "ward": 107,
+  "role": "road_name",
+  "text": "\u0441\u04420SSO10 11DNSWXI Cross StBrindavanamX Cross StStEXII Cross StCross StiTStIll Main RoadVIIl CrossIV St0B18BrindavanamStPDOY UIDWXIII Cross4.969Cross StStBrindavanam\u0439B15 RVIl CrOSSIl Cross steMayar Sathiyamoorthy Salai/ StreetB190jB16aroet5.0954.68717 Park \u22654.282JB134.483oMangalapuramB12-4.409B11",
+  "east": 418361.17,
+  "north": 1445472.85,
+  "conf": 0.948,
+  "size_pt": 269.76
+ },
+ {
+  "ward": 107,
+  "role": "road_name",
+  "text": "Mc Nichols Road",
+  "east": 417673.27,
+  "north": 1445519.31,
+  "conf": 1.0,
+  "size_pt": 52.08
+ },
+ {
+  "ward": 107,
+  "role": "road_name",
+  "text": "Bridge (Dr.Gur",
+  "east": 417671.58,
+  "north": 1445617.52,
+  "conf": 1.0,
+  "size_pt": 44.16
+ },
+ {
+  "ward": 107,
+  "role": "road_name",
+  "text": "15th Street",
+  "east": 418125.81,
+  "north": 1445329.14,
+  "conf": 1.0,
+  "size_pt": 33.96
+ },
+ {
+  "ward": 107,
+  "role": "road_name",
+  "text": "3rd Street2nd StreetJaganadhapurIst StreetJaganathapuram3rd StreetRajambal St-SouthVaganathapuramV.R.3rd StreetRoad",
+  "east": 418037.54,
+  "north": 1445296.33,
+  "conf": 1.0,
+  "size_pt": 102.72
+ },
+ {
+  "ward": 107,
+  "role": "road_name",
+  "text": "Harrington Road 15th Avenue",
+  "east": 417570.3,
+  "north": 1445050.7,
+  "conf": 1.0,
+  "size_pt": 90.48
+ },
+ {
+  "ward": 107,
+  "role": "road_name",
+  "text": "NathanStreet",
+  "east": 417234.29,
+  "north": 1445007.31,
+  "conf": 1.0,
+  "size_pt": 20.88
+ },
+ {
+  "ward": 107,
+  "role": "road_name",
+  "text": "School Road",
+  "east": 418118.93,
+  "north": 1445192.41,
+  "conf": 1.0,
+  "size_pt": 35.88
+ },
+ {
+  "ward": 107,
+  "role": "road_name",
+  "text": "Mc Nichols Road(Zonal Office St)",
+  "east": 417550.09,
+  "north": 1445596.15,
+  "conf": 1.0,
+  "size_pt": 53.52
+ },
+ {
+  "ward": 107,
+  "role": "road_name",
+  "text": "MangalapuramMain Road\u2022Mayar Ramanathan Salai_",
+  "east": 418237.03,
+  "north": 1445091.76,
+  "conf": 1.0,
+  "size_pt": 85.68
+ },
+ {
+  "ward": 107,
+  "role": "road_name",
+  "text": "Club Road",
+  "east": 418532.62,
+  "north": 1445342.58,
+  "conf": 1.0,
+  "size_pt": 30.96
+ },
+ {
+  "ward": 107,
+  "role": "road_name",
+  "text": "CluD Rouu4.Kuppusamy Street",
+  "east": 418558.34,
+  "north": 1445287.76,
+  "conf": 1.0,
+  "size_pt": 72.36
+ },
+ {
+  "ward": 107,
+  "role": "road_name",
+  "text": "StreetVivekanandanPark",
+  "east": 418535.05,
+  "north": 1445209.23,
+  "conf": 1.0,
+  "size_pt": 57.48
+ },
+ {
+  "ward": 107,
+  "role": "road_name",
+  "text": "T.V.Road",
+  "east": 418457.8,
+  "north": 1445256.12,
+  "conf": 1.0,
+  "size_pt": 24.6
+ },
+ {
+  "ward": 107,
+  "role": "road_name",
+  "text": "DamodaranStreet",
+  "east": 418409.86,
+  "north": 1445247.97,
+  "conf": 1.0,
+  "size_pt": 33.36
+ },
+ {
+  "ward": 107,
+  "role": "road_name",
+  "text": "StreetLogambalLogaiahStreet",
+  "east": 417935.52,
+  "north": 1444881.8,
+  "conf": 1.0,
+  "size_pt": 48.0
+ },
+ {
+  "ward": 107,
+  "role": "road_name",
+  "text": "Lamach Avenue",
+  "east": 418032.57,
+  "north": 1445060.54,
+  "conf": 1.0,
+  "size_pt": 46.92
+ },
+ {
+  "ward": 107,
+  "role": "road_name",
+  "text": "MukthaGardens",
+  "east": 418057.33,
+  "north": 1445060.12,
+  "conf": 1.0,
+  "size_pt": 43.56
+ },
+ {
+  "ward": 107,
+  "role": "road_name",
+  "text": "iSt - North+Rajambal",
+  "east": 418024.84,
+  "north": 1445437.61,
+  "conf": 1.0,
+  "size_pt": 35.52
+ },
+ {
+  "ward": 107,
+  "role": "road_name",
+  "text": "IV St",
+  "east": 418168.67,
+  "north": 1445474.97,
+  "conf": 1.0,
+  "size_pt": 14.76
+ },
+ {
+  "ward": 107,
+  "role": "road_name",
+  "text": "2nd StreetIst Street",
+  "east": 418057.54,
+  "north": 1445324.38,
+  "conf": 1.0,
+  "size_pt": 32.76
+ },
+ {
+  "ward": 107,
+  "role": "road_name",
+  "text": "\u2022 BL14th \u00f724.80176L3rd Street4th Street2nd StreetJaganadhapuram1st Street",
+  "east": 418037.65,
+  "north": 1445331.04,
+  "conf": 1.0,
+  "size_pt": 50.76
+ },
+ {
+  "ward": 107,
+  "role": "road_name",
+  "text": "t4th Stree5",
+  "east": 418087.39,
+  "north": 1445378.24,
+  "conf": 1.0,
+  "size_pt": 31.56
+ },
+ {
+  "ward": 107,
+  "role": "road_name",
+  "text": "SchoolRoad",
+  "east": 418069.5,
+  "north": 1445177.27,
+  "conf": 1.0,
+  "size_pt": 35.52
+ },
+ {
+  "ward": 107,
+  "role": "road_name",
+  "text": "lyya Street",
+  "east": 418044.0,
+  "north": 1445172.41,
+  "conf": 1.0,
+  "size_pt": 31.44
+ },
+ {
+  "ward": 107,
+  "role": "road_name",
+  "text": "Srinivasan StreetNew Colony",
+  "east": 418000.71,
+  "north": 1445152.93,
+  "conf": 1.0,
+  "size_pt": 50.88
+ },
+ {
+  "ward": 107,
+  "role": "road_name",
+  "text": "Jaganathapuram5th Street",
+  "east": 417959.86,
+  "north": 1445146.8,
+  "conf": 1.0,
+  "size_pt": 48.48
+ },
+ {
+  "ward": 107,
+  "role": "road_name",
+  "text": "Ist LaneIst Street3RanganathanpuramStreetB345.628JaganathapuramB335.695Jaya VinayagarKoil Street",
+  "east": 417827.47,
+  "north": 1445260.77,
+  "conf": 1.0,
+  "size_pt": 86.28
+ },
+ {
+  "ward": 107,
+  "role": "road_name",
+  "text": "Ist Lane",
+  "east": 417830.75,
+  "north": 1445329.77,
+  "conf": 1.0,
+  "size_pt": 25.44
+ },
+ {
+  "ward": 107,
+  "role": "road_name",
+  "text": "Mc Nichols Road",
+  "east": 417694.12,
+  "north": 1445087.11,
+  "conf": 1.0,
+  "size_pt": 51.96
+ },
+ {
+  "ward": 107,
+  "role": "road_name",
+  "text": "IV Lane",
+  "east": 417773.49,
+  "north": 1445089.54,
+  "conf": 1.0,
+  "size_pt": 22.68
+ },
+ {
+  "ward": 107,
+  "role": "road_name",
+  "text": "Harrington Rd",
+  "east": 417712.54,
+  "north": 1445009.85,
+  "conf": 1.0,
+  "size_pt": 40.8
+ },
+ {
+  "ward": 107,
+  "role": "road_name",
+  "text": "Harrington Road 14th Avenue",
+  "east": 417506.69,
+  "north": 1445021.28,
+  "conf": 1.0,
+  "size_pt": 92.88
+ },
+ {
+  "ward": 107,
+  "role": "road_name",
+  "text": "Mc Nichols Road I Lane",
+  "east": 417484.79,
+  "north": 1445211.25,
+  "conf": 1.0,
+  "size_pt": 74.76
+ },
+ {
+  "ward": 107,
+  "role": "road_name",
+  "text": "Mc Nichols Road II Lane",
+  "east": 417570.72,
+  "north": 1445251.46,
+  "conf": 1.0,
+  "size_pt": 76.44
+ },
+ {
+  "ward": 107,
+  "role": "road_name",
+  "text": "Mc Nichols Road",
+  "east": 417504.37,
+  "north": 1445158.44,
+  "conf": 1.0,
+  "size_pt": 52.32
+ },
+ {
+  "ward": 107,
+  "role": "road_name",
+  "text": "\\II Lane School",
+  "east": 417603.95,
+  "north": 1445153.04,
+  "conf": 1.0,
+  "size_pt": 46.2
+ },
+ {
+  "ward": 107,
+  "role": "road_name",
+  "text": "Nathan Street",
+  "east": 417287.31,
+  "north": 1445011.12,
+  "conf": 1.0,
+  "size_pt": 43.44
+ },
+ {
+  "ward": 107,
+  "role": "road_name",
+  "text": "0.200Dr. GuruswamyRoad",
+  "east": 417082.63,
+  "north": 1445430.52,
+  "conf": 1.0,
+  "size_pt": 43.08
+ },
+ {
+  "ward": 107,
+  "role": "road_name",
+  "text": "D335.512Nowroji Road ExtensionD",
+  "east": 417306.04,
+  "north": 1445400.15,
+  "conf": 1.0,
+  "size_pt": 70.32
+ },
+ {
+  "ward": 107,
+  "role": "road_name",
+  "text": "Doss Puram Road (Slum Road)",
+  "east": 417621.42,
+  "north": 1445538.68,
+  "conf": 1.0,
+  "size_pt": 99.0
+ },
+ {
+  "ward": 107,
+  "role": "road_name",
+  "text": "Harrington Road 11th Avenue",
+  "east": 416635.92,
+  "north": 1445448.41,
+  "conf": 1.0,
+  "size_pt": 92.16
+ },
+ {
+  "ward": 107,
+  "role": "road_name",
+  "text": "HarringtonRoad",
+  "east": 416679.63,
+  "north": 1445396.02,
+  "conf": 1.0,
+  "size_pt": 31.08
+ },
+ {
+  "ward": 107,
+  "role": "road_name",
+  "text": "HarringtonRoad",
+  "east": 416706.08,
+  "north": 1445141.19,
+  "conf": 1.0,
+  "size_pt": 31.08
+ },
+ {
+  "ward": 107,
+  "role": "road_name",
+  "text": "Chari Road",
+  "east": 416761.64,
+  "north": 1444923.71,
+  "conf": 1.0,
+  "size_pt": 33.36
+ },
+ {
+  "ward": 107,
+  "role": "road_name",
+  "text": "KandanStreetAppa (Rao) Garden1 CrossStCrossStStPillaiyar Koil Streetarden / CrossAppa (Rao)alam",
+  "east": 416543.74,
+  "north": 1445023.29,
+  "conf": 1.0,
+  "size_pt": 91.08
+ },
+ {
+  "ward": 107,
+  "role": "road_name",
+  "text": "Kandan Street",
+  "east": 416556.01,
+  "north": 1445170.18,
+  "conf": 1.0,
+  "size_pt": 44.52
+ },
+ {
+  "ward": 107,
+  "role": "road_name",
+  "text": "Harrington Road",
+  "east": 416733.28,
+  "north": 1445364.7,
+  "conf": 1.0,
+  "size_pt": 51.0
+ },
+ {
+  "ward": 107,
+  "role": "road_name",
+  "text": "/ Lane",
+  "east": 416656.87,
+  "north": 1445201.4,
+  "conf": 1.0,
+  "size_pt": 18.96
+ },
+ {
+  "ward": 107,
+  "role": "road_name",
+  "text": "|/ Lane",
+  "east": 416622.05,
+  "north": 1445209.34,
+  "conf": 1.0,
+  "size_pt": 20.52
+ },
+ {
+  "ward": 107,
+  "role": "road_name",
+  "text": "VenkatachalapathyStreet I|I Lane",
+  "east": 416584.8,
+  "north": 1445173.68,
+  "conf": 1.0,
+  "size_pt": 56.16
+ },
+ {
+  "ward": 107,
+  "role": "road_name",
+  "text": "5.5610Nowroji Road East WestDr Ag",
+  "east": 417336.52,
+  "north": 1445487.46,
+  "conf": 1.0,
+  "size_pt": 71.28
+ },
+ {
+  "ward": 107,
+  "role": "road_name",
+  "text": "Nowroji Road",
+  "east": 417235.98,
+  "north": 1445597.1,
+  "conf": 1.0,
+  "size_pt": 40.92
+ },
+ {
+  "ward": 107,
+  "role": "road_name",
+  "text": "Pachiappas CollegeHostel Road",
+  "east": 417322.55,
+  "north": 1445345.65,
+  "conf": 1.0,
+  "size_pt": 59.28
+ },
+ {
+  "ward": 107,
+  "role": "road_name",
+  "text": "Dr. Guruswamy Road",
+  "east": 417123.37,
+  "north": 1445588.21,
+  "conf": 1.0,
+  "size_pt": 61.56
+ },
+ {
+  "ward": 107,
+  "role": "road_name",
+  "text": "Nathan Street",
+  "east": 417166.24,
+  "north": 1445044.99,
+  "conf": 1.0,
+  "size_pt": 43.92
+ },
+ {
+  "ward": 107,
+  "role": "road_name",
+  "text": "Ramanathan SalaiMayar",
+  "east": 418101.04,
+  "north": 1445073.77,
+  "conf": 1.0,
+  "size_pt": 53.52
+ },
+ {
+  "ward": 107,
+  "role": "road_name",
+  "text": "Gillcreast Avenue",
+  "east": 417084.85,
+  "north": 1445095.68,
+  "conf": 1.0,
+  "size_pt": 52.44
+ },
+ {
+  "ward": 107,
+  "role": "road_name",
+  "text": "(School Road) E!Mc Nichols Road",
+  "east": 417713.49,
+  "north": 1445325.43,
+  "conf": 1.0,
+  "size_pt": 49.2
+ },
+ {
+  "ward": 107,
+  "role": "road_name",
+  "text": "Vaidyanathanne Street",
+  "east": 416626.92,
+  "north": 1445106.16,
+  "conf": 1.0,
+  "size_pt": 38.4
+ },
+ {
+  "ward": 107,
+  "role": "road_name",
+  "text": "Street",
+  "east": 418333.87,
+  "north": 1445189.87,
+  "conf": 1.0,
+  "size_pt": 17.28
+ },
+ {
+  "ward": 107,
+  "role": "location_names",
+  "text": "Park",
+  "east": 417427.96,
+  "north": 1445233.68,
+  "conf": 1.0,
+  "size_pt": 14.4
+ },
+ {
+  "ward": 107,
+  "role": "location_names",
+  "text": "Pachayappas",
+  "east": 416849.17,
+  "north": 1445547.36,
+  "conf": 1.0,
+  "size_pt": 43.56
+ },
+ {
+  "ward": 107,
+  "role": "location_names",
+  "text": "Ground",
+  "east": 416917.11,
+  "north": 1445548.73,
+  "conf": 1.0,
+  "size_pt": 22.92
+ },
+ {
+  "ward": 107,
+  "role": "location_names",
+  "text": "ParkGrass",
+  "east": 416826.52,
+  "north": 1445322.79,
+  "conf": 1.0,
+  "size_pt": 17.64
+ },
+ {
+  "ward": 107,
+  "role": "location_names",
+  "text": "MCCAuditorium",
+  "east": 417231.64,
+  "north": 1445061.29,
+  "conf": 1.0,
+  "size_pt": 35.88
+ },
+ {
+  "ward": 107,
+  "role": "location_names",
+  "text": "MadrasCollege",
+  "east": 417280.0,
+  "north": 1445093.88,
+  "conf": 1.0,
+  "size_pt": 25.68
+ },
+ {
+  "ward": 107,
+  "role": "location_names",
+  "text": "Christianhr sec",
+  "east": 417332.6,
+  "north": 1445095.26,
+  "conf": 1.0,
+  "size_pt": 28.2
+ },
+ {
+  "ward": 107,
+  "role": "location_names",
+  "text": "PsymedHospiyal",
+  "east": 416705.55,
+  "north": 1445171.45,
+  "conf": 1.0,
+  "size_pt": 27.12
+ },
+ {
+  "ward": 107,
+  "role": "location_names",
+  "text": "JosephsNursingHome",
+  "east": 417178.72,
+  "north": 1445449.57,
+  "conf": 1.0,
+  "size_pt": 26.28
+ },
+ {
+  "ward": 107,
+  "role": "location_names",
+  "text": "ZubedaHospitals Ltd.",
+  "east": 417185.18,
+  "north": 1445486.08,
+  "conf": 1.0,
+  "size_pt": 46.32
+ },
+ {
+  "ward": 107,
+  "role": "location_names",
+  "text": "Dr. ManjuKulkarniHospital",
+  "east": 417285.72,
+  "north": 1445539.95,
+  "conf": 1.0,
+  "size_pt": 29.04
+ },
+ {
+  "ward": 107,
+  "role": "location_names",
+  "text": "Dr AgarwalsEye Hospital Ltd,",
+  "east": 417405.31,
+  "north": 1445458.89,
+  "conf": 1.0,
+  "size_pt": 58.08
+ },
+ {
+  "ward": 107,
+  "role": "location_names",
+  "text": "SundaramCancerCentre",
+  "east": 417212.8,
+  "north": 1445662.08,
+  "conf": 1.0,
+  "size_pt": 32.76
+ },
+ {
+  "ward": 107,
+  "role": "location_names",
+  "text": "KRMCentre",
+  "east": 417727.25,
+  "north": 1445121.29,
+  "conf": 1.0,
+  "size_pt": 18.96
+ },
+ {
+  "ward": 107,
+  "role": "location_names",
+  "text": "HewlettPackard",
+  "east": 417780.06,
+  "north": 1445052.82,
+  "conf": 1.0,
+  "size_pt": 24.36
+ },
+ {
+  "ward": 107,
+  "role": "location_names",
+  "text": "Park",
+  "east": 418275.98,
+  "north": 1445414.75,
+  "conf": 1.0,
+  "size_pt": 13.08
+ },
+ {
+  "ward": 107,
+  "role": "location_names",
+  "text": "Park",
+  "east": 418579.61,
+  "north": 1445193.89,
+  "conf": 1.0,
+  "size_pt": 12.96
+ },
+ {
+  "ward": 107,
+  "role": "location_names",
+  "text": "Chetpet",
+  "east": 417872.66,
+  "north": 1445109.33,
+  "conf": 1.0,
+  "size_pt": 22.56
+ },
+ {
+  "ward": 107,
+  "role": "location_names",
+  "text": "'Bethany HealthCare Centre",
+  "east": 418087.39,
+  "north": 1445011.02,
+  "conf": 1.0,
+  "size_pt": 46.68
+ },
+ {
+  "ward": 107,
+  "role": "location_names",
+  "text": "SouthernRailway ChetpetStation",
+  "east": 417895.31,
+  "north": 1445512.65,
+  "conf": 1.0,
+  "size_pt": 48.72
+ },
+ {
+  "ward": 107,
+  "role": "location_names",
+  "text": "Chetpet",
+  "east": 417814.87,
+  "north": 1445174.84,
+  "conf": 1.0,
+  "size_pt": 22.56
+ },
+ {
+  "ward": 107,
+  "role": "location_names",
+  "text": "sec",
+  "east": 417340.22,
+  "north": 1445087.21,
+  "conf": 1.0,
+  "size_pt": 10.68
+ },
+ {
+  "ward": 107,
+  "role": "size_label",
+  "text": "Si",
+  "east": 418633.05,
+  "north": 1445203.41,
+  "conf": 1.0,
+  "size_pt": 11.16
+ }
+]

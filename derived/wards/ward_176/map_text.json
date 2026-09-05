@@ -1,0 +1,1199 @@
+[
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "23rd Cross StreetBesant Nagar",
+  "east": 420770.05,
+  "north": 1437069.64,
+  "conf": 1.0,
+  "size_pt": 56.52
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "Besant Nagar 3rd Main Road",
+  "east": 420812.39,
+  "north": 1437123.41,
+  "conf": 1.0,
+  "size_pt": 92.28
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "Besant Nagar 25th Cross Street",
+  "east": 420825.72,
+  "north": 1437182.79,
+  "conf": 1.0,
+  "size_pt": 97.08
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "Besant Nagar 26th Cross Street",
+  "east": 420827.84,
+  "north": 1437225.44,
+  "conf": 1.0,
+  "size_pt": 97.08
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "Besant Nagar 27th Cross Street",
+  "east": 420832.07,
+  "north": 1437269.16,
+  "conf": 1.0,
+  "size_pt": 97.08
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "Besant Nagar 28th Cross Street",
+  "east": 420839.27,
+  "north": 1437309.27,
+  "conf": 1.0,
+  "size_pt": 97.08
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "Besant Nagar 4th Main Road",
+  "east": 420846.57,
+  "north": 1437369.6,
+  "conf": 1.0,
+  "size_pt": 92.64
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "Sastri Nagar 14th Cross StreetEllaic",
+  "east": 420021.63,
+  "north": 1437241.96,
+  "conf": 1.0,
+  "size_pt": 94.56
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "Besant Avenue Road",
+  "east": 420572.15,
+  "north": 1438084.04,
+  "conf": 1.0,
+  "size_pt": 64.44
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "NagarBesant8th Cross StBesant Nagar Q9th Cross StBesantthStreet11th Cross St12th Cross13th Cross St3.847StB33.702B2",
+  "east": 420447.59,
+  "north": 1437090.39,
+  "conf": 1.0,
+  "size_pt": 102.72
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "Besant Nagar 1st AvenueIst Main RoadBesant Nagar",
+  "east": 420239.22,
+  "north": 1437272.12,
+  "conf": 1.0,
+  "size_pt": 82.44
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "Besant Nagar 5th Avanue",
+  "east": 420902.76,
+  "north": 1437611.03,
+  "conf": 1.0,
+  "size_pt": 79.56
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "Besant Nagar 3rd Avenue Road",
+  "east": 420664.33,
+  "north": 1437538.95,
+  "conf": 1.0,
+  "size_pt": 88.32
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "Besant Avenue Road",
+  "east": 419947.55,
+  "north": 1438105.21,
+  "conf": 1.0,
+  "size_pt": 61.8
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "Ist Main Road Besant Nagar",
+  "east": 420289.59,
+  "north": 1437130.19,
+  "conf": 1.0,
+  "size_pt": 90.24
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "2nd Street1st StreetDhamodarapuramDhamodarapuram3rd Street4th StreetDhamodarapuram Main RoadDhamodarapuramIst StreetDhamodarapuramIst StreetBeachBecca teune, avar di Nogo lat bose sr\u00e9eiHome Avenue1,2,3rd Colony1,2,3rd ColonyBesant Nagar 2nd Cross StreetBesant Nagar Ist Cross StreetSt.John's English Schooland Junior CollegeShastri\u2022 Nagar 4in Avenue\u2022 Customs Colony and Cross StreetNagarustomsColonyIst",
+  "east": 420265.36,
+  "north": 1437454.91,
+  "conf": 0.974,
+  "size_pt": 311.52
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "Vasantha Press Road",
+  "east": 419905.75,
+  "north": 1438366.64,
+  "conf": 1.0,
+  "size_pt": 66.24
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "ant NagarBesant Nagar 32nd Cross StreetCross Street",
+  "east": 420930.39,
+  "north": 1437497.25,
+  "conf": 1.0,
+  "size_pt": 101.28
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "Jayaram Avenue",
+  "east": 420040.47,
+  "north": 1437008.15,
+  "conf": 1.0,
+  "size_pt": 50.28
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "Jeevarathinam NagarIst Street",
+  "east": 419843.1,
+  "north": 1437441.57,
+  "conf": 1.0,
+  "size_pt": 57.36
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "eetay aiaeross stxCustoms Colony Ist Cross Street",
+  "east": 420525.38,
+  "north": 1437418.08,
+  "conf": 0.767,
+  "size_pt": 90.24
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "Jeevarathinam Nagar2nd Street",
+  "east": 419854.32,
+  "north": 1437499.15,
+  "conf": 1.0,
+  "size_pt": 65.52
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "35th Cross StreetBesant Nagar",
+  "east": 420911.87,
+  "north": 1437550.06,
+  "conf": 1.0,
+  "size_pt": 55.08
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "4th Cross StreetKarpagam Garden",
+  "east": 419960.67,
+  "north": 1437869.07,
+  "conf": 1.0,
+  "size_pt": 52.2
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "5th Cross StreetKarpagam Garden",
+  "east": 419957.08,
+  "north": 1437823.14,
+  "conf": 1.0,
+  "size_pt": 48.12
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "8th Cross St6th Cross Street (Karpagam Garden3.2",
+  "east": 419938.56,
+  "north": 1437768.63,
+  "conf": 1.0,
+  "size_pt": 48.48
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "Karpagam Garden2nd Link Road",
+  "east": 420120.58,
+  "north": 1438101.82,
+  "conf": 1.0,
+  "size_pt": 45.6
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "Venkateswara Nagar3rd Street",
+  "east": 420054.02,
+  "north": 1437670.83,
+  "conf": 1.0,
+  "size_pt": 57.96
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "Besant Nagar 7th Cross Street",
+  "east": 420343.03,
+  "north": 1437093.25,
+  "conf": 1.0,
+  "size_pt": 98.76
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "Besant Nagar 4th Cross Street",
+  "east": 420232.02,
+  "north": 1437132.73,
+  "conf": 1.0,
+  "size_pt": 98.88
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "VenkateswaraNagar 5th Street",
+  "east": 419920.78,
+  "north": 1437643.63,
+  "conf": 1.0,
+  "size_pt": 46.92
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "Jaya VinayagarKoil Street",
+  "east": 420194.98,
+  "north": 1438279.74,
+  "conf": 1.0,
+  "size_pt": 46.44
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "5th Cross StreetSastri Nagar",
+  "east": 419605.3,
+  "north": 1437050.28,
+  "conf": 1.0,
+  "size_pt": 52.44
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "LB Road",
+  "east": 419305.17,
+  "north": 1437137.07,
+  "conf": 1.0,
+  "size_pt": 26.52
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "Sastri Nagar1st Avenue",
+  "east": 419484.02,
+  "north": 1437393.1,
+  "conf": 1.0,
+  "size_pt": 39.0
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "Parameswari Nagar Ist Street",
+  "east": 419587.94,
+  "north": 1437617.49,
+  "conf": 1.0,
+  "size_pt": 95.16
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "294D19astri Nagar 4th CrossStreet10PharmacyQSastri Nagarl5th LaneQSastri Nagar 3rd Cross StreetSastri Nagar 7th LaneSastri Nagar 4th Lane00VSastri Nagar 2nd LaneanSastri Nagar Ist Avenue6th Lane3rd LaneMainRoad,Sastri Nagar",
+  "east": 419620.86,
+  "north": 1437242.27,
+  "conf": 1.0,
+  "size_pt": 131.4
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "Sastri Nagar 4th Cross Street",
+  "east": 419606.46,
+  "north": 1437095.79,
+  "conf": 1.0,
+  "size_pt": 95.04
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "shmi4.020F4Padmanabha Nagar94.037 1st StreetF3Padmanabha Nagar2nd Street3.6473.882F6^Padmanabha NagaroSchoolSishya3rd StreetPadmanabha NagStreet3rd",
+  "east": 419644.77,
+  "north": 1437823.14,
+  "conf": 1.0,
+  "size_pt": 137.04
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "Fly Over",
+  "east": 419526.56,
+  "north": 1438038.42,
+  "conf": 1.0,
+  "size_pt": 21.72
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "86.Parameswar\u0131Nagar 4th StreetParameswari Nagar 2nd StreetParameswari Nagar 3rd Street",
+  "east": 419587.73,
+  "north": 1437492.91,
+  "conf": 1.0,
+  "size_pt": 123.48
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "cersCross Stint NagarBesang Nagar 17thCross StreetSS19thBesant Nagar 16th Cross StreetCross St20thStBesant Nagar 18th Cross Street",
+  "east": 420731.22,
+  "north": 1436897.65,
+  "conf": 1.0,
+  "size_pt": 105.0
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "Besant Nagar 2nd Main Road",
+  "east": 420376.05,
+  "north": 1436978.83,
+  "conf": 1.0,
+  "size_pt": 93.6
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "Ramasamy Avenue",
+  "east": 420045.13,
+  "north": 1436932.15,
+  "conf": 1.0,
+  "size_pt": 57.96
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "Besant Nagar 18th Cross Street",
+  "east": 420775.98,
+  "north": 1436911.2,
+  "conf": 1.0,
+  "size_pt": 85.08
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "Sastri Nagar10th Cross Street",
+  "east": 419888.18,
+  "north": 1436922.73,
+  "conf": 1.0,
+  "size_pt": 48.0
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "Sastri Nagar 6th Cross Street",
+  "east": 419550.9,
+  "north": 1436958.51,
+  "conf": 1.0,
+  "size_pt": 95.16
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "& XV cross StreetSastri nagar |I, IX",
+  "east": 419473.97,
+  "north": 1437313.08,
+  "conf": 1.0,
+  "size_pt": 60.0
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "Sastri Nagar 9thCross Street",
+  "east": 419791.35,
+  "north": 1436927.6,
+  "conf": 1.0,
+  "size_pt": 43.08
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "3rd Cross StreetKarpagam Garden",
+  "east": 419972.0,
+  "north": 1437920.41,
+  "conf": 1.0,
+  "size_pt": 48.0
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "2nd Cross StreetKarpagam Garden",
+  "east": 419970.83,
+  "north": 1437972.06,
+  "conf": 1.0,
+  "size_pt": 48.84
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "Besant Nagdr 2nd Avenue22nd Cross StBesant Nagar",
+  "east": 420622.11,
+  "north": 1436996.3,
+  "conf": 1.0,
+  "size_pt": 78.84
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "JeevarathinamNagar Ist w\u00f3Cross Street8=",
+  "east": 419931.36,
+  "north": 1437400.72,
+  "conf": 1.0,
+  "size_pt": 46.8
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "Sastiri Nagar9th Lane",
+  "east": 419470.58,
+  "north": 1437150.08,
+  "conf": 1.0,
+  "size_pt": 40.56
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "15th Cross Street",
+  "east": 419434.17,
+  "north": 1437225.23,
+  "conf": 1.0,
+  "size_pt": 54.72
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "Durgabai Deshmukh Road",
+  "east": 419637.47,
+  "north": 1438358.17,
+  "conf": 1.0,
+  "size_pt": 80.16
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "Karpagam Garden1st Cross Street",
+  "east": 419974.33,
+  "north": 1438026.57,
+  "conf": 1.0,
+  "size_pt": 48.0
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "Sastri Nagar 2nd AvenueA",
+  "east": 419483.49,
+  "north": 1436911.73,
+  "conf": 1.0,
+  "size_pt": 78.72
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "7th Avenue",
+  "east": 420310.12,
+  "north": 1436788.53,
+  "conf": 1.0,
+  "size_pt": 34.44
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "3rd Lane",
+  "east": 419662.13,
+  "north": 1437283.76,
+  "conf": 1.0,
+  "size_pt": 27.12
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "Sastri Nagar32nd Cross Street",
+  "east": 419507.41,
+  "north": 1437239.52,
+  "conf": 1.0,
+  "size_pt": 53.88
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "Sastri Nagar 1st Avenue",
+  "east": 419647.1,
+  "north": 1437357.32,
+  "conf": 1.0,
+  "size_pt": 76.8
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "7th Cross StreetSastri Nagar",
+  "east": 419929.03,
+  "north": 1437111.13,
+  "conf": 1.0,
+  "size_pt": 52.08
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "Sastri Nagar 11th Cross Street",
+  "east": 419834.74,
+  "north": 1437239.73,
+  "conf": 1.0,
+  "size_pt": 97.56
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "Sastri Nagar12th Cross Street",
+  "east": 419843.52,
+  "north": 1437063.4,
+  "conf": 1.0,
+  "size_pt": 98.16
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "8th Cross StreetSastri Nagar",
+  "east": 419912.1,
+  "north": 1437014.29,
+  "conf": 1.0,
+  "size_pt": 52.56
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "(Ellaiamman Koil)Apranji Avenue",
+  "east": 420035.28,
+  "north": 1436881.24,
+  "conf": 1.0,
+  "size_pt": 53.76
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "State Bank Colony",
+  "east": 420064.81,
+  "north": 1437120.24,
+  "conf": 1.0,
+  "size_pt": 58.2
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "Ellaiamman Koil",
+  "east": 420075.6,
+  "north": 1437167.13,
+  "conf": 1.0,
+  "size_pt": 49.08
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "KoilEllaiamman KoilColonyColonyKakkanAdi Dravidar",
+  "east": 420158.36,
+  "north": 1437193.59,
+  "conf": 1.0,
+  "size_pt": 63.0
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "4th Cross StreetBesant Nagar",
+  "east": 420224.72,
+  "north": 1437005.5,
+  "conf": 1.0,
+  "size_pt": 52.32
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "6th Cross Street10th CrossBesant Nagar10th Cross St",
+  "east": 420409.92,
+  "north": 1437229.36,
+  "conf": 1.0,
+  "size_pt": 97.44
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "Besant Nagar4th Cross St",
+  "east": 420533.21,
+  "north": 1436950.99,
+  "conf": 1.0,
+  "size_pt": 41.64
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "Cross St15th",
+  "east": 420526.44,
+  "north": 1436830.65,
+  "conf": 1.0,
+  "size_pt": 25.8
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "2nd Main RoadBesant Nagar7thAvenue",
+  "east": 420415.63,
+  "north": 1436874.79,
+  "conf": 1.0,
+  "size_pt": 48.48
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "7th Avenue",
+  "east": 420362.51,
+  "north": 1436832.98,
+  "conf": 1.0,
+  "size_pt": 34.32
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "31st Cross StreetBesant Nagar",
+  "east": 420196.14,
+  "north": 1436874.47,
+  "conf": 1.0,
+  "size_pt": 55.2
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "6th Cross St",
+  "east": 420485.37,
+  "north": 1436839.33,
+  "conf": 1.0,
+  "size_pt": 40.32
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "7th Cross StreetBesant Nagar",
+  "east": 420650.04,
+  "north": 1437207.87,
+  "conf": 1.0,
+  "size_pt": 50.52
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "22nd Cross StreetBesant Nagar",
+  "east": 420771.32,
+  "north": 1437011.22,
+  "conf": 1.0,
+  "size_pt": 57.72
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "Besant Nagar 16th Cross Street",
+  "east": 420838.1,
+  "north": 1436957.56,
+  "conf": 1.0,
+  "size_pt": 102.12
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "Besant Nagar 24th Cross Street",
+  "east": 420713.44,
+  "north": 1437239.1,
+  "conf": 1.0,
+  "size_pt": 102.84
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "34th Cross StreetBesant Nagar",
+  "east": 420859.16,
+  "north": 1437477.24,
+  "conf": 1.0,
+  "size_pt": 56.28
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "Besant Nagar 6th Avenue Road",
+  "east": 420941.82,
+  "north": 1437131.56,
+  "conf": 1.0,
+  "size_pt": 100.68
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "s StreetBesant Nagar 6th Avenue Road",
+  "east": 421031.98,
+  "north": 1437434.27,
+  "conf": 1.0,
+  "size_pt": 87.24
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "EllaiarKoilKoilEllaiammanBesant NagarKuppam5th AvenueUrur",
+  "east": 421209.56,
+  "north": 1437664.59,
+  "conf": 1.0,
+  "size_pt": 62.4
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "adThiruvalluvarNagar Ist Main RoadIst Cross St2nd Cross St3rd Cross St",
+  "east": 421046.48,
+  "north": 1437673.79,
+  "conf": 1.0,
+  "size_pt": 109.44
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "Urur Alcot Kuppam Road",
+  "east": 420931.02,
+  "north": 1437687.55,
+  "conf": 1.0,
+  "size_pt": 77.52
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "lavar lat rBesant Nagar 4th Avenue",
+  "east": 420444.63,
+  "north": 1437549.43,
+  "conf": 0.75,
+  "size_pt": 72.24
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "Beach Home Avenue1,2, 3rd Colony",
+  "east": 420221.75,
+  "north": 1437411.62,
+  "conf": 1.0,
+  "size_pt": 62.28
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "Dhamodarapuram1st Street",
+  "east": 420159.53,
+  "north": 1437440.52,
+  "conf": 1.0,
+  "size_pt": 51.6
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "Besant Nagar 1st Avenue",
+  "east": 420350.02,
+  "north": 1437320.6,
+  "conf": 1.0,
+  "size_pt": 79.92
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "Jeevarathinam NagarMain Road",
+  "east": 419720.55,
+  "north": 1437442.95,
+  "conf": 1.0,
+  "size_pt": 65.4
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "Parameswari Nagar 3rd Street",
+  "east": 419612.28,
+  "north": 1437469.09,
+  "conf": 1.0,
+  "size_pt": 95.64
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "Anvar Miyan Garden",
+  "east": 419443.8,
+  "north": 1437491.43,
+  "conf": 1.0,
+  "size_pt": 61.56
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "Parameswari\u2022Nagar Extension",
+  "east": 419694.51,
+  "north": 1437614.42,
+  "conf": 1.0,
+  "size_pt": 61.32
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "Padmanabha Nagar 24 Lane",
+  "east": 419770.18,
+  "north": 1437623.09,
+  "conf": 1.0,
+  "size_pt": 89.64
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "Padmanabha Nagar3rd Street4th StreetPadmanabha Nagar",
+  "east": 419697.9,
+  "north": 1437725.97,
+  "conf": 1.0,
+  "size_pt": 83.04
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "5th StreetPadmanabha Nagar",
+  "east": 419809.34,
+  "north": 1437864.1,
+  "conf": 1.0,
+  "size_pt": 96.72
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "Royal Enclave",
+  "east": 419730.92,
+  "north": 1437968.99,
+  "conf": 1.0,
+  "size_pt": 41.88
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "Dr. Muthulakshmi Salai",
+  "east": 419372.05,
+  "north": 1437483.7,
+  "conf": 1.0,
+  "size_pt": 71.52
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "Dr.MuthulakshmiSalai",
+  "east": 419497.99,
+  "north": 1437768.52,
+  "conf": 1.0,
+  "size_pt": 50.04
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "7th Cross StreetKarpagam Garden",
+  "east": 419938.34,
+  "north": 1437718.78,
+  "conf": 1.0,
+  "size_pt": 55.92
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "Karpagam Garden2nd Main Road",
+  "east": 419875.8,
+  "north": 1437999.79,
+  "conf": 1.0,
+  "size_pt": 54.72
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "Karpagam GardenIst Link Road",
+  "east": 420179.63,
+  "north": 1438086.58,
+  "conf": 1.0,
+  "size_pt": 55.68
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "Besant Avenue Road",
+  "east": 420250.75,
+  "north": 1438240.05,
+  "conf": 1.0,
+  "size_pt": 65.28
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "\u0131verDurgabai Deshmukh Road",
+  "east": 419597.26,
+  "north": 1438023.92,
+  "conf": 1.0,
+  "size_pt": 70.44
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "Karpagam Garden Ist Main Road",
+  "east": 420039.3,
+  "north": 1437877.75,
+  "conf": 1.0,
+  "size_pt": 103.08
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "ArunachalapuramMain Road",
+  "east": 419719.38,
+  "north": 1438275.83,
+  "conf": 1.0,
+  "size_pt": 52.32
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "Arunachalapuram Main Road Ponni Amman Koit,Ponni Amman Koil StreetArianar Annavaya vinayKoil Stre",
+  "east": 420061.85,
+  "north": 1438243.23,
+  "conf": 1.0,
+  "size_pt": 166.92
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "RamasamyGarden",
+  "east": 420089.15,
+  "north": 1438341.55,
+  "conf": 1.0,
+  "size_pt": 32.52
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "Arunachalapuram2nd Street",
+  "east": 419782.03,
+  "north": 1438335.1,
+  "conf": 1.0,
+  "size_pt": 52.56
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "Blue Cross Street",
+  "east": 420167.36,
+  "north": 1437933.32,
+  "conf": 1.0,
+  "size_pt": 55.2
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "Besant Nagar 5th AvenueranKuppamAlcot",
+  "east": 421204.17,
+  "north": 1437756.77,
+  "conf": 1.0,
+  "size_pt": 79.08
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "KuppamAlcot",
+  "east": 421254.86,
+  "north": 1437772.76,
+  "conf": 1.0,
+  "size_pt": 23.52
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "EllaiammanKoil",
+  "east": 421171.04,
+  "north": 1437715.07,
+  "conf": 1.0,
+  "size_pt": 33.84
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "11th Cross StSastri Nagar",
+  "east": 419895.06,
+  "north": 1437235.18,
+  "conf": 1.0,
+  "size_pt": 41.64
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "7th Avenue",
+  "east": 420623.59,
+  "north": 1436752.86,
+  "conf": 1.0,
+  "size_pt": 34.44
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "Venkateswara Nagar2nd Street",
+  "east": 420054.54,
+  "north": 1437613.78,
+  "conf": 1.0,
+  "size_pt": 61.92
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "Venkateswara NagarIst Street",
+  "east": 420050.42,
+  "north": 1437564.35,
+  "conf": 1.0,
+  "size_pt": 62.04
+ },
+ {
+  "ward": 176,
+  "role": "road_name",
+  "text": "ArunachalapuramMain Road",
+  "east": 419823.31,
+  "north": 1438241.11,
+  "conf": 1.0,
+  "size_pt": 52.56
+ },
+ {
+  "ward": 176,
+  "role": "location_names",
+  "text": "Sri Sankara SeniorSecondary School",
+  "east": 419910.41,
+  "north": 1438334.36,
+  "conf": 1.0,
+  "size_pt": 64.8
+ },
+ {
+  "ward": 176,
+  "role": "location_names",
+  "text": "St.John's English Schooland Junior College",
+  "east": 420399.55,
+  "north": 1437451.1,
+  "conf": 1.0,
+  "size_pt": 75.84
+ },
+ {
+  "ward": 176,
+  "role": "location_names",
+  "text": "Government HigherSecondary SchoolArignar Anna",
+  "east": 420137.83,
+  "north": 1438189.78,
+  "conf": 1.0,
+  "size_pt": 58.68
+ },
+ {
+  "ward": 176,
+  "role": "location_names",
+  "text": "Vinayakar KoilVarasiddhiA4Government HigherSecondary SchoolArignar Anna",
+  "east": 420615.02,
+  "north": 1437318.27,
+  "conf": 1.0,
+  "size_pt": 108.0
+ },
+ {
+  "ward": 176,
+  "role": "location_names",
+  "text": "OfficePostAdyar",
+  "east": 419787.75,
+  "north": 1438025.93,
+  "conf": 1.0,
+  "size_pt": 21.24
+ },
+ {
+  "ward": 176,
+  "role": "location_names",
+  "text": "Police StationShastri Nagar",
+  "east": 420416.8,
+  "north": 1437343.35,
+  "conf": 1.0,
+  "size_pt": 48.36
+ },
+ {
+  "ward": 176,
+  "role": "location_names",
+  "text": "SchoolSishya",
+  "east": 419665.41,
+  "north": 1437802.92,
+  "conf": 1.0,
+  "size_pt": 21.48
+ },
+ {
+  "ward": 176,
+  "role": "location_names",
+  "text": "Shiva VishnuTemple 1",
+  "east": 419612.81,
+  "north": 1437408.87,
+  "conf": 1.0,
+  "size_pt": 42.72
+ },
+ {
+  "ward": 176,
+  "role": "location_names",
+  "text": "\u2022NagappaPharmacy",
+  "east": 419571.54,
+  "north": 1437190.3,
+  "conf": 1.0,
+  "size_pt": 33.6
+ },
+ {
+  "ward": 176,
+  "role": "location_names",
+  "text": "'SupermarketSpencers",
+  "east": 420636.5,
+  "north": 1436798.69,
+  "conf": 1.0,
+  "size_pt": 41.88
+ },
+ {
+  "ward": 176,
+  "role": "location_names",
+  "text": "RatnagirishwararKoil",
+  "east": 420545.59,
+  "north": 1436882.94,
+  "conf": 1.0,
+  "size_pt": 47.52
+ },
+ {
+  "ward": 176,
+  "role": "location_names",
+  "text": "Anand BhavanAdyar",
+  "east": 419593.34,
+  "north": 1436922.95,
+  "conf": 1.0,
+  "size_pt": 48.48
+ }
+]

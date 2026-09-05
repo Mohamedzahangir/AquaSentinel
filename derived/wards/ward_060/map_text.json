@@ -1,0 +1,1235 @@
+[
+ {
+  "ward": 60,
+  "role": "road_name",
+  "text": "Quaid e-Milleth Bridge",
+  "east": 422084.04,
+  "north": 1445814.81,
+  "conf": 1.0,
+  "size_pt": 51.6
+ },
+ {
+  "ward": 60,
+  "role": "road_name",
+  "text": "Saint Thomas Street",
+  "east": 422667.65,
+  "north": 1445829.95,
+  "conf": 1.0,
+  "size_pt": 63.24
+ },
+ {
+  "ward": 60,
+  "role": "road_name",
+  "text": "Choultry Street",
+  "east": 422631.88,
+  "north": 1446188.6,
+  "conf": 1.0,
+  "size_pt": 46.56
+ },
+ {
+  "ward": 60,
+  "role": "road_name",
+  "text": "Gloucester Street",
+  "east": 422804.09,
+  "north": 1446143.94,
+  "conf": 1.0,
+  "size_pt": 51.6
+ },
+ {
+  "ward": 60,
+  "role": "road_name",
+  "text": "Charles Street",
+  "east": 422592.61,
+  "north": 1445870.48,
+  "conf": 1.0,
+  "size_pt": 42.96
+ },
+ {
+  "ward": 60,
+  "role": "road_name",
+  "text": "St George Gate",
+  "east": 422526.88,
+  "north": 1446143.1,
+  "conf": 1.0,
+  "size_pt": 40.8
+ },
+ {
+  "ward": 60,
+  "role": "road_name",
+  "text": "Santhome Gate",
+  "east": 422579.06,
+  "north": 1445644.01,
+  "conf": 1.0,
+  "size_pt": 42.24
+ },
+ {
+  "ward": 60,
+  "role": "road_name",
+  "text": "Muthuswamy Road",
+  "east": 422217.93,
+  "north": 1446472.65,
+  "conf": 1.0,
+  "size_pt": 51.6
+ },
+ {
+  "ward": 60,
+  "role": "road_name",
+  "text": "Rajaji Salai Road",
+  "east": 422732.32,
+  "north": 1445790.47,
+  "conf": 1.0,
+  "size_pt": 53.28
+ },
+ {
+  "ward": 60,
+  "role": "road_name",
+  "text": "NorthSea Gate",
+  "east": 422788.74,
+  "north": 1446058.33,
+  "conf": 1.0,
+  "size_pt": 26.64
+ },
+ {
+  "ward": 60,
+  "role": "road_name",
+  "text": "Prakasam Road (Broadway)",
+  "east": 422661.83,
+  "north": 1447788.95,
+  "conf": 1.0,
+  "size_pt": 86.16
+ },
+ {
+  "ward": 60,
+  "role": "road_name",
+  "text": "Ebrahim Shahib street",
+  "east": 423560.44,
+  "north": 1448627.75,
+  "conf": 1.0,
+  "size_pt": 68.64
+ },
+ {
+  "ward": 60,
+  "role": "road_name",
+  "text": "Mannady Street",
+  "east": 422927.29,
+  "north": 1447868.43,
+  "conf": 1.0,
+  "size_pt": 47.88
+ },
+ {
+  "ward": 60,
+  "role": "road_name",
+  "text": "Francis Joseph Street",
+  "east": 422591.02,
+  "north": 1447075.45,
+  "conf": 1.0,
+  "size_pt": 68.16
+ },
+ {
+  "ward": 60,
+  "role": "road_name",
+  "text": "GomesStreet",
+  "east": 422687.55,
+  "north": 1447158.63,
+  "conf": 1.0,
+  "size_pt": 42.0
+ },
+ {
+  "ward": 60,
+  "role": "road_name",
+  "text": "Armenian Street",
+  "east": 422881.67,
+  "north": 1447724.82,
+  "conf": 1.0,
+  "size_pt": 50.64
+ },
+ {
+  "ward": 60,
+  "role": "road_name",
+  "text": "Post OfficeStreet",
+  "east": 422850.66,
+  "north": 1447610.94,
+  "conf": 1.0,
+  "size_pt": 34.44
+ },
+ {
+  "ward": 60,
+  "role": "road_name",
+  "text": "Linghi (Chetty) Street",
+  "east": 422954.49,
+  "north": 1447347.43,
+  "conf": 1.0,
+  "size_pt": 67.92
+ },
+ {
+  "ward": 60,
+  "role": "road_name",
+  "text": "IInd Line Beach Road",
+  "east": 423092.82,
+  "north": 1447329.55,
+  "conf": 1.0,
+  "size_pt": 65.4
+ },
+ {
+  "ward": 60,
+  "role": "road_name",
+  "text": "Narayanappa NaickenStreetJaffer Serang StreetMannady Street",
+  "east": 423233.07,
+  "north": 1447852.66,
+  "conf": 1.0,
+  "size_pt": 137.76
+ },
+ {
+  "ward": 60,
+  "role": "road_name",
+  "text": "CorporationColonyNorth BeachRoad 4th Line3rd LineKandappa St",
+  "east": 423432.9,
+  "north": 1448375.03,
+  "conf": 1.0,
+  "size_pt": 65.76
+ },
+ {
+  "ward": 60,
+  "role": "road_name",
+  "text": "Mettu Street",
+  "east": 423107.32,
+  "north": 1448371.11,
+  "conf": 1.0,
+  "size_pt": 39.36
+ },
+ {
+  "ward": 60,
+  "role": "road_name",
+  "text": "Ibrahimz(Sahib) 2nd LaneNarayanaIst LaneSerang GardeneeraliLane",
+  "east": 423321.44,
+  "north": 1448410.91,
+  "conf": 1.0,
+  "size_pt": 62.28
+ },
+ {
+  "ward": 60,
+  "role": "road_name",
+  "text": "Ayappa Street",
+  "east": 422800.28,
+  "north": 1447732.44,
+  "conf": 1.0,
+  "size_pt": 44.16
+ },
+ {
+  "ward": 60,
+  "role": "road_name",
+  "text": "Muthumari Street",
+  "east": 422832.56,
+  "north": 1447732.01,
+  "conf": 1.0,
+  "size_pt": 54.0
+ },
+ {
+  "ward": 60,
+  "role": "road_name",
+  "text": "Moore Street",
+  "east": 423059.48,
+  "north": 1447341.93,
+  "conf": 1.0,
+  "size_pt": 40.08
+ },
+ {
+  "ward": 60,
+  "role": "road_name",
+  "text": "KachaleeswararAgraharam Street",
+  "east": 422794.77,
+  "north": 1447562.9,
+  "conf": 1.0,
+  "size_pt": 55.08
+ },
+ {
+  "ward": 60,
+  "role": "road_name",
+  "text": "Subbu Lane",
+  "east": 423325.04,
+  "north": 1447992.35,
+  "conf": 1.0,
+  "size_pt": 34.68
+ },
+ {
+  "ward": 60,
+  "role": "road_name",
+  "text": "Kandappa,Velayutham StreetThottam StreetNarayana SarangVaradharajan (Mudali) StreetBearer StreetPrayererang Stach Rdth Lined Lineine",
+  "east": 423377.65,
+  "north": 1448259.78,
+  "conf": 1.0,
+  "size_pt": 102.72
+ },
+ {
+  "ward": 60,
+  "role": "road_name",
+  "text": "Mookar Nallamuthu Street",
+  "east": 422770.22,
+  "north": 1447471.04,
+  "conf": 1.0,
+  "size_pt": 81.72
+ },
+ {
+  "ward": 60,
+  "role": "road_name",
+  "text": "Rajaji Salai RoadU",
+  "east": 423266.09,
+  "north": 1447648.94,
+  "conf": 1.0,
+  "size_pt": 53.16
+ },
+ {
+  "ward": 60,
+  "role": "road_name",
+  "text": "RBI Subway",
+  "east": 422971.32,
+  "north": 1446475.29,
+  "conf": 1.0,
+  "size_pt": 35.88
+ },
+ {
+  "ward": 60,
+  "role": "road_name",
+  "text": "Napier's#Bridge",
+  "east": 422419.88,
+  "north": 1444800.23,
+  "conf": 1.0,
+  "size_pt": 45.72
+ },
+ {
+  "ward": 60,
+  "role": "road_name",
+  "text": "SouthSea Gate",
+  "east": 422762.07,
+  "north": 1445946.89,
+  "conf": 1.0,
+  "size_pt": 23.28
+ },
+ {
+  "ward": 60,
+  "role": "road_name",
+  "text": "Middle Gate Street",
+  "east": 422698.67,
+  "north": 1446175.48,
+  "conf": 1.0,
+  "size_pt": 58.08
+ },
+ {
+  "ward": 60,
+  "role": "road_name",
+  "text": "James Street",
+  "east": 422764.61,
+  "north": 1446145.32,
+  "conf": 1.0,
+  "size_pt": 41.16
+ },
+ {
+  "ward": 60,
+  "role": "road_name",
+  "text": "Wallajah Gate",
+  "east": 422398.18,
+  "north": 1445936.62,
+  "conf": 1.0,
+  "size_pt": 39.12
+ },
+ {
+  "ward": 60,
+  "role": "road_name",
+  "text": "North Fort Road",
+  "east": 422687.02,
+  "north": 1446644.2,
+  "conf": 1.0,
+  "size_pt": 51.96
+ },
+ {
+  "ward": 60,
+  "role": "road_name",
+  "text": "Rajaji Salai Road",
+  "east": 422477.98,
+  "north": 1445103.85,
+  "conf": 1.0,
+  "size_pt": 53.28
+ },
+ {
+  "ward": 60,
+  "role": "road_name",
+  "text": "Errabalu (Chetty) StreetSembudossStreetMacklean Strot",
+  "east": 422720.36,
+  "north": 1447259.8,
+  "conf": 1.0,
+  "size_pt": 96.0
+ },
+ {
+  "ward": 60,
+  "role": "road_name",
+  "text": "Tucker Lane",
+  "east": 422666.38,
+  "north": 1447551.36,
+  "conf": 1.0,
+  "size_pt": 36.0
+ },
+ {
+  "ward": 60,
+  "role": "road_name",
+  "text": "Chetty StreetSunkurama",
+  "east": 422636.01,
+  "north": 1447056.08,
+  "conf": 1.0,
+  "size_pt": 41.16
+ },
+ {
+  "ward": 60,
+  "role": "road_name",
+  "text": "Sembudoss Street",
+  "east": 422735.82,
+  "north": 1447738.47,
+  "conf": 1.0,
+  "size_pt": 56.28
+ },
+ {
+  "ward": 60,
+  "role": "road_name",
+  "text": "Jones Street",
+  "east": 422693.8,
+  "north": 1447815.09,
+  "conf": 1.0,
+  "size_pt": 39.0
+ },
+ {
+  "ward": 60,
+  "role": "road_name",
+  "text": "Singanna Street",
+  "east": 422704.38,
+  "north": 1447375.9,
+  "conf": 1.0,
+  "size_pt": 49.08
+ },
+ {
+  "ward": 60,
+  "role": "road_name",
+  "text": "Venkata Street",
+  "east": 422769.48,
+  "north": 1447738.26,
+  "conf": 1.0,
+  "size_pt": 45.0
+ },
+ {
+  "ward": 60,
+  "role": "road_name",
+  "text": "Rajaji Salai Road",
+  "east": 423188.08,
+  "north": 1447278.01,
+  "conf": 1.0,
+  "size_pt": 52.32
+ },
+ {
+  "ward": 60,
+  "role": "road_name",
+  "text": "Post Office Street",
+  "east": 423055.99,
+  "north": 1447557.71,
+  "conf": 1.0,
+  "size_pt": 56.76
+ },
+ {
+  "ward": 60,
+  "role": "road_name",
+  "text": "Mootaikaran Street4.579IbrahimEtsahib) 2nAngappan (Naickan) StreetEdga MasudiStreetLabbai) StMaraikayar",
+  "east": 423236.35,
+  "north": 1448368.05,
+  "conf": 0.944,
+  "size_pt": 131.04
+ },
+ {
+  "ward": 60,
+  "role": "road_name",
+  "text": "Krishnan Koil Street",
+  "east": 423102.67,
+  "north": 1448133.53,
+  "conf": 1.0,
+  "size_pt": 62.4
+ },
+ {
+  "ward": 60,
+  "role": "road_name",
+  "text": "Arbuthnot Lane",
+  "east": 423252.22,
+  "north": 1447746.41,
+  "conf": 1.0,
+  "size_pt": 46.68
+ },
+ {
+  "ward": 60,
+  "role": "road_name",
+  "text": "Vadamaracoir Street",
+  "east": 423209.04,
+  "north": 1448038.92,
+  "conf": 1.0,
+  "size_pt": 60.72
+ },
+ {
+  "ward": 60,
+  "role": "road_name",
+  "text": "Kondi Street",
+  "east": 422690.73,
+  "north": 1447069.73,
+  "conf": 1.0,
+  "size_pt": 38.4
+ },
+ {
+  "ward": 60,
+  "role": "road_name",
+  "text": "Serang StPrayer",
+  "east": 423330.76,
+  "north": 1448191.52,
+  "conf": 1.0,
+  "size_pt": 30.48
+ },
+ {
+  "ward": 60,
+  "role": "road_name",
+  "text": "Varadharajan (Mudali) sSulthanBearer StreePrayerSerang StAdam Street4th Line3rd Line(Labbai) Street :Maraikayar2nd Line&North Beach RdWest MaadavethiO(Chetty) Streetet",
+  "east": 423316.79,
+  "north": 1448160.3,
+  "conf": 1.0,
+  "size_pt": 137.64
+ },
+ {
+  "ward": 60,
+  "role": "road_name",
+  "text": "Angappan (Naickan) Street",
+  "east": 422975.23,
+  "north": 1447128.36,
+  "conf": 1.0,
+  "size_pt": 84.24
+ },
+ {
+  "ward": 60,
+  "role": "road_name",
+  "text": "Thambu Chetty Street",
+  "east": 423042.13,
+  "north": 1448280.42,
+  "conf": 1.0,
+  "size_pt": 67.92
+ },
+ {
+  "ward": 60,
+  "role": "road_name",
+  "text": "Moore Street",
+  "east": 423026.14,
+  "north": 1447122.86,
+  "conf": 1.0,
+  "size_pt": 39.84
+ },
+ {
+  "ward": 60,
+  "role": "road_name",
+  "text": "Philips street",
+  "east": 422596.0,
+  "north": 1447165.4,
+  "conf": 1.0,
+  "size_pt": 40.92
+ },
+ {
+  "ward": 60,
+  "role": "road_name",
+  "text": "Netaji Subhash Chandra Bose Road",
+  "east": 422886.75,
+  "north": 1446981.58,
+  "conf": 1.0,
+  "size_pt": 112.08
+ },
+ {
+  "ward": 60,
+  "role": "road_name",
+  "text": "Royapufam Bridge",
+  "east": 423154.95,
+  "north": 1448847.56,
+  "conf": 1.0,
+  "size_pt": 55.56
+ },
+ {
+  "ward": 60,
+  "role": "road_name",
+  "text": "olreeRajaji Salai Road",
+  "east": 422831.18,
+  "north": 1446134.1,
+  "conf": 1.0,
+  "size_pt": 52.44
+ },
+ {
+  "ward": 60,
+  "role": "road_name",
+  "text": "Muthusamy Salai",
+  "east": 422102.35,
+  "north": 1446026.26,
+  "conf": 1.0,
+  "size_pt": 39.84
+ },
+ {
+  "ward": 60,
+  "role": "road_name",
+  "text": "Armenian Street",
+  "east": 422825.68,
+  "north": 1447189.32,
+  "conf": 1.0,
+  "size_pt": 50.64
+ },
+ {
+  "ward": 60,
+  "role": "road_name",
+  "text": "3.23.JehangirStreet",
+  "east": 423149.98,
+  "north": 1447358.75,
+  "conf": 1.0,
+  "size_pt": 24.84
+ },
+ {
+  "ward": 60,
+  "role": "road_name",
+  "text": "Mookar Nallamuthu Street",
+  "east": 423021.59,
+  "north": 1447436.64,
+  "conf": 1.0,
+  "size_pt": 80.64
+ },
+ {
+  "ward": 60,
+  "role": "road_name",
+  "text": "Errabalu (Chetty)Street",
+  "east": 422926.76,
+  "north": 1447262.66,
+  "conf": 1.0,
+  "size_pt": 75.6
+ },
+ {
+  "ward": 60,
+  "role": "road_name",
+  "text": "Post Office Street",
+  "east": 422896.49,
+  "north": 1447356.0,
+  "conf": 1.0,
+  "size_pt": 56.76
+ },
+ {
+  "ward": 60,
+  "role": "road_name",
+  "text": "Linghi (Chetty) Street",
+  "east": 423107.11,
+  "north": 1448279.57,
+  "conf": 1.0,
+  "size_pt": 68.4
+ },
+ {
+  "ward": 60,
+  "role": "road_name",
+  "text": "Spring Heaven Road",
+  "east": 423494.18,
+  "north": 1447720.58,
+  "conf": 1.0,
+  "size_pt": 61.2
+ },
+ {
+  "ward": 60,
+  "role": "road_name",
+  "text": "Rotlers Lane",
+  "east": 423353.62,
+  "north": 1448054.47,
+  "conf": 1.0,
+  "size_pt": 37.8
+ },
+ {
+  "ward": 60,
+  "role": "road_name",
+  "text": "Ibrahim (Sahib) Street",
+  "east": 423328.22,
+  "north": 1448493.45,
+  "conf": 1.0,
+  "size_pt": 68.76
+ },
+ {
+  "ward": 60,
+  "role": "road_name",
+  "text": "2nd LaneMoore StreetAngappan (Naickan) StreetPeriya KuttyLaneAngappanNaickan2nd LaneTailny",
+  "east": 423127.22,
+  "north": 1447673.6,
+  "conf": 0.922,
+  "size_pt": 88.32
+ },
+ {
+  "ward": 60,
+  "role": "road_name",
+  "text": "Sembudoss Street",
+  "east": 422655.69,
+  "north": 1447362.78,
+  "conf": 1.0,
+  "size_pt": 56.28
+ },
+ {
+  "ward": 60,
+  "role": "road_name",
+  "text": "Macklean Street",
+  "east": 422731.37,
+  "north": 1447228.16,
+  "conf": 1.0,
+  "size_pt": 49.68
+ },
+ {
+  "ward": 60,
+  "role": "road_name",
+  "text": "Periyanna",
+  "east": 422596.0,
+  "north": 1447266.26,
+  "conf": 1.0,
+  "size_pt": 29.16
+ },
+ {
+  "ward": 60,
+  "role": "road_name",
+  "text": "Vaaniar Street",
+  "east": 422745.55,
+  "north": 1447380.24,
+  "conf": 1.0,
+  "size_pt": 43.2
+ },
+ {
+  "ward": 60,
+  "role": "road_name",
+  "text": "Tailors LaneMoorthingalLane",
+  "east": 423187.45,
+  "north": 1447573.8,
+  "conf": 1.0,
+  "size_pt": 71.88
+ },
+ {
+  "ward": 60,
+  "role": "road_name",
+  "text": "PostOffice Street",
+  "east": 422901.46,
+  "north": 1447500.99,
+  "conf": 1.0,
+  "size_pt": 39.0
+ },
+ {
+  "ward": 60,
+  "role": "road_name",
+  "text": "Ist Lane",
+  "east": 423170.72,
+  "north": 1447765.24,
+  "conf": 1.0,
+  "size_pt": 25.32
+ },
+ {
+  "ward": 60,
+  "role": "road_name",
+  "text": "1st Lane",
+  "east": 423317.0,
+  "north": 1448413.34,
+  "conf": 1.0,
+  "size_pt": 25.44
+ },
+ {
+  "ward": 60,
+  "role": "road_name",
+  "text": "(Labbai) StMaraikayar",
+  "east": 423249.47,
+  "north": 1448274.07,
+  "conf": 1.0,
+  "size_pt": 34.56
+ },
+ {
+  "ward": 60,
+  "role": "road_name",
+  "text": "3rd Line",
+  "east": 423462.64,
+  "north": 1448367.62,
+  "conf": 1.0,
+  "size_pt": 24.48
+ },
+ {
+  "ward": 60,
+  "role": "road_name",
+  "text": "4th Line3rd Line",
+  "east": 423377.33,
+  "north": 1448183.59,
+  "conf": 1.0,
+  "size_pt": 25.56
+ },
+ {
+  "ward": 60,
+  "role": "road_name",
+  "text": "Adiya Paadham Street",
+  "east": 423155.91,
+  "north": 1448242.74,
+  "conf": 1.0,
+  "size_pt": 70.08
+ },
+ {
+  "ward": 60,
+  "role": "road_name",
+  "text": "(Maistry) Street",
+  "east": 422605.63,
+  "north": 1447350.71,
+  "conf": 1.0,
+  "size_pt": 48.6
+ },
+ {
+  "ward": 60,
+  "role": "road_name",
+  "text": "PostOffice Street",
+  "east": 423138.23,
+  "north": 1447513.16,
+  "conf": 1.0,
+  "size_pt": 38.88
+ },
+ {
+  "ward": 60,
+  "role": "road_name",
+  "text": "Spring Heaven Road",
+  "east": 422881.35,
+  "north": 1445842.01,
+  "conf": 1.0,
+  "size_pt": 61.08
+ },
+ {
+  "ward": 60,
+  "role": "road_name",
+  "text": "Spring Heaven Road",
+  "east": 423232.96,
+  "north": 1446537.1,
+  "conf": 1.0,
+  "size_pt": 61.08
+ },
+ {
+  "ward": 60,
+  "role": "road_name",
+  "text": "Prakasam Road (Broadway)\u201e\u043f0-",
+  "east": 422626.38,
+  "north": 1447752.44,
+  "conf": 0.65,
+  "size_pt": 86.04
+ },
+ {
+  "ward": 60,
+  "role": "road_name",
+  "text": "Armenian Street",
+  "east": 422849.28,
+  "north": 1447375.26,
+  "conf": 1.0,
+  "size_pt": 50.76
+ },
+ {
+  "ward": 60,
+  "role": "road_name",
+  "text": "Linghi (Chetty) Street",
+  "east": 423009.74,
+  "north": 1447690.74,
+  "conf": 1.0,
+  "size_pt": 67.92
+ },
+ {
+  "ward": 60,
+  "role": "location_names",
+  "text": "KYM",
+  "east": 422250.11,
+  "north": 1445871.11,
+  "conf": 1.0,
+  "size_pt": 12.36
+ },
+ {
+  "ward": 60,
+  "role": "location_names",
+  "text": "FairlandExhibitionGrounds",
+  "east": 422335.2,
+  "north": 1445585.06,
+  "conf": 1.0,
+  "size_pt": 30.6
+ },
+ {
+  "ward": 60,
+  "role": "location_names",
+  "text": "PortTrustQuarters",
+  "east": 422696.44,
+  "north": 1445152.96,
+  "conf": 1.0,
+  "size_pt": 25.2
+ },
+ {
+  "ward": 60,
+  "role": "location_names",
+  "text": "Tamil NaduState Legislature",
+  "east": 422727.35,
+  "north": 1446285.86,
+  "conf": 1.0,
+  "size_pt": 52.56
+ },
+ {
+  "ward": 60,
+  "role": "location_names",
+  "text": "Fort",
+  "east": 422667.23,
+  "north": 1446014.09,
+  "conf": 1.0,
+  "size_pt": 11.52
+ },
+ {
+  "ward": 60,
+  "role": "location_names",
+  "text": "St.",
+  "east": 422691.89,
+  "north": 1446014.09,
+  "conf": 1.0,
+  "size_pt": 6.84
+ },
+ {
+  "ward": 60,
+  "role": "location_names",
+  "text": "George",
+  "east": 422725.55,
+  "north": 1446012.71,
+  "conf": 1.0,
+  "size_pt": 20.04
+ },
+ {
+  "ward": 60,
+  "role": "location_names",
+  "text": "-toilet",
+  "east": 422669.56,
+  "north": 1445966.78,
+  "conf": 1.0,
+  "size_pt": 13.92
+ },
+ {
+  "ward": 60,
+  "role": "location_names",
+  "text": "Southern RailwaysPrinting Pres",
+  "east": 423245.98,
+  "north": 1448754.32,
+  "conf": 1.0,
+  "size_pt": 55.68
+ },
+ {
+  "ward": 60,
+  "role": "location_names",
+  "text": "StateBankof India",
+  "east": 422891.19,
+  "north": 1447064.34,
+  "conf": 1.0,
+  "size_pt": 23.04
+ },
+ {
+  "ward": 60,
+  "role": "location_names",
+  "text": "Gujarat\u0131Samaj",
+  "east": 422615.05,
+  "north": 1447197.58,
+  "conf": 1.0,
+  "size_pt": 23.4
+ },
+ {
+  "ward": 60,
+  "role": "location_names",
+  "text": "St. ColumbansAnglo Indian MatrCatholicCentre",
+  "east": 422759.31,
+  "north": 1447191.33,
+  "conf": 1.0,
+  "size_pt": 55.68
+ },
+ {
+  "ward": 60,
+  "role": "location_names",
+  "text": "HSBC",
+  "east": 423241.43,
+  "north": 1447667.35,
+  "conf": 1.0,
+  "size_pt": 16.2
+ },
+ {
+  "ward": 60,
+  "role": "location_names",
+  "text": "NIIT",
+  "east": 422630.29,
+  "north": 1447135.67,
+  "conf": 1.0,
+  "size_pt": 9.96
+ },
+ {
+  "ward": 60,
+  "role": "location_names",
+  "text": "YMCA",
+  "east": 422630.93,
+  "north": 1447006.13,
+  "conf": 1.0,
+  "size_pt": 14.52
+ },
+ {
+  "ward": 60,
+  "role": "location_names",
+  "text": "RajeevEnterprises",
+  "east": 422634.74,
+  "north": 1447109.53,
+  "conf": 1.0,
+  "size_pt": 33.48
+ },
+ {
+  "ward": 60,
+  "role": "location_names",
+  "text": "Hotelsaravanabhavan",
+  "east": 422440.2,
+  "north": 1447003.17,
+  "conf": 1.0,
+  "size_pt": 26.76
+ },
+ {
+  "ward": 60,
+  "role": "location_names",
+  "text": "senthurbhavan",
+  "east": 423093.99,
+  "north": 1447197.79,
+  "conf": 1.0,
+  "size_pt": 22.8
+ },
+ {
+  "ward": 60,
+  "role": "location_names",
+  "text": "PostBox",
+  "east": 422837.0,
+  "north": 1447024.55,
+  "conf": 1.0,
+  "size_pt": 12.96
+ },
+ {
+  "ward": 60,
+  "role": "location_names",
+  "text": "ArmenianChurch",
+  "east": 422753.07,
+  "north": 1447049.1,
+  "conf": 1.0,
+  "size_pt": 27.72
+ },
+ {
+  "ward": 60,
+  "role": "location_names",
+  "text": "HP",
+  "east": 423343.14,
+  "north": 1447926.42,
+  "conf": 1.0,
+  "size_pt": 7.92
+ },
+ {
+  "ward": 60,
+  "role": "location_names",
+  "text": "ParrysCorner",
+  "east": 423120.77,
+  "north": 1447239.7,
+  "conf": 1.0,
+  "size_pt": 20.28
+ },
+ {
+  "ward": 60,
+  "role": "location_names",
+  "text": "ChennaiCollectorate",
+  "east": 423252.12,
+  "north": 1448050.66,
+  "conf": 1.0,
+  "size_pt": 35.76
+ },
+ {
+  "ward": 60,
+  "role": "location_names",
+  "text": "HotelSaravanaBhavan",
+  "east": 423328.11,
+  "north": 1447649.57,
+  "conf": 1.0,
+  "size_pt": 28.8
+ },
+ {
+  "ward": 60,
+  "role": "location_names",
+  "text": "SangeethaVegRestaurant",
+  "east": 422828.22,
+  "north": 1447100.43,
+  "conf": 1.0,
+  "size_pt": 34.68
+ },
+ {
+  "ward": 60,
+  "role": "location_names",
+  "text": "Indian",
+  "east": 422392.57,
+  "north": 1446741.56,
+  "conf": 1.0,
+  "size_pt": 16.92
+ },
+ {
+  "ward": 60,
+  "role": "location_names",
+  "text": "Bank",
+  "east": 422428.34,
+  "north": 1446741.56,
+  "conf": 1.0,
+  "size_pt": 14.28
+ },
+ {
+  "ward": 60,
+  "role": "location_names",
+  "text": "Chennai FortRailway Station",
+  "east": 422418.61,
+  "north": 1446534.45,
+  "conf": 1.0,
+  "size_pt": 46.68
+ },
+ {
+  "ward": 60,
+  "role": "location_names",
+  "text": "Fort",
+  "east": 422824.3,
+  "north": 1445922.55,
+  "conf": 1.0,
+  "size_pt": 11.52
+ },
+ {
+  "ward": 60,
+  "role": "location_names",
+  "text": "Park",
+  "east": 422854.04,
+  "north": 1445922.55,
+  "conf": 1.0,
+  "size_pt": 13.08
+ },
+ {
+  "ward": 60,
+  "role": "location_names",
+  "text": "Park",
+  "east": 422793.71,
+  "north": 1445712.37,
+  "conf": 1.0,
+  "size_pt": 13.08
+ },
+ {
+  "ward": 60,
+  "role": "location_names",
+  "text": "Coast",
+  "east": 423034.08,
+  "north": 1445581.14,
+  "conf": 1.0,
+  "size_pt": 16.08
+ },
+ {
+  "ward": 60,
+  "role": "location_names",
+  "text": "Guard",
+  "east": 423072.29,
+  "north": 1445581.14,
+  "conf": 1.0,
+  "size_pt": 17.16
+ },
+ {
+  "ward": 60,
+  "role": "location_names",
+  "text": "Military",
+  "east": 423038.1,
+  "north": 1445355.41,
+  "conf": 1.0,
+  "size_pt": 21.6
+ },
+ {
+  "ward": 60,
+  "role": "location_names",
+  "text": "AdyarAnandBhavan",
+  "east": 422493.12,
+  "north": 1447016.29,
+  "conf": 1.0,
+  "size_pt": 21.0
+ },
+ {
+  "ward": 60,
+  "role": "location_names",
+  "text": "RailwayStation",
+  "east": 423308.95,
+  "north": 1447600.26,
+  "conf": 1.0,
+  "size_pt": 23.88
+ },
+ {
+  "ward": 60,
+  "role": "location_names",
+  "text": "HighCourt",
+  "east": 422511.43,
+  "north": 1447063.81,
+  "conf": 1.0,
+  "size_pt": 15.36
+ },
+ {
+  "ward": 60,
+  "role": "location_names",
+  "text": "Anthony'sChurch",
+  "east": 422759.21,
+  "north": 1447111.01,
+  "conf": 1.0,
+  "size_pt": 29.4
+ },
+ {
+  "ward": 60,
+  "role": "location_names",
+  "text": "Harbor",
+  "east": 423562.13,
+  "north": 1447799.32,
+  "conf": 1.0,
+  "size_pt": 20.28
+ },
+ {
+  "ward": 60,
+  "role": "location_names",
+  "text": "Harbor",
+  "east": 424422.84,
+  "north": 1447699.21,
+  "conf": 1.0,
+  "size_pt": 20.28
+ },
+ {
+  "ward": 60,
+  "role": "location_names",
+  "text": "Harbor",
+  "east": 423948.45,
+  "north": 1446801.56,
+  "conf": 1.0,
+  "size_pt": 20.28
+ },
+ {
+  "ward": 60,
+  "role": "location_names",
+  "text": "Chennai BeachRailway Station",
+  "east": 423362.93,
+  "north": 1447316.53,
+  "conf": 1.0,
+  "size_pt": 46.68
+ },
+ {
+  "ward": 60,
+  "role": "location_names",
+  "text": "RoyapuramRailway Station",
+  "east": 423440.94,
+  "north": 1448750.51,
+  "conf": 1.0,
+  "size_pt": 46.56
+ },
+ {
+  "ward": 60,
+  "role": "location_names",
+  "text": "KachaleeswararTemple",
+  "east": 422812.87,
+  "north": 1447498.45,
+  "conf": 1.0,
+  "size_pt": 46.8
+ },
+ {
+  "ward": 60,
+  "role": "location_names",
+  "text": "Pond",
+  "east": 422749.79,
+  "north": 1447516.23,
+  "conf": 1.0,
+  "size_pt": 14.64
+ }
+]

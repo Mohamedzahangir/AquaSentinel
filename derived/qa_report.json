@@ -1,0 +1,880 @@
+{
+ "wards": 107,
+ "features": {
+  "swd_nodes": 5941,
+  "swd_conduits": 2389,
+  "swd_drains": 10223,
+  "map_context": 1067826
+ },
+ "nodes_total": 5941,
+ "nodes_with_invert": 4790,
+ "nodes_with_all_levels": 4762,
+ "outlets": 247,
+ "conduits_total": 2389,
+ "conduits_with_slope": 1784,
+ "conduits_adverse": 0,
+ "direction_source": {
+  "invert": 1784,
+  "arrow": 61,
+  "assumed": 544
+ },
+ "median_located_pct": 98.8,
+ "per_ward": [
+  {
+   "ward": 28,
+   "nodes": 18,
+   "located_pct": 100.0,
+   "with_invert": 18,
+   "conduits": 5,
+   "adverse": 0
+  },
+  {
+   "ward": 29,
+   "nodes": 33,
+   "located_pct": 96.9,
+   "with_invert": 31,
+   "conduits": 16,
+   "adverse": 0
+  },
+  {
+   "ward": 33,
+   "nodes": 15,
+   "located_pct": 100.0,
+   "with_invert": 15,
+   "conduits": 2,
+   "adverse": 0
+  },
+  {
+   "ward": 34,
+   "nodes": 26,
+   "located_pct": 100.0,
+   "with_invert": 26,
+   "conduits": 9,
+   "adverse": 0
+  },
+  {
+   "ward": 35,
+   "nodes": 38,
+   "located_pct": 97.4,
+   "with_invert": 34,
+   "conduits": 16,
+   "adverse": 0
+  },
+  {
+   "ward": 37,
+   "nodes": 60,
+   "located_pct": 96.8,
+   "with_invert": 60,
+   "conduits": 24,
+   "adverse": 0
+  },
+  {
+   "ward": 38,
+   "nodes": 64,
+   "located_pct": 98.4,
+   "with_invert": 63,
+   "conduits": 13,
+   "adverse": 0
+  },
+  {
+   "ward": 39,
+   "nodes": 17,
+   "located_pct": 82.4,
+   "with_invert": 14,
+   "conduits": 2,
+   "adverse": 0
+  },
+  {
+   "ward": 40,
+   "nodes": 39,
+   "located_pct": 97.4,
+   "with_invert": 38,
+   "conduits": 15,
+   "adverse": 0
+  },
+  {
+   "ward": 41,
+   "nodes": 21,
+   "located_pct": 100.0,
+   "with_invert": 21,
+   "conduits": 9,
+   "adverse": 0
+  },
+  {
+   "ward": 42,
+   "nodes": 24,
+   "located_pct": 100.0,
+   "with_invert": 23,
+   "conduits": 9,
+   "adverse": 0
+  },
+  {
+   "ward": 43,
+   "nodes": 23,
+   "located_pct": 100.0,
+   "with_invert": 21,
+   "conduits": 5,
+   "adverse": 0
+  },
+  {
+   "ward": 44,
+   "nodes": 33,
+   "located_pct": 96.8,
+   "with_invert": 30,
+   "conduits": 24,
+   "adverse": 0
+  },
+  {
+   "ward": 45,
+   "nodes": 16,
+   "located_pct": 100.0,
+   "with_invert": 15,
+   "conduits": 7,
+   "adverse": 0
+  },
+  {
+   "ward": 46,
+   "nodes": 9,
+   "located_pct": 100.0,
+   "with_invert": 9,
+   "conduits": 4,
+   "adverse": 0
+  },
+  {
+   "ward": 47,
+   "nodes": 11,
+   "located_pct": 100.0,
+   "with_invert": 11,
+   "conduits": 2,
+   "adverse": 0
+  },
+  {
+   "ward": 48,
+   "nodes": 27,
+   "located_pct": 90.0,
+   "with_invert": 21,
+   "conduits": 7,
+   "adverse": 0
+  },
+  {
+   "ward": 49,
+   "nodes": 33,
+   "located_pct": 100.0,
+   "with_invert": 30,
+   "conduits": 10,
+   "adverse": 0
+  },
+  {
+   "ward": 50,
+   "nodes": 36,
+   "located_pct": 100.0,
+   "with_invert": 34,
+   "conduits": 11,
+   "adverse": 0
+  },
+  {
+   "ward": 51,
+   "nodes": 4,
+   "located_pct": 0.0,
+   "with_invert": 0,
+   "conduits": 1,
+   "adverse": 0
+  },
+  {
+   "ward": 52,
+   "nodes": 14,
+   "located_pct": 100.0,
+   "with_invert": 14,
+   "conduits": 5,
+   "adverse": 0
+  },
+  {
+   "ward": 53,
+   "nodes": 36,
+   "located_pct": 100.0,
+   "with_invert": 35,
+   "conduits": 11,
+   "adverse": 0
+  },
+  {
+   "ward": 54,
+   "nodes": 25,
+   "located_pct": 100.0,
+   "with_invert": 24,
+   "conduits": 9,
+   "adverse": 0
+  },
+  {
+   "ward": 55,
+   "nodes": 24,
+   "located_pct": 95.7,
+   "with_invert": 22,
+   "conduits": 4,
+   "adverse": 0
+  },
+  {
+   "ward": 56,
+   "nodes": 29,
+   "located_pct": 100.0,
+   "with_invert": 28,
+   "conduits": 12,
+   "adverse": 0
+  },
+  {
+   "ward": 57,
+   "nodes": 20,
+   "located_pct": 100.0,
+   "with_invert": 18,
+   "conduits": 8,
+   "adverse": 0
+  },
+  {
+   "ward": 58,
+   "nodes": 92,
+   "located_pct": 94.6,
+   "with_invert": 77,
+   "conduits": 45,
+   "adverse": 0
+  },
+  {
+   "ward": 59,
+   "nodes": 26,
+   "located_pct": 100.0,
+   "with_invert": 19,
+   "conduits": 8,
+   "adverse": 0
+  },
+  {
+   "ward": 60,
+   "nodes": 47,
+   "located_pct": 100.0,
+   "with_invert": 36,
+   "conduits": 9,
+   "adverse": 0
+  },
+  {
+   "ward": 61,
+   "nodes": 72,
+   "located_pct": 100.0,
+   "with_invert": 63,
+   "conduits": 25,
+   "adverse": 0
+  },
+  {
+   "ward": 62,
+   "nodes": 46,
+   "located_pct": 100.0,
+   "with_invert": 43,
+   "conduits": 16,
+   "adverse": 0
+  },
+  {
+   "ward": 63,
+   "nodes": 56,
+   "located_pct": 100.0,
+   "with_invert": 41,
+   "conduits": 20,
+   "adverse": 0
+  },
+  {
+   "ward": 64,
+   "nodes": 61,
+   "located_pct": 100.0,
+   "with_invert": 4,
+   "conduits": 19,
+   "adverse": 0
+  },
+  {
+   "ward": 65,
+   "nodes": 34,
+   "located_pct": 100.0,
+   "with_invert": 32,
+   "conduits": 10,
+   "adverse": 0
+  },
+  {
+   "ward": 66,
+   "nodes": 89,
+   "located_pct": 75.4,
+   "with_invert": 89,
+   "conduits": 2,
+   "adverse": 0
+  },
+  {
+   "ward": 67,
+   "nodes": 23,
+   "located_pct": 95.8,
+   "with_invert": 21,
+   "conduits": 9,
+   "adverse": 0
+  },
+  {
+   "ward": 68,
+   "nodes": 4,
+   "located_pct": 100.0,
+   "with_invert": 3,
+   "conduits": 1,
+   "adverse": 0
+  },
+  {
+   "ward": 69,
+   "nodes": 32,
+   "located_pct": 83.8,
+   "with_invert": 25,
+   "conduits": 13,
+   "adverse": 0
+  },
+  {
+   "ward": 70,
+   "nodes": 64,
+   "located_pct": 97.0,
+   "with_invert": 64,
+   "conduits": 23,
+   "adverse": 0
+  },
+  {
+   "ward": 71,
+   "nodes": 31,
+   "located_pct": 90.3,
+   "with_invert": 28,
+   "conduits": 11,
+   "adverse": 0
+  },
+  {
+   "ward": 72,
+   "nodes": 20,
+   "located_pct": 100.0,
+   "with_invert": 18,
+   "conduits": 9,
+   "adverse": 0
+  },
+  {
+   "ward": 73,
+   "nodes": 8,
+   "located_pct": 100.0,
+   "with_invert": 7,
+   "conduits": 3,
+   "adverse": 0
+  },
+  {
+   "ward": 74,
+   "nodes": 44,
+   "located_pct": 100.0,
+   "with_invert": 32,
+   "conduits": 12,
+   "adverse": 0
+  },
+  {
+   "ward": 75,
+   "nodes": 17,
+   "located_pct": 100.0,
+   "with_invert": 16,
+   "conduits": 4,
+   "adverse": 0
+  },
+  {
+   "ward": 76,
+   "nodes": 48,
+   "located_pct": 98.0,
+   "with_invert": 40,
+   "conduits": 19,
+   "adverse": 0
+  },
+  {
+   "ward": 77,
+   "nodes": 13,
+   "located_pct": 100.0,
+   "with_invert": 12,
+   "conduits": 3,
+   "adverse": 0
+  },
+  {
+   "ward": 78,
+   "nodes": 18,
+   "located_pct": 100.0,
+   "with_invert": 16,
+   "conduits": 3,
+   "adverse": 0
+  },
+  {
+   "ward": 90,
+   "nodes": 119,
+   "located_pct": 98.2,
+   "with_invert": 91,
+   "conduits": 58,
+   "adverse": 0
+  },
+  {
+   "ward": 93,
+   "nodes": 103,
+   "located_pct": 93.5,
+   "with_invert": 76,
+   "conduits": 49,
+   "adverse": 0
+  },
+  {
+   "ward": 94,
+   "nodes": 67,
+   "located_pct": 98.2,
+   "with_invert": 55,
+   "conduits": 30,
+   "adverse": 0
+  },
+  {
+   "ward": 95,
+   "nodes": 115,
+   "located_pct": 91.1,
+   "with_invert": 97,
+   "conduits": 51,
+   "adverse": 0
+  },
+  {
+   "ward": 96,
+   "nodes": 64,
+   "located_pct": 100.0,
+   "with_invert": 58,
+   "conduits": 35,
+   "adverse": 0
+  },
+  {
+   "ward": 97,
+   "nodes": 32,
+   "located_pct": 97.0,
+   "with_invert": 32,
+   "conduits": 8,
+   "adverse": 0
+  },
+  {
+   "ward": 98,
+   "nodes": 20,
+   "located_pct": 100.0,
+   "with_invert": 18,
+   "conduits": 10,
+   "adverse": 0
+  },
+  {
+   "ward": 99,
+   "nodes": 50,
+   "located_pct": 100.0,
+   "with_invert": 33,
+   "conduits": 18,
+   "adverse": 0
+  },
+  {
+   "ward": 100,
+   "nodes": 102,
+   "located_pct": 98.1,
+   "with_invert": 97,
+   "conduits": 39,
+   "adverse": 0
+  },
+  {
+   "ward": 101,
+   "nodes": 190,
+   "located_pct": 97.7,
+   "with_invert": 123,
+   "conduits": 103,
+   "adverse": 0
+  },
+  {
+   "ward": 102,
+   "nodes": 24,
+   "located_pct": 100.0,
+   "with_invert": 18,
+   "conduits": 3,
+   "adverse": 0
+  },
+  {
+   "ward": 103,
+   "nodes": 73,
+   "located_pct": 100.0,
+   "with_invert": 60,
+   "conduits": 26,
+   "adverse": 0
+  },
+  {
+   "ward": 104,
+   "nodes": 21,
+   "located_pct": 100.0,
+   "with_invert": 17,
+   "conduits": 9,
+   "adverse": 0
+  },
+  {
+   "ward": 105,
+   "nodes": 96,
+   "located_pct": 89.2,
+   "with_invert": 66,
+   "conduits": 40,
+   "adverse": 0
+  },
+  {
+   "ward": 106,
+   "nodes": 71,
+   "located_pct": 100.0,
+   "with_invert": 63,
+   "conduits": 24,
+   "adverse": 0
+  },
+  {
+   "ward": 107,
+   "nodes": 44,
+   "located_pct": 100.0,
+   "with_invert": 35,
+   "conduits": 31,
+   "adverse": 0
+  },
+  {
+   "ward": 108,
+   "nodes": 42,
+   "located_pct": 93.2,
+   "with_invert": 29,
+   "conduits": 15,
+   "adverse": 0
+  },
+  {
+   "ward": 109,
+   "nodes": 58,
+   "located_pct": 100.0,
+   "with_invert": 38,
+   "conduits": 20,
+   "adverse": 0
+  },
+  {
+   "ward": 110,
+   "nodes": 105,
+   "located_pct": 100.0,
+   "with_invert": 96,
+   "conduits": 44,
+   "adverse": 0
+  },
+  {
+   "ward": 111,
+   "nodes": 106,
+   "located_pct": 97.8,
+   "with_invert": 79,
+   "conduits": 40,
+   "adverse": 0
+  },
+  {
+   "ward": 112,
+   "nodes": 39,
+   "located_pct": 72.2,
+   "with_invert": 34,
+   "conduits": 14,
+   "adverse": 0
+  },
+  {
+   "ward": 113,
+   "nodes": 22,
+   "located_pct": 100.0,
+   "with_invert": 16,
+   "conduits": 8,
+   "adverse": 0
+  },
+  {
+   "ward": 114,
+   "nodes": 16,
+   "located_pct": 93.8,
+   "with_invert": 12,
+   "conduits": 6,
+   "adverse": 0
+  },
+  {
+   "ward": 115,
+   "nodes": 20,
+   "located_pct": 100.0,
+   "with_invert": 15,
+   "conduits": 9,
+   "adverse": 0
+  },
+  {
+   "ward": 116,
+   "nodes": 12,
+   "located_pct": 100.0,
+   "with_invert": 9,
+   "conduits": 1,
+   "adverse": 0
+  },
+  {
+   "ward": 117,
+   "nodes": 76,
+   "located_pct": 95.0,
+   "with_invert": 63,
+   "conduits": 23,
+   "adverse": 0
+  },
+  {
+   "ward": 118,
+   "nodes": 52,
+   "located_pct": 98.1,
+   "with_invert": 32,
+   "conduits": 27,
+   "adverse": 0
+  },
+  {
+   "ward": 119,
+   "nodes": 58,
+   "located_pct": 100.0,
+   "with_invert": 31,
+   "conduits": 22,
+   "adverse": 0
+  },
+  {
+   "ward": 120,
+   "nodes": 12,
+   "located_pct": 100.0,
+   "with_invert": 12,
+   "conduits": 5,
+   "adverse": 0
+  },
+  {
+   "ward": 121,
+   "nodes": 22,
+   "located_pct": 95.5,
+   "with_invert": 21,
+   "conduits": 12,
+   "adverse": 0
+  },
+  {
+   "ward": 122,
+   "nodes": 83,
+   "located_pct": 96.5,
+   "with_invert": 81,
+   "conduits": 37,
+   "adverse": 0
+  },
+  {
+   "ward": 123,
+   "nodes": 142,
+   "located_pct": 97.9,
+   "with_invert": 126,
+   "conduits": 67,
+   "adverse": 0
+  },
+  {
+   "ward": 124,
+   "nodes": 26,
+   "located_pct": 96.3,
+   "with_invert": 26,
+   "conduits": 0,
+   "adverse": 0
+  },
+  {
+   "ward": 125,
+   "nodes": 21,
+   "located_pct": 100.0,
+   "with_invert": 20,
+   "conduits": 8,
+   "adverse": 0
+  },
+  {
+   "ward": 126,
+   "nodes": 29,
+   "located_pct": 100.0,
+   "with_invert": 29,
+   "conduits": 11,
+   "adverse": 0
+  },
+  {
+   "ward": 127,
+   "nodes": 145,
+   "located_pct": 94.1,
+   "with_invert": 105,
+   "conduits": 58,
+   "adverse": 0
+  },
+  {
+   "ward": 128,
+   "nodes": 130,
+   "located_pct": 95.2,
+   "with_invert": 53,
+   "conduits": 69,
+   "adverse": 0
+  },
+  {
+   "ward": 129,
+   "nodes": 144,
+   "located_pct": 96.6,
+   "with_invert": 98,
+   "conduits": 62,
+   "adverse": 0
+  },
+  {
+   "ward": 132,
+   "nodes": 58,
+   "located_pct": 98.3,
+   "with_invert": 53,
+   "conduits": 34,
+   "adverse": 0
+  },
+  {
+   "ward": 133,
+   "nodes": 58,
+   "located_pct": 98.3,
+   "with_invert": 54,
+   "conduits": 25,
+   "adverse": 0
+  },
+  {
+   "ward": 135,
+   "nodes": 80,
+   "located_pct": 100.0,
+   "with_invert": 76,
+   "conduits": 40,
+   "adverse": 0
+  },
+  {
+   "ward": 136,
+   "nodes": 57,
+   "located_pct": 96.4,
+   "with_invert": 28,
+   "conduits": 18,
+   "adverse": 0
+  },
+  {
+   "ward": 140,
+   "nodes": 9,
+   "located_pct": 90.0,
+   "with_invert": 9,
+   "conduits": 2,
+   "adverse": 0
+  },
+  {
+   "ward": 141,
+   "nodes": 56,
+   "located_pct": 96.2,
+   "with_invert": 27,
+   "conduits": 15,
+   "adverse": 0
+  },
+  {
+   "ward": 142,
+   "nodes": 27,
+   "located_pct": 96.2,
+   "with_invert": 25,
+   "conduits": 9,
+   "adverse": 0
+  },
+  {
+   "ward": 145,
+   "nodes": 184,
+   "located_pct": 92.9,
+   "with_invert": 41,
+   "conduits": 76,
+   "adverse": 0
+  },
+  {
+   "ward": 160,
+   "nodes": 107,
+   "located_pct": 99.1,
+   "with_invert": 89,
+   "conduits": 51,
+   "adverse": 0
+  },
+  {
+   "ward": 170,
+   "nodes": 150,
+   "located_pct": 96.9,
+   "with_invert": 126,
+   "conduits": 62,
+   "adverse": 0
+  },
+  {
+   "ward": 171,
+   "nodes": 88,
+   "located_pct": 91.7,
+   "with_invert": 88,
+   "conduits": 31,
+   "adverse": 0
+  },
+  {
+   "ward": 172,
+   "nodes": 80,
+   "located_pct": 98.8,
+   "with_invert": 80,
+   "conduits": 40,
+   "adverse": 0
+  },
+  {
+   "ward": 173,
+   "nodes": 105,
+   "located_pct": 95.9,
+   "with_invert": 70,
+   "conduits": 38,
+   "adverse": 0
+  },
+  {
+   "ward": 174,
+   "nodes": 26,
+   "located_pct": 100.0,
+   "with_invert": 25,
+   "conduits": 5,
+   "adverse": 0
+  },
+  {
+   "ward": 175,
+   "nodes": 125,
+   "located_pct": 96.8,
+   "with_invert": 89,
+   "conduits": 50,
+   "adverse": 0
+  },
+  {
+   "ward": 176,
+   "nodes": 35,
+   "located_pct": 91.9,
+   "with_invert": 30,
+   "conduits": 10,
+   "adverse": 0
+  },
+  {
+   "ward": 177,
+   "nodes": 197,
+   "located_pct": 99.5,
+   "with_invert": 193,
+   "conduits": 103,
+   "adverse": 0
+  },
+  {
+   "ward": 178,
+   "nodes": 82,
+   "located_pct": 92.9,
+   "with_invert": 78,
+   "conduits": 33,
+   "adverse": 0
+  },
+  {
+   "ward": 179,
+   "nodes": 169,
+   "located_pct": 98.2,
+   "with_invert": 159,
+   "conduits": 79,
+   "adverse": 0
+  },
+  {
+   "ward": 180,
+   "nodes": 64,
+   "located_pct": 95.3,
+   "with_invert": 59,
+   "conduits": 25,
+   "adverse": 0
+  },
+  {
+   "ward": 181,
+   "nodes": 32,
+   "located_pct": 100.0,
+   "with_invert": 30,
+   "conduits": 14,
+   "adverse": 0
+  },
+  {
+   "ward": 182,
+   "nodes": 61,
+   "located_pct": 100.0,
+   "with_invert": 56,
+   "conduits": 33,
+   "adverse": 0
+  }
+ ]
+}

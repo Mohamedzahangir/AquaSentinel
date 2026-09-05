@@ -1,0 +1,749 @@
+[
+ {
+  "ward": 62,
+  "role": "road_name",
+  "text": "Swamy Naicken Street",
+  "east": 420935.85,
+  "north": 1445729.47,
+  "conf": 1.0,
+  "size_pt": 67.92
+ },
+ {
+  "ward": 62,
+  "role": "road_name",
+  "text": "SLaffond Street",
+  "east": 421119.04,
+  "north": 1445747.46,
+  "conf": 1.0,
+  "size_pt": 44.88
+ },
+ {
+  "ward": 62,
+  "role": "road_name",
+  "text": "Kalavai Street",
+  "east": 420831.92,
+  "north": 1445804.93,
+  "conf": 1.0,
+  "size_pt": 43.32
+ },
+ {
+  "ward": 62,
+  "role": "road_name",
+  "text": "lyya Mudali Street",
+  "east": 420769.38,
+  "north": 1445430.67,
+  "conf": 1.0,
+  "size_pt": 54.84
+ },
+ {
+  "ward": 62,
+  "role": "road_name",
+  "text": "Jozns nodapuive",
+  "east": 420647.14,
+  "north": 1445648.39,
+  "conf": 0.3,
+  "size_pt": 52.08
+ },
+ {
+  "ward": 62,
+  "role": "road_name",
+  "text": "Nagamani Street",
+  "east": 420679.95,
+  "north": 1445524.03,
+  "conf": 1.0,
+  "size_pt": 48.84
+ },
+ {
+  "ward": 62,
+  "role": "road_name",
+  "text": "vlreetNagamani StreetNyniappan StreetSadasivam LaneKalavai StreetDevaraj Sarang Lanechintadrinot",
+  "east": 420670.0,
+  "north": 1445485.18,
+  "conf": 1.0,
+  "size_pt": 90.12
+ },
+ {
+  "ward": 62,
+  "role": "road_name",
+  "text": "awoodStreetUshmankhanStreetSivaprakasam>StreetSeeyalammanKoil StMohamedHussainF11/st LaneMohamedHussain St2.039PoliceAssistanWallers RoadBooth",
+  "east": 420987.7,
+  "north": 1445080.97,
+  "conf": 1.0,
+  "size_pt": 118.44
+ },
+ {
+  "ward": 62,
+  "role": "road_name",
+  "text": "Mangapathi Street",
+  "east": 420731.81,
+  "north": 1445720.58,
+  "conf": 1.0,
+  "size_pt": 53.4
+ },
+ {
+  "ward": 62,
+  "role": "road_name",
+  "text": "Rex StreeStreetPadavatammanBazaar StreeKoil West StreetPadavatammanNorth St1stKoilLaneKoil 'Ist LaneMukiyammanKoillur Amman2nd LaneKoil South StSouth StIst Lane*Mukki Amman PadavatammanKoil Ist LaneNek ibaStkrishnanSt.LazarKavoorChruch StreetVaithiyanathanStreetStreetBalakrishnanKalavai SVethagiri (M)Streeteet",
+  "east": 420700.8,
+  "north": 1445897.97,
+  "conf": 1.0,
+  "size_pt": 159.12
+ },
+ {
+  "ward": 62,
+  "role": "road_name",
+  "text": "Agraharam Street",
+  "east": 420840.49,
+  "north": 1445665.22,
+  "conf": 1.0,
+  "size_pt": 51.6
+ },
+ {
+  "ward": 62,
+  "role": "road_name",
+  "text": "Venkatesa Gramani Street'vl Olree",
+  "east": 420967.6,
+  "north": 1445711.16,
+  "conf": 1.0,
+  "size_pt": 78.6
+ },
+ {
+  "ward": 62,
+  "role": "road_name",
+  "text": "Laffond Lane",
+  "east": 421145.71,
+  "north": 1445637.49,
+  "conf": 1.0,
+  "size_pt": 40.08
+ },
+ {
+  "ward": 62,
+  "role": "road_name",
+  "text": "West Cooum River Road",
+  "east": 420771.6,
+  "north": 1445038.31,
+  "conf": 1.0,
+  "size_pt": 71.28
+ },
+ {
+  "ward": 62,
+  "role": "road_name",
+  "text": "Periyar Bridge",
+  "east": 421410.28,
+  "north": 1445252.01,
+  "conf": 1.0,
+  "size_pt": 32.88
+ },
+ {
+  "ward": 62,
+  "role": "road_name",
+  "text": "SaintAndrewsBridge",
+  "east": 420350.93,
+  "north": 1445689.14,
+  "conf": 1.0,
+  "size_pt": 65.28
+ },
+ {
+  "ward": 62,
+  "role": "road_name",
+  "text": "HoArunachalam Road",
+  "east": 420750.86,
+  "north": 1445617.7,
+  "conf": 1.0,
+  "size_pt": 54.6
+ },
+ {
+  "ward": 62,
+  "role": "road_name",
+  "text": "\u0131nchezniyaravalarDeputy MayorNagarKabalamurthyniRoadnd Lane",
+  "east": 421182.64,
+  "north": 1445713.38,
+  "conf": 1.0,
+  "size_pt": 98.16
+ },
+ {
+  "ward": 62,
+  "role": "road_name",
+  "text": "faz 1dqnn d",
+  "east": 420877.96,
+  "north": 1445750.74,
+  "conf": 0.3,
+  "size_pt": 54.84
+ },
+ {
+  "ward": 62,
+  "role": "road_name",
+  "text": "1.982nd LaneSingannaChetty3rd Lane",
+  "east": 421076.92,
+  "north": 1445771.49,
+  "conf": 1.0,
+  "size_pt": 31.2
+ },
+ {
+  "ward": 62,
+  "role": "road_name",
+  "text": "3.459Dharmaraja Koil.Street (Vannan)tree-Adiyappa SStree",
+  "east": 420531.05,
+  "north": 1445489.63,
+  "conf": 1.0,
+  "size_pt": 59.04
+ },
+ {
+  "ward": 62,
+  "role": "road_name",
+  "text": "Ist Lane",
+  "east": 421086.76,
+  "north": 1445818.16,
+  "conf": 1.0,
+  "size_pt": 25.32
+ },
+ {
+  "ward": 62,
+  "role": "road_name",
+  "text": "Adhikesavalu StreetAdhikesavalu StreetRitchie StreetDr. Govindan Stnowonat",
+  "east": 421042.63,
+  "north": 1445261.54,
+  "conf": 0.86,
+  "size_pt": 97.8
+ },
+ {
+  "ward": 62,
+  "role": "road_name",
+  "text": "Pumping StationRoad",
+  "east": 421174.6,
+  "north": 1445269.69,
+  "conf": 1.0,
+  "size_pt": 50.76
+ },
+ {
+  "ward": 62,
+  "role": "road_name",
+  "text": "Anna Salai (Mount Road)-",
+  "east": 421165.81,
+  "north": 1445081.71,
+  "conf": 1.0,
+  "size_pt": 79.2
+ },
+ {
+  "ward": 62,
+  "role": "road_name",
+  "text": "Laws Bridge",
+  "east": 420933.2,
+  "north": 1446033.23,
+  "conf": 1.0,
+  "size_pt": 36.48
+ },
+ {
+  "ward": 62,
+  "role": "road_name",
+  "text": "NavalarNedunchezhiyanNagar LaneEastCoovamRiver Road",
+  "east": 421013.1,
+  "north": 1445920.94,
+  "conf": 1.0,
+  "size_pt": 51.0
+ },
+ {
+  "ward": 62,
+  "role": "road_name",
+  "text": "WashermanStreetWest KoovamPlRoad And HutsRiver",
+  "east": 420525.86,
+  "north": 1445403.15,
+  "conf": 1.0,
+  "size_pt": 76.68
+ },
+ {
+  "ward": 62,
+  "role": "road_name",
+  "text": "SunguwarAgraharam StreetDamsSuper ShMineralsWallers3rd LaneRoad",
+  "east": 420826.74,
+  "north": 1445082.98,
+  "conf": 1.0,
+  "size_pt": 64.56
+ },
+ {
+  "ward": 62,
+  "role": "road_name",
+  "text": "PLNiO'Arunachalam75 (N)Arunachalam7S (W)",
+  "east": 421046.97,
+  "north": 1445489.31,
+  "conf": 0.917,
+  "size_pt": 44.04
+ },
+ {
+  "ward": 62,
+  "role": "road_name",
+  "text": "D<2.114Palani AndavarKoil Stn1n",
+  "east": 421006.86,
+  "north": 1445835.2,
+  "conf": 0.86,
+  "size_pt": 46.32
+ },
+ {
+  "ward": 62,
+  "role": "road_name",
+  "text": "Kabalamurthy RoadDeputy Mayor",
+  "east": 421298.73,
+  "north": 1445359.65,
+  "conf": 1.0,
+  "size_pt": 59.76
+ },
+ {
+  "ward": 62,
+  "role": "road_name",
+  "text": "Agraharam Street",
+  "east": 420724.29,
+  "north": 1445682.79,
+  "conf": 1.0,
+  "size_pt": 55.2
+ },
+ {
+  "ward": 62,
+  "role": "road_name",
+  "text": "StreetUlagappa",
+  "east": 420555.07,
+  "north": 1445750.11,
+  "conf": 1.0,
+  "size_pt": 49.32
+ },
+ {
+  "ward": 62,
+  "role": "road_name",
+  "text": "Kalavai Street",
+  "east": 420812.87,
+  "north": 1445732.64,
+  "conf": 1.0,
+  "size_pt": 42.96
+ },
+ {
+  "ward": 62,
+  "role": "road_name",
+  "text": "Cox Street",
+  "east": 420851.08,
+  "north": 1445881.67,
+  "conf": 1.0,
+  "size_pt": 32.4
+ },
+ {
+  "ward": 62,
+  "role": "road_name",
+  "text": "Bazaar Street",
+  "east": 420814.04,
+  "north": 1445969.31,
+  "conf": 1.0,
+  "size_pt": 42.72
+ },
+ {
+  "ward": 62,
+  "role": "road_name",
+  "text": "PalaniAndavarKoil Street",
+  "east": 420916.69,
+  "north": 1445824.62,
+  "conf": 1.0,
+  "size_pt": 32.88
+ },
+ {
+  "ward": 62,
+  "role": "road_name",
+  "text": "New Bungalow Street",
+  "east": 420908.97,
+  "north": 1445409.19,
+  "conf": 1.0,
+  "size_pt": 65.04
+ },
+ {
+  "ward": 62,
+  "role": "road_name",
+  "text": "Old Bungalow Streetintadripet",
+  "east": 420921.88,
+  "north": 1445492.7,
+  "conf": 1.0,
+  "size_pt": 61.56
+ },
+ {
+  "ward": 62,
+  "role": "road_name",
+  "text": "Singanna Chetty Street",
+  "east": 420940.4,
+  "north": 1445390.35,
+  "conf": 1.0,
+  "size_pt": 71.04
+ },
+ {
+  "ward": 62,
+  "role": "road_name",
+  "text": "Kutty (N) Street",
+  "east": 420668.31,
+  "north": 1445311.6,
+  "conf": 1.0,
+  "size_pt": 51.72
+ },
+ {
+  "ward": 62,
+  "role": "road_name",
+  "text": "Palli Street",
+  "east": 420692.97,
+  "north": 1445276.46,
+  "conf": 1.0,
+  "size_pt": 34.56
+ },
+ {
+  "ward": 62,
+  "role": "road_name",
+  "text": "lyya(M)Lane",
+  "east": 420721.86,
+  "north": 1445222.8,
+  "conf": 1.0,
+  "size_pt": 27.0
+ },
+ {
+  "ward": 62,
+  "role": "road_name",
+  "text": "SwamRajagopal (N) StKrishnappa(C)Lane",
+  "east": 420835.63,
+  "north": 1445264.5,
+  "conf": 1.0,
+  "size_pt": 61.8
+ },
+ {
+  "ward": 62,
+  "role": "road_name",
+  "text": "Rajagopal Lane",
+  "east": 420870.66,
+  "north": 1445160.56,
+  "conf": 1.0,
+  "size_pt": 47.16
+ },
+ {
+  "ward": 62,
+  "role": "road_name",
+  "text": "Krishnappa (C) Street",
+  "east": 420898.91,
+  "north": 1445236.24,
+  "conf": 1.0,
+  "size_pt": 67.44
+ },
+ {
+  "ward": 62,
+  "role": "road_name",
+  "text": "Naicken StreetMoQSwamy",
+  "east": 420831.71,
+  "north": 1445353.94,
+  "conf": 0.767,
+  "size_pt": 67.44
+ },
+ {
+  "ward": 62,
+  "role": "road_name",
+  "text": "LaneWallers1st",
+  "east": 421106.44,
+  "north": 1444974.39,
+  "conf": 1.0,
+  "size_pt": 25.92
+ },
+ {
+  "ward": 62,
+  "role": "road_name",
+  "text": "Pumping StationStreet",
+  "east": 421062.95,
+  "north": 1445393.63,
+  "conf": 1.0,
+  "size_pt": 49.32
+ },
+ {
+  "ward": 62,
+  "role": "road_name",
+  "text": "NavalarNagarNedunchezhiyan2.254",
+  "east": 421142.85,
+  "north": 1445870.03,
+  "conf": 1.0,
+  "size_pt": 38.52
+ },
+ {
+  "ward": 62,
+  "role": "road_name",
+  "text": "NedunchezhiyanNavalarNagar",
+  "east": 421206.87,
+  "north": 1445786.2,
+  "conf": 1.0,
+  "size_pt": 43.44
+ },
+ {
+  "ward": 62,
+  "role": "road_name",
+  "text": "Guruvappa (C) Street",
+  "east": 420680.06,
+  "north": 1445363.36,
+  "conf": 1.0,
+  "size_pt": 64.8
+ },
+ {
+  "ward": 62,
+  "role": "location_names",
+  "text": "AmalgamationsGroup",
+  "east": 421180.73,
+  "north": 1445418.61,
+  "conf": 1.0,
+  "size_pt": 46.68
+ },
+ {
+  "ward": 62,
+  "role": "location_names",
+  "text": "Kasturi &",
+  "east": 421174.81,
+  "north": 1445331.92,
+  "conf": 1.0,
+  "size_pt": 29.88
+ },
+ {
+  "ward": 62,
+  "role": "location_names",
+  "text": "Sons",
+  "east": 421220.95,
+  "north": 1445331.92,
+  "conf": 1.0,
+  "size_pt": 13.8
+ },
+ {
+  "ward": 62,
+  "role": "location_names",
+  "text": "LangsGardenPark",
+  "east": 420572.01,
+  "north": 1445421.04,
+  "conf": 1.0,
+  "size_pt": 20.04
+ },
+ {
+  "ward": 62,
+  "role": "location_names",
+  "text": "Super ShaMinerals",
+  "east": 420866.0,
+  "north": 1445075.15,
+  "conf": 1.0,
+  "size_pt": 31.56
+ },
+ {
+  "ward": 62,
+  "role": "location_names",
+  "text": "Chintadripet",
+  "east": 421164.54,
+  "north": 1445532.81,
+  "conf": 1.0,
+  "size_pt": 35.76
+ },
+ {
+  "ward": 62,
+  "role": "location_names",
+  "text": "1.670IndianOverseas Bank",
+  "east": 421045.8,
+  "north": 1445588.7,
+  "conf": 1.0,
+  "size_pt": 44.64
+ },
+ {
+  "ward": 62,
+  "role": "location_names",
+  "text": "Murudi'sHotel",
+  "east": 420805.46,
+  "north": 1445632.83,
+  "conf": 1.0,
+  "size_pt": 24.36
+ },
+ {
+  "ward": 62,
+  "role": "location_names",
+  "text": "Dr VenugopalsSundaram Clini",
+  "east": 420745.78,
+  "north": 1445753.07,
+  "conf": 1.0,
+  "size_pt": 46.68
+ },
+ {
+  "ward": 62,
+  "role": "location_names",
+  "text": "Dr Kabir'sClinic",
+  "east": 420665.77,
+  "north": 1445767.25,
+  "conf": 1.0,
+  "size_pt": 30.36
+ },
+ {
+  "ward": 62,
+  "role": "location_names",
+  "text": "Dr SridharsClinic",
+  "east": 420591.69,
+  "north": 1445696.23,
+  "conf": 1.0,
+  "size_pt": 34.68
+ },
+ {
+  "ward": 62,
+  "role": "location_names",
+  "text": "DhanakotiMiddle School",
+  "east": 421149.62,
+  "north": 1445606.58,
+  "conf": 1.0,
+  "size_pt": 42.12
+ },
+ {
+  "ward": 62,
+  "role": "location_names",
+  "text": "Kalyanam GirlsHigh School",
+  "east": 421152.69,
+  "north": 1445569.12,
+  "conf": 1.0,
+  "size_pt": 45.6
+ },
+ {
+  "ward": 62,
+  "role": "location_names",
+  "text": "KalyanamGirlsHigherSecondary",
+  "east": 421064.96,
+  "north": 1445692.21,
+  "conf": 1.0,
+  "size_pt": 32.04
+ },
+ {
+  "ward": 62,
+  "role": "location_names",
+  "text": "ChintadripetMiddleSchool",
+  "east": 420645.77,
+  "north": 1445406.65,
+  "conf": 1.0,
+  "size_pt": 35.76
+ },
+ {
+  "ward": 62,
+  "role": "location_names",
+  "text": "RBCCMiddleSchool",
+  "east": 420827.9,
+  "north": 1445493.97,
+  "conf": 1.0,
+  "size_pt": 19.56
+ },
+ {
+  "ward": 62,
+  "role": "location_names",
+  "text": "ChintadripetPost\u2022 Office",
+  "east": 420886.42,
+  "north": 1445464.86,
+  "conf": 1.0,
+  "size_pt": 35.76
+ },
+ {
+  "ward": 62,
+  "role": "location_names",
+  "text": "PoliceAssistanceBooth",
+  "east": 421051.62,
+  "north": 1444991.96,
+  "conf": 1.0,
+  "size_pt": 32.28
+ },
+ {
+  "ward": 62,
+  "role": "location_names",
+  "text": "Chintadripet",
+  "east": 420924.73,
+  "north": 1445630.72,
+  "conf": 1.0,
+  "size_pt": 35.76
+ },
+ {
+  "ward": 62,
+  "role": "location_names",
+  "text": "Sivan",
+  "east": 420603.75,
+  "north": 1445730.0,
+  "conf": 1.0,
+  "size_pt": 14.76
+ },
+ {
+  "ward": 62,
+  "role": "location_names",
+  "text": "Koil",
+  "east": 420634.34,
+  "north": 1445730.0,
+  "conf": 1.0,
+  "size_pt": 10.56
+ },
+ {
+  "ward": 62,
+  "role": "location_names",
+  "text": "St.",
+  "east": 421117.66,
+  "north": 1445151.78,
+  "conf": 1.0,
+  "size_pt": 6.84
+ },
+ {
+  "ward": 62,
+  "role": "location_names",
+  "text": "Antony's",
+  "east": 421155.44,
+  "north": 1445151.14,
+  "conf": 1.0,
+  "size_pt": 25.68
+ },
+ {
+  "ward": 62,
+  "role": "location_names",
+  "text": "Church",
+  "east": 421203.91,
+  "north": 1445151.78,
+  "conf": 1.0,
+  "size_pt": 19.68
+ },
+ {
+  "ward": 62,
+  "role": "location_names",
+  "text": "Railway:station:",
+  "east": 421290.8,
+  "north": 1445460.63,
+  "conf": 1.0,
+  "size_pt": 22.2
+ },
+ {
+  "ward": 62,
+  "role": "location_names",
+  "text": "Government",
+  "east": 421217.46,
+  "north": 1445180.14,
+  "conf": 1.0,
+  "size_pt": 35.04
+ },
+ {
+  "ward": 62,
+  "role": "location_names",
+  "text": "Estate",
+  "east": 421273.23,
+  "north": 1445180.14,
+  "conf": 1.0,
+  "size_pt": 19.08
+ },
+ {
+  "ward": 62,
+  "role": "location_names",
+  "text": "Chintadripet",
+  "east": 421014.69,
+  "north": 1445784.93,
+  "conf": 1.0,
+  "size_pt": 35.76
+ },
+ {
+  "ward": 62,
+  "role": "location_names",
+  "text": "Chintadripet:Boys 'HigherSecond",
+  "east": 421259.58,
+  "north": 1445543.82,
+  "conf": 1.0,
+  "size_pt": 37.44
+ },
+ {
+  "ward": 62,
+  "role": "size_label",
+  "text": "YY",
+  "east": 420896.16,
+  "north": 1445888.65,
+  "conf": 1.0,
+  "size_pt": 11.52
+ }
+]

@@ -1,0 +1,1406 @@
+[
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "Jawwahar NagarIst Main RdCr5th",
+  "east": 416005.23,
+  "north": 1449858.28,
+  "conf": 1.0,
+  "size_pt": 60.0
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "Karthikeyan Rd",
+  "east": 415767.44,
+  "north": 1449971.85,
+  "conf": 1.0,
+  "size_pt": 45.0
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "Jaganathan StreetPeriyar Nagar 22nd StreetSalaiPeriyar Nagar 11thGovt PeripheralBalasubramaniamHospital PeriyaPerivar Naaar",
+  "east": 415828.18,
+  "north": 1450098.96,
+  "conf": 1.0,
+  "size_pt": 122.28
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "Sundara Perumal Koil Street",
+  "east": 416800.92,
+  "north": 1450482.32,
+  "conf": 1.0,
+  "size_pt": 88.2
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "2nd Streetd StSt2nd Cross St.e3rd Cross St.3rd StCross2nd StNStISt1st St",
+  "east": 416755.63,
+  "north": 1450785.35,
+  "conf": 1.0,
+  "size_pt": 81.0
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "Ayyalu st",
+  "east": 416457.73,
+  "north": 1450961.58,
+  "conf": 1.0,
+  "size_pt": 28.68
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "Nagammai St",
+  "east": 416556.15,
+  "north": 1451036.83,
+  "conf": 1.0,
+  "size_pt": 42.0
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "Senthil AveHHI\u0424\u0424\u0418\u041dStManavalariuand Cr stoC1011st6.025CrossManavalan Street",
+  "east": 416594.56,
+  "north": 1451213.06,
+  "conf": 0.873,
+  "size_pt": 57.24
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "Ist st",
+  "east": 416771.82,
+  "north": 1450900.4,
+  "conf": 1.0,
+  "size_pt": 17.52
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "3rd Main Road",
+  "east": 416351.27,
+  "north": 1450370.34,
+  "conf": 1.0,
+  "size_pt": 45.96
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "C23road6.64120991B24B23C247.000 6.824Jawahar Nagar Temple Roq4th Circular r(70' Feet Road)OSiva Elango Salai3rd circular road2nd Circular road",
+  "east": 416384.5,
+  "north": 1450049.64,
+  "conf": 1.0,
+  "size_pt": 114.6
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "\u2022SS STStO3rd Main Road1st5th Main Road",
+  "east": 416621.66,
+  "north": 1449584.04,
+  "conf": 0.86,
+  "size_pt": 58.68
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "Ist Circular Road2nd Cross",
+  "east": 416392.65,
+  "north": 1449907.18,
+  "conf": 1.0,
+  "size_pt": 51.24
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "2nd Main Rd",
+  "east": 416258.25,
+  "north": 1449683.21,
+  "conf": 1.0,
+  "size_pt": 39.48
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "5th Main Rd",
+  "east": 416266.4,
+  "north": 1449582.66,
+  "conf": 1.0,
+  "size_pt": 38.4
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "6th Cross",
+  "east": 416014.22,
+  "north": 1449700.47,
+  "conf": 1.0,
+  "size_pt": 28.32
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "Jaganathan Street",
+  "east": 416072.53,
+  "north": 1450111.56,
+  "conf": 1.0,
+  "size_pt": 56.4
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "6thStreet",
+  "east": 415975.91,
+  "north": 1449759.53,
+  "conf": 1.0,
+  "size_pt": 30.6
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "6.60%2nd Main Rd",
+  "east": 416498.26,
+  "north": 1449689.67,
+  "conf": 1.0,
+  "size_pt": 39.72
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "AUF4th Circular road",
+  "east": 416445.56,
+  "north": 1450059.38,
+  "conf": 1.0,
+  "size_pt": 51.24
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "6th Main Rd",
+  "east": 416467.68,
+  "north": 1449447.82,
+  "conf": 1.0,
+  "size_pt": 38.4
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "70Ft Rd",
+  "east": 416365.35,
+  "north": 1450186.71,
+  "conf": 1.0,
+  "size_pt": 24.96
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "ColonyRoadSRPMain",
+  "east": 416045.44,
+  "north": 1450346.74,
+  "conf": 1.0,
+  "size_pt": 33.6
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "Venkatraman Rd",
+  "east": 415413.14,
+  "north": 1449966.24,
+  "conf": 1.0,
+  "size_pt": 50.28
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "Venkatesan Salai",
+  "east": 415947.34,
+  "north": 1449647.54,
+  "conf": 1.0,
+  "size_pt": 49.32
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "80 Feet Rd",
+  "east": 416159.31,
+  "north": 1451132.41,
+  "conf": 1.0,
+  "size_pt": 30.24
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "StreetKc Garden StStreetCross5th Street2ndStreetIst Cross4th3rd",
+  "east": 416590.65,
+  "north": 1450410.67,
+  "conf": 1.0,
+  "size_pt": 94.08
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "3rd Cross St",
+  "east": 416376.88,
+  "north": 1449536.73,
+  "conf": 1.0,
+  "size_pt": 39.72
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "3rd Main Road",
+  "east": 416323.65,
+  "north": 1449680.46,
+  "conf": 1.0,
+  "size_pt": 45.24
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "3rd Main Road",
+  "east": 416477.21,
+  "north": 1449640.03,
+  "conf": 1.0,
+  "size_pt": 45.36
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "4th Main Road",
+  "east": 416322.28,
+  "north": 1449626.59,
+  "conf": 1.0,
+  "size_pt": 45.12
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "1oa0Mills RoadPaperJawahar NagarsTemple RoadCircular 1st5th circularroad",
+  "east": 416490.22,
+  "north": 1450190.2,
+  "conf": 0.913,
+  "size_pt": 84.6
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "2nd Main Rd",
+  "east": 416340.06,
+  "north": 1449726.5,
+  "conf": 1.0,
+  "size_pt": 39.6
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "Thangavelu Street",
+  "east": 416503.13,
+  "north": 1450839.75,
+  "conf": 1.0,
+  "size_pt": 54.36
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "Karthick St",
+  "east": 416459.64,
+  "north": 1451230.74,
+  "conf": 1.0,
+  "size_pt": 34.56
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "7th Cross Street",
+  "east": 416004.8,
+  "north": 1450714.44,
+  "conf": 1.0,
+  "size_pt": 51.84
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "vrossGovt PeriphC35Hospital PerKarthikeyanBalasubramStreet21st1st7.347Salai20thPeriyar NCross Periyar Nagar 17th StreetStreetC3407.231Periyar Nagar18th St Ist CrossKarthikeyan Rd20thSalai18th St 2nd CrossPeriyar Nagar 10th Street18th St 3rd CrossPeriyarPeriyar Nagar 18th StreetBalasubramaniam19th StreetPeriyar Nagar 9th StreetPeriyar Nagar 8th StreetA5asamy7.843",
+  "east": 415637.17,
+  "north": 1449919.77,
+  "conf": 1.0,
+  "size_pt": 232.8
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "Street18th St 1st CrossNagar 20th18th St 2nd Cross18th St 3rd CrossPeriyar19th Street",
+  "east": 415526.37,
+  "north": 1449937.13,
+  "conf": 1.0,
+  "size_pt": 92.88
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "Ganthimathy Lane",
+  "east": 416754.57,
+  "north": 1451221.95,
+  "conf": 1.0,
+  "size_pt": 55.32
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "Gopalapuram 3rd StVetri NagarExten .3rd St",
+  "east": 416743.99,
+  "north": 1451102.88,
+  "conf": 1.0,
+  "size_pt": 81.84
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "2nd St",
+  "east": 416067.35,
+  "north": 1451164.9,
+  "conf": 1.0,
+  "size_pt": 21.12
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "1st StreetChelliammanKudiyiruppu",
+  "east": 416019.09,
+  "north": 1451188.29,
+  "conf": 1.0,
+  "size_pt": 39.24
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "Kumaran Nagar7th Cross Ste",
+  "east": 416099.94,
+  "north": 1451177.29,
+  "conf": 1.0,
+  "size_pt": 48.6
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "6th Cross#St",
+  "east": 416140.37,
+  "north": 1451193.48,
+  "conf": 1.0,
+  "size_pt": 39.84
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "5th Crass St",
+  "east": 416169.36,
+  "north": 1451210.31,
+  "conf": 1.0,
+  "size_pt": 39.96
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "3rd Main Road",
+  "east": 416273.6,
+  "north": 1451133.57,
+  "conf": 1.0,
+  "size_pt": 45.84
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "\u00a76.\u201eokdyD15.265Viswanath4th15Main Road",
+  "east": 416284.71,
+  "north": 1451197.29,
+  "conf": 0.913,
+  "size_pt": 62.76
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "Jagadesan:StJayaram St",
+  "east": 416384.93,
+  "north": 1451173.48,
+  "conf": 1.0,
+  "size_pt": 44.52
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "vuyaram StVeeraragavan StRamasamy StLoganathan St",
+  "east": 416384.61,
+  "north": 1451102.14,
+  "conf": 1.0,
+  "size_pt": 62.28
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "\u0421\u0431Nagar6.236StKrishna Nagar IstCOValliyammayC7StRajabatherv6.012KumarasamyStKrishnaKrishna Nagar 2ndMainArishna Nagar3rd StC8C88Jayaraman Street5.754\u2022 Andal AveIst st",
+  "east": 416648.54,
+  "north": 1450953.32,
+  "conf": 0.979,
+  "size_pt": 192.6
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "Krishna Nagar 2nd St",
+  "east": 416769.92,
+  "north": 1450946.44,
+  "conf": 1.0,
+  "size_pt": 68.4
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "2nd St",
+  "east": 416639.54,
+  "north": 1450861.13,
+  "conf": 1.0,
+  "size_pt": 20.64
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "ValliyammaySt",
+  "east": 416492.23,
+  "north": 1450965.5,
+  "conf": 1.0,
+  "size_pt": 34.32
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "Paul Vargees Street",
+  "east": 416517.31,
+  "north": 1450881.77,
+  "conf": 1.0,
+  "size_pt": 62.52
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "Kanniyappan Street",
+  "east": 416368.63,
+  "north": 1450901.25,
+  "conf": 1.0,
+  "size_pt": 60.0
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "1CVenkatesanStRamasamyStThiyagarajan Street",
+  "east": 416376.99,
+  "north": 1450962.43,
+  "conf": 1.0,
+  "size_pt": 58.92
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "SamundeeshwariSt",
+  "east": 416311.91,
+  "north": 1450984.12,
+  "conf": 1.0,
+  "size_pt": 50.4
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "Govindhasamy Street,",
+  "east": 416265.45,
+  "north": 1450899.87,
+  "conf": 1.0,
+  "size_pt": 64.32
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "32nd Main Road",
+  "east": 416265.34,
+  "north": 1451088.59,
+  "conf": 1.0,
+  "size_pt": 47.28
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "Kumaran Nagar2nd Main Roadc7796.3592no Cross SKumaran No3rd Cross StiC786.45179\u1eddiAnna!",
+  "east": 416144.07,
+  "north": 1451035.88,
+  "conf": 0.955,
+  "size_pt": 76.92
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "D35.915st Cross\u00b0StRamanibajColonyKumaran Naga80 Feet RoadShakthivel NIST 6r St",
+  "east": 416009.57,
+  "north": 1451032.39,
+  "conf": 0.922,
+  "size_pt": 78.72
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "Balaji Nagar Main Road",
+  "east": 415916.55,
+  "north": 1450841.34,
+  "conf": 1.0,
+  "size_pt": 74.28
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "Colony 2nd StSelliyammanRam Nagar Ist Main RoadRamnagar e2nd Main Road",
+  "east": 416246.72,
+  "north": 1450408.13,
+  "conf": 1.0,
+  "size_pt": 89.28
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "Lakshman nagarSelliyamman2nd Cross StKoilakshman_Nagar2nd Cross StLakshman NagarWestStIst Cross StreetIst CrosSelliyammanLakshmanRodC50Naqar Main6.375LaksmananWARD 66StColony 2nd StIst Main RoadogthSelliyammanLaksmanan NagarEast Streetsain",
+  "east": 416113.7,
+  "north": 1450524.45,
+  "conf": 0.974,
+  "size_pt": 162.36
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "6.556C911stC906.122n6.697Rangasaamy StSivaboosanBhoopathystSuganraj StStJaganathankorthy StStMurthyChandranSundaram StVetriN SivaprakasgmStKuppusamy StVetri NaggtgarMooss 5tRamN 2ndElumalaiStKannappanMain RoadThiruvenkadam StStBasRam NagarChandran StRamamoorthy Colony2nd Cross St4th Cross S4th Cross StrRamamoorthyCordntross stColonKnd CrossRamamoorthyIst Cross StRoad C169inRamamoorthy Colony Main RoadStreetIgaar",
+  "east": 416508.95,
+  "north": 1450629.13,
+  "conf": 0.99,
+  "size_pt": 212.16
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "Kuppusamy St",
+  "east": 416551.28,
+  "north": 1450667.97,
+  "conf": 1.0,
+  "size_pt": 44.52
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "2nd Cross St1st Cross StRangasamy St",
+  "east": 416317.62,
+  "north": 1450789.69,
+  "conf": 1.0,
+  "size_pt": 51.96
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "Rangosamy",
+  "east": 416393.71,
+  "north": 1450762.17,
+  "conf": 1.0,
+  "size_pt": 35.16
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "Suganraj St",
+  "east": 416566.73,
+  "north": 1450733.07,
+  "conf": 1.0,
+  "size_pt": 36.48
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "Devakiammal Cross StreetGovindhasamy StreetDevakiammal StreetC9730SivalingamStreet",
+  "east": 416235.71,
+  "north": 1450876.69,
+  "conf": 1.0,
+  "size_pt": 97.56
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "3FfsLaneC79cAnnal Gandhi Cross StreethLaneDhachinamoorthy StreetC806.791VeerapandiKattabomma\u00bfSubramani*Street&DakshinamoorthyCross StreetMary Helen Street>",
+  "east": 416128.94,
+  "north": 1450877.54,
+  "conf": 1.0,
+  "size_pt": 113.16
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "PSubramani*Street",
+  "east": 416108.09,
+  "north": 1450848.22,
+  "conf": 1.0,
+  "size_pt": 32.16
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "4th Cross Street",
+  "east": 416010.94,
+  "north": 1450847.9,
+  "conf": 1.0,
+  "size_pt": 51.84
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "C826th Cross Str674",
+  "east": 416005.97,
+  "north": 1450779.74,
+  "conf": 1.0,
+  "size_pt": 51.96
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "7th Cross St",
+  "east": 416150.52,
+  "north": 1450706.92,
+  "conf": 1.0,
+  "size_pt": 39.96
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "Sakthi Vinayagar Koil St",
+  "east": 416126.4,
+  "north": 1450655.38,
+  "conf": 1.0,
+  "size_pt": 75.96
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "Sakthivel Nagar8th Cross Street",
+  "east": 415972.42,
+  "north": 1450663.53,
+  "conf": 1.0,
+  "size_pt": 52.32
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "Krishnamoorthy St",
+  "east": 416314.13,
+  "north": 1450721.42,
+  "conf": 1.0,
+  "size_pt": 57.72
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "ChandranSt",
+  "east": 416387.04,
+  "north": 1450678.24,
+  "conf": 1.0,
+  "size_pt": 27.36
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "Ist Main Road",
+  "east": 416299.0,
+  "north": 1450579.38,
+  "conf": 1.0,
+  "size_pt": 44.16
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "Bashiyam St",
+  "east": 416715.31,
+  "north": 1450594.2,
+  "conf": 1.0,
+  "size_pt": 38.88
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "Ramamoorthy3rd Cross Street\u00a7 Ram NgaarK.C Garden4th Street4th Street4th Crosstreeye4th Streetare4rd Crossoital4th Streetmbs2nd CrossRam Nagar 4th4th Street2nd CrossK.C GarKCG",
+  "east": 416462.81,
+  "north": 1450403.79,
+  "conf": 0.967,
+  "size_pt": 127.08
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "K.C Garden 2nd Street",
+  "east": 416547.16,
+  "north": 1450327.58,
+  "conf": 1.0,
+  "size_pt": 71.4
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "K.C Garden Ist St",
+  "east": 416666.21,
+  "north": 1450230.63,
+  "conf": 1.0,
+  "size_pt": 57.0
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "K.C. Garden2ndCrossStreet",
+  "east": 416700.5,
+  "north": 1450317.21,
+  "conf": 1.0,
+  "size_pt": 35.52
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "5thStreet1stCross4th Street1st Cross",
+  "east": 416629.8,
+  "north": 1450367.06,
+  "conf": 1.0,
+  "size_pt": 46.56
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "52ndStreet4thStreetIstCross",
+  "east": 416573.51,
+  "north": 1450383.47,
+  "conf": 1.0,
+  "size_pt": 35.64
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "K.C Garden 3rd StreetK.C. GardenMills RoadPaper3rd Street 3rd Crossar 3rd1st",
+  "east": 416566.2,
+  "north": 1450240.26,
+  "conf": 1.0,
+  "size_pt": 78.12
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "Laksmanan NagarMain Road.East StreetSelliyammanColony Mainnony20",
+  "east": 416098.35,
+  "north": 1450408.13,
+  "conf": 1.0,
+  "size_pt": 70.08
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "Kolathur Colony Haridoss Main R",
+  "east": 415855.06,
+  "north": 1450555.99,
+  "conf": 1.0,
+  "size_pt": 103.08
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "-8th/",
+  "east": 415997.61,
+  "north": 1450451.52,
+  "conf": 1.0,
+  "size_pt": 18.0
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "7.331C599Street7.232C5S.R.P.Colony 4tho7C607175",
+  "east": 415914.43,
+  "north": 1450369.6,
+  "conf": 1.0,
+  "size_pt": 56.16
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "\u2022Siva Elango SaldoFeet Road) a\u2022 Siva",
+  "east": 416205.66,
+  "north": 1449608.28,
+  "conf": 1.0,
+  "size_pt": 53.16
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "Karthikeyan",
+  "east": 415593.99,
+  "north": 1450044.14,
+  "conf": 1.0,
+  "size_pt": 33.12
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "Salai",
+  "east": 415648.7,
+  "north": 1450022.54,
+  "conf": 1.0,
+  "size_pt": 14.52
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "Jawahar Nagar Ist Main RoadB36.547",
+  "east": 416401.75,
+  "north": 1449770.11,
+  "conf": 1.0,
+  "size_pt": 92.52
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "7.065Kolathur ColonyVinayagar KoilS.R.P.Colony 2nd Street",
+  "east": 415889.67,
+  "north": 1450239.1,
+  "conf": 1.0,
+  "size_pt": 80.16
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "Kandasamy Salai",
+  "east": 415950.41,
+  "north": 1450069.86,
+  "conf": 1.0,
+  "size_pt": 51.12
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "S.R.P.Colony Main Re",
+  "east": 415978.67,
+  "north": 1450194.22,
+  "conf": 1.0,
+  "size_pt": 62.04
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "Kandasamy Salai",
+  "east": 415837.39,
+  "north": 1449790.43,
+  "conf": 1.0,
+  "size_pt": 50.64
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "5th Circular 1st",
+  "east": 416533.08,
+  "north": 1450141.72,
+  "conf": 1.0,
+  "size_pt": 48.12
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "0.090C4thCircular Road",
+  "east": 416559.11,
+  "north": 1449910.46,
+  "conf": 1.0,
+  "size_pt": 41.52
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "Jawahar Nagar3rd Circular Road.",
+  "east": 416566.84,
+  "north": 1449774.56,
+  "conf": 1.0,
+  "size_pt": 54.6
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "Jawahar NagarTemple Road Ist Cross",
+  "east": 416399.21,
+  "north": 1449816.57,
+  "conf": 1.0,
+  "size_pt": 70.2
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "6.497Jawahar NagarJawahar Nagar5th Main Road5th Main RoadRQMnh",
+  "east": 416549.59,
+  "north": 1449495.34,
+  "conf": 1.0,
+  "size_pt": 103.92
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "2nd Cross Street\u2022Jawahar Nagar",
+  "east": 416419.64,
+  "north": 1449524.34,
+  "conf": 1.0,
+  "size_pt": 52.8
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "Periyar Nagar 5th Cross Street",
+  "east": 415895.91,
+  "north": 1449791.91,
+  "conf": 1.0,
+  "size_pt": 93.36
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "eyu u\u0131n uross streetPeriyar Nagarlst StPeriyar Wagar 2nd StreetC466.7762ndtro3rd StreetCrossC21Periyar6.45731Chandrasekaran5th944Periyar Nagar 4th Street5thKarthikeyan SalaiStreetCrosswwahar",
+  "east": 416116.66,
+  "north": 1449973.12,
+  "conf": 1.0,
+  "size_pt": 171.96
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "1stCrossStreetPeriyar Nagar 5th Cross Streete StDon:",
+  "east": 416163.12,
+  "north": 1450061.6,
+  "conf": 1.0,
+  "size_pt": 96.48
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "S.R.P.ColonyC47 3rd Street7.068_",
+  "east": 416038.67,
+  "north": 1450234.76,
+  "conf": 1.0,
+  "size_pt": 45.6
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "301Lane",
+  "east": 416125.66,
+  "north": 1450334.99,
+  "conf": 0.65,
+  "size_pt": 18.48
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "9th St",
+  "east": 416217.72,
+  "north": 1450293.92,
+  "conf": 1.0,
+  "size_pt": 19.2
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "15th St",
+  "east": 416241.43,
+  "north": 1450246.61,
+  "conf": 1.0,
+  "size_pt": 21.84
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "S.R.P.Colony14th St",
+  "east": 416185.55,
+  "north": 1450237.83,
+  "conf": 1.0,
+  "size_pt": 36.48
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "\u2192S.R.P. ColonyC44th Street6.730",
+  "east": 416037.61,
+  "north": 1450167.65,
+  "conf": 1.0,
+  "size_pt": 46.32
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "10th St",
+  "east": 416168.41,
+  "north": 1450184.59,
+  "conf": 1.0,
+  "size_pt": 22.32
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "14th StSt13th",
+  "east": 416247.57,
+  "north": 1450193.59,
+  "conf": 1.0,
+  "size_pt": 32.4
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "12th St11th St",
+  "east": 416259.0,
+  "north": 1450145.96,
+  "conf": 1.0,
+  "size_pt": 32.76
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "12th Street1st Cross",
+  "east": 415678.23,
+  "north": 1450180.04,
+  "conf": 1.0,
+  "size_pt": 36.96
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "3rd Cross",
+  "east": 415645.53,
+  "north": 1450109.55,
+  "conf": 1.0,
+  "size_pt": 28.68
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "2nd Cross",
+  "east": 415658.23,
+  "north": 1450140.98,
+  "conf": 1.0,
+  "size_pt": 30.12
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "- 13th Street7.Periyar Nagar 14th St1stPeriyar Nagar2nd C3rdCrosPeriyar Nagar 12thStreet 4th Cross",
+  "east": 415610.18,
+  "north": 1450150.93,
+  "conf": 1.0,
+  "size_pt": 107.76
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "16th Street5th Street Ist Cross17.815th Street 2nd Cross15thPeriyar Nagar15th Street 3rd Cross5th Streetth CrossPeriyararivar M1",
+  "east": 415486.48,
+  "north": 1450232.11,
+  "conf": 1.0,
+  "size_pt": 107.52
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "15th Street",
+  "east": 415461.92,
+  "north": 1450157.28,
+  "conf": 1.0,
+  "size_pt": 34.08
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "Raja Garden",
+  "east": 416306.3,
+  "north": 1450254.55,
+  "conf": 1.0,
+  "size_pt": 37.32
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "6thStreet",
+  "east": 416164.39,
+  "north": 1449672.42,
+  "conf": 1.0,
+  "size_pt": 18.0
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "StMargandeyan",
+  "east": 416590.86,
+  "north": 1450086.37,
+  "conf": 1.0,
+  "size_pt": 49.44
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "1stCross Street2",
+  "east": 416665.26,
+  "north": 1449635.16,
+  "conf": 1.0,
+  "size_pt": 37.56
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "6th Cross Streetth, Street4rd Cross",
+  "east": 416622.82,
+  "north": 1450465.71,
+  "conf": 1.0,
+  "size_pt": 83.28
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "SakthiVinayagar1st Cross st",
+  "east": 416287.78,
+  "north": 1450656.65,
+  "conf": 1.0,
+  "size_pt": 51.84
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "Balaraman(St",
+  "east": 416725.58,
+  "north": 1450537.68,
+  "conf": 1.0,
+  "size_pt": 32.76
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "Gandhi Nagar",
+  "east": 416731.4,
+  "north": 1450635.48,
+  "conf": 1.0,
+  "size_pt": 40.56
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "Andal Ave1stSt",
+  "east": 416635.1,
+  "north": 1450894.9,
+  "conf": 1.0,
+  "size_pt": 30.96
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "5th Cross Street",
+  "east": 416014.33,
+  "north": 1450821.34,
+  "conf": 1.0,
+  "size_pt": 52.08
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "Siva Elango Salai(70' Feet Road)Jawahar Nagar",
+  "east": 416293.92,
+  "north": 1449877.22,
+  "conf": 1.0,
+  "size_pt": 55.92
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "Venkatraman Salai",
+  "east": 415368.16,
+  "north": 1450154.11,
+  "conf": 1.0,
+  "size_pt": 56.16
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "RoadRam Main",
+  "east": 416314.98,
+  "north": 1450518.52,
+  "conf": 1.0,
+  "size_pt": 47.64
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "Andal Avenue 3rd St",
+  "east": 416648.54,
+  "north": 1450819.22,
+  "conf": 1.0,
+  "size_pt": 65.88
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "3rd St",
+  "east": 416708.75,
+  "north": 1450785.67,
+  "conf": 1.0,
+  "size_pt": 19.68
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "SivaboosangmSt",
+  "east": 416447.68,
+  "north": 1450755.19,
+  "conf": 1.0,
+  "size_pt": 42.12
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "St4th Cross",
+  "east": 416222.91,
+  "north": 1451012.49,
+  "conf": 1.0,
+  "size_pt": 40.08
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "Prabhu Street",
+  "east": 416136.98,
+  "north": 1450755.08,
+  "conf": 1.0,
+  "size_pt": 42.84
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "Dhanraj St",
+  "east": 416027.87,
+  "north": 1451127.01,
+  "conf": 1.0,
+  "size_pt": 33.12
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "Veeraragavan St",
+  "east": 416370.53,
+  "north": 1451117.59,
+  "conf": 1.0,
+  "size_pt": 49.2
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "3rdCircular Road",
+  "east": 416567.58,
+  "north": 1449851.71,
+  "conf": 1.0,
+  "size_pt": 41.28
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "4th Cross",
+  "east": 415487.64,
+  "north": 1450155.17,
+  "conf": 1.0,
+  "size_pt": 29.52
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "IstCrossStreet",
+  "east": 416711.08,
+  "north": 1450395.43,
+  "conf": 1.0,
+  "size_pt": 28.8
+ },
+ {
+  "ward": 66,
+  "role": "road_name",
+  "text": "4th Cross Street",
+  "east": 416506.2,
+  "north": 1449988.57,
+  "conf": 1.0,
+  "size_pt": 39.6
+ },
+ {
+  "ward": 66,
+  "role": "location_names",
+  "text": "ChildrenPlayGround",
+  "east": 416394.77,
+  "north": 1450235.18,
+  "conf": 1.0,
+  "size_pt": 22.92
+ },
+ {
+  "ward": 66,
+  "role": "location_names",
+  "text": "-KFC",
+  "east": 416322.17,
+  "north": 1450224.39,
+  "conf": 1.0,
+  "size_pt": 11.4
+ },
+ {
+  "ward": 66,
+  "role": "location_names",
+  "text": "VasanEyeCareHospital,Perambr",
+  "east": 416396.57,
+  "north": 1450413.0,
+  "conf": 1.0,
+  "size_pt": 33.84
+ },
+ {
+  "ward": 66,
+  "role": "location_names",
+  "text": "AGARAM",
+  "east": 416497.42,
+  "north": 1450082.98,
+  "conf": 1.0,
+  "size_pt": 25.32
+ },
+ {
+  "ward": 66,
+  "role": "location_names",
+  "text": "Periyar Nagar",
+  "east": 415833.47,
+  "north": 1450012.49,
+  "conf": 1.0,
+  "size_pt": 42.36
+ },
+ {
+  "ward": 66,
+  "role": "location_names",
+  "text": "Agarwal EyeHospital Ltd",
+  "east": 416153.28,
+  "north": 1449866.64,
+  "conf": 1.0,
+  "size_pt": 37.8
+ },
+ {
+  "ward": 66,
+  "role": "location_names",
+  "text": "N.R.Hospital",
+  "east": 416642.4,
+  "north": 1449663.42,
+  "conf": 1.0,
+  "size_pt": 36.36
+ },
+ {
+  "ward": 66,
+  "role": "location_names",
+  "text": "Govt PeripheralHospital Periya",
+  "east": 415821.52,
+  "north": 1450054.3,
+  "conf": 1.0,
+  "size_pt": 47.76
+ }
+]

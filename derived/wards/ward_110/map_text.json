@@ -1,0 +1,1127 @@
+[
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": "Drain Under Ground",
+  "east": 417141.31,
+  "north": 1444192.33,
+  "conf": 1.0,
+  "size_pt": 46.32
+ },
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": "Drain Under Ground",
+  "east": 417165.76,
+  "north": 1444373.49,
+  "conf": 1.0,
+  "size_pt": 49.92
+ },
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": "Sivaganga Road",
+  "east": 417720.48,
+  "north": 1444320.38,
+  "conf": 1.0,
+  "size_pt": 49.44
+ },
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": "Nachiyappan0.956",
+  "east": 416991.23,
+  "north": 1443530.66,
+  "conf": 1.0,
+  "size_pt": 37.32
+ },
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": "Mahalingapuram Main Road",
+  "east": 417033.89,
+  "north": 1443709.06,
+  "conf": 1.0,
+  "size_pt": 85.44
+ },
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": "1st Cross StreetSterling Road",
+  "east": 417365.17,
+  "north": 1444248.2,
+  "conf": 1.0,
+  "size_pt": 52.56
+ },
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": "Sterling Road",
+  "east": 417567.22,
+  "north": 1444482.46,
+  "conf": 1.0,
+  "size_pt": 40.2
+ },
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": "Nelson Manickam Road",
+  "east": 417055.9,
+  "north": 1444417.17,
+  "conf": 1.0,
+  "size_pt": 63.96
+ },
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": "Street",
+  "east": 416991.23,
+  "north": 1443509.56,
+  "conf": 1.0,
+  "size_pt": 18.36
+ },
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": "Lakshmanan Street",
+  "east": 417153.49,
+  "north": 1443631.78,
+  "conf": 1.0,
+  "size_pt": 60.0
+ },
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": "Ramanathan Street",
+  "east": 417149.36,
+  "north": 1443581.54,
+  "conf": 1.0,
+  "size_pt": 60.6
+ },
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": ", Vijayalakshmi StreetHospitalWisdom",
+  "east": 416854.59,
+  "north": 1443683.41,
+  "conf": 1.0,
+  "size_pt": 71.04
+ },
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": "Rajaji 2nd StreetASSNeelakandan St6.285",
+  "east": 417462.86,
+  "north": 1443613.76,
+  "conf": 1.0,
+  "size_pt": 56.28
+ },
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": "\u2022 Kamarajapuram Main RoadCorporation School Road",
+  "east": 417438.62,
+  "north": 1443468.96,
+  "conf": 1.0,
+  "size_pt": 92.64
+ },
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": "Vaikundapuram",
+  "east": 417285.89,
+  "north": 1443315.89,
+  "conf": 1.0,
+  "size_pt": 44.52
+ },
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": "Plat NarayanammalStreet",
+  "east": 416750.55,
+  "north": 1443316.63,
+  "conf": 1.0,
+  "size_pt": 60.84
+ },
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": "Saraswathi Street",
+  "east": 416856.81,
+  "north": 1443612.28,
+  "conf": 1.0,
+  "size_pt": 54.84
+ },
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": "Sarojini Street",
+  "east": 416944.98,
+  "north": 1443406.21,
+  "conf": 1.0,
+  "size_pt": 44.16
+ },
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": "Scheme RoadKamdar Nagar",
+  "east": 417168.62,
+  "north": 1443469.17,
+  "conf": 1.0,
+  "size_pt": 46.44
+ },
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": "Kamdar Nagar 2nd Street",
+  "east": 417162.69,
+  "north": 1443342.61,
+  "conf": 1.0,
+  "size_pt": 81.84
+ },
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": "Kamdar Nagar 3rd Street",
+  "east": 417102.79,
+  "north": 1443358.51,
+  "conf": 1.0,
+  "size_pt": 80.88
+ },
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": "Kodambakkam High Road",
+  "east": 417094.21,
+  "north": 1443172.05,
+  "conf": 1.0,
+  "size_pt": 79.92
+ },
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": "Ladi Mathavan Street>OUL",
+  "east": 416837.44,
+  "north": 1443471.4,
+  "conf": 0.65,
+  "size_pt": 66.72
+ },
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": "Lynwood Avenue",
+  "east": 416810.24,
+  "north": 1443407.48,
+  "conf": 1.0,
+  "size_pt": 50.28
+ },
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": "Tank Bund Road",
+  "east": 417268.96,
+  "north": 1444046.47,
+  "conf": 1.0,
+  "size_pt": 40.2
+ },
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": "2nd Cross StreetSterling Road",
+  "east": 417352.57,
+  "north": 1444309.04,
+  "conf": 1.0,
+  "size_pt": 53.4
+ },
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": "Kothari Road",
+  "east": 417452.06,
+  "north": 1444089.61,
+  "conf": 1.0,
+  "size_pt": 40.92
+ },
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": "29556.709A56Pushpanagar TenementRoad(Infront of Pond 11thof Pond 11th Block)5.828A>",
+  "east": 417433.33,
+  "north": 1443864.99,
+  "conf": 1.0,
+  "size_pt": 80.64
+ },
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": "Fly Over",
+  "east": 417039.49,
+  "north": 1443293.95,
+  "conf": 1.0,
+  "size_pt": 25.32
+ },
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": "Fly Over",
+  "east": 416831.31,
+  "north": 1443217.2,
+  "conf": 1.0,
+  "size_pt": 23.76
+ },
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": "Pillai RdThirumalai",
+  "east": 417660.25,
+  "north": 1443010.5,
+  "conf": 1.0,
+  "size_pt": 30.12
+ },
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": "Lake Area Ist Cross Street",
+  "east": 417666.92,
+  "north": 1443488.04,
+  "conf": 1.0,
+  "size_pt": 87.0
+ },
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": "Lake Area 2nd Cross Street",
+  "east": 417647.76,
+  "north": 1443427.2,
+  "conf": 1.0,
+  "size_pt": 89.04
+ },
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": "Lake Area 3rd Cross St.",
+  "east": 417647.87,
+  "north": 1443370.8,
+  "conf": 1.0,
+  "size_pt": 75.72
+ },
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": "Lake Area 5th Cross Street",
+  "east": 417638.13,
+  "north": 1443285.26,
+  "conf": 1.0,
+  "size_pt": 88.2
+ },
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": "Rajaji Ist Street",
+  "east": 417534.51,
+  "north": 1443612.81,
+  "conf": 1.0,
+  "size_pt": 51.48
+ },
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": "Valluvar Kottam High Road",
+  "east": 417820.28,
+  "north": 1443245.51,
+  "conf": 1.0,
+  "size_pt": 78.72
+ },
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": "School RoadIst Street",
+  "east": 417584.47,
+  "north": 1443602.1,
+  "conf": 1.0,
+  "size_pt": 38.64
+ },
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": "Lake Area 4th Cr Sti",
+  "east": 417528.8,
+  "north": 1443416.17,
+  "conf": 1.0,
+  "size_pt": 65.28
+ },
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": "Valluvar Kottam High Road",
+  "east": 417935.12,
+  "north": 1443977.46,
+  "conf": 1.0,
+  "size_pt": 81.0
+ },
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": "Jayalakshmipuram2nd StreetJayalakshmipuram Ist StJayalakshmipuram4th Street3rd StreetNungambakka",
+  "east": 417613.68,
+  "north": 1444090.36,
+  "conf": 1.0,
+  "size_pt": 87.36
+ },
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": "Appu Street",
+  "east": 417789.17,
+  "north": 1444025.59,
+  "conf": 1.0,
+  "size_pt": 37.2
+ },
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": "Seetha Nagar2nd Street",
+  "east": 417779.64,
+  "north": 1444192.01,
+  "conf": 1.0,
+  "size_pt": 42.0
+ },
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": "Seetha Nagar1st Street",
+  "east": 417784.51,
+  "north": 1444252.12,
+  "conf": 1.0,
+  "size_pt": 42.0
+ },
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": "Kutty Street",
+  "east": 417891.94,
+  "north": 1444301.52,
+  "conf": 1.0,
+  "size_pt": 37.8
+ },
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": "Mayor Sivashanmugam Street",
+  "east": 417845.79,
+  "north": 1444345.72,
+  "conf": 1.0,
+  "size_pt": 92.04
+ },
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": "Wheat Croft Road",
+  "east": 417853.2,
+  "north": 1444415.68,
+  "conf": 1.0,
+  "size_pt": 54.12
+ },
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": "Tank Bund Road",
+  "east": 417779.11,
+  "north": 1443624.68,
+  "conf": 1.0,
+  "size_pt": 45.24
+ },
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": "Corporation School Road",
+  "east": 417658.98,
+  "north": 1443531.82,
+  "conf": 1.0,
+  "size_pt": 77.52
+ },
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": "Lake Area Main Rd",
+  "east": 417763.55,
+  "north": 1443483.17,
+  "conf": 1.0,
+  "size_pt": 60.24
+ },
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": "Pushpa NagarMain Road",
+  "east": 417529.01,
+  "north": 1443689.77,
+  "conf": 1.0,
+  "size_pt": 43.68
+ },
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": "Kakkan \u00e7olonyi2nd St",
+  "east": 417376.7,
+  "north": 1443179.57,
+  "conf": 1.0,
+  "size_pt": 45.72
+ },
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": "Shenoy Road",
+  "east": 417631.15,
+  "north": 1443952.66,
+  "conf": 1.0,
+  "size_pt": 40.2
+ },
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": "'st StreetnangipuramAvenue RoadPonpangipuramMain Road",
+  "east": 418057.37,
+  "north": 1444108.17,
+  "conf": 1.0,
+  "size_pt": 56.88
+ },
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": "3rd Street",
+  "east": 417650.2,
+  "north": 1444104.14,
+  "conf": 1.0,
+  "size_pt": 31.32
+ },
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": "363id Streetst streettha NagarSeetha Nagar3rd Street5.738D7Seetha NagarMain RoadctroptIst CrossHigh RoadValluvar KottamC5 (RWH)5.481D2",
+  "east": 417857.33,
+  "north": 1444164.77,
+  "conf": 1.0,
+  "size_pt": 104.64
+ },
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": "North Mada Street",
+  "east": 417810.44,
+  "north": 1443968.56,
+  "conf": 1.0,
+  "size_pt": 58.44
+ },
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": "Main RoadKamdar Nagar",
+  "east": 417164.39,
+  "north": 1443229.08,
+  "conf": 1.0,
+  "size_pt": 45.24
+ },
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": "HospitalPushpa Nagar Ist StreetRajaji 3rd Street",
+  "east": 417394.17,
+  "north": 1443742.13,
+  "conf": 1.0,
+  "size_pt": 78.24
+ },
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": "881Jayalakshmipuram 4th Streetsra",
+  "east": 417815.73,
+  "north": 1444069.26,
+  "conf": 1.0,
+  "size_pt": 88.44
+ },
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": "Plat Sankaran Street",
+  "east": 416753.72,
+  "north": 1443285.79,
+  "conf": 1.0,
+  "size_pt": 65.88
+ },
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": "Sterling Road",
+  "east": 417837.75,
+  "north": 1444492.85,
+  "conf": 1.0,
+  "size_pt": 40.44
+ },
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": "ChetpetBridge",
+  "east": 417845.69,
+  "north": 1444829.1,
+  "conf": 1.0,
+  "size_pt": 22.56
+ },
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": "Charry Street",
+  "east": 416756.9,
+  "north": 1444924.39,
+  "conf": 1.0,
+  "size_pt": 40.56
+ },
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": "Harrington Road7thAvenue",
+  "east": 417167.46,
+  "north": 1444846.06,
+  "conf": 1.0,
+  "size_pt": 50.76
+ },
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": "Harrington Road2nd Avenue",
+  "east": 417376.6,
+  "north": 1444815.63,
+  "conf": 1.0,
+  "size_pt": 50.88
+ },
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": "Harrington Road3rdAvenue",
+  "east": 417300.08,
+  "north": 1444684.72,
+  "conf": 1.0,
+  "size_pt": 50.76
+ },
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": "Harrington Road",
+  "east": 416845.7,
+  "north": 1445037.92,
+  "conf": 1.0,
+  "size_pt": 47.76
+ },
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": "ChoolaimeduBridge",
+  "east": 416665.77,
+  "north": 1444839.8,
+  "conf": 1.0,
+  "size_pt": 37.44
+ },
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": "Choolaimedu High Road",
+  "east": 416694.03,
+  "north": 1444741.96,
+  "conf": 1.0,
+  "size_pt": 71.64
+ },
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": "Harrington Road4thAvenue",
+  "east": 417299.23,
+  "north": 1444760.83,
+  "conf": 1.0,
+  "size_pt": 50.76
+ },
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": "Harrington Road",
+  "east": 417344.0,
+  "north": 1444944.43,
+  "conf": 1.0,
+  "size_pt": 50.88
+ },
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": "Nungambakkam Subway",
+  "east": 416925.61,
+  "north": 1444549.99,
+  "conf": 1.0,
+  "size_pt": 71.4
+ },
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": "Railway Border Road",
+  "east": 416735.94,
+  "north": 1444577.34,
+  "conf": 1.0,
+  "size_pt": 62.52
+ },
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": "Sterling Avenue",
+  "east": 417174.02,
+  "north": 1444296.0,
+  "conf": 1.0,
+  "size_pt": 47.76
+ },
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": "Harrington Road5thAvenue",
+  "east": 417301.66,
+  "north": 1444850.72,
+  "conf": 1.0,
+  "size_pt": 50.64
+ },
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": "Harrington Road8th Avenue",
+  "east": 417005.2,
+  "north": 1444882.42,
+  "conf": 1.0,
+  "size_pt": 50.88
+ },
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": "Harrington RoadIthAvenue",
+  "east": 416931.85,
+  "north": 1444922.17,
+  "conf": 1.0,
+  "size_pt": 50.52
+ },
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": "Tank Bund Road2nd StreetIst Street",
+  "east": 417361.57,
+  "north": 1444078.06,
+  "conf": 1.0,
+  "size_pt": 50.16
+ },
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": "MahalingamiIst Cr St",
+  "east": 416724.51,
+  "north": 1443668.36,
+  "conf": 1.0,
+  "size_pt": 34.92
+ },
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": "1st St",
+  "east": 417449.31,
+  "north": 1443142.68,
+  "conf": 1.0,
+  "size_pt": 18.12
+ },
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": "Kamarajapuram2nd StreetKamarajapuramA443rd Street-KamarajapuramIst Street",
+  "east": 417452.59,
+  "north": 1443273.28,
+  "conf": 1.0,
+  "size_pt": 53.76
+ },
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": "PonnangipuramIst Street",
+  "east": 418026.25,
+  "north": 1444134.45,
+  "conf": 1.0,
+  "size_pt": 46.32
+ },
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": "Jayalakshmipuram4th Street",
+  "east": 417632.42,
+  "north": 1444046.9,
+  "conf": 1.0,
+  "size_pt": 53.64
+ },
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": "Harrington Road6th Avenue",
+  "east": 417231.6,
+  "north": 1444822.84,
+  "conf": 1.0,
+  "size_pt": 50.88
+ },
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": "34thStA",
+  "east": 417456.3,
+  "north": 1443191.44,
+  "conf": 1.0,
+  "size_pt": 15.96
+ },
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": "puramLake Area 7th Cross Street",
+  "east": 417629.03,
+  "north": 1443174.91,
+  "conf": 1.0,
+  "size_pt": 86.28
+ },
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": "'Susaipur\u00e1m Main Road",
+  "east": 417263.88,
+  "north": 1443595.0,
+  "conf": 1.0,
+  "size_pt": 71.4
+ },
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": "Sarojini StreetSaraswathiStreet V6.849A79",
+  "east": 416996.42,
+  "north": 1443632.95,
+  "conf": 1.0,
+  "size_pt": 63.72
+ },
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": "Madavam Nair Road",
+  "east": 416729.17,
+  "north": 1443525.89,
+  "conf": 1.0,
+  "size_pt": 63.0
+ },
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": "70 feet Scheme Road",
+  "east": 417057.7,
+  "north": 1443539.88,
+  "conf": 1.0,
+  "size_pt": 69.24
+ },
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": "School Road2nd Street",
+  "east": 417340.51,
+  "north": 1443612.39,
+  "conf": 1.0,
+  "size_pt": 39.72
+ },
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": "Valluvar KottamHigh Road",
+  "east": 417866.01,
+  "north": 1443417.23,
+  "conf": 1.0,
+  "size_pt": 47.52
+ },
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": "NarayananStreet",
+  "east": 416900.1,
+  "north": 1443543.59,
+  "conf": 1.0,
+  "size_pt": 31.2
+ },
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": "LynwoodLane s!",
+  "east": 416791.72,
+  "north": 1443360.31,
+  "conf": 1.0,
+  "size_pt": 25.8
+ },
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": "Murali Street",
+  "east": 416979.59,
+  "north": 1443383.1,
+  "conf": 1.0,
+  "size_pt": 39.6
+ },
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": "Nachiyappan Street",
+  "east": 417153.59,
+  "north": 1443521.43,
+  "conf": 1.0,
+  "size_pt": 60.36
+ },
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": "Lake Area 6th Cross Street",
+  "east": 417661.2,
+  "north": 1443236.5,
+  "conf": 1.0,
+  "size_pt": 87.96
+ },
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": "North Rajaji Street6.365",
+  "east": 417549.86,
+  "north": 1443746.27,
+  "conf": 1.0,
+  "size_pt": 47.64
+ },
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": "Ponnangipuram'2nd Street",
+  "east": 418064.88,
+  "north": 1444180.67,
+  "conf": 1.0,
+  "size_pt": 46.2
+ },
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": "Sterling Road 3rd Cross St",
+  "east": 417228.95,
+  "north": 1444476.53,
+  "conf": 1.0,
+  "size_pt": 80.04
+ },
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": "Sterling Road4th Cross St",
+  "east": 417299.02,
+  "north": 1444465.82,
+  "conf": 1.0,
+  "size_pt": 39.36
+ },
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": "Appasamy Street",
+  "east": 417154.44,
+  "north": 1444744.51,
+  "conf": 1.0,
+  "size_pt": 52.92
+ },
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": "Harrington RoadIst Avenue",
+  "east": 417661.2,
+  "north": 1444866.41,
+  "conf": 1.0,
+  "size_pt": 50.76
+ },
+ {
+  "ward": 110,
+  "role": "road_name",
+  "text": "Tank Bund Road",
+  "east": 417348.23,
+  "north": 1444114.53,
+  "conf": 1.0,
+  "size_pt": 50.16
+ },
+ {
+  "ward": 110,
+  "role": "location_names",
+  "text": "Loyola College",
+  "east": 417061.83,
+  "north": 1444010.01,
+  "conf": 1.0,
+  "size_pt": 48.48
+ },
+ {
+  "ward": 110,
+  "role": "location_names",
+  "text": "and ResearchManagementfor FinancialInstitute",
+  "east": 417431.0,
+  "north": 1444205.79,
+  "conf": 1.0,
+  "size_pt": 36.0
+ },
+ {
+  "ward": 110,
+  "role": "location_names",
+  "text": "Hospital",
+  "east": 417354.79,
+  "north": 1443764.71,
+  "conf": 1.0,
+  "size_pt": 26.64
+ },
+ {
+  "ward": 110,
+  "role": "location_names",
+  "text": "Village RoadMosque",
+  "east": 417871.09,
+  "north": 1443987.85,
+  "conf": 1.0,
+  "size_pt": 41.04
+ },
+ {
+  "ward": 110,
+  "role": "location_names",
+  "text": "Park",
+  "east": 417838.59,
+  "north": 1443484.86,
+  "conf": 1.0,
+  "size_pt": 13.08
+ },
+ {
+  "ward": 110,
+  "role": "location_names",
+  "text": "College Canteen",
+  "east": 416996.52,
+  "north": 1444092.69,
+  "conf": 1.0,
+  "size_pt": 48.6
+ },
+ {
+  "ward": 110,
+  "role": "location_names",
+  "text": "Pizza HutBlah Bistro",
+  "east": 417942.21,
+  "north": 1444463.7,
+  "conf": 1.0,
+  "size_pt": 34.56
+ },
+ {
+  "ward": 110,
+  "role": "location_names",
+  "text": "Appolo",
+  "east": 417942.85,
+  "north": 1444396.39,
+  "conf": 1.0,
+  "size_pt": 19.92
+ },
+ {
+  "ward": 110,
+  "role": "location_names",
+  "text": "BalaBhavan HighPadmaSeshadri",
+  "east": 417673.16,
+  "north": 1443327.34,
+  "conf": 1.0,
+  "size_pt": 37.92
+ },
+ {
+  "ward": 110,
+  "role": "location_names",
+  "text": "Mothers InternetBrowsing",
+  "east": 417602.99,
+  "north": 1444015.41,
+  "conf": 1.0,
+  "size_pt": 50.76
+ },
+ {
+  "ward": 110,
+  "role": "location_names",
+  "text": "Cake Walk",
+  "east": 417541.92,
+  "north": 1444437.52,
+  "conf": 1.0,
+  "size_pt": 30.48
+ },
+ {
+  "ward": 110,
+  "role": "location_names",
+  "text": "College of EngineerLoyola-Icam",
+  "east": 416901.48,
+  "north": 1443813.26,
+  "conf": 1.0,
+  "size_pt": 60.12
+ },
+ {
+  "ward": 110,
+  "role": "location_names",
+  "text": "Nungambakkam-",
+  "east": 417663.11,
+  "north": 1444124.49,
+  "conf": 1.0,
+  "size_pt": 47.4
+ },
+ {
+  "ward": 110,
+  "role": "location_names",
+  "text": "Mainland ChinaHotel Aruna Inn",
+  "east": 417886.22,
+  "north": 1444579.67,
+  "conf": 1.0,
+  "size_pt": 49.08
+ },
+ {
+  "ward": 110,
+  "role": "location_names",
+  "text": "HouseNoodle",
+  "east": 417935.86,
+  "north": 1444497.94,
+  "conf": 1.0,
+  "size_pt": 20.64
+ },
+ {
+  "ward": 110,
+  "role": "location_names",
+  "text": "NungambakkamCremationGround",
+  "east": 416933.12,
+  "north": 1444827.29,
+  "conf": 1.0,
+  "size_pt": 52.56
+ },
+ {
+  "ward": 110,
+  "role": "location_names",
+  "text": "Concert HallMV Rao",
+  "east": 417433.43,
+  "north": 1444808.11,
+  "conf": 1.0,
+  "size_pt": 41.88
+ },
+ {
+  "ward": 110,
+  "role": "location_names",
+  "text": "Loyola College",
+  "east": 417004.57,
+  "north": 1444591.65,
+  "conf": 1.0,
+  "size_pt": 48.6
+ },
+ {
+  "ward": 110,
+  "role": "location_names",
+  "text": "Nungambakkam",
+  "east": 416786.11,
+  "north": 1444762.63,
+  "conf": 1.0,
+  "size_pt": 52.68
+ },
+ {
+  "ward": 110,
+  "role": "location_names",
+  "text": "NungambakkamStationRailway",
+  "east": 416890.26,
+  "north": 1444495.72,
+  "conf": 1.0,
+  "size_pt": 52.68
+ }
+]

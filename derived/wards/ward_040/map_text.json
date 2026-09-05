@@ -1,0 +1,578 @@
+[
+ {
+  "ward": 40,
+  "role": "road_name",
+  "text": "Elaiya Street",
+  "east": 422536.32,
+  "north": 1451725.04,
+  "conf": 1.0,
+  "size_pt": 39.24
+ },
+ {
+  "ward": 40,
+  "role": "road_name",
+  "text": "Elaiya Street",
+  "east": 422607.86,
+  "north": 1452101.76,
+  "conf": 1.0,
+  "size_pt": 38.76
+ },
+ {
+  "ward": 40,
+  "role": "road_name",
+  "text": "Elaiya Street",
+  "east": 422797.6,
+  "north": 1452572.66,
+  "conf": 1.0,
+  "size_pt": 38.04
+ },
+ {
+  "ward": 40,
+  "role": "road_name",
+  "text": "Kamaraj Road",
+  "east": 422850.51,
+  "north": 1452398.17,
+  "conf": 1.0,
+  "size_pt": 41.76
+ },
+ {
+  "ward": 40,
+  "role": "road_name",
+  "text": "Ammani Amman Gardan",
+  "east": 423049.67,
+  "north": 1452234.04,
+  "conf": 1.0,
+  "size_pt": 74.28
+ },
+ {
+  "ward": 40,
+  "role": "road_name",
+  "text": "14th Link StARD 4013th Link St\u2022 Link St10thLink StLink StV.O.C Nagar9th12th8thLink StA32",
+  "east": 422948.72,
+  "north": 1451854.57,
+  "conf": 1.0,
+  "size_pt": 94.2
+ },
+ {
+  "ward": 40,
+  "role": "road_name",
+  "text": "Seni Amman Kovil Street3.203407l\u2192",
+  "east": 422996.34,
+  "north": 1451511.39,
+  "conf": 0.825,
+  "size_pt": 73.68
+ },
+ {
+  "ward": 40,
+  "role": "road_name",
+  "text": "CorparationColony 1st St",
+  "east": 423050.41,
+  "north": 1451717.11,
+  "conf": 1.0,
+  "size_pt": 41.88
+ },
+ {
+  "ward": 40,
+  "role": "road_name",
+  "text": "3.016A4Streetv\u021a !0\u0425 HY2.857E StreetA StreetDB StreetStreetStreetV StreeturThiruvalluvar NagarLlaiya StreetA13F2.6532ndStreetStStA14Road+3rd Main RoadA1PSt2.503re5th6th Main Road4th MainRoadEy streetstretURoadStMainStQStreetA16=Thiruvalluvar Nagar2.486 gStreetParkA17ree2.477StreeStreetH StreetEp Scheme RoodA272.48514th LiChelliammanLinkKovil Street15thA28\u2022WARD 44629th is7th LinkLink St25th.619ink St16thStree13th LiLink StV.O.CNagar18th Link St26th Link28thTank19th LinkLink St</61V.O.C Nagar24th Link12th Link St20thLink StR2nd Link StOlst / ink StA30Link StA312.9152.539et Road4th1st Link StreetMarket RoadLink3rd LinkV.O.C NagarMain Road2ndV.O.C NagarKamarajar N5th Link StV.O.C.MeencV.O.C Nagar South Street",
+  "east": 422767.02,
+  "north": 1451943.35,
+  "conf": 0.976,
+  "size_pt": 274.08
+ },
+ {
+  "ward": 40,
+  "role": "road_name",
+  "text": "Vaidhyanathan Street",
+  "east": 422762.68,
+  "north": 1451417.42,
+  "conf": 1.0,
+  "size_pt": 63.6
+ },
+ {
+  "ward": 40,
+  "role": "road_name",
+  "text": "Adi Dravadar St",
+  "east": 423026.82,
+  "north": 1451425.04,
+  "conf": 1.0,
+  "size_pt": 48.96
+ },
+ {
+  "ward": 40,
+  "role": "road_name",
+  "text": "Thiruvottriyur High Rd",
+  "east": 423099.31,
+  "north": 1451357.95,
+  "conf": 1.0,
+  "size_pt": 63.12
+ },
+ {
+  "ward": 40,
+  "role": "road_name",
+  "text": "QuartersONStreet2nd StreetSiva SakthiS Thottam3rd Streed1stKamraj Colony RoadC1",
+  "east": 423296.14,
+  "north": 1452329.59,
+  "conf": 1.0,
+  "size_pt": 94.68
+ },
+ {
+  "ward": 40,
+  "role": "road_name",
+  "text": "SA Koil Ln",
+  "east": 422908.19,
+  "north": 1452168.75,
+  "conf": 1.0,
+  "size_pt": 30.72
+ },
+ {
+  "ward": 40,
+  "role": "road_name",
+  "text": "Market Road",
+  "east": 422609.13,
+  "north": 1451784.94,
+  "conf": 1.0,
+  "size_pt": 39.24
+ },
+ {
+  "ward": 40,
+  "role": "road_name",
+  "text": "Seni AmmanKovil Street",
+  "east": 422919.4,
+  "north": 1451404.52,
+  "conf": 1.0,
+  "size_pt": 39.84
+ },
+ {
+  "ward": 40,
+  "role": "road_name",
+  "text": "Kannu ThottamAnnaisathya NagarAmmani ArLakshmi Colony'Keerai \u201eThottam Ist Street3rd2nd Cross StCross 4th2nd St i5th Cross7thV3rd Street2.927Rama ArangannalMain Roadmmani Ammal Thottam3rd Street2nd StIst Street2nd StreetOthavadai StreetStreetNorth3rd StreetMadah",
+  "east": 423185.24,
+  "north": 1452109.59,
+  "conf": 1.0,
+  "size_pt": 177.24
+ },
+ {
+  "ward": 40,
+  "role": "road_name",
+  "text": "Seniamman Koil Street Huts",
+  "east": 422813.9,
+  "north": 1451611.71,
+  "conf": 1.0,
+  "size_pt": 88.32
+ },
+ {
+  "ward": 40,
+  "role": "road_name",
+  "text": "a noadSt4thIst Link StreetLink3rd Link St2ndLV.O.C Nagar South Street",
+  "east": 422681.51,
+  "north": 1451740.18,
+  "conf": 0.922,
+  "size_pt": 92.28
+ },
+ {
+  "ward": 40,
+  "role": "road_name",
+  "text": "Market RoadKamarajar NagarV.O.C. Meenavar",
+  "east": 422909.35,
+  "north": 1451742.29,
+  "conf": 1.0,
+  "size_pt": 56.16
+ },
+ {
+  "ward": 40,
+  "role": "road_name",
+  "text": "V.O.C Nagar South Street",
+  "east": 422882.68,
+  "north": 1451650.86,
+  "conf": 1.0,
+  "size_pt": 78.72
+ },
+ {
+  "ward": 40,
+  "role": "road_name",
+  "text": "14th Link St",
+  "east": 422929.46,
+  "north": 1451934.99,
+  "conf": 1.0,
+  "size_pt": 37.44
+ },
+ {
+  "ward": 40,
+  "role": "road_name",
+  "text": "Illaya St",
+  "east": 422559.81,
+  "north": 1451553.83,
+  "conf": 1.0,
+  "size_pt": 25.08
+ },
+ {
+  "ward": 40,
+  "role": "road_name",
+  "text": "Jeeva Nagar 2nd StreetJeeva Nagar 1st Street",
+  "east": 423030.73,
+  "north": 1452459.22,
+  "conf": 1.0,
+  "size_pt": 74.76
+ },
+ {
+  "ward": 40,
+  "role": "road_name",
+  "text": "Bharma Street)",
+  "east": 423003.01,
+  "north": 1452424.83,
+  "conf": 1.0,
+  "size_pt": 45.48
+ },
+ {
+  "ward": 40,
+  "role": "road_name",
+  "text": "Hutting GroundCross Road",
+  "east": 423092.22,
+  "north": 1452573.83,
+  "conf": 1.0,
+  "size_pt": 47.04
+ },
+ {
+  "ward": 40,
+  "role": "road_name",
+  "text": "Kannu Thottam",
+  "east": 423304.18,
+  "north": 1452219.33,
+  "conf": 1.0,
+  "size_pt": 47.4
+ },
+ {
+  "ward": 40,
+  "role": "road_name",
+  "text": "West MadaArunachaleswarKoil",
+  "east": 423226.19,
+  "north": 1451972.66,
+  "conf": 1.0,
+  "size_pt": 62.88
+ },
+ {
+  "ward": 40,
+  "role": "road_name",
+  "text": "Seniamman Koil 4th Street",
+  "east": 423073.59,
+  "north": 1451938.38,
+  "conf": 1.0,
+  "size_pt": 84.96
+ },
+ {
+  "ward": 40,
+  "role": "road_name",
+  "text": "LaLane4th LaneMangammal Garden3rd Lane5th Lane2nd Lane6thIst Lane",
+  "east": 423337.41,
+  "north": 1452425.36,
+  "conf": 1.0,
+  "size_pt": 59.88
+ },
+ {
+  "ward": 40,
+  "role": "road_name",
+  "text": "Hutting GroundCross RoadJeeva Nagar Main RoadCross StreetJeeva Nagar 4th StreetJeevaNadar 3rd Street",
+  "east": 423059.09,
+  "north": 1452547.27,
+  "conf": 1.0,
+  "size_pt": 124.2
+ },
+ {
+  "ward": 40,
+  "role": "road_name",
+  "text": "L.I.G 3rd Lane",
+  "east": 423273.18,
+  "north": 1452564.62,
+  "conf": 1.0,
+  "size_pt": 43.92
+ },
+ {
+  "ward": 40,
+  "role": "road_name",
+  "text": "L.l.G 3rd LaneL.I.G. 2nd LaneSivakami NagarIst Cross StreetIstad CrossLaneStreeten",
+  "east": 423288.31,
+  "north": 1452530.02,
+  "conf": 1.0,
+  "size_pt": 123.0
+ },
+ {
+  "ward": 40,
+  "role": "road_name",
+  "text": "3rd CrossStreet",
+  "east": 423209.57,
+  "north": 1452449.17,
+  "conf": 1.0,
+  "size_pt": 52.2
+ },
+ {
+  "ward": 40,
+  "role": "road_name",
+  "text": "2nd CrossStreet",
+  "east": 423213.7,
+  "north": 1452481.76,
+  "conf": 1.0,
+  "size_pt": 53.76
+ },
+ {
+  "ward": 40,
+  "role": "road_name",
+  "text": "Government PrintingQuarters C",
+  "east": 423227.25,
+  "north": 1452372.03,
+  "conf": 1.0,
+  "size_pt": 48.24
+ },
+ {
+  "ward": 40,
+  "role": "road_name",
+  "text": "HousingBoardQuarters",
+  "east": 422977.82,
+  "north": 1452211.18,
+  "conf": 1.0,
+  "size_pt": 25.32
+ },
+ {
+  "ward": 40,
+  "role": "road_name",
+  "text": "North",
+  "east": 423239.84,
+  "north": 1452021.66,
+  "conf": 1.0,
+  "size_pt": 16.2
+ },
+ {
+  "ward": 40,
+  "role": "road_name",
+  "text": "Mada",
+  "east": 423280.9,
+  "north": 1452011.82,
+  "conf": 1.0,
+  "size_pt": 15.48
+ },
+ {
+  "ward": 40,
+  "role": "road_name",
+  "text": "Dr.NagarAmbedkarNHuts427",
+  "east": 423147.14,
+  "north": 1452373.62,
+  "conf": 1.0,
+  "size_pt": 37.44
+ },
+ {
+  "ward": 40,
+  "role": "road_name",
+  "text": "4th Cross Street",
+  "east": 423192.01,
+  "north": 1452421.66,
+  "conf": 1.0,
+  "size_pt": 52.2
+ },
+ {
+  "ward": 40,
+  "role": "road_name",
+  "text": "Illaya St",
+  "east": 422559.81,
+  "north": 1451508.22,
+  "conf": 1.0,
+  "size_pt": 25.08
+ },
+ {
+  "ward": 40,
+  "role": "road_name",
+  "text": "St4thLink",
+  "east": 422727.23,
+  "north": 1451762.19,
+  "conf": 1.0,
+  "size_pt": 21.84
+ },
+ {
+  "ward": 40,
+  "role": "road_name",
+  "text": "13th Link St",
+  "east": 422929.35,
+  "north": 1451893.19,
+  "conf": 1.0,
+  "size_pt": 37.56
+ },
+ {
+  "ward": 40,
+  "role": "road_name",
+  "text": ".94629th E 25t2.6iLink StLink St26th Link28thLink St",
+  "east": 422642.14,
+  "north": 1451880.39,
+  "conf": 1.0,
+  "size_pt": 54.12
+ },
+ {
+  "ward": 40,
+  "role": "road_name",
+  "text": "28thLink St",
+  "east": 422675.16,
+  "north": 1451856.05,
+  "conf": 1.0,
+  "size_pt": 21.72
+ },
+ {
+  "ward": 40,
+  "role": "road_name",
+  "text": "N 21thLink St",
+  "east": 422607.43,
+  "north": 1451823.67,
+  "conf": 1.0,
+  "size_pt": 25.08
+ },
+ {
+  "ward": 40,
+  "role": "road_name",
+  "text": "Q St",
+  "east": 422648.49,
+  "north": 1452077.74,
+  "conf": 1.0,
+  "size_pt": 12.12
+ },
+ {
+  "ward": 40,
+  "role": "road_name",
+  "text": "N St",
+  "east": 422637.49,
+  "north": 1452037.21,
+  "conf": 1.0,
+  "size_pt": 12.84
+ },
+ {
+  "ward": 40,
+  "role": "road_name",
+  "text": "A Street",
+  "east": 422656.96,
+  "north": 1452145.68,
+  "conf": 1.0,
+  "size_pt": 26.16
+ },
+ {
+  "ward": 40,
+  "role": "road_name",
+  "text": "ParkVStreet",
+  "east": 422891.25,
+  "north": 1451993.4,
+  "conf": 1.0,
+  "size_pt": 17.64
+ },
+ {
+  "ward": 40,
+  "role": "road_name",
+  "text": "Jeeva Nagar 3rd Street",
+  "east": 423043.11,
+  "north": 1452489.49,
+  "conf": 1.0,
+  "size_pt": 73.68
+ },
+ {
+  "ward": 40,
+  "role": "road_name",
+  "text": "South Mada5th Street",
+  "east": 423212.33,
+  "north": 1451882.29,
+  "conf": 1.0,
+  "size_pt": 41.16
+ },
+ {
+  "ward": 40,
+  "role": "road_name",
+  "text": "3rd Street",
+  "east": 423049.36,
+  "north": 1452016.16,
+  "conf": 1.0,
+  "size_pt": 31.8
+ },
+ {
+  "ward": 40,
+  "role": "road_name",
+  "text": "Ammani Ammal. Thottam8th Street",
+  "east": 423076.13,
+  "north": 1451977.32,
+  "conf": 1.0,
+  "size_pt": 76.8
+ },
+ {
+  "ward": 40,
+  "role": "road_name",
+  "text": "Seniamman Koil 3rd StreetA203.1222ndStreet4th Street",
+  "east": 423077.51,
+  "north": 1451873.83,
+  "conf": 1.0,
+  "size_pt": 84.84
+ },
+ {
+  "ward": 40,
+  "role": "road_name",
+  "text": "3rd Street",
+  "east": 423060.36,
+  "north": 1451809.49,
+  "conf": 1.0,
+  "size_pt": 31.8
+ },
+ {
+  "ward": 40,
+  "role": "road_name",
+  "text": "2nd Street",
+  "east": 423061.42,
+  "north": 1451776.16,
+  "conf": 1.0,
+  "size_pt": 33.24
+ },
+ {
+  "ward": 40,
+  "role": "road_name",
+  "text": "Thiruvottriyur High Rd",
+  "east": 423257.2,
+  "north": 1451738.06,
+  "conf": 1.0,
+  "size_pt": 63.12
+ },
+ {
+  "ward": 40,
+  "role": "road_name",
+  "text": "ust StreThiruvottriyur High Rd",
+  "east": 423384.19,
+  "north": 1452283.88,
+  "conf": 1.0,
+  "size_pt": 67.2
+ },
+ {
+  "ward": 40,
+  "role": "location_names",
+  "text": "Tondiarpet-MTC Depot",
+  "east": 423152.85,
+  "north": 1452287.8,
+  "conf": 1.0,
+  "size_pt": 32.76
+ },
+ {
+  "ward": 40,
+  "role": "location_names",
+  "text": "-//",
+  "east": 423192.22,
+  "north": 1452295.84,
+  "conf": 1.0,
+  "size_pt": 4.44
+ },
+ {
+  "ward": 40,
+  "role": "location_names",
+  "text": "ApolloHospitals,Tondiarpet",
+  "east": 423075.5,
+  "north": 1451506.1,
+  "conf": 1.0,
+  "size_pt": 30.0
+ },
+ {
+  "ward": 40,
+  "role": "location_names",
+  "text": "Tondiarpet",
+  "east": 423013.48,
+  "north": 1451374.46,
+  "conf": 1.0,
+  "size_pt": 30.0
+ }
+]

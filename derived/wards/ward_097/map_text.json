@@ -1,0 +1,659 @@
+[
+ {
+  "ward": 97,
+  "role": "road_name",
+  "text": "Bharathi nagarStreet",
+  "east": 416301.96,
+  "north": 1447800.7,
+  "conf": 1.0,
+  "size_pt": 64.68
+ },
+ {
+  "ward": 97,
+  "role": "road_name",
+  "text": "Battachari Street",
+  "east": 416166.5,
+  "north": 1448014.39,
+  "conf": 1.0,
+  "size_pt": 50.16
+ },
+ {
+  "ward": 97,
+  "role": "road_name",
+  "text": "Solai 2nd St",
+  "east": 416640.18,
+  "north": 1447215.07,
+  "conf": 1.0,
+  "size_pt": 36.48
+ },
+ {
+  "ward": 97,
+  "role": "road_name",
+  "text": "Solai Ist St",
+  "east": 416641.55,
+  "north": 1447256.46,
+  "conf": 1.0,
+  "size_pt": 34.44
+ },
+ {
+  "ward": 97,
+  "role": "road_name",
+  "text": "Solai Main Road",
+  "east": 416614.67,
+  "north": 1447375.0,
+  "conf": 1.0,
+  "size_pt": 47.16
+ },
+ {
+  "ward": 97,
+  "role": "road_name",
+  "text": "Raju Street",
+  "east": 416710.44,
+  "north": 1447196.76,
+  "conf": 1.0,
+  "size_pt": 33.24
+ },
+ {
+  "ward": 97,
+  "role": "road_name",
+  "text": "Palani Andavar Koil Street",
+  "east": 416812.03,
+  "north": 1447963.7,
+  "conf": 1.0,
+  "size_pt": 77.52
+ },
+ {
+  "ward": 97,
+  "role": "road_name",
+  "text": "Mettu Street",
+  "east": 416900.82,
+  "north": 1447882.73,
+  "conf": 1.0,
+  "size_pt": 36.72
+ },
+ {
+  "ward": 97,
+  "role": "road_name",
+  "text": "Kuppusamy Street",
+  "east": 415864.59,
+  "north": 1447959.57,
+  "conf": 1.0,
+  "size_pt": 53.04
+ },
+ {
+  "ward": 97,
+  "role": "road_name",
+  "text": "Ramasamy Street",
+  "east": 416525.67,
+  "north": 1447981.37,
+  "conf": 1.0,
+  "size_pt": 51.84
+ },
+ {
+  "ward": 97,
+  "role": "road_name",
+  "text": "Aalani Andavar Koil Street",
+  "east": 416759.02,
+  "north": 1447590.92,
+  "conf": 1.0,
+  "size_pt": 76.44
+ },
+ {
+  "ward": 97,
+  "role": "road_name",
+  "text": "Sabapathy Cross Street",
+  "east": 416667.37,
+  "north": 1447613.89,
+  "conf": 1.0,
+  "size_pt": 69.36
+ },
+ {
+  "ward": 97,
+  "role": "road_name",
+  "text": "Duraisamy Street",
+  "east": 416531.49,
+  "north": 1447590.6,
+  "conf": 1.0,
+  "size_pt": 49.92
+ },
+ {
+  "ward": 97,
+  "role": "road_name",
+  "text": "Palayam PillaiNagar",
+  "east": 416434.03,
+  "north": 1447689.56,
+  "conf": 1.0,
+  "size_pt": 60.72
+ },
+ {
+  "ward": 97,
+  "role": "road_name",
+  "text": "Ayanaram Road",
+  "east": 416843.57,
+  "north": 1447516.62,
+  "conf": 1.0,
+  "size_pt": 44.88
+ },
+ {
+  "ward": 97,
+  "role": "road_name",
+  "text": "Thanthai Periyar 2nd StreetThanthe",
+  "east": 416124.81,
+  "north": 1447616.53,
+  "conf": 1.0,
+  "size_pt": 80.76
+ },
+ {
+  "ward": 97,
+  "role": "road_name",
+  "text": "streeThanthai Periyar Ist Street",
+  "east": 416147.24,
+  "north": 1447609.23,
+  "conf": 1.0,
+  "size_pt": 78.72
+ },
+ {
+  "ward": 97,
+  "role": "road_name",
+  "text": "Thanthai Periyar 3rd Street",
+  "east": 416091.37,
+  "north": 1447620.55,
+  "conf": 1.0,
+  "size_pt": 79.56
+ },
+ {
+  "ward": 97,
+  "role": "road_name",
+  "text": "Muthamma Nagar StreetMuthammam Koil StreetKamarajar 4thKamarajar 2nd Street47+Streeteet",
+  "east": 416044.49,
+  "north": 1447772.12,
+  "conf": 1.0,
+  "size_pt": 107.64
+ },
+ {
+  "ward": 97,
+  "role": "road_name",
+  "text": "C17.23Veerasamy 3rd Street",
+  "east": 416375.61,
+  "north": 1447377.22,
+  "conf": 1.0,
+  "size_pt": 60.96
+ },
+ {
+  "ward": 97,
+  "role": "road_name",
+  "text": "NMK Street",
+  "east": 416663.35,
+  "north": 1448028.58,
+  "conf": 1.0,
+  "size_pt": 33.0
+ },
+ {
+  "ward": 97,
+  "role": "road_name",
+  "text": "StreetMarket",
+  "east": 416591.81,
+  "north": 1448049.75,
+  "conf": 1.0,
+  "size_pt": 18.72
+ },
+ {
+  "ward": 97,
+  "role": "road_name",
+  "text": "Barasurama Ewsaranw West Koil Street",
+  "east": 415929.56,
+  "north": 1448224.92,
+  "conf": 1.0,
+  "size_pt": 66.6
+ },
+ {
+  "ward": 97,
+  "role": "road_name",
+  "text": "Guruswamy StreetsKunjdham",
+  "east": 415887.87,
+  "north": 1447807.05,
+  "conf": 1.0,
+  "size_pt": 57.72
+ },
+ {
+  "ward": 97,
+  "role": "road_name",
+  "text": "Raji Street",
+  "east": 416722.4,
+  "north": 1447436.39,
+  "conf": 1.0,
+  "size_pt": 33.0
+ },
+ {
+  "ward": 97,
+  "role": "road_name",
+  "text": "New Avadi Road",
+  "east": 416360.37,
+  "north": 1447284.29,
+  "conf": 1.0,
+  "size_pt": 40.32
+ },
+ {
+  "ward": 97,
+  "role": "road_name",
+  "text": "Anna Nagar 3rd Avenue",
+  "east": 415425.1,
+  "north": 1447939.88,
+  "conf": 1.0,
+  "size_pt": 71.76
+ },
+ {
+  "ward": 97,
+  "role": "road_name",
+  "text": "Veerasamy Main Street",
+  "east": 416486.62,
+  "north": 1447289.8,
+  "conf": 1.0,
+  "size_pt": 65.4
+ },
+ {
+  "ward": 97,
+  "role": "road_name",
+  "text": "Veerasamy2nd Street1st StreetAVeerasamy",
+  "east": 416476.15,
+  "north": 1447362.3,
+  "conf": 1.0,
+  "size_pt": 36.12
+ },
+ {
+  "ward": 97,
+  "role": "road_name",
+  "text": "Solaimman Koil Street",
+  "east": 416394.98,
+  "north": 1447451.1,
+  "conf": 1.0,
+  "size_pt": 64.92
+ },
+ {
+  "ward": 97,
+  "role": "road_name",
+  "text": "Sabapathi Street",
+  "east": 416657.95,
+  "north": 1447509.95,
+  "conf": 1.0,
+  "size_pt": 42.24
+ },
+ {
+  "ward": 97,
+  "role": "road_name",
+  "text": "Chetty Street",
+  "east": 416394.13,
+  "north": 1447559.7,
+  "conf": 1.0,
+  "size_pt": 38.52
+ },
+ {
+  "ward": 97,
+  "role": "road_name",
+  "text": "Kamarajar Street",
+  "east": 415939.83,
+  "north": 1447822.82,
+  "conf": 1.0,
+  "size_pt": 50.16
+ },
+ {
+  "ward": 97,
+  "role": "road_name",
+  "text": "Muthamman Koil Street",
+  "east": 416224.07,
+  "north": 1447650.93,
+  "conf": 1.0,
+  "size_pt": 69.12
+ },
+ {
+  "ward": 97,
+  "role": "road_name",
+  "text": "Parasuraman Eswaran KoilMain Street.",
+  "east": 416103.01,
+  "north": 1448100.44,
+  "conf": 1.0,
+  "size_pt": 77.64
+ },
+ {
+  "ward": 97,
+  "role": "road_name",
+  "text": "Thiru Vi Ka St",
+  "east": 415822.15,
+  "north": 1447937.45,
+  "conf": 1.0,
+  "size_pt": 40.92
+ },
+ {
+  "ward": 97,
+  "role": "road_name",
+  "text": "Vellala Street",
+  "east": 415704.47,
+  "north": 1447913.53,
+  "conf": 1.0,
+  "size_pt": 34.08
+ },
+ {
+  "ward": 97,
+  "role": "road_name",
+  "text": "Periyar Street",
+  "east": 416336.88,
+  "north": 1448113.78,
+  "conf": 1.0,
+  "size_pt": 39.96
+ },
+ {
+  "ward": 97,
+  "role": "road_name",
+  "text": "Solai 3rd St",
+  "east": 416443.34,
+  "north": 1447244.18,
+  "conf": 1.0,
+  "size_pt": 30.24
+ },
+ {
+  "ward": 97,
+  "role": "road_name",
+  "text": "Palani Andavar Koil St",
+  "east": 416700.39,
+  "north": 1447765.77,
+  "conf": 1.0,
+  "size_pt": 70.68
+ },
+ {
+  "ward": 97,
+  "role": "road_name",
+  "text": "Elumalai St",
+  "east": 416632.56,
+  "north": 1447795.09,
+  "conf": 1.0,
+  "size_pt": 34.8
+ },
+ {
+  "ward": 97,
+  "role": "road_name",
+  "text": "Thirupacheesawr St",
+  "east": 416599.33,
+  "north": 1447951.84,
+  "conf": 1.0,
+  "size_pt": 58.68
+ },
+ {
+  "ward": 97,
+  "role": "road_name",
+  "text": "Guruvappa Mestiri St",
+  "east": 416571.07,
+  "north": 1447938.72,
+  "conf": 1.0,
+  "size_pt": 64.2
+ },
+ {
+  "ward": 97,
+  "role": "road_name",
+  "text": "Pachaikail Veeraswamay Street",
+  "east": 416472.87,
+  "north": 1447815.2,
+  "conf": 1.0,
+  "size_pt": 90.72
+ },
+ {
+  "ward": 97,
+  "role": "road_name",
+  "text": "Aringaranna St",
+  "east": 416207.35,
+  "north": 1447896.06,
+  "conf": 1.0,
+  "size_pt": 45.6
+ },
+ {
+  "ward": 97,
+  "role": "road_name",
+  "text": "Vellala Street",
+  "east": 416041.53,
+  "north": 1447938.61,
+  "conf": 1.0,
+  "size_pt": 37.56
+ },
+ {
+  "ward": 97,
+  "role": "road_name",
+  "text": "Palayam Pillai Nagar",
+  "east": 416428.95,
+  "north": 1447604.78,
+  "conf": 1.0,
+  "size_pt": 64.8
+ },
+ {
+  "ward": 97,
+  "role": "road_name",
+  "text": "Sivalingam",
+  "east": 415917.6,
+  "north": 1447949.72,
+  "conf": 1.0,
+  "size_pt": 32.28
+ },
+ {
+  "ward": 97,
+  "role": "road_name",
+  "text": "Street",
+  "east": 415914.64,
+  "north": 1448003.81,
+  "conf": 1.0,
+  "size_pt": 18.0
+ },
+ {
+  "ward": 97,
+  "role": "road_name",
+  "text": "Aynavaram 3rd Main",
+  "east": 416451.07,
+  "north": 1448117.59,
+  "conf": 1.0,
+  "size_pt": 65.4
+ },
+ {
+  "ward": 97,
+  "role": "road_name",
+  "text": "Road",
+  "east": 416531.28,
+  "north": 1448100.87,
+  "conf": 1.0,
+  "size_pt": 14.76
+ },
+ {
+  "ward": 97,
+  "role": "road_name",
+  "text": "Aynavaram",
+  "east": 416033.59,
+  "north": 1448229.78,
+  "conf": 1.0,
+  "size_pt": 33.24
+ },
+ {
+  "ward": 97,
+  "role": "road_name",
+  "text": "Road",
+  "east": 416033.06,
+  "north": 1448281.86,
+  "conf": 1.0,
+  "size_pt": 14.28
+ },
+ {
+  "ward": 97,
+  "role": "road_name",
+  "text": "Guruswamy StreetNageshwar",
+  "east": 416306.72,
+  "north": 1448009.0,
+  "conf": 1.0,
+  "size_pt": 57.72
+ },
+ {
+  "ward": 97,
+  "role": "road_name",
+  "text": "Mettu Streetr",
+  "east": 416866.0,
+  "north": 1447626.06,
+  "conf": 1.0,
+  "size_pt": 39.24
+ },
+ {
+  "ward": 97,
+  "role": "road_name",
+  "text": "North",
+  "east": 416173.07,
+  "north": 1448192.74,
+  "conf": 1.0,
+  "size_pt": 15.84
+ },
+ {
+  "ward": 97,
+  "role": "road_name",
+  "text": "Mada Street",
+  "east": 416230.74,
+  "north": 1448198.14,
+  "conf": 1.0,
+  "size_pt": 38.52
+ },
+ {
+  "ward": 97,
+  "role": "location_names",
+  "text": "SoundaraPandiyaNadar School",
+  "east": 416448.63,
+  "north": 1448064.67,
+  "conf": 1.0,
+  "size_pt": 38.64
+ },
+ {
+  "ward": 97,
+  "role": "location_names",
+  "text": "GopikrishnaTheatre",
+  "east": 416253.07,
+  "north": 1447785.03,
+  "conf": 1.0,
+  "size_pt": 31.68
+ },
+ {
+  "ward": 97,
+  "role": "location_names",
+  "text": "VOCNagarBus Stop",
+  "east": 416312.54,
+  "north": 1447577.48,
+  "conf": 1.0,
+  "size_pt": 26.16
+ },
+ {
+  "ward": 97,
+  "role": "location_names",
+  "text": "Pond",
+  "east": 416144.81,
+  "north": 1448085.52,
+  "conf": 1.0,
+  "size_pt": 13.8
+ },
+ {
+  "ward": 97,
+  "role": "location_names",
+  "text": "Trinity FullGospel Church",
+  "east": 416621.97,
+  "north": 1447145.64,
+  "conf": 1.0,
+  "size_pt": 40.56
+ },
+ {
+  "ward": 97,
+  "role": "location_names",
+  "text": "Solai AmmanKoil Ground",
+  "east": 416555.2,
+  "north": 1447445.6,
+  "conf": 1.0,
+  "size_pt": 37.8
+ },
+ {
+  "ward": 97,
+  "role": "location_names",
+  "text": "Tamil BaptistChurch Ayanavaram",
+  "east": 416439.64,
+  "north": 1447479.89,
+  "conf": 1.0,
+  "size_pt": 57.0
+ },
+ {
+  "ward": 97,
+  "role": "location_names",
+  "text": "Blessed ZionChurch",
+  "east": 416407.89,
+  "north": 1447640.45,
+  "conf": 1.0,
+  "size_pt": 36.12
+ },
+ {
+  "ward": 97,
+  "role": "location_names",
+  "text": "SriVinaitheerthaKoil",
+  "east": 416328.2,
+  "north": 1447645.22,
+  "conf": 1.0,
+  "size_pt": 36.24
+ },
+ {
+  "ward": 97,
+  "role": "location_names",
+  "text": "Masajid-",
+  "east": 416333.18,
+  "north": 1447754.66,
+  "conf": 1.0,
+  "size_pt": 21.0
+ },
+ {
+  "ward": 97,
+  "role": "location_names",
+  "text": "-Mohammadia",
+  "east": 416407.47,
+  "north": 1447755.93,
+  "conf": 1.0,
+  "size_pt": 37.08
+ },
+ {
+  "ward": 97,
+  "role": "location_names",
+  "text": "SriMuthumaariAmman Kovil",
+  "east": 416421.12,
+  "north": 1447827.48,
+  "conf": 1.0,
+  "size_pt": 38.16
+ },
+ {
+  "ward": 97,
+  "role": "location_names",
+  "text": "Chelli Ammam",
+  "east": 416225.24,
+  "north": 1448096.21,
+  "conf": 1.0,
+  "size_pt": 40.92
+ },
+ {
+  "ward": 97,
+  "role": "location_names",
+  "text": "Kovil",
+  "east": 416280.48,
+  "north": 1448096.21,
+  "conf": 1.0,
+  "size_pt": 12.84
+ },
+ {
+  "ward": 97,
+  "role": "location_names",
+  "text": "Om Kuzhanthai VelarArul Murugan Alayam",
+  "east": 416166.19,
+  "north": 1448161.83,
+  "conf": 1.0,
+  "size_pt": 63.0
+ },
+ {
+  "ward": 97,
+  "role": "location_names",
+  "text": "ParasuramaLingeshwarlemple",
+  "east": 416025.86,
+  "north": 1448052.82,
+  "conf": 1.0,
+  "size_pt": 34.68
+ }
+]

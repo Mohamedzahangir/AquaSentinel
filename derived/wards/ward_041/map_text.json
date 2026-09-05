@@ -1,0 +1,560 @@
+[
+ {
+  "ward": 41,
+  "role": "road_name",
+  "text": "VaidhyanathanBridge",
+  "east": 422177.29,
+  "north": 1451417.55,
+  "conf": 1.0,
+  "size_pt": 41.88
+ },
+ {
+  "ward": 41,
+  "role": "road_name",
+  "text": "Devi KarumariammanNagar 6th Street7th StreetManimekalai StKavalan StMadhavi St4th Street6th Street2nd Main RdElango St3rd Street5th Street4th StreetPandian2nd StreetStreet3rdStreetDevi Karumariamman2ndStreetNagar Ist Street(OLGopal Nagar48A2Manaly Road1st Street2.9011st StreetA392nd StreetMain2.9273rd StreetNagarThiruvalluva.",
+  "east": 421417.87,
+  "north": 1451090.18,
+  "conf": 1.0,
+  "size_pt": 155.04
+ },
+ {
+  "ward": 41,
+  "role": "road_name",
+  "text": "18thKoilStreeThoppVinayagarBlock 17thSyBlock 16th StBlock 15thBlock 14thM.G.R Nagar Ist StreetM.G.R Nagar 6th StreetM.G.R Nagar Main StreetM.G.R Nagar Canal RoadThoppai Vinayagar Koil StreetBlock 13th.M.G.R Nagar 7th StreetM.G.R Nagar 2nd StreetM.G.R Nagar 8th StreetBlock 12th St5th Street4th StreetBlock 11th St3rd StreetBlock 10th StSalai (Annai Sathya Nagar)Block 9th StA Block 8th StA Block Ith StM.G.RBlock 9th StA Block 6th StNagar9th StreetB Block 8thA Block 5th St10th StreetA Block 4th StB blkB Block 7th St15A Block 3rd StPeriyarB Block 6thB Block 11th St12thA Block 2nd StB Block 10thB Block 5thEzhil NagarBlock 4thEzhillock Ist St7thNagarKamarajarS6thB BlockStNagar5th StreetB BlockEzhil Nagar3rd St4th StreetSathyaManaly Road2nd St3rd Street\u00a7 Chandra Sekar NagarAnnaiBlock 1st8th Street2nd StreetAnnai SatNar1stNNChO",
+  "east": 421127.12,
+  "north": 1451471.85,
+  "conf": 0.991,
+  "size_pt": 265.92
+ },
+ {
+  "ward": 41,
+  "role": "road_name",
+  "text": "Ennore High Road",
+  "east": 421624.47,
+  "north": 1450742.91,
+  "conf": 1.0,
+  "size_pt": 55.8
+ },
+ {
+  "ward": 41,
+  "role": "road_name",
+  "text": "Chitrarasu Street\u0442\u043e 1SN",
+  "east": 421293.18,
+  "north": 1450814.14,
+  "conf": 1.0,
+  "size_pt": 51.36
+ },
+ {
+  "ward": 41,
+  "role": "road_name",
+  "text": "Ko.Su.Mani Streethin.",
+  "east": 421421.68,
+  "north": 1450774.03,
+  "conf": 0.75,
+  "size_pt": 54.12
+ },
+ {
+  "ward": 41,
+  "role": "road_name",
+  "text": "NSK Street",
+  "east": 421313.61,
+  "north": 1450800.49,
+  "conf": 1.0,
+  "size_pt": 33.96
+ },
+ {
+  "ward": 41,
+  "role": "road_name",
+  "text": "somayapa Street",
+  "east": 421393.31,
+  "north": 1450774.56,
+  "conf": 1.0,
+  "size_pt": 51.6
+ },
+ {
+  "ward": 41,
+  "role": "road_name",
+  "text": "Trichi chinnasamy Streetall olreel",
+  "east": 421446.13,
+  "north": 1450773.18,
+  "conf": 1.0,
+  "size_pt": 75.24
+ },
+ {
+  "ward": 41,
+  "role": "road_name",
+  "text": "2nd Street",
+  "east": 421380.5,
+  "north": 1451013.02,
+  "conf": 1.0,
+  "size_pt": 33.0
+ },
+ {
+  "ward": 41,
+  "role": "road_name",
+  "text": "Mo3rd StreetStThiruvalluvar Nagar4th StreetAn",
+  "east": 421387.38,
+  "north": 1450969.52,
+  "conf": 1.0,
+  "size_pt": 91.68
+ },
+ {
+  "ward": 41,
+  "role": "road_name",
+  "text": "8th Street",
+  "east": 421498.2,
+  "north": 1450436.49,
+  "conf": 1.0,
+  "size_pt": 31.8
+ },
+ {
+  "ward": 41,
+  "role": "road_name",
+  "text": "2nd Street",
+  "east": 421878.81,
+  "north": 1451410.67,
+  "conf": 1.0,
+  "size_pt": 33.0
+ },
+ {
+  "ward": 41,
+  "role": "road_name",
+  "text": "3rd StreetiDAC 11",
+  "east": 421866.0,
+  "north": 1451387.38,
+  "conf": 0.65,
+  "size_pt": 31.44
+ },
+ {
+  "ward": 41,
+  "role": "road_name",
+  "text": "ananO0(11th Street12th Street6th StreetwSivaji Nagar8th StreetM 9th StreetPKoil StreetZth Streetth2.840Main RdAmman3rd Street s:2nd Street&4th StreeteIst Street5th Street9",
+  "east": 422004.13,
+  "north": 1451337.85,
+  "conf": 0.926,
+  "size_pt": 92.16
+ },
+ {
+  "ward": 41,
+  "role": "road_name",
+  "text": "Ennore High Road",
+  "east": 421770.85,
+  "north": 1451343.35,
+  "conf": 1.0,
+  "size_pt": 56.16
+ },
+ {
+  "ward": 41,
+  "role": "road_name",
+  "text": "kictnst10ck tostB Block 10thEzhil7th StVagar6th St5th Street4th StreetSathya3rd Street2nd StreetAnnai SathyaNagarIst Street",
+  "east": 421208.51,
+  "north": 1451326.21,
+  "conf": 0.907,
+  "size_pt": 134.4
+ },
+ {
+  "ward": 41,
+  "role": "road_name",
+  "text": "IstC>Periyar Salai (Anna Nagar)IstGovindaOck'treetSagotZnoC5 Block2.9\u04213 BIk2nd St5th Street1st St4th StreetC5E Street &w 2nd StThiruvalluvar SalaiF StreetBlockC10[Block\u00bbIstSt3rd Street5th StD StreetIsttreSt2nd StreetC10 BlockJ.J. Nagar C StreetIst StreetJ.J. NagarG StreetDrivers Colony RoadIst StreetC2StreetBlock4thStreetJ.J. Nagar A2 StreetSt 4agar C11 Bak s.CA",
+  "east": 421383.04,
+  "north": 1450592.51,
+  "conf": 0.96,
+  "size_pt": 242.04
+ },
+ {
+  "ward": 41,
+  "role": "road_name",
+  "text": "C2Block47\u20bd4th StuC4BlockJ.J. Nagar A1 Street",
+  "east": 421459.78,
+  "north": 1450499.89,
+  "conf": 1.0,
+  "size_pt": 82.32
+ },
+ {
+  "ward": 41,
+  "role": "road_name",
+  "text": "Ajess St",
+  "east": 421899.45,
+  "north": 1451434.48,
+  "conf": 1.0,
+  "size_pt": 26.16
+ },
+ {
+  "ward": 41,
+  "role": "road_name",
+  "text": "Thygappa Street",
+  "east": 421655.8,
+  "north": 1450419.56,
+  "conf": 1.0,
+  "size_pt": 48.72
+ },
+ {
+  "ward": 41,
+  "role": "road_name",
+  "text": "Ennore High Road",
+  "east": 421718.35,
+  "north": 1451116.32,
+  "conf": 1.0,
+  "size_pt": 55.8
+ },
+ {
+  "ward": 41,
+  "role": "road_name",
+  "text": "Ennore High Road",
+  "east": 421613.25,
+  "north": 1450541.81,
+  "conf": 1.0,
+  "size_pt": 55.8
+ },
+ {
+  "ward": 41,
+  "role": "road_name",
+  "text": "Kumaran Nagari bt/st Street",
+  "east": 421837.96,
+  "north": 1451253.39,
+  "conf": 1.0,
+  "size_pt": 48.12
+ },
+ {
+  "ward": 41,
+  "role": "road_name",
+  "text": "arasakthiSanjai Gandhi StreettreeKamaraj Street Mooppanar NagarCandhi Street Mooppanar NagarSasthri StreetNehru Street",
+  "east": 421563.93,
+  "north": 1450902.84,
+  "conf": 1.0,
+  "size_pt": 112.08
+ },
+ {
+  "ward": 41,
+  "role": "road_name",
+  "text": "Vaidhyanathan Service Laneyth Street\"Siva ji Nagar6th Street8th StreetZth Street",
+  "east": 422067.21,
+  "north": 1451392.36,
+  "conf": 1.0,
+  "size_pt": 83.64
+ },
+ {
+  "ward": 41,
+  "role": "road_name",
+  "text": "Gandhi Street",
+  "east": 421892.78,
+  "north": 1451184.17,
+  "conf": 1.0,
+  "size_pt": 41.16
+ },
+ {
+  "ward": 41,
+  "role": "road_name",
+  "text": "Cornation50",
+  "east": 421805.14,
+  "north": 1451171.78,
+  "conf": 1.0,
+  "size_pt": 27.72
+ },
+ {
+  "ward": 41,
+  "role": "road_name",
+  "text": "Nagar 4th Street",
+  "east": 421890.56,
+  "north": 1451155.91,
+  "conf": 1.0,
+  "size_pt": 53.52
+ },
+ {
+  "ward": 41,
+  "role": "road_name",
+  "text": "4insCornation Nagar 3rd Street",
+  "east": 421832.45,
+  "north": 1451133.36,
+  "conf": 0.65,
+  "size_pt": 84.6
+ },
+ {
+  "ward": 41,
+  "role": "road_name",
+  "text": "Cornation",
+  "east": 421771.38,
+  "north": 1451109.44,
+  "conf": 1.0,
+  "size_pt": 27.6
+ },
+ {
+  "ward": 41,
+  "role": "road_name",
+  "text": "Nagar 2nd Street",
+  "east": 421856.9,
+  "north": 1451090.81,
+  "conf": 1.0,
+  "size_pt": 54.24
+ },
+ {
+  "ward": 41,
+  "role": "road_name",
+  "text": "vireetCornation Nagar Ist StreetIS.C.B Tenements (Cornation Nagar)\u2022091",
+  "east": 421825.25,
+  "north": 1451043.4,
+  "conf": 0.825,
+  "size_pt": 109.56
+ },
+ {
+  "ward": 41,
+  "role": "road_name",
+  "text": "Anbalaghan Streetcet",
+  "east": 421339.23,
+  "north": 1450797.52,
+  "conf": 0.65,
+  "size_pt": 56.04
+ },
+ {
+  "ward": 41,
+  "role": "road_name",
+  "text": "Lime Kiln Road",
+  "east": 421270.53,
+  "north": 1450865.79,
+  "conf": 1.0,
+  "size_pt": 46.8
+ },
+ {
+  "ward": 41,
+  "role": "road_name",
+  "text": "Velan Nagar1st Street",
+  "east": 421560.22,
+  "north": 1450712.0,
+  "conf": 1.0,
+  "size_pt": 39.48
+ },
+ {
+  "ward": 41,
+  "role": "road_name",
+  "text": "Velan Nagar2nd Street",
+  "east": 421493.12,
+  "north": 1450727.24,
+  "conf": 1.0,
+  "size_pt": 38.04
+ },
+ {
+  "ward": 41,
+  "role": "road_name",
+  "text": "Link Street",
+  "east": 421536.52,
+  "north": 1450796.25,
+  "conf": 1.0,
+  "size_pt": 33.72
+ },
+ {
+  "ward": 41,
+  "role": "road_name",
+  "text": "1075th Street",
+  "east": 421393.52,
+  "north": 1450911.41,
+  "conf": 0.65,
+  "size_pt": 31.44
+ },
+ {
+  "ward": 41,
+  "role": "road_name",
+  "text": "7th Street",
+  "east": 421530.59,
+  "north": 1451178.98,
+  "conf": 1.0,
+  "size_pt": 31.56
+ },
+ {
+  "ward": 41,
+  "role": "road_name",
+  "text": "2nd Street",
+  "east": 421833.93,
+  "north": 1451287.15,
+  "conf": 1.0,
+  "size_pt": 33.24
+ },
+ {
+  "ward": 41,
+  "role": "road_name",
+  "text": "3rd Street",
+  "east": 421839.12,
+  "north": 1451311.07,
+  "conf": 1.0,
+  "size_pt": 31.68
+ },
+ {
+  "ward": 41,
+  "role": "road_name",
+  "text": "4th Street",
+  "east": 421846.32,
+  "north": 1451336.37,
+  "conf": 1.0,
+  "size_pt": 31.68
+ },
+ {
+  "ward": 41,
+  "role": "road_name",
+  "text": "Ezhil NagarA block Ist St",
+  "east": 420917.87,
+  "north": 1451386.85,
+  "conf": 1.0,
+  "size_pt": 43.44
+ },
+ {
+  "ward": 41,
+  "role": "road_name",
+  "text": "M.G.R Nagar9th Street10th StreetB blk 12th StB Block 11th StBlack 10tt",
+  "east": 421234.23,
+  "north": 1451456.29,
+  "conf": 0.883,
+  "size_pt": 60.36
+ },
+ {
+  "ward": 41,
+  "role": "road_name",
+  "text": "UCKih 4thNaga,Ist StSxChandra Sekar Nagar\"B BlockIst Street2nd StreetB Block3rd StreetStreetEzhil Nagar B\u2022 StreetStreetManaly RoadBloc8th StreetChandra Sekar Nagar 7th Street\u00ab** CAPTAIN",
+  "east": 420928.87,
+  "north": 1451291.91,
+  "conf": 0.965,
+  "size_pt": 171.12
+ },
+ {
+  "ward": 41,
+  "role": "road_name",
+  "text": "StreetJ.J. NagarJ.J. |Nagar A2 StreetC11 Block2nd StStreet3rd StC12 BlockBlock+1st StreetMst sitJ StreetStreet",
+  "east": 421253.39,
+  "north": 1450461.37,
+  "conf": 1.0,
+  "size_pt": 137.04
+ },
+ {
+  "ward": 41,
+  "role": "location_names",
+  "text": "BharathPetroleum",
+  "east": 422246.3,
+  "north": 1451379.34,
+  "conf": 1.0,
+  "size_pt": 30.12
+ },
+ {
+  "ward": 41,
+  "role": "location_names",
+  "text": "Indian",
+  "east": 421784.82,
+  "north": 1450900.4,
+  "conf": 1.0,
+  "size_pt": 16.92
+ },
+ {
+  "ward": 41,
+  "role": "location_names",
+  "text": "Oil",
+  "east": 421814.67,
+  "north": 1450900.4,
+  "conf": 1.0,
+  "size_pt": 6.6
+ },
+ {
+  "ward": 41,
+  "role": "location_names",
+  "text": "EzhilNagar",
+  "east": 421148.18,
+  "north": 1451375.64,
+  "conf": 1.0,
+  "size_pt": 17.76
+ },
+ {
+  "ward": 41,
+  "role": "location_names",
+  "text": "Korukkupet",
+  "east": 421784.82,
+  "north": 1450691.15,
+  "conf": 1.0,
+  "size_pt": 33.24
+ },
+ {
+  "ward": 41,
+  "role": "location_names",
+  "text": "TondiryarRailway Station",
+  "east": 422227.03,
+  "north": 1451319.54,
+  "conf": 1.0,
+  "size_pt": 46.68
+ },
+ {
+  "ward": 41,
+  "role": "location_names",
+  "text": "Pond",
+  "east": 421754.02,
+  "north": 1450963.17,
+  "conf": 1.0,
+  "size_pt": 15.36
+ },
+ {
+  "ward": 41,
+  "role": "location_names",
+  "text": "Pond",
+  "east": 421995.34,
+  "north": 1451206.71,
+  "conf": 1.0,
+  "size_pt": 15.36
+ },
+ {
+  "ward": 41,
+  "role": "location_names",
+  "text": "Pond",
+  "east": 421604.57,
+  "north": 1451132.41,
+  "conf": 1.0,
+  "size_pt": 15.36
+ },
+ {
+  "ward": 41,
+  "role": "location_names",
+  "text": "ua slreelAjees Nagar",
+  "east": 421859.65,
+  "north": 1451373.62,
+  "conf": 1.0,
+  "size_pt": 41.76
+ },
+ {
+  "ward": 41,
+  "role": "location_names",
+  "text": "KorukkupetRailway Station",
+  "east": 421894.47,
+  "north": 1450623.2,
+  "conf": 1.0,
+  "size_pt": 46.68
+ },
+ {
+  "ward": 41,
+  "role": "location_names",
+  "text": "Cornation",
+  "east": 421863.89,
+  "north": 1451205.02,
+  "conf": 1.0,
+  "size_pt": 31.44
+ },
+ {
+  "ward": 41,
+  "role": "location_names",
+  "text": "Nagar",
+  "east": 421918.4,
+  "north": 1451203.54,
+  "conf": 1.0,
+  "size_pt": 20.04
+ },
+ {
+  "ward": 41,
+  "role": "location_names",
+  "text": "Thoppai",
+  "east": 421171.36,
+  "north": 1451691.68,
+  "conf": 1.0,
+  "size_pt": 22.2
+ },
+ {
+  "ward": 41,
+  "role": "location_names",
+  "text": "StreetVinayagar Koil",
+  "east": 421256.46,
+  "north": 1451691.68,
+  "conf": 1.0,
+  "size_pt": 64.44
+ }
+]

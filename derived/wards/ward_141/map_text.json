@@ -1,0 +1,641 @@
+[
+ {
+  "ward": 141,
+  "role": "road_name",
+  "text": "Madley 2nd Street4.04",
+  "east": 416317.74,
+  "north": 1440956.28,
+  "conf": 0.65,
+  "size_pt": 56.4
+ },
+ {
+  "ward": 141,
+  "role": "road_name",
+  "text": "Madley 1st Street\u21924.700",
+  "east": 416338.91,
+  "north": 1441020.84,
+  "conf": 1.0,
+  "size_pt": 54.72
+ },
+ {
+  "ward": 141,
+  "role": "road_name",
+  "text": "PoliceQuarters RoadStationPoliceMambalam",
+  "east": 416454.7,
+  "north": 1441075.76,
+  "conf": 1.0,
+  "size_pt": 44.52
+ },
+ {
+  "ward": 141,
+  "role": "road_name",
+  "text": "Sanju Schoolsof Arts",
+  "east": 416436.81,
+  "north": 1440895.43,
+  "conf": 1.0,
+  "size_pt": 43.32
+ },
+ {
+  "ward": 141,
+  "role": "road_name",
+  "text": "South",
+  "east": 416545.19,
+  "north": 1440951.1,
+  "conf": 1.0,
+  "size_pt": 16.44
+ },
+ {
+  "ward": 141,
+  "role": "road_name",
+  "text": "Usman Road",
+  "east": 416550.06,
+  "north": 1440893.53,
+  "conf": 1.0,
+  "size_pt": 38.76
+ },
+ {
+  "ward": 141,
+  "role": "road_name",
+  "text": "Gopal Street",
+  "east": 416707.97,
+  "north": 1440841.99,
+  "conf": 1.0,
+  "size_pt": 37.8
+ },
+ {
+  "ward": 141,
+  "role": "road_name",
+  "text": "Sivaji Street",
+  "east": 416696.12,
+  "north": 1440918.61,
+  "conf": 1.0,
+  "size_pt": 37.08
+ },
+ {
+  "ward": 141,
+  "role": "road_name",
+  "text": "C.l.T Nagar III Main RoadPandianC.l.T.",
+  "east": 416813.07,
+  "north": 1440485.87,
+  "conf": 1.0,
+  "size_pt": 92.52
+ },
+ {
+  "ward": 141,
+  "role": "road_name",
+  "text": "C.l.T Nagar II Main Road",
+  "east": 416703.74,
+  "north": 1440475.61,
+  "conf": 1.0,
+  "size_pt": 76.56
+ },
+ {
+  "ward": 141,
+  "role": "road_name",
+  "text": "C.I. T.Nagar|/ Cross StreetCross StreetVI CrcIl Cross StreetPandian StreetCrosC.I.T Nagar IV'MainRoad",
+  "east": 416893.09,
+  "north": 1440509.15,
+  "conf": 1.0,
+  "size_pt": 79.32
+ },
+ {
+  "ward": 141,
+  "role": "road_name",
+  "text": "New Boag Road",
+  "east": 416322.29,
+  "north": 1440610.22,
+  "conf": 1.0,
+  "size_pt": 49.8
+ },
+ {
+  "ward": 141,
+  "role": "road_name",
+  "text": "Bajanai Koil Street",
+  "east": 416278.37,
+  "north": 1440826.32,
+  "conf": 1.0,
+  "size_pt": 59.04
+ },
+ {
+  "ward": 141,
+  "role": "road_name",
+  "text": "Varadarajan Street",
+  "east": 416303.66,
+  "north": 1440876.17,
+  "conf": 1.0,
+  "size_pt": 57.0
+ },
+ {
+  "ward": 141,
+  "role": "road_name",
+  "text": "Sidhi Vinayagar Koil Street",
+  "east": 416236.98,
+  "north": 1440785.58,
+  "conf": 1.0,
+  "size_pt": 83.88
+ },
+ {
+  "ward": 141,
+  "role": "road_name",
+  "text": "C.I.T Nagar 1stMain Road",
+  "east": 416590.91,
+  "north": 1440459.73,
+  "conf": 1.0,
+  "size_pt": 82.08
+ },
+ {
+  "ward": 141,
+  "role": "road_name",
+  "text": "CITNagar",
+  "east": 416716.23,
+  "north": 1440571.17,
+  "conf": 1.0,
+  "size_pt": 19.56
+ },
+ {
+  "ward": 141,
+  "role": "road_name",
+  "text": "RestaurantSubway",
+  "east": 416748.83,
+  "north": 1440214.53,
+  "conf": 1.0,
+  "size_pt": 36.12
+ },
+ {
+  "ward": 141,
+  "role": "road_name",
+  "text": "Burkit Road",
+  "east": 416714.75,
+  "north": 1441123.07,
+  "conf": 1.0,
+  "size_pt": 36.84
+ },
+ {
+  "ward": 141,
+  "role": "road_name",
+  "text": "South",
+  "east": 416683.42,
+  "north": 1440696.05,
+  "conf": 1.0,
+  "size_pt": 15.96
+ },
+ {
+  "ward": 141,
+  "role": "road_name",
+  "text": "West Boag Rood",
+  "east": 416750.42,
+  "north": 1440710.12,
+  "conf": 1.0,
+  "size_pt": 49.44
+ },
+ {
+  "ward": 141,
+  "role": "road_name",
+  "text": "Mannar Street",
+  "east": 416700.25,
+  "north": 1441032.06,
+  "conf": 1.0,
+  "size_pt": 44.16
+ },
+ {
+  "ward": 141,
+  "role": "road_name",
+  "text": "Dhamodaran Street",
+  "east": 416687.12,
+  "north": 1440985.07,
+  "conf": 1.0,
+  "size_pt": 60.0
+ },
+ {
+  "ward": 141,
+  "role": "road_name",
+  "text": "C.I.T Nagar Ist Main Road",
+  "east": 416652.51,
+  "north": 1440236.64,
+  "conf": 1.0,
+  "size_pt": 80.88
+ },
+ {
+  "ward": 141,
+  "role": "road_name",
+  "text": "C.I.T Nagar IV Main Road5.652o",
+  "east": 416730.41,
+  "north": 1440316.55,
+  "conf": 1.0,
+  "size_pt": 77.88
+ },
+ {
+  "ward": 141,
+  "role": "road_name",
+  "text": "V.O.C.Street",
+  "east": 416893.09,
+  "north": 1440875.22,
+  "conf": 1.0,
+  "size_pt": 34.8
+ },
+ {
+  "ward": 141,
+  "role": "road_name",
+  "text": "Higher SecondaryI|I CrossCorparationSchool",
+  "east": 416988.56,
+  "north": 1440552.54,
+  "conf": 1.0,
+  "size_pt": 42.48
+ },
+ {
+  "ward": 141,
+  "role": "road_name",
+  "text": "Mooparappan Street",
+  "east": 417283.54,
+  "north": 1440867.91,
+  "conf": 1.0,
+  "size_pt": 58.68
+ },
+ {
+  "ward": 141,
+  "role": "road_name",
+  "text": "Abdul Azis Street",
+  "east": 417116.52,
+  "north": 1440855.32,
+  "conf": 1.0,
+  "size_pt": 51.72
+ },
+ {
+  "ward": 141,
+  "role": "road_name",
+  "text": "Manohar Streetl",
+  "east": 417029.1,
+  "north": 1440799.02,
+  "conf": 1.0,
+  "size_pt": 44.64
+ },
+ {
+  "ward": 141,
+  "role": "road_name",
+  "text": "|/ Cross St",
+  "east": 417016.82,
+  "north": 1440618.16,
+  "conf": 1.0,
+  "size_pt": 32.04
+ },
+ {
+  "ward": 141,
+  "role": "road_name",
+  "text": "South",
+  "east": 417078.84,
+  "north": 1440747.69,
+  "conf": 1.0,
+  "size_pt": 15.0
+ },
+ {
+  "ward": 141,
+  "role": "road_name",
+  "text": "West Boag Road",
+  "east": 417142.24,
+  "north": 1440761.03,
+  "conf": 1.0,
+  "size_pt": 46.8
+ },
+ {
+  "ward": 141,
+  "role": "road_name",
+  "text": "Moosa Street",
+  "east": 417141.92,
+  "north": 1440993.75,
+  "conf": 1.0,
+  "size_pt": 38.52
+ },
+ {
+  "ward": 141,
+  "role": "road_name",
+  "text": "Kothanda Ramar Koil Street",
+  "east": 416047.74,
+  "north": 1440976.28,
+  "conf": 1.0,
+  "size_pt": 88.68
+ },
+ {
+  "ward": 141,
+  "role": "road_name",
+  "text": "Il/ Main RoadC.I.T.NagarExtn.",
+  "east": 416874.67,
+  "north": 1440318.13,
+  "conf": 1.0,
+  "size_pt": 57.84
+ },
+ {
+  "ward": 141,
+  "role": "road_name",
+  "text": "SouthDhandapani Street",
+  "east": 416831.28,
+  "north": 1440875.96,
+  "conf": 1.0,
+  "size_pt": 78.12
+ },
+ {
+  "ward": 141,
+  "role": "road_name",
+  "text": "Srinivasan",
+  "east": 416710.62,
+  "north": 1440749.81,
+  "conf": 1.0,
+  "size_pt": 29.28
+ },
+ {
+  "ward": 141,
+  "role": "road_name",
+  "text": "Street",
+  "east": 416761.0,
+  "north": 1440756.27,
+  "conf": 1.0,
+  "size_pt": 17.76
+ },
+ {
+  "ward": 141,
+  "role": "road_name",
+  "text": "Quarters RoadPolice",
+  "east": 416513.23,
+  "north": 1440985.38,
+  "conf": 1.0,
+  "size_pt": 44.52
+ },
+ {
+  "ward": 141,
+  "role": "road_name",
+  "text": "Kamaraj Colony",
+  "east": 416471.21,
+  "north": 1440798.6,
+  "conf": 1.0,
+  "size_pt": 49.2
+ },
+ {
+  "ward": 141,
+  "role": "road_name",
+  "text": "KamaraiColony",
+  "east": 416464.01,
+  "north": 1440840.72,
+  "conf": 1.0,
+  "size_pt": 25.92
+ },
+ {
+  "ward": 141,
+  "role": "road_name",
+  "text": "Muthurangan Salai",
+  "east": 416373.62,
+  "north": 1440872.68,
+  "conf": 1.0,
+  "size_pt": 57.6
+ },
+ {
+  "ward": 141,
+  "role": "road_name",
+  "text": "Muthurangan Salai",
+  "east": 416357.64,
+  "north": 1441089.41,
+  "conf": 1.0,
+  "size_pt": 57.72
+ },
+ {
+  "ward": 141,
+  "role": "road_name",
+  "text": "Corporation Colony1st Street",
+  "east": 416310.01,
+  "north": 1440743.35,
+  "conf": 1.0,
+  "size_pt": 58.68
+ },
+ {
+  "ward": 141,
+  "role": "road_name",
+  "text": "New Street",
+  "east": 416174.11,
+  "north": 1440745.79,
+  "conf": 1.0,
+  "size_pt": 34.2
+ },
+ {
+  "ward": 141,
+  "role": "road_name",
+  "text": "6.367K12Srinivasapuramvew StreetCorporation Colony4th StreetCorporation ColonyCorporation ColonyK11purulion colon,3rd Street2nd Street1st Street",
+  "east": 416242.49,
+  "north": 1440692.98,
+  "conf": 1.0,
+  "size_pt": 124.68
+ },
+ {
+  "ward": 141,
+  "role": "road_name",
+  "text": "MadleyRoad",
+  "east": 416240.16,
+  "north": 1441117.25,
+  "conf": 1.0,
+  "size_pt": 20.52
+ },
+ {
+  "ward": 141,
+  "role": "road_name",
+  "text": "C.l.T.",
+  "east": 417338.89,
+  "north": 1440727.8,
+  "conf": 1.0,
+  "size_pt": 12.96
+ },
+ {
+  "ward": 141,
+  "role": "road_name",
+  "text": "Nagar Model",
+  "east": 417390.01,
+  "north": 1440739.86,
+  "conf": 1.0,
+  "size_pt": 34.92
+ },
+ {
+  "ward": 141,
+  "role": "road_name",
+  "text": "House Road",
+  "east": 417462.62,
+  "north": 1440757.22,
+  "conf": 1.0,
+  "size_pt": 34.92
+ },
+ {
+  "ward": 141,
+  "role": "road_name",
+  "text": "Sadulla Street",
+  "east": 417119.38,
+  "north": 1440953.53,
+  "conf": 1.0,
+  "size_pt": 43.2
+ },
+ {
+  "ward": 141,
+  "role": "road_name",
+  "text": "Maduraiveeran Koil Street",
+  "east": 416947.49,
+  "north": 1440855.0,
+  "conf": 1.0,
+  "size_pt": 79.8
+ },
+ {
+  "ward": 141,
+  "role": "road_name",
+  "text": "C.I.T.",
+  "east": 416701.62,
+  "north": 1440633.71,
+  "conf": 1.0,
+  "size_pt": 13.08
+ },
+ {
+  "ward": 141,
+  "role": "road_name",
+  "text": "Nagar",
+  "east": 416737.19,
+  "north": 1440638.16,
+  "conf": 1.0,
+  "size_pt": 16.92
+ },
+ {
+  "ward": 141,
+  "role": "road_name",
+  "text": "C.L.T.",
+  "east": 416752.53,
+  "north": 1440533.71,
+  "conf": 1.0,
+  "size_pt": 13.08
+ },
+ {
+  "ward": 141,
+  "role": "road_name",
+  "text": "Nagar Srirampet Street",
+  "east": 416755.18,
+  "north": 1440448.73,
+  "conf": 1.0,
+  "size_pt": 72.96
+ },
+ {
+  "ward": 141,
+  "role": "road_name",
+  "text": "9.I|l Cross StreetII Cross Street",
+  "east": 416880.71,
+  "north": 1440559.42,
+  "conf": 1.0,
+  "size_pt": 48.12
+ },
+ {
+  "ward": 141,
+  "role": "road_name",
+  "text": "/ Cross StreetC.I.T. Nagar",
+  "east": 416893.09,
+  "north": 1440601.44,
+  "conf": 1.0,
+  "size_pt": 42.48
+ },
+ {
+  "ward": 141,
+  "role": "road_name",
+  "text": "C.l.T.",
+  "east": 416880.49,
+  "north": 1440626.73,
+  "conf": 1.0,
+  "size_pt": 13.08
+ },
+ {
+  "ward": 141,
+  "role": "road_name",
+  "text": "Nagar",
+  "east": 416915.63,
+  "north": 1440633.4,
+  "conf": 1.0,
+  "size_pt": 16.68
+ },
+ {
+  "ward": 141,
+  "role": "road_name",
+  "text": "Canal Bank RoadC.l.T. Nagar",
+  "east": 417175.37,
+  "north": 1440729.38,
+  "conf": 1.0,
+  "size_pt": 51.48
+ },
+ {
+  "ward": 141,
+  "role": "road_name",
+  "text": "Cross Street",
+  "east": 417154.73,
+  "north": 1440698.69,
+  "conf": 1.0,
+  "size_pt": 42.48
+ },
+ {
+  "ward": 141,
+  "role": "road_name",
+  "text": "Cross Street7",
+  "east": 417013.96,
+  "north": 1440578.68,
+  "conf": 1.0,
+  "size_pt": 37.2
+ },
+ {
+  "ward": 141,
+  "role": "road_name",
+  "text": "D133K4.53570D124.637",
+  "east": 416982.53,
+  "north": 1440462.27,
+  "conf": 0.825,
+  "size_pt": 36.6
+ },
+ {
+  "ward": 141,
+  "role": "road_name",
+  "text": "IV. Nagaran StreetCross StreetVI Cross St\u2022 Cross St",
+  "east": 416872.45,
+  "north": 1440445.45,
+  "conf": 1.0,
+  "size_pt": 46.92
+ },
+ {
+  "ward": 141,
+  "role": "road_name",
+  "text": "aryStreet- Schoe RoadC.I.T. Nagar V Main RoadoDdNorr",
+  "east": 417069.1,
+  "north": 1440551.06,
+  "conf": 0.883,
+  "size_pt": 59.64
+ },
+ {
+  "ward": 141,
+  "role": "road_name",
+  "text": "Sadulla Street",
+  "east": 417334.66,
+  "north": 1440936.49,
+  "conf": 1.0,
+  "size_pt": 43.2
+ },
+ {
+  "ward": 141,
+  "role": "road_name",
+  "text": "Canal BankRoad",
+  "east": 416736.02,
+  "north": 1440616.89,
+  "conf": 1.0,
+  "size_pt": 52.32
+ },
+ {
+  "ward": 141,
+  "role": "road_name",
+  "text": "7&toadD204.455jar v Main Road\u00f3Link Road Near (4.141D16D114.1403.329D15D1005%Over Night Express Anna Salai)\u041d\u041d\u0406\u042fH\u041dN\u041d!Salai)",
+  "east": 417155.15,
+  "north": 1440555.3,
+  "conf": 0.888,
+  "size_pt": 109.92
+ },
+ {
+  "ward": 141,
+  "role": "location_names",
+  "text": "T Nagar",
+  "east": 416698.77,
+  "north": 1440873.52,
+  "conf": 1.0,
+  "size_pt": 26.16
+ }
+]

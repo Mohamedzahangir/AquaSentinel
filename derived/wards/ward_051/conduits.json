@@ -1,0 +1,16 @@
+[
+ {
+  "cond_id": "C2->C1",
+  "from_node": "C2",
+  "to_node": "C1",
+  "ward": 51,
+  "length_m": 82.723,
+  "us_invert": null,
+  "ds_invert": null,
+  "width_m": null,
+  "depth_m": null,
+  "type": null,
+  "slope": null,
+  "dir_src": "assumed"
+ }
+]

@@ -1,0 +1,1631 @@
+[
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "95th Street",
+  "east": 414420.51,
+  "north": 1442350.4,
+  "conf": 1.0,
+  "size_pt": 35.4
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "98th Street",
+  "east": 414486.03,
+  "north": 1442307.25,
+  "conf": 1.0,
+  "size_pt": 35.4
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "2nd Avenue",
+  "east": 414815.73,
+  "north": 1442192.16,
+  "conf": 1.0,
+  "size_pt": 35.88
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "92th Street",
+  "east": 414469.2,
+  "north": 1442097.17,
+  "conf": 1.0,
+  "size_pt": 35.64
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "/ Cross Street\u0131gapalayam3rd Lane Slum|| LanePudurIst LaneSlumSlumjPudurIst Street8.624B24Pudur IIIrd Street5th SreetIVth StreetPudurPudurPudur",
+  "east": 414755.19,
+  "north": 1442081.51,
+  "conf": 1.0,
+  "size_pt": 111.24
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "15th Sector 94th Street",
+  "east": 414398.92,
+  "north": 1442204.43,
+  "conf": 1.0,
+  "size_pt": 75.72
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "88th Street",
+  "east": 414341.87,
+  "north": 1442027.25,
+  "conf": 1.0,
+  "size_pt": 35.52
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "Pudur 13th Street",
+  "east": 414973.33,
+  "north": 1442068.61,
+  "conf": 1.0,
+  "size_pt": 55.68
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "Pudur 2nd St",
+  "east": 414817.21,
+  "north": 1442146.57,
+  "conf": 1.0,
+  "size_pt": 41.88
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "45th SreetPudurPudurIVth StreetPudur6th Street27th StreetPudur",
+  "east": 414817.53,
+  "north": 1442032.01,
+  "conf": 1.0,
+  "size_pt": 71.88
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "Pudur 12th StreetSi",
+  "east": 414991.11,
+  "north": 1442098.54,
+  "conf": 0.75,
+  "size_pt": 55.2
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "90th Street",
+  "east": 414335.63,
+  "north": 1442109.33,
+  "conf": 1.0,
+  "size_pt": 35.64
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "Vijaya StreetStreet\u2022/StreetStreeSoma Sundara Bharathi NagarM\u00e5sthan \u00b0Ali Garden3rd Street2nd StreetIst Street4thLibPaVa",
+  "east": 414198.24,
+  "north": 1442368.6,
+  "conf": 1.0,
+  "size_pt": 109.08
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "3rd Street",
+  "east": 414207.13,
+  "north": 1442355.27,
+  "conf": 1.0,
+  "size_pt": 31.8
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "x7731C8",
+  "east": 415083.09,
+  "north": 1442067.87,
+  "conf": 1.0,
+  "size_pt": 43.92
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "Bajanai Koil 1st Street",
+  "east": 414747.57,
+  "north": 1442272.87,
+  "conf": 1.0,
+  "size_pt": 71.28
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "Pudur9th Sreet",
+  "east": 414891.51,
+  "north": 1442113.14,
+  "conf": 1.0,
+  "size_pt": 28.56
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "91st Street",
+  "east": 414416.81,
+  "north": 1442036.13,
+  "conf": 1.0,
+  "size_pt": 34.32
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "8th Avenue",
+  "east": 414751.16,
+  "north": 1441367.39,
+  "conf": 1.0,
+  "size_pt": 34.92
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "9th Avenue",
+  "east": 414820.7,
+  "north": 1441113.52,
+  "conf": 1.0,
+  "size_pt": 34.8
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "4thAvenue",
+  "east": 414918.5,
+  "north": 1441722.18,
+  "conf": 1.0,
+  "size_pt": 29.04
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "11th Avenue Ashok Nagar60.S",
+  "east": 414488.15,
+  "north": 1440787.72,
+  "conf": 0.65,
+  "size_pt": 79.92
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "54th Street",
+  "east": 414855.84,
+  "north": 1440788.57,
+  "conf": 1.0,
+  "size_pt": 36.0
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "48th Street",
+  "east": 414710.31,
+  "north": 1441273.89,
+  "conf": 1.0,
+  "size_pt": 40.32
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "85th Street",
+  "east": 414267.68,
+  "north": 1441794.0,
+  "conf": 1.0,
+  "size_pt": 35.88
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "79th St",
+  "east": 414486.13,
+  "north": 1441665.16,
+  "conf": 1.0,
+  "size_pt": 22.92
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "80th St",
+  "east": 414490.05,
+  "north": 1441607.83,
+  "conf": 1.0,
+  "size_pt": 23.76
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "53rd Street",
+  "east": 414636.96,
+  "north": 1440906.09,
+  "conf": 1.0,
+  "size_pt": 35.88
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "J.S.Kannappa1D/DS(Candra80th Sector77th St",
+  "east": 414475.66,
+  "north": 1441446.73,
+  "conf": 1.0,
+  "size_pt": 60.24
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "10th Avenue",
+  "east": 414716.45,
+  "north": 1441101.25,
+  "conf": 1.0,
+  "size_pt": 37.32
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "47th Streef",
+  "east": 414856.69,
+  "north": 1441199.31,
+  "conf": 1.0,
+  "size_pt": 35.76
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "12th Avenue",
+  "east": 414602.67,
+  "north": 1440667.66,
+  "conf": 1.0,
+  "size_pt": 37.2
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "1st Avenue",
+  "east": 414560.75,
+  "north": 1440977.17,
+  "conf": 1.0,
+  "size_pt": 33.0
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "7th Avenue",
+  "east": 415042.23,
+  "north": 1441282.35,
+  "conf": 1.0,
+  "size_pt": 34.32
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "19th Avenue",
+  "east": 414520.53,
+  "north": 1441831.66,
+  "conf": 1.0,
+  "size_pt": 37.32
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "18th",
+  "east": 414426.23,
+  "north": 1441897.77,
+  "conf": 1.0,
+  "size_pt": 11.52
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "Avenue",
+  "east": 414427.71,
+  "north": 1441854.19,
+  "conf": 1.0,
+  "size_pt": 21.12
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "86th Street",
+  "east": 414318.59,
+  "north": 1441848.16,
+  "conf": 1.0,
+  "size_pt": 35.88
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "86th Street",
+  "east": 414512.28,
+  "north": 1441719.85,
+  "conf": 1.0,
+  "size_pt": 35.76
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "16th",
+  "east": 414337.85,
+  "north": 1441532.52,
+  "conf": 1.0,
+  "size_pt": 11.76
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "Avenue",
+  "east": 414380.93,
+  "north": 1441526.06,
+  "conf": 1.0,
+  "size_pt": 21.24
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "Kamaraj Salai (17th Avenue)",
+  "east": 414204.81,
+  "north": 1441789.46,
+  "conf": 1.0,
+  "size_pt": 90.48
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "15th Avenue",
+  "east": 414319.86,
+  "north": 1441023.4,
+  "conf": 1.0,
+  "size_pt": 37.2
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "54th Street",
+  "east": 414777.73,
+  "north": 1440916.88,
+  "conf": 1.0,
+  "size_pt": 36.0
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "47th Street",
+  "east": 414880.61,
+  "north": 1441254.53,
+  "conf": 1.0,
+  "size_pt": 35.76
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "48th Street",
+  "east": 414742.06,
+  "north": 1441178.37,
+  "conf": 1.0,
+  "size_pt": 35.64
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "46th Street",
+  "east": 414890.45,
+  "north": 1441305.94,
+  "conf": 1.0,
+  "size_pt": 35.88
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "6th Avenue",
+  "east": 414975.76,
+  "north": 1441580.01,
+  "conf": 1.0,
+  "size_pt": 34.92
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "VI Avenue",
+  "east": 414653.15,
+  "north": 1441605.72,
+  "conf": 1.0,
+  "size_pt": 29.16
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "41th Street",
+  "east": 414706.82,
+  "north": 1441797.71,
+  "conf": 1.0,
+  "size_pt": 34.8
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "476",
+  "east": 414836.58,
+  "north": 1441004.25,
+  "conf": 1.0,
+  "size_pt": 9.12
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "Avenue",
+  "east": 414877.33,
+  "north": 1440998.44,
+  "conf": 1.0,
+  "size_pt": 21.24
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "35th Street",
+  "east": 414793.18,
+  "north": 1441760.15,
+  "conf": 1.0,
+  "size_pt": 35.76
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "56th Street",
+  "east": 414915.43,
+  "north": 1440808.03,
+  "conf": 1.0,
+  "size_pt": 35.88
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "R.R.Colony Ist Street",
+  "east": 414967.93,
+  "north": 1440607.16,
+  "conf": 1.0,
+  "size_pt": 64.44
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "66th Street",
+  "east": 414550.28,
+  "north": 1440722.35,
+  "conf": 1.0,
+  "size_pt": 35.76
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "67th Street",
+  "east": 414756.24,
+  "north": 1440684.38,
+  "conf": 1.0,
+  "size_pt": 35.88
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "86th Street",
+  "east": 414480.0,
+  "north": 1441990.12,
+  "conf": 1.0,
+  "size_pt": 35.64
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "Soundara Pandian Salai",
+  "east": 414297.52,
+  "north": 1441465.56,
+  "conf": 1.0,
+  "size_pt": 74.04
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "65thStreet",
+  "east": 414806.31,
+  "north": 1440636.35,
+  "conf": 1.0,
+  "size_pt": 35.76
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "Indira Colony Ist Street",
+  "east": 414442.32,
+  "north": 1440991.56,
+  "conf": 1.0,
+  "size_pt": 74.76
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "42th\u00aeStreet",
+  "east": 414655.8,
+  "north": 1441708.53,
+  "conf": 1.0,
+  "size_pt": 35.4
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "55th Street",
+  "east": 414618.12,
+  "north": 1440855.0,
+  "conf": 1.0,
+  "size_pt": 36.0
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "Samiyar GardenStreet",
+  "east": 414973.22,
+  "north": 1441487.45,
+  "conf": 1.0,
+  "size_pt": 70.44
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "38th Street",
+  "east": 414791.38,
+  "north": 1441794.96,
+  "conf": 1.0,
+  "size_pt": 35.4
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "36th Street3rd Avenue",
+  "east": 414804.19,
+  "north": 1441868.58,
+  "conf": 1.0,
+  "size_pt": 41.04
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "37th Street",
+  "east": 414794.14,
+  "north": 1441826.16,
+  "conf": 1.0,
+  "size_pt": 35.88
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "Sri Devi Colony StreetnAo nospilal",
+  "east": 414963.17,
+  "north": 1441430.12,
+  "conf": 0.75,
+  "size_pt": 68.88
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "2nd Street (mig Phase I)Vaigai Colony6.902",
+  "east": 414454.17,
+  "north": 1440741.39,
+  "conf": 1.0,
+  "size_pt": 80.28
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "Ilnd StreetPudur",
+  "east": 414826.63,
+  "north": 1441943.05,
+  "conf": 1.0,
+  "size_pt": 32.16
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "Ashok Nagar54th Lane,",
+  "east": 414614.1,
+  "north": 1440822.84,
+  "conf": 1.0,
+  "size_pt": 39.6
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "Indira Colony 2nd Street",
+  "east": 414460.94,
+  "north": 1440890.33,
+  "conf": 1.0,
+  "size_pt": 76.56
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "46th Street",
+  "east": 414778.15,
+  "north": 1441281.29,
+  "conf": 1.0,
+  "size_pt": 35.52
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "87th Street",
+  "east": 414293.18,
+  "north": 1441953.1,
+  "conf": 1.0,
+  "size_pt": 35.88
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "81th Street Slum80thStreet",
+  "east": 414414.48,
+  "north": 1441664.11,
+  "conf": 1.0,
+  "size_pt": 67.56
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "82thStreet83rd Street16th",
+  "east": 414326.31,
+  "north": 1441574.09,
+  "conf": 1.0,
+  "size_pt": 48.36
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "Bank Of IndiaColony Street",
+  "east": 414874.89,
+  "north": 1441455.61,
+  "conf": 1.0,
+  "size_pt": 43.44
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "Ashok Nagar12th Avenue",
+  "east": 415135.8,
+  "north": 1440667.87,
+  "conf": 1.0,
+  "size_pt": 39.72
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "7th Avenue",
+  "east": 414973.86,
+  "north": 1440666.08,
+  "conf": 1.0,
+  "size_pt": 34.32
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "2nd StreetVaigai Colony",
+  "east": 414491.22,
+  "north": 1440704.26,
+  "conf": 1.0,
+  "size_pt": 41.16
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "Dr. Natesan Road",
+  "east": 414397.12,
+  "north": 1441350.05,
+  "conf": 1.0,
+  "size_pt": 52.08
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "46th Street",
+  "east": 414942.21,
+  "north": 1441295.57,
+  "conf": 1.0,
+  "size_pt": 35.88
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "46th Street",
+  "east": 414981.27,
+  "north": 1441217.72,
+  "conf": 1.0,
+  "size_pt": 35.4
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "(33th Street",
+  "east": 414884.0,
+  "north": 1441610.26,
+  "conf": 1.0,
+  "size_pt": 36.0
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "Sarvamangala",
+  "east": 414653.05,
+  "north": 1441809.66,
+  "conf": 1.0,
+  "size_pt": 41.88
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "39th Street",
+  "east": 414762.28,
+  "north": 1441707.69,
+  "conf": 1.0,
+  "size_pt": 35.88
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "40thStreet",
+  "east": 414810.75,
+  "north": 1441710.65,
+  "conf": 1.0,
+  "size_pt": 30.36
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "35th Street",
+  "east": 414863.89,
+  "north": 1441816.01,
+  "conf": 1.0,
+  "size_pt": 35.88
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "34th Street",
+  "east": 414893.52,
+  "north": 1441816.53,
+  "conf": 1.0,
+  "size_pt": 35.52
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "44th Street",
+  "east": 414679.93,
+  "north": 1441566.58,
+  "conf": 1.0,
+  "size_pt": 35.52
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "79th Street",
+  "east": 414534.82,
+  "north": 1441621.9,
+  "conf": 1.0,
+  "size_pt": 35.04
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "83thStreet",
+  "east": 414237.51,
+  "north": 1441650.14,
+  "conf": 1.0,
+  "size_pt": 36.0
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "84th Street",
+  "east": 414325.68,
+  "north": 1441697.85,
+  "conf": 1.0,
+  "size_pt": 35.4
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "86th Street",
+  "east": 414272.76,
+  "north": 1441899.36,
+  "conf": 1.0,
+  "size_pt": 35.88
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "91th Street",
+  "east": 414386.01,
+  "north": 1442068.08,
+  "conf": 1.0,
+  "size_pt": 34.56
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "92th Street",
+  "east": 414473.01,
+  "north": 1442040.79,
+  "conf": 1.0,
+  "size_pt": 35.64
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "18th Avenue",
+  "east": 414474.7,
+  "north": 1441939.87,
+  "conf": 1.0,
+  "size_pt": 37.32
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "Pudur IV Cross Lane",
+  "east": 414674.75,
+  "north": 1441997.84,
+  "conf": 1.0,
+  "size_pt": 64.68
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "Pudur 8th Street",
+  "east": 414885.06,
+  "north": 1441993.72,
+  "conf": 1.0,
+  "size_pt": 53.4
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "COBajanai Koil 2nd StreetBajanai Koil StreetGopal StreetSypoy Garden 2nd Street",
+  "east": 414701.74,
+  "north": 1442345.01,
+  "conf": 1.0,
+  "size_pt": 163.2
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "Saidapet Road",
+  "east": 414629.97,
+  "north": 1442385.73,
+  "conf": 1.0,
+  "size_pt": 45.0
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "Gopal Street",
+  "east": 414692.42,
+  "north": 1442396.0,
+  "conf": 1.0,
+  "size_pt": 38.16
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "Sivan Koil South Street",
+  "east": 414430.46,
+  "north": 1442461.79,
+  "conf": 1.0,
+  "size_pt": 73.08
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "reet98th StreetChurch RoadOddagapalayam XIII StreetX StreetXI StreetV StreetVIl StreetXII StreetIx StreetIV StreetVl StreetVIll Street418981",
+  "east": 414531.44,
+  "north": 1442304.92,
+  "conf": 1.0,
+  "size_pt": 88.68
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "97th Street",
+  "east": 414410.14,
+  "north": 1442385.31,
+  "conf": 1.0,
+  "size_pt": 35.4
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "15th Sector 100 Street99th Street15th Sector 95th Street95th Street95thCross Streetvau",
+  "east": 414411.41,
+  "north": 1442304.39,
+  "conf": 1.0,
+  "size_pt": 80.88
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "99th Street",
+  "east": 414394.37,
+  "north": 1442302.49,
+  "conf": 1.0,
+  "size_pt": 35.52
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "S. V.Lingam Salai",
+  "east": 414287.04,
+  "north": 1442272.34,
+  "conf": 1.0,
+  "size_pt": 51.48
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "53th Street",
+  "east": 414891.62,
+  "north": 1440903.66,
+  "conf": 1.0,
+  "size_pt": 35.52
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "4Ashok Pillar Road7.4.",
+  "east": 414504.02,
+  "north": 1441141.77,
+  "conf": 1.0,
+  "size_pt": 55.68
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "P. T.Rajan Salai(20th Avenue)",
+  "east": 414465.28,
+  "north": 1442172.38,
+  "conf": 1.0,
+  "size_pt": 46.8
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "\u00b0Pudur 11th Street",
+  "east": 415018.84,
+  "north": 1442123.08,
+  "conf": 1.0,
+  "size_pt": 54.24
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "Pudur",
+  "east": 414708.72,
+  "north": 1442109.76,
+  "conf": 1.0,
+  "size_pt": 17.52
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "Sypoy Garden / Street",
+  "east": 414783.55,
+  "north": 1442404.46,
+  "conf": 1.0,
+  "size_pt": 69.12
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "VIII Street",
+  "east": 414548.79,
+  "north": 1442299.42,
+  "conf": 1.0,
+  "size_pt": 28.92
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "|| StreetI|/ StreetStreetA126",
+  "east": 414547.1,
+  "north": 1442193.96,
+  "conf": 1.0,
+  "size_pt": 27.48
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "QuartersPolice",
+  "east": 414343.88,
+  "north": 1442427.2,
+  "conf": 1.0,
+  "size_pt": 25.32
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "15th Sector 101 Streetst",
+  "east": 414325.15,
+  "north": 1442293.81,
+  "conf": 1.0,
+  "size_pt": 77.52
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "Transport, ColonyMain Street",
+  "east": 414336.47,
+  "north": 1441636.18,
+  "conf": 1.0,
+  "size_pt": 51.96
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "1st Street",
+  "east": 414232.64,
+  "north": 1442394.3,
+  "conf": 1.0,
+  "size_pt": 30.24
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "45thpuno.Street",
+  "east": 414809.17,
+  "north": 1441448.84,
+  "conf": 1.0,
+  "size_pt": 30.72
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "46th Street",
+  "east": 414787.15,
+  "north": 1441334.92,
+  "conf": 1.0,
+  "size_pt": 35.4
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "1st AvenueBuse",
+  "east": 414468.25,
+  "north": 1441024.03,
+  "conf": 1.0,
+  "size_pt": 32.88
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "Street89th",
+  "east": 414322.4,
+  "north": 1442073.16,
+  "conf": 1.0,
+  "size_pt": 17.76
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "AnugrahaColony",
+  "east": 414696.55,
+  "north": 1441923.58,
+  "conf": 1.0,
+  "size_pt": 28.2
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "32th Street29th Street30th Streetm28th StreetStree",
+  "east": 414964.33,
+  "north": 1441668.65,
+  "conf": 1.0,
+  "size_pt": 63.0
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "L.I.G. Flat240",
+  "east": 415044.56,
+  "north": 1441645.28,
+  "conf": 1.0,
+  "size_pt": 29.16
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "R.R.Colony,East Street",
+  "east": 415101.5,
+  "north": 1440576.8,
+  "conf": 1.0,
+  "size_pt": 35.52
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "9thAvenue",
+  "east": 414800.8,
+  "north": 1441231.04,
+  "conf": 1.0,
+  "size_pt": 34.68
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "9th Avenue",
+  "east": 414849.7,
+  "north": 1441470.21,
+  "conf": 1.0,
+  "size_pt": 34.8
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "43th Street",
+  "east": 414723.54,
+  "north": 1441597.89,
+  "conf": 1.0,
+  "size_pt": 35.76
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "100 Feet Road",
+  "east": 414570.6,
+  "north": 1442050.94,
+  "conf": 1.0,
+  "size_pt": 45.6
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "Colony",
+  "east": 414672.63,
+  "north": 1441818.33,
+  "conf": 1.0,
+  "size_pt": 19.56
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": "1 Cross Street",
+  "east": 414694.22,
+  "north": 1442088.71,
+  "conf": 1.0,
+  "size_pt": 43.8
+ },
+ {
+  "ward": 132,
+  "role": "road_name",
+  "text": ",Sekar Street)",
+  "east": 414481.8,
+  "north": 1441392.57,
+  "conf": 1.0,
+  "size_pt": 41.28
+ },
+ {
+  "ward": 132,
+  "role": "location_names",
+  "text": "KendriyaVidyalaya",
+  "east": 414305.36,
+  "north": 1441325.93,
+  "conf": 1.0,
+  "size_pt": 29.16
+ },
+ {
+  "ward": 132,
+  "role": "location_names",
+  "text": "Secondary SchoolGovernment Girl'sHigher",
+  "east": 414959.99,
+  "north": 1441948.02,
+  "conf": 1.0,
+  "size_pt": 62.4
+ },
+ {
+  "ward": 132,
+  "role": "location_names",
+  "text": "Library,Part TimeVadapalani P",
+  "east": 414320.28,
+  "north": 1442396.84,
+  "conf": 1.0,
+  "size_pt": 40.08
+ },
+ {
+  "ward": 132,
+  "role": "location_names",
+  "text": "\u2022 ChennaiPlayground,Corporation",
+  "east": 414785.67,
+  "north": 1441479.52,
+  "conf": 1.0,
+  "size_pt": 34.92
+ },
+ {
+  "ward": 132,
+  "role": "location_names",
+  "text": "park",
+  "east": 414651.88,
+  "north": 1441593.23,
+  "conf": 1.0,
+  "size_pt": 13.08
+ },
+ {
+  "ward": 132,
+  "role": "location_names",
+  "text": "ParkChennaiCorporatin",
+  "east": 414959.99,
+  "north": 1440872.98,
+  "conf": 1.0,
+  "size_pt": 30.96
+ },
+ {
+  "ward": 132,
+  "role": "location_names",
+  "text": "Saravana BhavanHotel",
+  "east": 414689.56,
+  "north": 1441153.4,
+  "conf": 1.0,
+  "size_pt": 52.44
+ },
+ {
+  "ward": 132,
+  "role": "location_names",
+  "text": "Anajappar",
+  "east": 414588.91,
+  "north": 1440892.87,
+  "conf": 1.0,
+  "size_pt": 30.72
+ },
+ {
+  "ward": 132,
+  "role": "location_names",
+  "text": "MetalRecyclerPlasticPaper",
+  "east": 414981.9,
+  "north": 1441327.3,
+  "conf": 1.0,
+  "size_pt": 28.44
+ },
+ {
+  "ward": 132,
+  "role": "location_names",
+  "text": "SweetsKrishnaSri",
+  "east": 414679.61,
+  "north": 1441058.1,
+  "conf": 1.0,
+  "size_pt": 21.96
+ },
+ {
+  "ward": 132,
+  "role": "location_names",
+  "text": "Connexions",
+  "east": 414702.27,
+  "north": 1440714.31,
+  "conf": 1.0,
+  "size_pt": 33.24
+ },
+ {
+  "ward": 132,
+  "role": "location_names",
+  "text": "Bata",
+  "east": 414631.46,
+  "north": 1441078.19,
+  "conf": 1.0,
+  "size_pt": 13.68
+ },
+ {
+  "ward": 132,
+  "role": "location_names",
+  "text": "Ashok Pillar",
+  "east": 414612.09,
+  "north": 1440797.35,
+  "conf": 1.0,
+  "size_pt": 36.84
+ },
+ {
+  "ward": 132,
+  "role": "location_names",
+  "text": "CircleLibrary,District",
+  "east": 414767.36,
+  "north": 1440819.88,
+  "conf": 1.0,
+  "size_pt": 21.12
+ },
+ {
+  "ward": 132,
+  "role": "location_names",
+  "text": "ScansBharat",
+  "east": 414606.05,
+  "north": 1441004.36,
+  "conf": 1.0,
+  "size_pt": 19.92
+ },
+ {
+  "ward": 132,
+  "role": "location_names",
+  "text": "Apollo Pharmacy",
+  "east": 414843.04,
+  "north": 1440954.64,
+  "conf": 1.0,
+  "size_pt": 52.44
+ },
+ {
+  "ward": 132,
+  "role": "location_names",
+  "text": "ATMBankCanara",
+  "east": 414634.95,
+  "north": 1441691.5,
+  "conf": 1.0,
+  "size_pt": 20.76
+ },
+ {
+  "ward": 132,
+  "role": "location_names",
+  "text": "Ashok Medicals",
+  "east": 414687.45,
+  "north": 1441126.32,
+  "conf": 1.0,
+  "size_pt": 46.92
+ },
+ {
+  "ward": 132,
+  "role": "location_names",
+  "text": "BankIndian",
+  "east": 414635.8,
+  "north": 1441202.91,
+  "conf": 1.0,
+  "size_pt": 16.92
+ },
+ {
+  "ward": 132,
+  "role": "location_names",
+  "text": "BankIndian",
+  "east": 414642.15,
+  "north": 1441318.21,
+  "conf": 1.0,
+  "size_pt": 16.92
+ },
+ {
+  "ward": 132,
+  "role": "location_names",
+  "text": "KRS HospitalSri Sai",
+  "east": 414980.21,
+  "north": 1441451.38,
+  "conf": 1.0,
+  "size_pt": 39.96
+ },
+ {
+  "ward": 132,
+  "role": "location_names",
+  "text": "Eye HospitalAmmayi",
+  "east": 414955.76,
+  "north": 1440953.37,
+  "conf": 1.0,
+  "size_pt": 38.16
+ },
+ {
+  "ward": 132,
+  "role": "location_names",
+  "text": "JeHospitalNesam",
+  "east": 414842.4,
+  "north": 1441711.5,
+  "conf": 1.0,
+  "size_pt": 24.12
+ },
+ {
+  "ward": 132,
+  "role": "location_names",
+  "text": "HospitalPallava",
+  "east": 414649.13,
+  "north": 1441940.61,
+  "conf": 1.0,
+  "size_pt": 24.12
+ },
+ {
+  "ward": 132,
+  "role": "location_names",
+  "text": "VisionExpressJockey",
+  "east": 414614.2,
+  "north": 1441044.77,
+  "conf": 1.0,
+  "size_pt": 28.44
+ },
+ {
+  "ward": 132,
+  "role": "location_names",
+  "text": "BankYes",
+  "east": 414588.8,
+  "north": 1440923.23,
+  "conf": 1.0,
+  "size_pt": 14.28
+ },
+ {
+  "ward": 132,
+  "role": "location_names",
+  "text": "DrunkenMonkey",
+  "east": 414503.39,
+  "north": 1440878.8,
+  "conf": 1.0,
+  "size_pt": 23.52
+ },
+ {
+  "ward": 132,
+  "role": "location_names",
+  "text": "Sulthan's",
+  "east": 414511.54,
+  "north": 1440926.4,
+  "conf": 1.0,
+  "size_pt": 27.24
+ },
+ {
+  "ward": 132,
+  "role": "location_names",
+  "text": "VegBhavanSaravana",
+  "east": 414643.31,
+  "north": 1441246.91,
+  "conf": 1.0,
+  "size_pt": 27.36
+ },
+ {
+  "ward": 132,
+  "role": "location_names",
+  "text": "LaproscopicSunraysCentre",
+  "east": 414345.26,
+  "north": 1440759.59,
+  "conf": 1.0,
+  "size_pt": 35.52
+ },
+ {
+  "ward": 132,
+  "role": "location_names",
+  "text": "KumaranSpecialitiesHospital A14",
+  "east": 414544.35,
+  "north": 1441527.76,
+  "conf": 1.0,
+  "size_pt": 33.48
+ },
+ {
+  "ward": 132,
+  "role": "location_names",
+  "text": "NutsSpices",
+  "east": 414962.21,
+  "north": 1440997.06,
+  "conf": 1.0,
+  "size_pt": 18.84
+ },
+ {
+  "ward": 132,
+  "role": "location_names",
+  "text": "Super MarketGrace",
+  "east": 414887.17,
+  "north": 1441029.43,
+  "conf": 1.0,
+  "size_pt": 40.32
+ },
+ {
+  "ward": 132,
+  "role": "location_names",
+  "text": "Indira Colony",
+  "east": 414390.24,
+  "north": 1440906.83,
+  "conf": 1.0,
+  "size_pt": 40.44
+ },
+ {
+  "ward": 132,
+  "role": "location_names",
+  "text": "Indian",
+  "east": 414417.13,
+  "north": 1441310.27,
+  "conf": 1.0,
+  "size_pt": 16.92
+ },
+ {
+  "ward": 132,
+  "role": "location_names",
+  "text": "Oil",
+  "east": 414446.97,
+  "north": 1441310.27,
+  "conf": 1.0,
+  "size_pt": 6.6
+ },
+ {
+  "ward": 132,
+  "role": "location_names",
+  "text": "Ashok Pillar",
+  "east": 414532.6,
+  "north": 1441308.37,
+  "conf": 1.0,
+  "size_pt": 36.72
+ },
+ {
+  "ward": 132,
+  "role": "location_names",
+  "text": "JunctionMotorway",
+  "east": 414435.97,
+  "north": 1441089.09,
+  "conf": 1.0,
+  "size_pt": 29.16
+ },
+ {
+  "ward": 132,
+  "role": "location_names",
+  "text": "AshokPillar(TowardsVadapalan",
+  "east": 414554.72,
+  "north": 1441397.65,
+  "conf": 1.0,
+  "size_pt": 29.16
+ },
+ {
+  "ward": 132,
+  "role": "location_names",
+  "text": "RamBus StopColony",
+  "east": 414982.43,
+  "north": 1441254.32,
+  "conf": 1.0,
+  "size_pt": 27.84
+ },
+ {
+  "ward": 132,
+  "role": "location_names",
+  "text": "Ashok Nagar",
+  "east": 414471.32,
+  "north": 1441371.2,
+  "conf": 1.0,
+  "size_pt": 39.72
+ },
+ {
+  "ward": 132,
+  "role": "location_names",
+  "text": "Metro StationAshok Nagar",
+  "east": 414444.75,
+  "north": 1441222.58,
+  "conf": 1.0,
+  "size_pt": 41.76
+ },
+ {
+  "ward": 132,
+  "role": "location_names",
+  "text": "Buses OnlyPondicherry",
+  "east": 414506.99,
+  "north": 1441035.88,
+  "conf": 1.0,
+  "size_pt": 35.76
+ },
+ {
+  "ward": 132,
+  "role": "location_names",
+  "text": "AshoknagarMoffussil",
+  "east": 414397.65,
+  "north": 1441044.77,
+  "conf": 1.0,
+  "size_pt": 35.4
+ },
+ {
+  "ward": 132,
+  "role": "location_names",
+  "text": "Bus StopMofussil",
+  "east": 414513.65,
+  "north": 1441166.2,
+  "conf": 1.0,
+  "size_pt": 27.96
+ },
+ {
+  "ward": 132,
+  "role": "location_names",
+  "text": "Ashok",
+  "east": 414810.44,
+  "north": 1440808.35,
+  "conf": 1.0,
+  "size_pt": 17.64
+ }
+]

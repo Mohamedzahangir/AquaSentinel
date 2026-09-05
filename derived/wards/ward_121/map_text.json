@@ -1,0 +1,470 @@
+[
+ {
+  "ward": 121,
+  "role": "road_name",
+  "text": "2nd LaneJst Street3roStreetStreeMasthanMain2nd StreetPappu",
+  "east": 421274.39,
+  "north": 1442364.94,
+  "conf": 1.0,
+  "size_pt": 93.36
+ },
+ {
+  "ward": 121,
+  "role": "road_name",
+  "text": "Brindhavanam Street",
+  "east": 420731.91,
+  "north": 1441879.23,
+  "conf": 1.0,
+  "size_pt": 64.56
+ },
+ {
+  "ward": 121,
+  "role": "road_name",
+  "text": "Sir. P.S.Sivasamy Salai",
+  "east": 420251.13,
+  "north": 1441758.89,
+  "conf": 1.0,
+  "size_pt": 71.52
+ },
+ {
+  "ward": 121,
+  "role": "road_name",
+  "text": "Balakrishnan RoadConesopurom SoulhguoGanesapuramSouthLane (rettaik)612.994Rayapet High Road 1st Street",
+  "east": 420753.19,
+  "north": 1441776.04,
+  "conf": 0.913,
+  "size_pt": 114.6
+ },
+ {
+  "ward": 121,
+  "role": "road_name",
+  "text": "1.4651.370Apper Samy Koil Street (West)ambarasamy 2na so",
+  "east": 420467.45,
+  "north": 1441765.03,
+  "conf": 1.0,
+  "size_pt": 96.6
+ },
+ {
+  "ward": 121,
+  "role": "road_name",
+  "text": "Dwaraga Colony",
+  "east": 420847.16,
+  "north": 1441961.58,
+  "conf": 1.0,
+  "size_pt": 49.08
+ },
+ {
+  "ward": 121,
+  "role": "road_name",
+  "text": "Sir. P.S .Sivasamy Salaid",
+  "east": 420117.68,
+  "north": 1442080.55,
+  "conf": 1.0,
+  "size_pt": 75.0
+ },
+ {
+  "ward": 121,
+  "role": "road_name",
+  "text": "Chandra\u2022Baugh AvenueIst Street",
+  "east": 420991.41,
+  "north": 1442307.26,
+  "conf": 1.0,
+  "size_pt": 78.96
+ },
+ {
+  "ward": 121,
+  "role": "road_name",
+  "text": "Avvai Shanmugam Salai (alias) LGogulam ColonyMekkapuramIst Cross St2nd Cross Stottam3rd Cross1StStStreet4th Cross St ! nd Streeto2ndEgwarNagar ColonyStreetMainrd StreetRagava5thSt\u2022Thulukkanam ThottamuIV th StreetMain Street1st Streetth StreetStreeIst Street*\u20222ndth StreetMainMayandi ColonyVIIlVIl th Street4th Streetth StreetMayandi Colonyx th Streetth Streetor5th Street X/ th Street1st Street82nd Street3rd StreetKabaliRXII th Street4th StreetB4: 5th StreetAXIII th Street2.906OXIV th StreetDr.RadhakrishnanSalaiXV th StreetXVI th StreetXVII th Street",
+  "east": 421461.08,
+  "north": 1442255.72,
+  "conf": 0.978,
+  "size_pt": 228.0
+ },
+ {
+  "ward": 121,
+  "role": "road_name",
+  "text": "Dr.Natesan Road",
+  "east": 421356.94,
+  "north": 1442537.15,
+  "conf": 1.0,
+  "size_pt": 52.2
+ },
+ {
+  "ward": 121,
+  "role": "road_name",
+  "text": "Dr.Radhakrishnan Road",
+  "east": 421736.02,
+  "north": 1442057.37,
+  "conf": 1.0,
+  "size_pt": 71.52
+ },
+ {
+  "ward": 121,
+  "role": "road_name",
+  "text": "Dr.Radhakrishnan Road",
+  "east": 420246.37,
+  "north": 1442200.25,
+  "conf": 1.0,
+  "size_pt": 71.76
+ },
+ {
+  "ward": 121,
+  "role": "road_name",
+  "text": "Kamarajar Salai",
+  "east": 421915.19,
+  "north": 1442212.85,
+  "conf": 1.0,
+  "size_pt": 49.8
+ },
+ {
+  "ward": 121,
+  "role": "road_name",
+  "text": "-Light House Railway Station Road",
+  "east": 421718.13,
+  "north": 1442236.56,
+  "conf": 1.0,
+  "size_pt": 107.16
+ },
+ {
+  "ward": 121,
+  "role": "road_name",
+  "text": "Dr.RadhakrishnanRoadDr.RadhakrishnanRoad 2ndStreet",
+  "east": 420897.32,
+  "north": 1442056.94,
+  "conf": 1.0,
+  "size_pt": 68.4
+ },
+ {
+  "ward": 121,
+  "role": "road_name",
+  "text": "Dr.RadhakrishnanSalai 9th Street",
+  "east": 421224.23,
+  "north": 1442141.62,
+  "conf": 1.0,
+  "size_pt": 52.56
+ },
+ {
+  "ward": 121,
+  "role": "road_name",
+  "text": "3rd Street(Thiru-Vi-Ka 3rd Street",
+  "east": 420468.08,
+  "north": 1442056.84,
+  "conf": 1.0,
+  "size_pt": 70.2
+ },
+ {
+  "ward": 121,
+  "role": "road_name",
+  "text": "Fly Over",
+  "east": 420565.66,
+  "north": 1442107.85,
+  "conf": 1.0,
+  "size_pt": 21.48
+ },
+ {
+  "ward": 121,
+  "role": "road_name",
+  "text": "E4400&Dr.RadhakrishnanSalai (infor)Road 4th StDr.radhakrishnan Road3rd StreetDr.O.",
+  "east": 420805.25,
+  "north": 1442069.54,
+  "conf": 0.944,
+  "size_pt": 90.6
+ },
+ {
+  "ward": 121,
+  "role": "road_name",
+  "text": "MRTS",
+  "east": 421415.04,
+  "north": 1441974.92,
+  "conf": 1.0,
+  "size_pt": 16.68
+ },
+ {
+  "ward": 121,
+  "role": "road_name",
+  "text": "Thiru. Vi. KaHigh Road",
+  "east": 420621.96,
+  "north": 1441899.34,
+  "conf": 1.0,
+  "size_pt": 38.52
+ },
+ {
+  "ward": 121,
+  "role": "road_name",
+  "text": "MundakanniammanKoil Street",
+  "east": 420662.28,
+  "north": 1441613.89,
+  "conf": 1.0,
+  "size_pt": 56.4
+ },
+ {
+  "ward": 121,
+  "role": "road_name",
+  "text": "G21G201.818G19\u00b01.690G181.4651.370Apper Samy Koil Streetset (1oml, KoiChidhambarasamy 2nd StreetChidhambarasamy3rd Street",
+  "east": 420398.23,
+  "north": 1441749.79,
+  "conf": 0.946,
+  "size_pt": 124.68
+ },
+ {
+  "ward": 121,
+  "role": "road_name",
+  "text": "VeeraperumalStreet",
+  "east": 420554.33,
+  "north": 1441621.08,
+  "conf": 1.0,
+  "size_pt": 39.6
+ },
+ {
+  "ward": 121,
+  "role": "road_name",
+  "text": "Dr.Radhakrishnan Road",
+  "east": 420977.23,
+  "north": 1442132.41,
+  "conf": 1.0,
+  "size_pt": 70.8
+ },
+ {
+  "ward": 121,
+  "role": "road_name",
+  "text": "Sir.P.S.sivasamySalai",
+  "east": 420190.92,
+  "north": 1442096.53,
+  "conf": 1.0,
+  "size_pt": 49.44
+ },
+ {
+  "ward": 121,
+  "role": "road_name",
+  "text": "Sir P.s SivasamyIst LaneSalai",
+  "east": 420217.9,
+  "north": 1442020.53,
+  "conf": 1.0,
+  "size_pt": 56.64
+ },
+ {
+  "ward": 121,
+  "role": "road_name",
+  "text": "ThiruveethiammanKovil Street",
+  "east": 420452.95,
+  "north": 1442116.22,
+  "conf": 1.0,
+  "size_pt": 54.72
+ },
+ {
+  "ward": 121,
+  "role": "road_name",
+  "text": "Rayapet Highroad3rd Street (al)",
+  "east": 420504.28,
+  "north": 1442076.74,
+  "conf": 1.0,
+  "size_pt": 54.84
+ },
+ {
+  "ward": 121,
+  "role": "road_name",
+  "text": "Rayapet Highroad 2nd Street (Al)",
+  "east": 420481.2,
+  "north": 1441991.74,
+  "conf": 1.0,
+  "size_pt": 106.92
+ },
+ {
+  "ward": 121,
+  "role": "road_name",
+  "text": "Masilamani Colony2nd Street Ba",
+  "east": 420365.64,
+  "north": 1441930.78,
+  "conf": 1.0,
+  "size_pt": 56.88
+ },
+ {
+  "ward": 121,
+  "role": "road_name",
+  "text": "Rayapet Highroad2nd Street (a)",
+  "east": 420356.22,
+  "north": 1442043.92,
+  "conf": 1.0,
+  "size_pt": 55.8
+ },
+ {
+  "ward": 121,
+  "role": "road_name",
+  "text": "IndiraniAmmal Colony",
+  "east": 420484.06,
+  "north": 1441881.56,
+  "conf": 1.0,
+  "size_pt": 56.52
+ },
+ {
+  "ward": 121,
+  "role": "road_name",
+  "text": "IndiranNagarathinammalAmmal ColonyColonySullivan Garden Lane(rangaiah):Sir. P.S. Sivasamy SalaiG20",
+  "east": 420482.58,
+  "north": 1441861.66,
+  "conf": 1.0,
+  "size_pt": 97.2
+ },
+ {
+  "ward": 121,
+  "role": "road_name",
+  "text": "Avenue 2nd StreetChandra Baugh",
+  "east": 420989.71,
+  "north": 1442219.09,
+  "conf": 1.0,
+  "size_pt": 58.8
+ },
+ {
+  "ward": 121,
+  "role": "road_name",
+  "text": "XVII th Street",
+  "east": 421469.75,
+  "north": 1442056.73,
+  "conf": 1.0,
+  "size_pt": 32.16
+ },
+ {
+  "ward": 121,
+  "role": "road_name",
+  "text": "Gogulam Colony",
+  "east": 421440.86,
+  "north": 1442409.08,
+  "conf": 1.0,
+  "size_pt": 49.32
+ },
+ {
+  "ward": 121,
+  "role": "road_name",
+  "text": "C1Hamilton Bridge4th StreetIsmail Sahib1 To 6Cross2nd LaneNorth Huts Area(tnscb Tenement)st3roIsmail Sahib cround eoStreetMasthan Durga_Main RoadMain StreetYuts Areaen)pu2nd",
+  "east": 421184.12,
+  "north": 1442397.12,
+  "conf": 1.0,
+  "size_pt": 115.32
+ },
+ {
+  "ward": 121,
+  "role": "road_name",
+  "text": "South Side Huts Area(tnscb Ten)",
+  "east": 421149.83,
+  "north": 1442293.5,
+  "conf": 1.0,
+  "size_pt": 68.28
+ },
+ {
+  "ward": 121,
+  "role": "road_name",
+  "text": "B.b.Road 3rdStreetCrossStreetNewHamilton Bridge 2nd Street",
+  "east": 421238.09,
+  "north": 1442565.09,
+  "conf": 1.0,
+  "size_pt": 94.92
+ },
+ {
+  "ward": 121,
+  "role": "road_name",
+  "text": "Hamilton Bridge 3rd Street",
+  "east": 421244.44,
+  "north": 1442504.23,
+  "conf": 1.0,
+  "size_pt": 85.32
+ },
+ {
+  "ward": 121,
+  "role": "road_name",
+  "text": "Marina Service Road",
+  "east": 422009.8,
+  "north": 1442268.73,
+  "conf": 1.0,
+  "size_pt": 63.72
+ },
+ {
+  "ward": 121,
+  "role": "road_name",
+  "text": "NainarSalai",
+  "east": 421011.2,
+  "north": 1441965.28,
+  "conf": 1.0,
+  "size_pt": 19.32
+ },
+ {
+  "ward": 121,
+  "role": "road_name",
+  "text": "GanesapuramSilatterpuranNorth(Ganeshpuram)",
+  "east": 420964.53,
+  "north": 1441891.93,
+  "conf": 1.0,
+  "size_pt": 55.68
+ },
+ {
+  "ward": 121,
+  "role": "road_name",
+  "text": "BeemashenaGarden",
+  "east": 420311.88,
+  "north": 1441905.17,
+  "conf": 1.0,
+  "size_pt": 41.76
+ },
+ {
+  "ward": 121,
+  "role": "road_name",
+  "text": "VeeraperumalStreet",
+  "east": 420510.1,
+  "north": 1441666.17,
+  "conf": 1.0,
+  "size_pt": 39.84
+ },
+ {
+  "ward": 121,
+  "role": "road_name",
+  "text": "VenkatachalamStreet",
+  "east": 420716.67,
+  "north": 1441986.45,
+  "conf": 1.0,
+  "size_pt": 43.92
+ },
+ {
+  "ward": 121,
+  "role": "road_name",
+  "text": "Avvai Shanmugam Salai (alias) L",
+  "east": 421787.03,
+  "north": 1442368.44,
+  "conf": 1.0,
+  "size_pt": 103.2
+ },
+ {
+  "ward": 121,
+  "role": "location_names",
+  "text": "Queen Marys College",
+  "east": 421764.91,
+  "north": 1442193.37,
+  "conf": 1.0,
+  "size_pt": 70.92
+ },
+ {
+  "ward": 121,
+  "role": "location_names",
+  "text": "GovernmentCorporationHigher (SecondarySchool",
+  "east": 421050.99,
+  "north": 1442435.97,
+  "conf": 1.0,
+  "size_pt": 34.92
+ },
+ {
+  "ward": 121,
+  "role": "location_names",
+  "text": "SaravanaBhavan",
+  "east": 420210.81,
+  "north": 1442137.6,
+  "conf": 1.0,
+  "size_pt": 30.24
+ },
+ {
+  "ward": 121,
+  "role": "location_names",
+  "text": "GandhiStatue",
+  "east": 421943.55,
+  "north": 1442050.59,
+  "conf": 1.0,
+  "size_pt": 22.68
+ }
+]

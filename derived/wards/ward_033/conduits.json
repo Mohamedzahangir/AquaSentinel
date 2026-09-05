@@ -1,0 +1,30 @@
+[
+ {
+  "cond_id": "A7->A8",
+  "from_node": "A7",
+  "to_node": "A8",
+  "ward": 33,
+  "length_m": 146.927,
+  "us_invert": 7.093,
+  "ds_invert": 6.723,
+  "width_m": 1.225,
+  "depth_m": 1.0,
+  "type": "C",
+  "slope": 0.002518,
+  "dir_src": "invert"
+ },
+ {
+  "cond_id": "C3->C4",
+  "from_node": "C3",
+  "to_node": "C4",
+  "ward": 33,
+  "length_m": 71.464,
+  "us_invert": 6.699,
+  "ds_invert": 6.577,
+  "width_m": 0.85,
+  "depth_m": 0.98,
+  "type": null,
+  "slope": 0.001707,
+  "dir_src": "invert"
+ }
+]

@@ -1,0 +1,353 @@
+[
+ {
+  "ward": 42,
+  "role": "road_name",
+  "text": "Kailasam Street",
+  "east": 422703.11,
+  "north": 1451243.33,
+  "conf": 1.0,
+  "size_pt": 48.36
+ },
+ {
+  "ward": 42,
+  "role": "road_name",
+  "text": "Seniamman Koil Street",
+  "east": 422756.24,
+  "north": 1450994.71,
+  "conf": 1.0,
+  "size_pt": 70.08
+ },
+ {
+  "ward": 42,
+  "role": "road_name",
+  "text": "Seniamman Koil Street",
+  "east": 422864.84,
+  "north": 1451279.32,
+  "conf": 1.0,
+  "size_pt": 65.88
+ },
+ {
+  "ward": 42,
+  "role": "road_name",
+  "text": "Rettai Kuzhi StreetKrishnappa ThottamIst Street3rd|LaneThiruvetriyur High Roadhnaopa Thottam2nd LaneStreet",
+  "east": 422628.28,
+  "north": 1450884.42,
+  "conf": 1.0,
+  "size_pt": 122.88
+ },
+ {
+  "ward": 42,
+  "role": "road_name",
+  "text": "Kodandarama Street",
+  "east": 422415.33,
+  "north": 1450547.84,
+  "conf": 1.0,
+  "size_pt": 63.6
+ },
+ {
+  "ward": 42,
+  "role": "road_name",
+  "text": "KcM. C.M.Garden 2nd RoadA20",
+  "east": 422477.24,
+  "north": 1450464.86,
+  "conf": 1.0,
+  "size_pt": 71.4
+ },
+ {
+  "ward": 42,
+  "role": "road_name",
+  "text": "Arani RanganIst Road",
+  "east": 422296.46,
+  "north": 1450402.31,
+  "conf": 1.0,
+  "size_pt": 40.68
+ },
+ {
+  "ward": 42,
+  "role": "road_name",
+  "text": "3.03rd RoadM. C.M.GardenIst Road- /3.742LaneM.C.M Garden1stAdyar",
+  "east": 422442.85,
+  "north": 1450364.73,
+  "conf": 1.0,
+  "size_pt": 77.76
+ },
+ {
+  "ward": 42,
+  "role": "road_name",
+  "text": "T.H.Road",
+  "east": 422459.89,
+  "north": 1450252.86,
+  "conf": 1.0,
+  "size_pt": 23.64
+ },
+ {
+  "ward": 42,
+  "role": "road_name",
+  "text": "Veerakutty Street",
+  "east": 422566.47,
+  "north": 1450513.34,
+  "conf": 1.0,
+  "size_pt": 46.8
+ },
+ {
+  "ward": 42,
+  "role": "road_name",
+  "text": "QQMayor Basudev Street\u00aeJrxQJ\u0131gan",
+  "east": 422318.27,
+  "north": 1450487.83,
+  "conf": 1.0,
+  "size_pt": 75.48
+ },
+ {
+  "ward": 42,
+  "role": "road_name",
+  "text": "Kannu Koil Street",
+  "east": 422171.99,
+  "north": 1450301.55,
+  "conf": 1.0,
+  "size_pt": 54.36
+ },
+ {
+  "ward": 42,
+  "role": "road_name",
+  "text": "ThirunavukarasuSt1stThottamNagappan Street",
+  "east": 422081.18,
+  "north": 1450306.31,
+  "conf": 1.0,
+  "size_pt": 69.96
+ },
+ {
+  "ward": 42,
+  "role": "road_name",
+  "text": "Kothandaraman Lane",
+  "east": 422514.92,
+  "north": 1450535.03,
+  "conf": 1.0,
+  "size_pt": 60.12
+ },
+ {
+  "ward": 42,
+  "role": "road_name",
+  "text": "A163.466Rathina Sabapathy StreetVeera KuttystreetGarden (slums)TH RoadStmuganA190",
+  "east": 422524.13,
+  "north": 1450668.08,
+  "conf": 1.0,
+  "size_pt": 95.76
+ },
+ {
+  "ward": 42,
+  "role": "road_name",
+  "text": "Rettaikuzhy Ln",
+  "east": 422682.68,
+  "north": 1451019.26,
+  "conf": 1.0,
+  "size_pt": 44.88
+ },
+ {
+  "ward": 42,
+  "role": "road_name",
+  "text": "Kesava St",
+  "east": 422882.94,
+  "north": 1451129.97,
+  "conf": 1.0,
+  "size_pt": 30.96
+ },
+ {
+  "ward": 42,
+  "role": "road_name",
+  "text": "Vaidhyanathan Street",
+  "east": 422819.01,
+  "north": 1451401.78,
+  "conf": 1.0,
+  "size_pt": 63.36
+ },
+ {
+  "ward": 42,
+  "role": "road_name",
+  "text": "Appasamy (pillai)Mudali StreetAppasamy (pillai)Elaya Mudali StreetThottam 2ndThottam)Thottamilaiya Lane(samiyar3rd StIst Sto18854A173.3482nd StWest KrishnappaWARD 42RalGarden",
+  "east": 422344.41,
+  "north": 1450821.02,
+  "conf": 1.0,
+  "size_pt": 134.52
+ },
+ {
+  "ward": 42,
+  "role": "road_name",
+  "text": "Thiruvottriyur High Rd",
+  "east": 423014.82,
+  "north": 1451207.66,
+  "conf": 1.0,
+  "size_pt": 63.6
+ },
+ {
+  "ward": 42,
+  "role": "road_name",
+  "text": "Thilagar NagarEF BlockThilagar NagarG Block",
+  "east": 422569.75,
+  "north": 1451075.04,
+  "conf": 1.0,
+  "size_pt": 58.44
+ },
+ {
+  "ward": 42,
+  "role": "road_name",
+  "text": "Kailasam Street (Huts)",
+  "east": 422529.64,
+  "north": 1451188.61,
+  "conf": 1.0,
+  "size_pt": 71.52
+ },
+ {
+  "ward": 42,
+  "role": "road_name",
+  "text": "Seniamman Jeeva StreetSeniamman Anna StreetPwd A Colony",
+  "east": 422529.53,
+  "north": 1450980.31,
+  "conf": 1.0,
+  "size_pt": 78.36
+ },
+ {
+  "ward": 42,
+  "role": "road_name",
+  "text": "3.Arani GenganLane",
+  "east": 422215.28,
+  "north": 1450389.18,
+  "conf": 1.0,
+  "size_pt": 40.8
+ },
+ {
+  "ward": 42,
+  "role": "road_name",
+  "text": "NOPerumal Koil GardenIst Street3rd StreeAnnoPerumal Koil Garden2nd StreetB4Q",
+  "east": 422166.17,
+  "north": 1450602.77,
+  "conf": 1.0,
+  "size_pt": 84.0
+ },
+ {
+  "ward": 42,
+  "role": "road_name",
+  "text": "KORUKKUPETWest Krishnappa Gramani ThottamStreetVathiyarmal Koil GardeneetStMayor SivashanmuganMayor BasuderWest Veera Kutty street2nd LaneAppaiNew LogosThottamTelugu Lutheran Churchil Gardenrest",
+  "east": 422324.83,
+  "north": 1450623.52,
+  "conf": 1.0,
+  "size_pt": 187.32
+ },
+ {
+  "ward": 42,
+  "role": "road_name",
+  "text": "Rettai KuzhiStKrI1stThottam Main roadAppasamy(Pillai)ThKrishnappa Thottam3rd Street",
+  "east": 422527.31,
+  "north": 1450878.92,
+  "conf": 1.0,
+  "size_pt": 83.28
+ },
+ {
+  "ward": 42,
+  "role": "road_name",
+  "text": "Seniamman NagarMain Street",
+  "east": 422737.83,
+  "north": 1451110.18,
+  "conf": 1.0,
+  "size_pt": 55.56
+ },
+ {
+  "ward": 42,
+  "role": "road_name",
+  "text": "\u2022ThirunavukarasuThottam 2nd St",
+  "east": 422063.72,
+  "north": 1450367.7,
+  "conf": 1.0,
+  "size_pt": 47.76
+ },
+ {
+  "ward": 42,
+  "role": "road_name",
+  "text": "\u2022 ThirunavukarasuThottam 3rd St",
+  "east": 422068.16,
+  "north": 1450433.53,
+  "conf": 1.0,
+  "size_pt": 48.48
+ },
+ {
+  "ward": 42,
+  "role": "road_name",
+  "text": "ThirunavukarasuThottam 4th St",
+  "east": 422121.51,
+  "north": 1450486.03,
+  "conf": 1.0,
+  "size_pt": 48.48
+ },
+ {
+  "ward": 42,
+  "role": "road_name",
+  "text": "ThirunavukarasuThottam 5thSt",
+  "east": 422145.64,
+  "north": 1450522.33,
+  "conf": 1.0,
+  "size_pt": 47.76
+ },
+ {
+  "ward": 42,
+  "role": "road_name",
+  "text": "Krishnappa ThottamSabapathi2nd StreetLane",
+  "east": 422517.36,
+  "north": 1450784.08,
+  "conf": 1.0,
+  "size_pt": 70.56
+ },
+ {
+  "ward": 42,
+  "role": "road_name",
+  "text": "Pwd A Colony",
+  "east": 422654.85,
+  "north": 1451019.48,
+  "conf": 1.0,
+  "size_pt": 43.44
+ },
+ {
+  "ward": 42,
+  "role": "road_name",
+  "text": "ThiruvetriyurHigh Road4th Lane",
+  "east": 422888.76,
+  "north": 1451055.78,
+  "conf": 1.0,
+  "size_pt": 39.96
+ },
+ {
+  "ward": 42,
+  "role": "location_names",
+  "text": "AdyarAnanda Bhavan,",
+  "east": 422421.04,
+  "north": 1450310.01,
+  "conf": 1.0,
+  "size_pt": 47.52
+ },
+ {
+  "ward": 42,
+  "role": "location_names",
+  "text": "RasiHospital",
+  "east": 422572.29,
+  "north": 1450569.22,
+  "conf": 1.0,
+  "size_pt": 21.48
+ },
+ {
+  "ward": 42,
+  "role": "location_names",
+  "text": "KORUKKUPET",
+  "east": 422325.68,
+  "north": 1450688.82,
+  "conf": 1.0,
+  "size_pt": 39.48
+ },
+ {
+  "ward": 42,
+  "role": "location_names",
+  "text": "New LogosTelugu Lutheran Church",
+  "east": 422420.41,
+  "north": 1450571.87,
+  "conf": 1.0,
+  "size_pt": 72.72
+ }
+]

@@ -1,0 +1,947 @@
+[
+ {
+  "ward": 135,
+  "role": "road_name",
+  "text": "Umapathy Street",
+  "east": 415836.16,
+  "north": 1442127.33,
+  "conf": 1.0,
+  "size_pt": 51.48
+ },
+ {
+  "ward": 135,
+  "role": "road_name",
+  "text": "Ganapathy Street",
+  "east": 415835.41,
+  "north": 1442031.54,
+  "conf": 1.0,
+  "size_pt": 52.56
+ },
+ {
+  "ward": 135,
+  "role": "road_name",
+  "text": "Janakiraman Street",
+  "east": 416181.16,
+  "north": 1442105.84,
+  "conf": 1.0,
+  "size_pt": 56.28
+ },
+ {
+  "ward": 135,
+  "role": "road_name",
+  "text": "7.225Kirupa Sankari Streethan Strad",
+  "east": 415833.51,
+  "north": 1442189.67,
+  "conf": 1.0,
+  "size_pt": 65.76
+ },
+ {
+  "ward": 135,
+  "role": "road_name",
+  "text": "Lakshmi Narayanan Street",
+  "east": 416070.36,
+  "north": 1442061.71,
+  "conf": 1.0,
+  "size_pt": 75.48
+ },
+ {
+  "ward": 135,
+  "role": "road_name",
+  "text": "SarVishwanathan Street",
+  "east": 415772.87,
+  "north": 1442175.7,
+  "conf": 0.65,
+  "size_pt": 61.08
+ },
+ {
+  "ward": 135,
+  "role": "road_name",
+  "text": "IInd Lane",
+  "east": 416164.23,
+  "north": 1442006.35,
+  "conf": 1.0,
+  "size_pt": 26.88
+ },
+ {
+  "ward": 135,
+  "role": "road_name",
+  "text": "PunjabThottamPDOdA53lam8.327BarodaA52.882Railway BorderA547.705",
+  "east": 416343.29,
+  "north": 1441935.33,
+  "conf": 1.0,
+  "size_pt": 67.8
+ },
+ {
+  "ward": 135,
+  "role": "road_name",
+  "text": "0.02lPNBakshmiLane\u2022Lakshmi StreetLake View Roa",
+  "east": 415577.83,
+  "north": 1441113.57,
+  "conf": 1.0,
+  "size_pt": 77.52
+ },
+ {
+  "ward": 135,
+  "role": "road_name",
+  "text": "Brindavan Street",
+  "east": 416109.09,
+  "north": 1441899.03,
+  "conf": 1.0,
+  "size_pt": 51.12
+ },
+ {
+  "ward": 135,
+  "role": "road_name",
+  "text": "Jubile Road",
+  "east": 415735.3,
+  "north": 1441841.87,
+  "conf": 1.0,
+  "size_pt": 34.8
+ },
+ {
+  "ward": 135,
+  "role": "road_name",
+  "text": "Cross Street",
+  "east": 415342.99,
+  "north": 1441445.6,
+  "conf": 1.0,
+  "size_pt": 38.4
+ },
+ {
+  "ward": 135,
+  "role": "road_name",
+  "text": "Sathyapuri Sti",
+  "east": 416171.74,
+  "north": 1441800.59,
+  "conf": 1.0,
+  "size_pt": 40.32
+ },
+ {
+  "ward": 135,
+  "role": "road_name",
+  "text": "Babu RajendraPrasad 2nd streetSouthern Railway",
+  "east": 416252.7,
+  "north": 1441582.24,
+  "conf": 1.0,
+  "size_pt": 100.44
+ },
+ {
+  "ward": 135,
+  "role": "road_name",
+  "text": "Patel Street",
+  "east": 415943.15,
+  "north": 1441374.26,
+  "conf": 1.0,
+  "size_pt": 37.2
+ },
+ {
+  "ward": 135,
+  "role": "road_name",
+  "text": "ApOllOPharmacyKastakettiJanakiAmmal St",
+  "east": 415765.14,
+  "north": 1441235.92,
+  "conf": 1.0,
+  "size_pt": 60.96
+ },
+ {
+  "ward": 135,
+  "role": "road_name",
+  "text": "vayaMedicalsGokulamPoColonySrinivasa Pillai StC Bankdh MedicalsPariLibrarRatpManBakthavatchalam Streetellance",
+  "east": 415685.56,
+  "north": 1441622.46,
+  "conf": 1.0,
+  "size_pt": 96.0
+ },
+ {
+  "ward": 135,
+  "role": "road_name",
+  "text": "Bus StopGopalan StreetA126.500IInd StreetIst StreetVKasiviswanathar ColonyGowda RoddIst StreetIllrd StreetA2237.478StA115th6.6664711Ary6thPostal ColonyA10/ Street",
+  "east": 415456.12,
+  "north": 1441447.18,
+  "conf": 1.0,
+  "size_pt": 106.8
+ },
+ {
+  "ward": 135,
+  "role": "road_name",
+  "text": "Postal ColonyI/I Street",
+  "east": 415406.07,
+  "north": 1441250.53,
+  "conf": 1.0,
+  "size_pt": 42.84
+ },
+ {
+  "ward": 135,
+  "role": "road_name",
+  "text": "Eashwaran Koil St'",
+  "east": 415964.84,
+  "north": 1441144.26,
+  "conf": 1.0,
+  "size_pt": 56.28
+ },
+ {
+  "ward": 135,
+  "role": "road_name",
+  "text": "Postal Colony E// Street",
+  "east": 415386.06,
+  "north": 1441312.02,
+  "conf": 1.0,
+  "size_pt": 44.4
+ },
+ {
+  "ward": 135,
+  "role": "road_name",
+  "text": "Station Rd",
+  "east": 415877.64,
+  "north": 1441607.22,
+  "conf": 1.0,
+  "size_pt": 33.24
+ },
+ {
+  "ward": 135,
+  "role": "road_name",
+  "text": "7.705Doraiswamy SubwayDmnin",
+  "east": 416281.17,
+  "north": 1441864.73,
+  "conf": 1.0,
+  "size_pt": 60.72
+ },
+ {
+  "ward": 135,
+  "role": "road_name",
+  "text": "7.8Baroda Street",
+  "east": 416253.65,
+  "north": 1441913.63,
+  "conf": 1.0,
+  "size_pt": 42.0
+ },
+ {
+  "ward": 135,
+  "role": "road_name",
+  "text": "Lakshmi Street",
+  "east": 415896.05,
+  "north": 1441115.05,
+  "conf": 1.0,
+  "size_pt": 46.68
+ },
+ {
+  "ward": 135,
+  "role": "road_name",
+  "text": "Jubile.eRoad",
+  "east": 416038.82,
+  "north": 1441703.75,
+  "conf": 0.65,
+  "size_pt": 30.96
+ },
+ {
+  "ward": 135,
+  "role": "road_name",
+  "text": "Veeraswamy Road42",
+  "east": 415795.31,
+  "north": 1441900.72,
+  "conf": 1.0,
+  "size_pt": 53.16
+ },
+ {
+  "ward": 135,
+  "role": "road_name",
+  "text": "Velu Street",
+  "east": 415709.69,
+  "north": 1441791.38,
+  "conf": 1.0,
+  "size_pt": 32.88
+ },
+ {
+  "ward": 135,
+  "role": "road_name",
+  "text": "Patel StreetSankara MuGandhi Street",
+  "east": 415892.24,
+  "north": 1441197.08,
+  "conf": 1.0,
+  "size_pt": 49.56
+ },
+ {
+  "ward": 135,
+  "role": "road_name",
+  "text": "Station Road",
+  "east": 416165.39,
+  "north": 1441513.44,
+  "conf": 1.0,
+  "size_pt": 40.32
+ },
+ {
+  "ward": 135,
+  "role": "road_name",
+  "text": "Srinivasa (1) Street",
+  "east": 415491.05,
+  "north": 1441831.5,
+  "conf": 1.0,
+  "size_pt": 58.8
+ },
+ {
+  "ward": 135,
+  "role": "road_name",
+  "text": "Jaishankar Street",
+  "east": 415633.7,
+  "north": 1441456.08,
+  "conf": 1.0,
+  "size_pt": 53.28
+ },
+ {
+  "ward": 135,
+  "role": "road_name",
+  "text": "A756.66Thiruvengadam Street",
+  "east": 415663.65,
+  "north": 1441510.58,
+  "conf": 1.0,
+  "size_pt": 64.92
+ },
+ {
+  "ward": 135,
+  "role": "road_name",
+  "text": "Postal ColonyIV Street",
+  "east": 415400.25,
+  "north": 1441192.85,
+  "conf": 1.0,
+  "size_pt": 42.96
+ },
+ {
+  "ward": 135,
+  "role": "road_name",
+  "text": "Manicakam StStreet",
+  "east": 415959.66,
+  "north": 1441654.64,
+  "conf": 1.0,
+  "size_pt": 59.52
+ },
+ {
+  "ward": 135,
+  "role": "road_name",
+  "text": "Narashiman St",
+  "east": 416171.0,
+  "north": 1441605.1,
+  "conf": 1.0,
+  "size_pt": 43.08
+ },
+ {
+  "ward": 135,
+  "role": "road_name",
+  "text": "Ramakrishna Puram|/ Street",
+  "east": 415594.55,
+  "north": 1441348.12,
+  "conf": 1.0,
+  "size_pt": 60.96
+ },
+ {
+  "ward": 135,
+  "role": "road_name",
+  "text": "Rajagopalan Street",
+  "east": 415784.62,
+  "north": 1441709.99,
+  "conf": 1.0,
+  "size_pt": 57.36
+ },
+ {
+  "ward": 135,
+  "role": "road_name",
+  "text": "BusMoorthy Street",
+  "east": 415463.32,
+  "north": 1441589.33,
+  "conf": 1.0,
+  "size_pt": 45.6
+ },
+ {
+  "ward": 135,
+  "role": "road_name",
+  "text": "Moorthy Street",
+  "east": 415337.28,
+  "north": 1441676.44,
+  "conf": 1.0,
+  "size_pt": 45.96
+ },
+ {
+  "ward": 135,
+  "role": "road_name",
+  "text": "Balakrishnan (N) Street",
+  "east": 415455.06,
+  "north": 1441675.91,
+  "conf": 1.0,
+  "size_pt": 72.96
+ },
+ {
+  "ward": 135,
+  "role": "road_name",
+  "text": "Brindavan Street T.N.S.C.B.Tenements 1To 13 Lanes",
+  "east": 415858.17,
+  "north": 1441963.48,
+  "conf": 1.0,
+  "size_pt": 82.92
+ },
+ {
+  "ward": 135,
+  "role": "road_name",
+  "text": "Brindavan Street",
+  "east": 416015.85,
+  "north": 1442239.94,
+  "conf": 1.0,
+  "size_pt": 50.28
+ },
+ {
+  "ward": 135,
+  "role": "road_name",
+  "text": "Brindavan Street",
+  "east": 415862.61,
+  "north": 1441693.27,
+  "conf": 1.0,
+  "size_pt": 48.0
+ },
+ {
+  "ward": 135,
+  "role": "road_name",
+  "text": "Thambiah Road",
+  "east": 415630.74,
+  "north": 1441391.83,
+  "conf": 1.0,
+  "size_pt": 46.8
+ },
+ {
+  "ward": 135,
+  "role": "road_name",
+  "text": "WARD 1:Arya Gowda Road ExtentionJaya",
+  "east": 415670.11,
+  "north": 1441715.39,
+  "conf": 1.0,
+  "size_pt": 84.72
+ },
+ {
+  "ward": 135,
+  "role": "road_name",
+  "text": "Ramakrishna Puram / Street/Street vGowdaAryaCUBPoadLane",
+  "east": 415594.65,
+  "north": 1441266.83,
+  "conf": 1.0,
+  "size_pt": 100.68
+ },
+ {
+  "ward": 135,
+  "role": "road_name",
+  "text": "RamakrishneePuram Lane",
+  "east": 415727.05,
+  "north": 1441329.38,
+  "conf": 1.0,
+  "size_pt": 36.0
+ },
+ {
+  "ward": 135,
+  "role": "road_name",
+  "text": "et.A28akeVieRamakrishna Puram LaneKuppaiah Street &Street",
+  "east": 415976.8,
+  "north": 1441457.56,
+  "conf": 0.9,
+  "size_pt": 107.52
+ },
+ {
+  "ward": 135,
+  "role": "road_name",
+  "text": "AlD6.624VivekanandhapuramAdikesavan StreetIst Street Or",
+  "east": 415485.65,
+  "north": 1441731.37,
+  "conf": 1.0,
+  "size_pt": 103.32
+ },
+ {
+  "ward": 135,
+  "role": "road_name",
+  "text": "Postal Colony Cross Street",
+  "east": 415307.01,
+  "north": 1441334.25,
+  "conf": 1.0,
+  "size_pt": 84.96
+ },
+ {
+  "ward": 135,
+  "role": "road_name",
+  "text": "Baroda Street Ist Laneine",
+  "east": 416198.94,
+  "north": 1442042.65,
+  "conf": 1.0,
+  "size_pt": 69.72
+ },
+ {
+  "ward": 135,
+  "role": "road_name",
+  "text": "\u2022 \u2022Vasu Devapuram",
+  "east": 416240.1,
+  "north": 1442133.26,
+  "conf": 1.0,
+  "size_pt": 46.8
+ },
+ {
+  "ward": 135,
+  "role": "road_name",
+  "text": "Kuppaiah Street",
+  "east": 416044.85,
+  "north": 1441180.25,
+  "conf": 1.0,
+  "size_pt": 49.8
+ },
+ {
+  "ward": 135,
+  "role": "road_name",
+  "text": "Subbaiah, Street",
+  "east": 415779.11,
+  "north": 1441120.87,
+  "conf": 1.0,
+  "size_pt": 49.44
+ },
+ {
+  "ward": 135,
+  "role": "road_name",
+  "text": "GowdaAryaRoadLane",
+  "east": 415533.06,
+  "north": 1441259.74,
+  "conf": 1.0,
+  "size_pt": 37.32
+ },
+ {
+  "ward": 135,
+  "role": "road_name",
+  "text": "iLo sSubbaReddy Street",
+  "east": 415824.3,
+  "north": 1441307.68,
+  "conf": 1.0,
+  "size_pt": 39.24
+ },
+ {
+  "ward": 135,
+  "role": "road_name",
+  "text": "SathyapuriStreet",
+  "east": 416173.22,
+  "north": 1441707.35,
+  "conf": 1.0,
+  "size_pt": 26.64
+ },
+ {
+  "ward": 135,
+  "role": "road_name",
+  "text": "NarashimanStreet",
+  "east": 416106.44,
+  "north": 1441560.33,
+  "conf": 1.0,
+  "size_pt": 34.32
+ },
+ {
+  "ward": 135,
+  "role": "road_name",
+  "text": "Babu Rajendra Prasad Ist Street1c0",
+  "east": 416122.95,
+  "north": 1441375.0,
+  "conf": 0.65,
+  "size_pt": 100.68
+ },
+ {
+  "ward": 135,
+  "role": "road_name",
+  "text": "Brindavan StreetTenT.n.s.c.b.",
+  "east": 415748.53,
+  "north": 1442024.03,
+  "conf": 1.0,
+  "size_pt": 49.8
+ },
+ {
+  "ward": 135,
+  "role": "road_name",
+  "text": "BrindavanStreet",
+  "east": 416184.02,
+  "north": 1441901.78,
+  "conf": 1.0,
+  "size_pt": 28.32
+ },
+ {
+  "ward": 135,
+  "role": "road_name",
+  "text": "Raju Street'",
+  "east": 415622.27,
+  "north": 1441944.01,
+  "conf": 1.0,
+  "size_pt": 34.92
+ },
+ {
+  "ward": 135,
+  "role": "road_name",
+  "text": "A/U6.399KrishnamoorthyStreet",
+  "east": 415890.87,
+  "north": 1441550.7,
+  "conf": 1.0,
+  "size_pt": 46.56
+ },
+ {
+  "ward": 135,
+  "role": "road_name",
+  "text": "Vasu Devapuram",
+  "east": 416332.6,
+  "north": 1442093.46,
+  "conf": 1.0,
+  "size_pt": 47.88
+ },
+ {
+  "ward": 135,
+  "role": "road_name",
+  "text": "IlIrd Lane",
+  "east": 416219.15,
+  "north": 1441980.95,
+  "conf": 1.0,
+  "size_pt": 31.2
+ },
+ {
+  "ward": 135,
+  "role": "road_name",
+  "text": "Sathya Narayana Street",
+  "east": 415997.54,
+  "north": 1441271.06,
+  "conf": 1.0,
+  "size_pt": 73.56
+ },
+ {
+  "ward": 135,
+  "role": "road_name",
+  "text": "Gandhi Street",
+  "east": 415782.5,
+  "north": 1441172.95,
+  "conf": 1.0,
+  "size_pt": 41.76
+ },
+ {
+  "ward": 135,
+  "role": "road_name",
+  "text": "Thambiah Road Extension818",
+  "east": 416032.05,
+  "north": 1442111.56,
+  "conf": 1.0,
+  "size_pt": 76.08
+ },
+ {
+  "ward": 135,
+  "role": "road_name",
+  "text": "Baroda6.5YstreetExtention",
+  "east": 416030.35,
+  "north": 1441959.78,
+  "conf": 1.0,
+  "size_pt": 49.92
+ },
+ {
+  "ward": 135,
+  "role": "road_name",
+  "text": "Kuppaiah Street",
+  "east": 416060.2,
+  "north": 1441311.39,
+  "conf": 1.0,
+  "size_pt": 49.44
+ },
+ {
+  "ward": 135,
+  "role": "road_name",
+  "text": "Rajagobal Chetty Street",
+  "east": 415361.41,
+  "north": 1441810.12,
+  "conf": 1.0,
+  "size_pt": 74.64
+ },
+ {
+  "ward": 135,
+  "role": "road_name",
+  "text": "VenkatachalamStreet",
+  "east": 416042.95,
+  "north": 1441833.4,
+  "conf": 1.0,
+  "size_pt": 39.72
+ },
+ {
+  "ward": 135,
+  "role": "location_names",
+  "text": "GovernmentMatriculationHigher SecondarySchool",
+  "east": 416176.29,
+  "north": 1442220.26,
+  "conf": 1.0,
+  "size_pt": 51.0
+ },
+ {
+  "ward": 135,
+  "role": "location_names",
+  "text": "Akshar Arbol'InternationalSchool",
+  "east": 415939.44,
+  "north": 1442136.33,
+  "conf": 1.0,
+  "size_pt": 44.28
+ },
+ {
+  "ward": 135,
+  "role": "location_names",
+  "text": "Anjuham HigherSecondarySchool",
+  "east": 415692.02,
+  "north": 1441892.78,
+  "conf": 1.0,
+  "size_pt": 43.32
+ },
+ {
+  "ward": 135,
+  "role": "location_names",
+  "text": "Sankara Mutt",
+  "east": 415907.91,
+  "north": 1441197.5,
+  "conf": 1.0,
+  "size_pt": 45.24
+ },
+ {
+  "ward": 135,
+  "role": "location_names",
+  "text": "Vinodh Medicals",
+  "east": 415619.95,
+  "north": 1441601.82,
+  "conf": 1.0,
+  "size_pt": 53.04
+ },
+ {
+  "ward": 135,
+  "role": "location_names",
+  "text": "JeyalakshmiMedicals",
+  "east": 416092.47,
+  "north": 1441932.15,
+  "conf": 1.0,
+  "size_pt": 39.96
+ },
+ {
+  "ward": 135,
+  "role": "location_names",
+  "text": "IndianOverseasBank",
+  "east": 415996.91,
+  "north": 1442189.03,
+  "conf": 1.0,
+  "size_pt": 26.16
+ },
+ {
+  "ward": 135,
+  "role": "location_names",
+  "text": "\u00b0SBI",
+  "east": 415351.99,
+  "north": 1441550.38,
+  "conf": 1.0,
+  "size_pt": 9.12
+ },
+ {
+  "ward": 135,
+  "role": "location_names",
+  "text": "Karnatakany Bank",
+  "east": 415438.98,
+  "north": 1441323.24,
+  "conf": 1.0,
+  "size_pt": 30.48
+ },
+ {
+  "ward": 135,
+  "role": "location_names",
+  "text": "JayaMedicals",
+  "east": 415618.04,
+  "north": 1441690.94,
+  "conf": 1.0,
+  "size_pt": 24.96
+ },
+ {
+  "ward": 135,
+  "role": "location_names",
+  "text": "West MambalamPharmacy44",
+  "east": 416017.97,
+  "north": 1441870.03,
+  "conf": 1.0,
+  "size_pt": 48.6
+ },
+ {
+  "ward": 135,
+  "role": "location_names",
+  "text": "RelianceFresh",
+  "east": 415609.36,
+  "north": 1441547.84,
+  "conf": 1.0,
+  "size_pt": 24.48
+ },
+ {
+  "ward": 135,
+  "role": "location_names",
+  "text": "HDFC Bank",
+  "east": 415608.73,
+  "north": 1441627.65,
+  "conf": 1.0,
+  "size_pt": 33.84
+ },
+ {
+  "ward": 135,
+  "role": "location_names",
+  "text": "VSPKitchen HouseApolloPharmacy",
+  "east": 415789.48,
+  "north": 1441274.34,
+  "conf": 1.0,
+  "size_pt": 49.44
+ },
+ {
+  "ward": 135,
+  "role": "location_names",
+  "text": "SaravanaMedicals",
+  "east": 415704.93,
+  "north": 1441287.04,
+  "conf": 1.0,
+  "size_pt": 27.24
+ },
+ {
+  "ward": 135,
+  "role": "location_names",
+  "text": "CUB",
+  "east": 415600.58,
+  "north": 1441256.99,
+  "conf": 1.0,
+  "size_pt": 11.64
+ },
+ {
+  "ward": 135,
+  "role": "location_names",
+  "text": "PNB",
+  "east": 415576.45,
+  "north": 1441178.45,
+  "conf": 1.0,
+  "size_pt": 12.12
+ },
+ {
+  "ward": 135,
+  "role": "location_names",
+  "text": "DhanalakshmiMedicals",
+  "east": 415786.52,
+  "north": 1441388.65,
+  "conf": 1.0,
+  "size_pt": 41.76
+ },
+ {
+  "ward": 135,
+  "role": "location_names",
+  "text": "LVB",
+  "east": 415567.98,
+  "north": 1441442.63,
+  "conf": 1.0,
+  "size_pt": 10.92
+ },
+ {
+  "ward": 135,
+  "role": "location_names",
+  "text": "Part TimeLibrary, WestMambala",
+  "east": 415780.81,
+  "north": 1441583.51,
+  "conf": 1.0,
+  "size_pt": 39.36
+ },
+ {
+  "ward": 135,
+  "role": "location_names",
+  "text": "Sri DesikanClinic",
+  "east": 415836.68,
+  "north": 1441343.67,
+  "conf": 1.0,
+  "size_pt": 33.6
+ },
+ {
+  "ward": 135,
+  "role": "location_names",
+  "text": "SBI",
+  "east": 415772.45,
+  "north": 1441545.94,
+  "conf": 1.0,
+  "size_pt": 9.0
+ },
+ {
+  "ward": 135,
+  "role": "location_names",
+  "text": "KennithParker",
+  "east": 415537.08,
+  "north": 1441214.97,
+  "conf": 1.0,
+  "size_pt": 21.96
+ },
+ {
+  "ward": 135,
+  "role": "location_names",
+  "text": "Sulochand\u00aeDentalCare Center",
+  "east": 415929.29,
+  "north": 1441722.27,
+  "conf": 1.0,
+  "size_pt": 36.84
+ },
+ {
+  "ward": 135,
+  "role": "location_names",
+  "text": "WestMambalam",
+  "east": 416274.39,
+  "north": 1441970.26,
+  "conf": 1.0,
+  "size_pt": 31.68
+ },
+ {
+  "ward": 135,
+  "role": "location_names",
+  "text": "Railway2 wheelerparking",
+  "east": 416209.94,
+  "north": 1441754.34,
+  "conf": 1.0,
+  "size_pt": 29.88
+ },
+ {
+  "ward": 135,
+  "role": "location_names",
+  "text": "PostalColonyBus Stop",
+  "east": 415479.19,
+  "north": 1441541.28,
+  "conf": 1.0,
+  "size_pt": 27.84
+ },
+ {
+  "ward": 135,
+  "role": "location_names",
+  "text": "PostalColonyBus Stop",
+  "east": 415502.05,
+  "north": 1441614.52,
+  "conf": 1.0,
+  "size_pt": 27.84
+ },
+ {
+  "ward": 135,
+  "role": "location_names",
+  "text": "Mambalam",
+  "east": 416288.36,
+  "north": 1441712.96,
+  "conf": 1.0,
+  "size_pt": 31.68
+ },
+ {
+  "ward": 135,
+  "role": "location_names",
+  "text": "RailwayStation",
+  "east": 416307.94,
+  "north": 1441466.24,
+  "conf": 1.0,
+  "size_pt": 23.88
+ },
+ {
+  "ward": 135,
+  "role": "location_names",
+  "text": "Lake ViewPark",
+  "east": 416267.94,
+  "north": 1441797.95,
+  "conf": 1.0,
+  "size_pt": 30.36
+ },
+ {
+  "ward": 135,
+  "role": "location_names",
+  "text": "PostalColony",
+  "east": 415368.71,
+  "north": 1441272.86,
+  "conf": 1.0,
+  "size_pt": 20.4
+ }
+]

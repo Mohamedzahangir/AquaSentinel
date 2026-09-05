@@ -1,0 +1,1505 @@
+[
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "1ct CrGancAdhithanar Road",
+  "east": 419149.36,
+  "north": 1438456.46,
+  "conf": 1.0,
+  "size_pt": 45.12
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "Adhithanar Road",
+  "east": 418607.01,
+  "north": 1438323.43,
+  "conf": 1.0,
+  "size_pt": 52.2
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "Canal Bank Road",
+  "east": 418511.24,
+  "north": 1438225.0,
+  "conf": 1.0,
+  "size_pt": 53.4
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "1st Main Road,Gandhi Nagar",
+  "east": 418939.09,
+  "north": 1438024.03,
+  "conf": 1.0,
+  "size_pt": 88.2
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "K.B Nagar 3rd Main Rd",
+  "east": 418677.28,
+  "north": 1437822.84,
+  "conf": 1.0,
+  "size_pt": 74.04
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "8lain RoadC32hanalakshmi3.692enue Ist Rdlenue 2nd Rd3.3215th Main RoadKasthuribai Nagar3.954,LLC23AvenueC26Dhanalaksag3rd Cross StC493.534C53Nehru Nagar Ist Street3.378\u2192Wehru Nagar 2nd Street?-Nehru Nagar 3rd StNehru NagarKasthuribai2n",
+  "east": 418887.66,
+  "north": 1437644.83,
+  "conf": 0.975,
+  "size_pt": 158.52
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "1Nagar 2nd Streett BakthavatsalamNagar Ist StreetBakthavatsalam",
+  "east": 419113.7,
+  "north": 1437695.2,
+  "conf": 1.0,
+  "size_pt": 56.52
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "Kasthuribai Nagar2nd Main Road",
+  "east": 419089.15,
+  "north": 1437892.26,
+  "conf": 1.0,
+  "size_pt": 55.56
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "Kamaraj Avenue Ist Street",
+  "east": 418724.16,
+  "north": 1437483.01,
+  "conf": 1.0,
+  "size_pt": 85.44
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "K.B NagarIst Cross St",
+  "east": 419187.56,
+  "north": 1437599.21,
+  "conf": 1.0,
+  "size_pt": 38.16
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "Canal Bank Rd",
+  "east": 418505.31,
+  "north": 1437535.82,
+  "conf": 1.0,
+  "size_pt": 44.28
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "9Sardar Patel SalaiIst Main Road",
+  "east": 418650.93,
+  "north": 1438029.32,
+  "conf": 1.0,
+  "size_pt": 58.56
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "Kamaraj_Avenue2nd StreetNagar 4th StreetBhakthavatchalamC57",
+  "east": 419097.3,
+  "north": 1437459.73,
+  "conf": 1.0,
+  "size_pt": 64.32
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "Avenue 3rd RdDhanalakshmi",
+  "east": 418783.1,
+  "north": 1437511.37,
+  "conf": 1.0,
+  "size_pt": 46.92
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "Avenue 2nd RdDhanalakshmi",
+  "east": 418776.22,
+  "north": 1437558.57,
+  "conf": 1.0,
+  "size_pt": 48.0
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "1DbAN D1PSOUTH BUCKINGAM010 \u0118|C73.352D183.171D163.390GLVenkatrathinamNagar Extension-Indra NagarVenkatarathinam Extn 2nd Street14th Cross StreetRamasamy StC83.3803ro LaneD1735/5IndiraNagar 3rd LaneKamaraj AvenueNagarColony2ndStreetIswaryaVenkatarathinam3.682PorMain RoadC9\u00aeD193.429 2",
+  "east": 418707.01,
+  "north": 1437326.8,
+  "conf": 0.942,
+  "size_pt": 186.72
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "14th Cross StreetIndra Nagar",
+  "east": 418678.86,
+  "north": 1437236.0,
+  "conf": 1.0,
+  "size_pt": 54.72
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "Indra Nagar Ist Cross Streel",
+  "east": 419152.43,
+  "north": 1437108.36,
+  "conf": 1.0,
+  "size_pt": 91.8
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "Indra Nagar Ist Main Road",
+  "east": 419253.81,
+  "north": 1437059.15,
+  "conf": 1.0,
+  "size_pt": 85.56
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "Venkatarathnam Nagar Main Road",
+  "east": 419129.57,
+  "north": 1437263.72,
+  "conf": 1.0,
+  "size_pt": 106.68
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "L.B Road",
+  "east": 419292.33,
+  "north": 1436611.48,
+  "conf": 1.0,
+  "size_pt": 27.96
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "Indira NagarUndira Nagar12th Lane/13th Lane:3rd Avenue Indra Nagar",
+  "east": 418946.81,
+  "north": 1436438.65,
+  "conf": 1.0,
+  "size_pt": 79.68
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "Indra Nagar 4th Main Road",
+  "east": 419237.83,
+  "north": 1436371.77,
+  "conf": 1.0,
+  "size_pt": 86.88
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "26th Cross StreetIndra Nagar",
+  "east": 419133.17,
+  "north": 1436397.17,
+  "conf": 1.0,
+  "size_pt": 43.44
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "Indira Nagar 20th Cross StF2'8th Cross Street F3F2128th Cross Street15th LaneF22RanganathapuranRoadF19F20",
+  "east": 418878.03,
+  "north": 1436263.82,
+  "conf": 1.0,
+  "size_pt": 95.52
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "28th Cross Street",
+  "east": 418966.6,
+  "north": 1436154.39,
+  "conf": 1.0,
+  "size_pt": 56.76
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "29th Cross Street",
+  "east": 419172.43,
+  "north": 1436178.52,
+  "conf": 1.0,
+  "size_pt": 56.88
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "11th Cross StreetIndira Nagar",
+  "east": 418789.24,
+  "north": 1436832.67,
+  "conf": 1.0,
+  "size_pt": 52.92
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "Indira Nagar10th Cross StreetIndira Nagart9th Cross St.",
+  "east": 418779.29,
+  "north": 1436905.48,
+  "conf": 1.0,
+  "size_pt": 53.64
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "MRTS",
+  "east": 418535.37,
+  "north": 1439125.32,
+  "conf": 1.0,
+  "size_pt": 20.16
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "4319163.316A14<4.127A11AGandhi NagarIst Canal Cross Street2nd Canal Cross StA153.940GandhinagarGandhi NagarGandhi Nagar 4thCross Street",
+  "east": 418613.99,
+  "north": 1438226.06,
+  "conf": 1.0,
+  "size_pt": 98.04
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "Gandhi Nagar 2nd Main Street",
+  "east": 418997.19,
+  "north": 1438120.23,
+  "conf": 1.0,
+  "size_pt": 95.76
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "Sardar Patel Road",
+  "east": 419654.25,
+  "north": 1438541.76,
+  "conf": 1.0,
+  "size_pt": 57.84
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "Gandhi Nagar 3rd Main Street",
+  "east": 418988.72,
+  "north": 1438220.56,
+  "conf": 1.0,
+  "size_pt": 94.32
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "Indira Nagar Ist Avenue",
+  "east": 419059.73,
+  "north": 1437211.66,
+  "conf": 1.0,
+  "size_pt": 75.96
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "Canal Bank Road",
+  "east": 418481.5,
+  "north": 1437857.34,
+  "conf": 1.0,
+  "size_pt": 53.4
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "Kamaraj Avenue 2nd Street",
+  "east": 419217.72,
+  "north": 1437385.96,
+  "conf": 1.0,
+  "size_pt": 87.6
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "Kasthuribai Nagar 2nd Main Rd",
+  "east": 418668.39,
+  "north": 1437906.87,
+  "conf": 1.0,
+  "size_pt": 99.24
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "Indra Nagar 2nd Cross Street",
+  "east": 419146.82,
+  "north": 1437065.82,
+  "conf": 1.0,
+  "size_pt": 94.08
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "LarIndira Nagar5th Laney \u043b,",
+  "east": 418985.76,
+  "north": 1437066.14,
+  "conf": 0.825,
+  "size_pt": 30.6
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "Kamaraj Avenue Teachers Colony",
+  "east": 419048.62,
+  "north": 1437355.16,
+  "conf": 1.0,
+  "size_pt": 105.6
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "Nagar 3rd StreetBhakthavatchalam",
+  "east": 419091.69,
+  "north": 1437619.32,
+  "conf": 1.0,
+  "size_pt": 55.32
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "Kasthuribai Nagar 8th Main Rd",
+  "east": 418629.23,
+  "north": 1437522.59,
+  "conf": 1.0,
+  "size_pt": 98.52
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "Gandhi Nagar Crescent AvenueM3rd cres",
+  "east": 418892.52,
+  "north": 1438420.37,
+  "conf": 1.0,
+  "size_pt": 77.88
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "15th Cross StreetIndira Nagar",
+  "east": 418658.12,
+  "north": 1437140.64,
+  "conf": 1.0,
+  "size_pt": 53.88
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "FlyOver",
+  "east": 419521.76,
+  "north": 1438022.44,
+  "conf": 1.0,
+  "size_pt": 21.72
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "Neharu Nagar 1ST Main Street",
+  "east": 418974.96,
+  "north": 1438000.74,
+  "conf": 1.0,
+  "size_pt": 96.24
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "Canal Bank Road",
+  "east": 418527.43,
+  "north": 1438393.7,
+  "conf": 1.0,
+  "size_pt": 53.4
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "13tre grgss ReaaIndiraNagar20th CrossIndiraNacIndira Nagar 2nd Avenuezna AVu.16th Cross StreetStreet4thCross",
+  "east": 418774.42,
+  "north": 1436644.92,
+  "conf": 0.958,
+  "size_pt": 146.76
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "13th Cross StreetIndira Nagar",
+  "east": 418810.83,
+  "north": 1436776.26,
+  "conf": 1.0,
+  "size_pt": 53.16
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "Indira Nagar 2ndAvenue Ist Cross St22ndTink st",
+  "east": 419058.56,
+  "north": 1436732.76,
+  "conf": 1.0,
+  "size_pt": 50.04
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "1st5th Cross StreetIndira Nagar",
+  "east": 418922.47,
+  "north": 1436878.71,
+  "conf": 1.0,
+  "size_pt": 50.64
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "Indira Nagar8th LaneIndira Nagar9th Lane3rd CrossIndira Nagar",
+  "east": 418986.29,
+  "north": 1436933.21,
+  "conf": 1.0,
+  "size_pt": 57.96
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "Adyar Flyover",
+  "east": 419487.68,
+  "north": 1437905.39,
+  "conf": 1.0,
+  "size_pt": 41.16
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "Thiru Vi Ka Bridge",
+  "east": 419667.05,
+  "north": 1438788.14,
+  "conf": 1.0,
+  "size_pt": 56.4
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "Dr.Muthulakshmi Salai",
+  "east": 419401.33,
+  "north": 1437495.6,
+  "conf": 1.0,
+  "size_pt": 67.8
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "BhakthavatchalamENagar 5th St Se3.7055th St",
+  "east": 419209.36,
+  "north": 1437474.76,
+  "conf": 1.0,
+  "size_pt": 55.56
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "Kasturibai Nagar Ist Main Rd",
+  "east": 418647.12,
+  "north": 1437978.84,
+  "conf": 1.0,
+  "size_pt": 93.36
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "Indira Nagar7th Cross StIndira Nagar6th Cross St8th CroIndirc",
+  "east": 418731.67,
+  "north": 1437012.27,
+  "conf": 1.0,
+  "size_pt": 89.76
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "1st2nd LaneIndira NagarLane",
+  "east": 418722.15,
+  "north": 1437133.23,
+  "conf": 1.0,
+  "size_pt": 41.88
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "Ramasamy St",
+  "east": 418685.21,
+  "north": 1437388.08,
+  "conf": 1.0,
+  "size_pt": 42.48
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "froLane",
+  "east": 418716.75,
+  "north": 1437188.05,
+  "conf": 1.0,
+  "size_pt": 27.12
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "Poaniamman=",
+  "east": 418553.15,
+  "north": 1438914.08,
+  "conf": 1.0,
+  "size_pt": 53.52
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "Kasturibai Nagar MRTS",
+  "east": 418405.94,
+  "north": 1437800.61,
+  "conf": 1.0,
+  "size_pt": 71.88
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "Thiruvenkatam StreetAnna avenue",
+  "east": 419348.1,
+  "north": 1437779.55,
+  "conf": 1.0,
+  "size_pt": 64.8
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "Kasthuribai nagarst StreetGovindarajapuram v",
+  "east": 418960.99,
+  "north": 1437923.7,
+  "conf": 1.0,
+  "size_pt": 68.16
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "IndiraNagaret2.544D1 (OLY8th LaneIndira Nagar9th LanecrossIndis nagar ndira Nagar Ist Main. RoadIndira Nagar Ist AvenueStNagardira Nagar 2nd2nd22ndIst Cross StistreetDO2.6563.",
+  "east": 419028.72,
+  "north": 1436829.49,
+  "conf": 1.0,
+  "size_pt": 127.08
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "Avenue ist R\u00e4",
+  "east": 418771.99,
+  "north": 1437607.15,
+  "conf": 1.0,
+  "size_pt": 45.84
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "Indira Nagar11th Lane",
+  "east": 418821.52,
+  "north": 1436504.59,
+  "conf": 1.0,
+  "size_pt": 34.56
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "Gandhi Nagar 2nd Cross Street",
+  "east": 419151.05,
+  "north": 1438166.58,
+  "conf": 1.0,
+  "size_pt": 99.0
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "Gandhi Nagar 3rd Cress Street",
+  "east": 418830.72,
+  "north": 1438152.3,
+  "conf": 1.0,
+  "size_pt": 97.92
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "Nehru Nagar4th Street",
+  "east": 419101.53,
+  "north": 1437558.05,
+  "conf": 1.0,
+  "size_pt": 39.12
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "Indira Nagar 13th Cross RoadIndNa\u00e7",
+  "east": 418651.35,
+  "north": 1436978.08,
+  "conf": 1.0,
+  "size_pt": 88.92
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "RanganathapuramRoad",
+  "east": 418904.17,
+  "north": 1436212.7,
+  "conf": 1.0,
+  "size_pt": 54.84
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "20th Cross StIndira Nagar",
+  "east": 418732.09,
+  "north": 1436611.48,
+  "conf": 1.0,
+  "size_pt": 42.6
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "Ist Cross Street4th Avenue",
+  "east": 419281.64,
+  "north": 1436424.05,
+  "conf": 1.0,
+  "size_pt": 50.4
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "KanniammalKadai Lane",
+  "east": 419308.42,
+  "north": 1437739.02,
+  "conf": 1.0,
+  "size_pt": 37.08
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "27th CrossIndira NagarStt",
+  "east": 419087.24,
+  "north": 1436318.96,
+  "conf": 1.0,
+  "size_pt": 35.16
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "20-1st\u0440Ist AvenueIngio Nenie7th LaneIndira Nagar",
+  "east": 418858.77,
+  "north": 1437155.03,
+  "conf": 0.767,
+  "size_pt": 62.4
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "Indra Nagar6th Lane",
+  "east": 418952.53,
+  "north": 1437092.17,
+  "conf": 1.0,
+  "size_pt": 31.8
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "Malligaipoo Nagar",
+  "east": 419549.38,
+  "north": 1438412.96,
+  "conf": 1.0,
+  "size_pt": 54.48
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "East Kottur CanalGandhi Nagar",
+  "east": 418520.76,
+  "north": 1438653.2,
+  "conf": 1.0,
+  "size_pt": 56.64
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "Gandhi Nagar Canal Bank Road",
+  "east": 418489.54,
+  "north": 1438493.92,
+  "conf": 1.0,
+  "size_pt": 99.12
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "Indira NagarExtension 1st Aven",
+  "east": 419279.63,
+  "north": 1437137.15,
+  "conf": 1.0,
+  "size_pt": 59.28
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "Dr.Muthulakshmi:Salai-",
+  "east": 419358.68,
+  "north": 1437612.34,
+  "conf": 1.0,
+  "size_pt": 49.92
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "Dr.Muthulakshmi Salai",
+  "east": 419292.22,
+  "north": 1437589.48,
+  "conf": 1.0,
+  "size_pt": 68.16
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "Anna Avenue",
+  "east": 419273.49,
+  "north": 1437670.86,
+  "conf": 1.0,
+  "size_pt": 40.2
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "Srinivasamoorthy Avenue",
+  "east": 419342.81,
+  "north": 1437864.11,
+  "conf": 1.0,
+  "size_pt": 77.04
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "Krishnamachari Avenue",
+  "east": 419343.87,
+  "north": 1437930.47,
+  "conf": 1.0,
+  "size_pt": 72.0
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "Kasthuribai Nagar",
+  "east": 418945.54,
+  "north": 1437823.9,
+  "conf": 1.0,
+  "size_pt": 55.68
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "3rd Main Road",
+  "east": 419048.83,
+  "north": 1437826.23,
+  "conf": 1.0,
+  "size_pt": 45.84
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "2nd StreetGovindarajapuram",
+  "east": 418910.73,
+  "north": 1437922.74,
+  "conf": 1.0,
+  "size_pt": 53.16
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "Dr. MuthulakshmiSalai",
+  "east": 419311.91,
+  "north": 1437348.92,
+  "conf": 1.0,
+  "size_pt": 49.92
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "Kamaraj Avanue Ist Street",
+  "east": 418970.09,
+  "north": 1437452.42,
+  "conf": 1.0,
+  "size_pt": 85.68
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "BhakthavatchalamNagar 5th Street",
+  "east": 419187.14,
+  "north": 1437829.51,
+  "conf": 1.0,
+  "size_pt": 55.44
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "Balram Street",
+  "east": 419257.51,
+  "north": 1437544.29,
+  "conf": 1.0,
+  "size_pt": 43.44
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "Nehru Nagar4th Street",
+  "east": 418966.5,
+  "north": 1437545.35,
+  "conf": 1.0,
+  "size_pt": 39.12
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "Nagar Extension-Venkatrathinam",
+  "east": 418670.93,
+  "north": 1437282.46,
+  "conf": 1.0,
+  "size_pt": 54.6
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "ArangannalSalaiKasthuribai Nagar7th Main Road3.337",
+  "east": 418596.43,
+  "north": 1437594.35,
+  "conf": 1.0,
+  "size_pt": 94.92
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "Avenue Ist StreetDhanalakshmi",
+  "east": 418840.25,
+  "north": 1437547.14,
+  "conf": 1.0,
+  "size_pt": 55.92
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "Kasthuribai_Nagar6th Main Road",
+  "east": 418576.85,
+  "north": 1437658.69,
+  "conf": 1.0,
+  "size_pt": 55.44
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "Kasthuribai_Nagarsth Main Koad",
+  "east": 418584.15,
+  "north": 1437706.21,
+  "conf": 1.0,
+  "size_pt": 55.56
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "Kasthuribai Nagar4th Main Road",
+  "east": 418584.58,
+  "north": 1437766.32,
+  "conf": 1.0,
+  "size_pt": 55.56
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "RukumaniNagar",
+  "east": 418708.07,
+  "north": 1437658.9,
+  "conf": 1.0,
+  "size_pt": 49.92
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "15th Lane",
+  "east": 418895.17,
+  "north": 1436305.41,
+  "conf": 1.0,
+  "size_pt": 29.04
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "Indira Nagarl14th Lane,",
+  "east": 418863.42,
+  "north": 1436369.33,
+  "conf": 1.0,
+  "size_pt": 34.56
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "10th Lanera NagarIndira Nagar\u2192CrossJ.OULStreet10th LaneIndiraIndirc12tr",
+  "east": 418869.77,
+  "north": 1436507.55,
+  "conf": 1.0,
+  "size_pt": 70.2
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "2nd Avenue Extn-//Indira Nagar= Ave",
+  "east": 418800.67,
+  "north": 1436706.41,
+  "conf": 1.0,
+  "size_pt": 58.68
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "23rd Cross StIndira Nagar",
+  "east": 419004.17,
+  "north": 1436569.67,
+  "conf": 1.0,
+  "size_pt": 42.24
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "22nd Cross StIndira Nagar",
+  "east": 419052.32,
+  "north": 1436666.62,
+  "conf": 1.0,
+  "size_pt": 45.0
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "IndiraNagar 21st Cross St",
+  "east": 419045.34,
+  "north": 1436632.33,
+  "conf": 1.0,
+  "size_pt": 84.84
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "24th Cross StIndira Nagar",
+  "east": 419085.23,
+  "north": 1436580.79,
+  "conf": 1.0,
+  "size_pt": 44.16
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "3rCrossndiraNagasIndira Nagar22nd Cross Sta Nagar 21st Cross St4th Avenue Indira NagarIndira Nagar24th Cross StIndira Nagar 3rdRoadE5E603.1873.09425th Cross StIndira Nagar",
+  "east": 419112.22,
+  "north": 1436586.82,
+  "conf": 1.0,
+  "size_pt": 133.56
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "22ndLinkStreetE33.02",
+  "east": 419099.94,
+  "north": 1436712.65,
+  "conf": 1.0,
+  "size_pt": 27.0
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "L.B Road Ist Street",
+  "east": 419234.44,
+  "north": 1436860.4,
+  "conf": 1.0,
+  "size_pt": 62.4
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "Avenue Ist Cross StIndira Nagar I/",
+  "east": 419236.24,
+  "north": 1436931.2,
+  "conf": 1.0,
+  "size_pt": 64.44
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "4th Lan\u011bIndira Nagar",
+  "east": 419089.68,
+  "north": 1437012.58,
+  "conf": 1.0,
+  "size_pt": 38.04
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "Ist Main RoadIndira Nagar",
+  "east": 419149.26,
+  "north": 1437008.35,
+  "conf": 1.0,
+  "size_pt": 44.28
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "VenkatarathinamNagar Main Road",
+  "east": 419259.42,
+  "north": 1437250.81,
+  "conf": 1.0,
+  "size_pt": 54.0
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "8th Cross StreetIndira Nagar3.2D1",
+  "east": 418788.08,
+  "north": 1436978.19,
+  "conf": 1.0,
+  "size_pt": 50.64
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "Indira Nagar Ist Avenuebin cross u",
+  "east": 418898.66,
+  "north": 1436858.81,
+  "conf": 1.0,
+  "size_pt": 73.2
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "Dr.Muthulakshmi Salai",
+  "east": 419331.17,
+  "north": 1437051.32,
+  "conf": 1.0,
+  "size_pt": 68.04
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "Gandhi Nagar Ist Main Road",
+  "east": 419684.09,
+  "north": 1438336.02,
+  "conf": 1.0,
+  "size_pt": 90.48
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "1st Main RoadGandhi Nagar",
+  "east": 419107.77,
+  "north": 1437947.4,
+  "conf": 1.0,
+  "size_pt": 44.28
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "2nd Main RoadGandhi NagarIst Cross RdGandhi Nagar",
+  "east": 419457.63,
+  "north": 1438108.8,
+  "conf": 1.0,
+  "size_pt": 87.48
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "Pumping StationGandhi Nagar,Rd",
+  "east": 419594.78,
+  "north": 1438321.73,
+  "conf": 1.0,
+  "size_pt": 63.24
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "3rd Canal Cross RdGandhi Nagar",
+  "east": 418626.38,
+  "north": 1438391.79,
+  "conf": 1.0,
+  "size_pt": 62.16
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "Gandhi Nagar 4th Main Road",
+  "east": 419053.38,
+  "north": 1438296.55,
+  "conf": 1.0,
+  "size_pt": 91.56
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "3rd Crescent ParkGandhi Nagar",
+  "east": 418955.17,
+  "north": 1438371.37,
+  "conf": 1.0,
+  "size_pt": 52.08
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "2nd Crescent ParkGandhi Nagar",
+  "east": 418930.09,
+  "north": 1438540.81,
+  "conf": 1.0,
+  "size_pt": 48.48
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "2nd Crescent ParkGandhi Nagar",
+  "east": 419058.03,
+  "north": 1438408.3,
+  "conf": 1.0,
+  "size_pt": 51.96
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "Ist Crescent ParkGandhi Nagar",
+  "east": 419136.34,
+  "north": 1438397.4,
+  "conf": 1.0,
+  "size_pt": 53.52
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "Kasthuribai Nagar4th Main Road",
+  "east": 418756.22,
+  "north": 1437747.06,
+  "conf": 1.0,
+  "size_pt": 55.56
+ },
+ {
+  "ward": 175,
+  "role": "road_name",
+  "text": "In Lal,Indira Nagar4th Cross St",
+  "east": 419016.13,
+  "north": 1437036.18,
+  "conf": 0.833,
+  "size_pt": 34.68
+ },
+ {
+  "ward": 175,
+  "role": "location_names",
+  "text": "amBharath SeniorSecondary School",
+  "east": 419302.59,
+  "north": 1437464.49,
+  "conf": 1.0,
+  "size_pt": 60.48
+ },
+ {
+  "ward": 175,
+  "role": "location_names",
+  "text": "Patrician College oand Science",
+  "east": 418638.55,
+  "north": 1438810.57,
+  "conf": 1.0,
+  "size_pt": 63.48
+ },
+ {
+  "ward": 175,
+  "role": "location_names",
+  "text": "Higher Secondary SchoolSt.Patrick'S Anglo-Indian",
+  "east": 418859.72,
+  "north": 1438595.1,
+  "conf": 1.0,
+  "size_pt": 87.0
+ },
+ {
+  "ward": 175,
+  "role": "location_names",
+  "text": "Vasan Eye CareHospital",
+  "east": 419235.18,
+  "north": 1437423.32,
+  "conf": 1.0,
+  "size_pt": 53.4
+ },
+ {
+  "ward": 175,
+  "role": "location_names",
+  "text": "IndianBank",
+  "east": 418800.46,
+  "north": 1437066.88,
+  "conf": 1.0,
+  "size_pt": 18.84
+ },
+ {
+  "ward": 175,
+  "role": "location_names",
+  "text": "SupermarketNilgiris",
+  "east": 418875.59,
+  "north": 1437884.43,
+  "conf": 1.0,
+  "size_pt": 41.88
+ },
+ {
+  "ward": 175,
+  "role": "location_names",
+  "text": "of Arts",
+  "east": 418714.1,
+  "north": 1438817.56,
+  "conf": 1.0,
+  "size_pt": 24.12
+ },
+ {
+  "ward": 175,
+  "role": "location_names",
+  "text": "State Bankof India",
+  "east": 419109.46,
+  "north": 1437173.77,
+  "conf": 1.0,
+  "size_pt": 38.04
+ },
+ {
+  "ward": 175,
+  "role": "location_names",
+  "text": "supermarketCee Dee Yes",
+  "east": 418864.06,
+  "north": 1436742.29,
+  "conf": 1.0,
+  "size_pt": 44.16
+ },
+ {
+  "ward": 175,
+  "role": "location_names",
+  "text": "ArcadeGokul",
+  "east": 419398.26,
+  "north": 1438167.01,
+  "conf": 1.0,
+  "size_pt": 20.64
+ },
+ {
+  "ward": 175,
+  "role": "location_names",
+  "text": "GanapathyRam",
+  "east": 419352.86,
+  "north": 1437693.62,
+  "conf": 1.0,
+  "size_pt": 31.8
+ },
+ {
+  "ward": 175,
+  "role": "location_names",
+  "text": "RunsHotel",
+  "east": 419227.67,
+  "north": 1437950.47,
+  "conf": 1.0,
+  "size_pt": 15.36
+ },
+ {
+  "ward": 175,
+  "role": "location_names",
+  "text": "VasanthaBhavan",
+  "east": 419318.89,
+  "north": 1437317.17,
+  "conf": 1.0,
+  "size_pt": 26.64
+ },
+ {
+  "ward": 175,
+  "role": "location_names",
+  "text": "Sangeeta",
+  "east": 418674.63,
+  "north": 1438054.4,
+  "conf": 1.0,
+  "size_pt": 27.6
+ },
+ {
+  "ward": 175,
+  "role": "location_names",
+  "text": "OneStyle",
+  "east": 418726.7,
+  "north": 1438051.33,
+  "conf": 1.0,
+  "size_pt": 13.92
+ },
+ {
+  "ward": 175,
+  "role": "location_names",
+  "text": "TrendsReliance",
+  "east": 418793.16,
+  "north": 1438049.21,
+  "conf": 1.0,
+  "size_pt": 24.48
+ },
+ {
+  "ward": 175,
+  "role": "location_names",
+  "text": "ATMICICI",
+  "east": 419305.88,
+  "north": 1437227.53,
+  "conf": 1.0,
+  "size_pt": 13.08
+ },
+ {
+  "ward": 175,
+  "role": "location_names",
+  "text": "OverseasBankIndian",
+  "east": 418955.38,
+  "north": 1437177.05,
+  "conf": 1.0,
+  "size_pt": 26.28
+ },
+ {
+  "ward": 175,
+  "role": "location_names",
+  "text": "Gandhi NagarLibrary,Circle",
+  "east": 419479.0,
+  "north": 1438316.97,
+  "conf": 1.0,
+  "size_pt": 41.4
+ },
+ {
+  "ward": 175,
+  "role": "location_names",
+  "text": "Special SchoolAathichudy",
+  "east": 418928.93,
+  "north": 1437791.62,
+  "conf": 1.0,
+  "size_pt": 44.52
+ },
+ {
+  "ward": 175,
+  "role": "location_names",
+  "text": "Sri KalyanHospital",
+  "east": 418760.14,
+  "north": 1437960.95,
+  "conf": 1.0,
+  "size_pt": 30.48
+ },
+ {
+  "ward": 175,
+  "role": "location_names",
+  "text": "Memorial HospitalDr.Kamakshi",
+  "east": 418942.26,
+  "north": 1437496.13,
+  "conf": 1.0,
+  "size_pt": 54.84
+ },
+ {
+  "ward": 175,
+  "role": "location_names",
+  "text": "Hospital Pvt.Padmapriya",
+  "east": 419065.23,
+  "north": 1437240.97,
+  "conf": 1.0,
+  "size_pt": 38.52
+ },
+ {
+  "ward": 175,
+  "role": "location_names",
+  "text": "Gandhinagar",
+  "east": 418620.45,
+  "north": 1438220.88,
+  "conf": 1.0,
+  "size_pt": 37.2
+ },
+ {
+  "ward": 175,
+  "role": "location_names",
+  "text": "polytechnicWomen's",
+  "east": 418603.31,
+  "north": 1437116.51,
+  "conf": 1.0,
+  "size_pt": 34.08
+ },
+ {
+  "ward": 175,
+  "role": "location_names",
+  "text": "office adyarBSNL",
+  "east": 419338.15,
+  "north": 1437505.45,
+  "conf": 1.0,
+  "size_pt": 36.72
+ },
+ {
+  "ward": 175,
+  "role": "location_names",
+  "text": "Gandhinagar",
+  "east": 419236.88,
+  "north": 1438237.17,
+  "conf": 1.0,
+  "size_pt": 37.08
+ },
+ {
+  "ward": 175,
+  "role": "location_names",
+  "text": "Railway-",
+  "east": 418522.99,
+  "north": 1438775.76,
+  "conf": 1.0,
+  "size_pt": 22.2
+ },
+ {
+  "ward": 175,
+  "role": "location_names",
+  "text": "_station",
+  "east": 418568.49,
+  "north": 1438777.13,
+  "conf": 1.0,
+  "size_pt": 20.28
+ },
+ {
+  "ward": 175,
+  "role": "location_names",
+  "text": "Railwaystation",
+  "east": 418454.83,
+  "north": 1437954.39,
+  "conf": 1.0,
+  "size_pt": 22.2
+ },
+ {
+  "ward": 175,
+  "role": "location_names",
+  "text": "Indira -Nagar,",
+  "east": 418678.02,
+  "north": 1437032.27,
+  "conf": 1.0,
+  "size_pt": 17.76
+ },
+ {
+  "ward": 175,
+  "role": "location_names",
+  "text": "HospitalMalar",
+  "east": 419607.26,
+  "north": 1438355.18,
+  "conf": 1.0,
+  "size_pt": 24.12
+ },
+ {
+  "ward": 175,
+  "role": "location_names",
+  "text": "Ltd.",
+  "east": 419117.3,
+  "north": 1437235.79,
+  "conf": 1.0,
+  "size_pt": 10.2
+ }
+]

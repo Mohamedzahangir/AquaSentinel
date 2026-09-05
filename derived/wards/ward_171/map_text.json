@@ -1,0 +1,1208 @@
+[
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "TA\u0420\u0418\u041d\u0406\u041d\u0406\u0424\u0418\u041d\u041d\u041d\u0406\u0424\u041dC.I.T. Nagar Model House RoadAshok",
+  "east": 417410.49,
+  "north": 1440746.06,
+  "conf": 0.767,
+  "size_pt": 94.08
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "Ganthi Mandabam Road",
+  "east": 417618.87,
+  "north": 1438404.51,
+  "conf": 1.0,
+  "size_pt": 73.92
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "Open Land",
+  "east": 417613.16,
+  "north": 1440366.65,
+  "conf": 1.0,
+  "size_pt": 40.68
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "HospitalApollo",
+  "east": 417590.4,
+  "north": 1440652.19,
+  "conf": 1.0,
+  "size_pt": 26.64
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "Ranjith Road",
+  "east": 417632.95,
+  "north": 1439315.2,
+  "conf": 1.0,
+  "size_pt": 38.16
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "Fly Over",
+  "east": 417653.06,
+  "north": 1438030.18,
+  "conf": 1.0,
+  "size_pt": 25.2
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "Velacheri Main Road161",
+  "east": 415901.45,
+  "north": 1438816.52,
+  "conf": 1.0,
+  "size_pt": 57.24
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "Sardar Patel Road@",
+  "east": 415843.03,
+  "north": 1438478.49,
+  "conf": 1.0,
+  "size_pt": 54.6
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "Cross Street, Srinagar Colony",
+  "east": 416420.87,
+  "north": 1438717.46,
+  "conf": 1.0,
+  "size_pt": 92.28
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "Rangarajapuram Ist Street,cet",
+  "east": 416680.79,
+  "north": 1438664.01,
+  "conf": 0.65,
+  "size_pt": 82.68
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "III StreetRangarajapuram1.724IV StreetV StreetRangarajapuramVi StreetRangarajapuramRangarajapuramyr slumNagar SlumSathyaPonniyamman Koil Street",
+  "east": 416717.83,
+  "north": 1438803.18,
+  "conf": 0.946,
+  "size_pt": 99.96
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "Anna Salai",
+  "east": 415462.04,
+  "north": 1438574.48,
+  "conf": 1.0,
+  "size_pt": 30.84
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "Sardar Patel Road",
+  "east": 416587.23,
+  "north": 1438242.27,
+  "conf": 1.0,
+  "size_pt": 57.24
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "Taluck Office Road",
+  "east": 416203.59,
+  "north": 1438563.68,
+  "conf": 1.0,
+  "size_pt": 54.72
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "Taluk Office Road",
+  "east": 415919.44,
+  "north": 1439306.73,
+  "conf": 1.0,
+  "size_pt": 51.48
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "Ferry Road",
+  "east": 417430.07,
+  "north": 1439449.4,
+  "conf": 1.0,
+  "size_pt": 29.88
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "Church Road",
+  "east": 416125.28,
+  "north": 1439051.47,
+  "conf": 1.0,
+  "size_pt": 30.6
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "|Thomas Nagar 1 Street)",
+  "east": 416427.43,
+  "north": 1439059.3,
+  "conf": 1.0,
+  "size_pt": 69.48
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "North Avenue, Srinagar Colony2.72;",
+  "east": 416391.76,
+  "north": 1438971.03,
+  "conf": 1.0,
+  "size_pt": 95.52
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "Govt. Farm Main Road",
+  "east": 416778.89,
+  "north": 1439470.99,
+  "conf": 1.0,
+  "size_pt": 67.44
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "Lane-iL.D.G.",
+  "east": 416109.83,
+  "north": 1439201.64,
+  "conf": 1.0,
+  "size_pt": 20.16
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "Srinagar ColonyTemple Avenue,",
+  "east": 416540.77,
+  "north": 1438813.02,
+  "conf": 1.0,
+  "size_pt": 48.48
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "Rangarajapuram|/ Street",
+  "east": 416695.39,
+  "north": 1438696.29,
+  "conf": 1.0,
+  "size_pt": 48.84
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "Srinagar ColonyNorth Mada Street,",
+  "east": 416396.0,
+  "north": 1438929.65,
+  "conf": 1.0,
+  "size_pt": 58.32
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "RangarajapuramVi Street",
+  "east": 416712.54,
+  "north": 1438845.94,
+  "conf": 1.0,
+  "size_pt": 49.08
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "Tenements Ist StreetVenkatapuram",
+  "east": 416108.66,
+  "north": 1438600.72,
+  "conf": 1.0,
+  "size_pt": 66.6
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "West Mada Street,Srinagar Colony",
+  "east": 416262.86,
+  "north": 1438889.65,
+  "conf": 1.0,
+  "size_pt": 54.48
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "Ist StreetJothiammal Nagar Approach RoadJothiamm2nd Street:3rd Street4th Street5thNagar Approach,Streeff8th\u00f6Streetuullerstr11 t\u043a)BoadStreet13thStreetStreet515th Street16th StreetPwd Quartersbiammal Norar 1",
+  "east": 416429.44,
+  "north": 1439437.97,
+  "conf": 0.948,
+  "size_pt": 158.16
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "Govt. Farm li Street",
+  "east": 416910.97,
+  "north": 1439332.98,
+  "conf": 1.0,
+  "size_pt": 60.84
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "South Mada Street,Srinagar Colony",
+  "east": 416343.93,
+  "north": 1438746.14,
+  "conf": 1.0,
+  "size_pt": 58.56
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "Srinagar ColonyTemple Avenue,",
+  "east": 416354.62,
+  "north": 1438816.09,
+  "conf": 1.0,
+  "size_pt": 49.08
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "North Mada Street,Srinagar Colony",
+  "east": 416564.05,
+  "north": 1438889.33,
+  "conf": 1.0,
+  "size_pt": 58.32
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "LeylandAshok",
+  "east": 417470.18,
+  "north": 1440713.25,
+  "conf": 1.0,
+  "size_pt": 24.72
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "Nandanam ArtsCollege",
+  "east": 417431.55,
+  "north": 1440432.37,
+  "conf": 1.0,
+  "size_pt": 53.64
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "GroundPlay",
+  "east": 417336.41,
+  "north": 1440161.12,
+  "conf": 1.0,
+  "size_pt": 23.04
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "Open Land",
+  "east": 417456.85,
+  "north": 1440554.61,
+  "conf": 1.0,
+  "size_pt": 36.24
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "GroundPlay",
+  "east": 417178.93,
+  "north": 1439895.38,
+  "conf": 1.0,
+  "size_pt": 23.04
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "Open Land",
+  "east": 417107.71,
+  "north": 1440092.65,
+  "conf": 1.0,
+  "size_pt": 36.12
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "Panpet / StreetChennaiAudi",
+  "east": 416730.53,
+  "north": 1440108.21,
+  "conf": 1.0,
+  "size_pt": 47.88
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "Bhavan EKrishna",
+  "east": 416553.15,
+  "north": 1440486.98,
+  "conf": 1.0,
+  "size_pt": 25.32
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "ew Boag/pDoyHIKN",
+  "east": 416484.47,
+  "north": 1440648.59,
+  "conf": 0.767,
+  "size_pt": 45.6
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "Border | Street(Kaveri Nagar).Subbu Pillai Thottam2nd StreetHospital Road(Kaveri Nagar)|Kasthuribai Str.94.4634H5Bharathi Street'zndNew Boag Road4.560H42ndCross StreetAnna4.670H3g\u041e\u0410\u0422\u0410\u0410\u041570FeetRoad2nd StreetGandhipuram Cross StreetSubbu Pillai Thottam3rd Street2nd Street4.555A2Gandhipuram=Street= IndiaGandhipuramStateGandhipuram |streeMambalamBoagNeWNagar)A1 (OL)3.464DrairO9R4.163gWest C.l.T.F3North RoadBhavan B3\u00b0Krishna3.782(UL)Naga4.6934.9754.670B2F4",
+  "east": 416306.46,
+  "north": 1440554.29,
+  "conf": 0.976,
+  "size_pt": 322.56
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "Soodiammanpet StreetH|0Opooy sauorEd\u0438\u0430\u0440\u043b\u043e\u044danbsow{2217SChinnaiya Thottamf\u00e6z g[pooy sauorStreet",
+  "east": 416155.34,
+  "north": 1440079.42,
+  "conf": 0.873,
+  "size_pt": 166.56
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "Anna Salai",
+  "east": 416164.65,
+  "north": 1439767.32,
+  "conf": 1.0,
+  "size_pt": 27.72
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "Jones Road",
+  "east": 416118.51,
+  "north": 1440066.51,
+  "conf": 1.0,
+  "size_pt": 36.0
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "New Boag Road",
+  "east": 416156.29,
+  "north": 1440629.33,
+  "conf": 1.0,
+  "size_pt": 49.8
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "4.4637H5CX4.568Bharathi StreetstrestAnna2nd Cross Street4.670HSQ",
+  "east": 416157.98,
+  "north": 1440527.2,
+  "conf": 1.0,
+  "size_pt": 64.44
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "Kasthuribai StreetGandhi Street(Kaveri Nagar)",
+  "east": 416137.98,
+  "north": 1440447.82,
+  "conf": 1.0,
+  "size_pt": 55.92
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "/ Street(Appavoo)2 Railway Border (w\u2022 2nd Street",
+  "east": 416006.33,
+  "north": 1440313.95,
+  "conf": 1.0,
+  "size_pt": 53.76
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "GovermentSchoolPwd Quarters",
+  "east": 416450.29,
+  "north": 1439868.39,
+  "conf": 1.0,
+  "size_pt": 63.96
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "Golf Links",
+  "east": 416925.04,
+  "north": 1439988.72,
+  "conf": 1.0,
+  "size_pt": 36.84
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "College ofY.M.C.A",
+  "east": 417207.19,
+  "north": 1440177.63,
+  "conf": 1.0,
+  "size_pt": 34.68
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "RestaurantSubway",
+  "east": 416737.62,
+  "north": 1440224.09,
+  "conf": 1.0,
+  "size_pt": 36.24
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "Taluck Office Road-Salo",
+  "east": 417439.91,
+  "north": 1440647.43,
+  "conf": 0.65,
+  "size_pt": 51.12
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "aar)oopAnna SalaiUC.l.T Nagar Ist Main Road",
+  "east": 416595.38,
+  "north": 1440231.82,
+  "conf": 1.0,
+  "size_pt": 80.64
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "Model Hutment Road",
+  "east": 417130.67,
+  "north": 1440564.13,
+  "conf": 1.0,
+  "size_pt": 50.16
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "School Road",
+  "east": 417040.51,
+  "north": 1440394.27,
+  "conf": 1.0,
+  "size_pt": 30.24
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "Govt. FarmMain Road",
+  "east": 416423.09,
+  "north": 1439594.28,
+  "conf": 1.0,
+  "size_pt": 67.68
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "Bridge",
+  "east": 415920.18,
+  "north": 1439188.94,
+  "conf": 1.0,
+  "size_pt": 18.48
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "Culvert",
+  "east": 416478.86,
+  "north": 1440002.9,
+  "conf": 1.0,
+  "size_pt": 19.8
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "Bridge",
+  "east": 417202.43,
+  "north": 1439711.23,
+  "conf": 1.0,
+  "size_pt": 18.48
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "culvert",
+  "east": 416274.82,
+  "north": 1440379.56,
+  "conf": 1.0,
+  "size_pt": 19.8
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "Culvert",
+  "east": 415900.6,
+  "north": 1440208.75,
+  "conf": 1.0,
+  "size_pt": 19.8
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "70 Feet Road23.5",
+  "east": 416079.67,
+  "north": 1440371.41,
+  "conf": 0.65,
+  "size_pt": 42.6
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "Gand\u0131North Road(West C.l.T. Nagar)MarIrootWost CIT Nadgr",
+  "east": 416422.88,
+  "north": 1440447.93,
+  "conf": 1.0,
+  "size_pt": 80.64
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "Anna Salai",
+  "east": 417469.76,
+  "north": 1440616.84,
+  "conf": 1.0,
+  "size_pt": 27.84
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "OSS :Street( Wes.|l Cross Street(West C.l.T.Nagar)5.019G10\u2039",
+  "east": 416450.18,
+  "north": 1440360.41,
+  "conf": 1.0,
+  "size_pt": 89.52
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "(Westst CSouthst C.l.T. Nagar)uth RoadAlpha Matriculationher SeconestrkoScool(West C.l.T. Nagar)G85.119d/West'(West C.l.T. Nagar)I|l Cross Street",
+  "east": 416419.7,
+  "north": 1440230.23,
+  "conf": 1.0,
+  "size_pt": 94.32
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "7095South Road(WestG85.119E1 (OL)5.267WesC.I.T. Nagar)5.305E2",
+  "east": 416484.89,
+  "north": 1440142.39,
+  "conf": 1.0,
+  "size_pt": 82.92
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "East Road(West C.l.T. Nagar)",
+  "east": 416551.88,
+  "north": 1440366.23,
+  "conf": 1.0,
+  "size_pt": 90.96
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "volNorth Road(West C.l.l.1 Cross Street(West C.l.T. Nagar)'Woct CIT",
+  "east": 416426.26,
+  "north": 1440413.75,
+  "conf": 0.875,
+  "size_pt": 88.32
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "Sastri Nagar2669UID023.462O13.269Indira(OL)Gandhi Street",
+  "east": 416207.62,
+  "north": 1440307.17,
+  "conf": 0.95,
+  "size_pt": 74.4
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "Cross StN2OStreetBharathidasan\u2192i\u011f a5III StreetN1Cross3.73..",
+  "east": 416087.5,
+  "north": 1440218.7,
+  "conf": 0.93,
+  "size_pt": 60.72
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "Egst St",
+  "east": 416195.55,
+  "north": 1440214.25,
+  "conf": 1.0,
+  "size_pt": 22.8
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": ". 9638.D.G. Road",
+  "east": 416121.47,
+  "north": 1439101.52,
+  "conf": 1.0,
+  "size_pt": 30.48
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "Arokkiya Madha Nagar1 Street|| Street",
+  "east": 416303.08,
+  "north": 1439230.53,
+  "conf": 1.0,
+  "size_pt": 70.08
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "Vinayagar Koil StreetVenkatapuram3rd Street6th StreetSlum15",
+  "east": 415996.59,
+  "north": 1438553.42,
+  "conf": 1.0,
+  "size_pt": 110.76
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "78\u0440u2",
+  "east": 416036.49,
+  "north": 1438710.37,
+  "conf": 0.3,
+  "size_pt": 20.76
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "14th StrT2'",
+  "east": 415967.91,
+  "north": 1438727.93,
+  "conf": 1.0,
+  "size_pt": 25.08
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "Ist Street",
+  "east": 416067.71,
+  "north": 1438561.14,
+  "conf": 1.0,
+  "size_pt": 29.76
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "Selva Rangaraja StreetMuthiyaluStreetKoil Str",
+  "east": 415767.25,
+  "north": 1438672.58,
+  "conf": 1.0,
+  "size_pt": 67.32
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "Wrelachery Main RoadMosque Lane At",
+  "east": 415883.67,
+  "north": 1438603.16,
+  "conf": 1.0,
+  "size_pt": 60.12
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "Slum RoadsSurya Nagar",
+  "east": 417323.07,
+  "north": 1439362.4,
+  "conf": 1.0,
+  "size_pt": 39.12
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "Anna Salai",
+  "east": 417229.1,
+  "north": 1440056.14,
+  "conf": 1.0,
+  "size_pt": 33.36
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "Anna Salai",
+  "east": 417070.24,
+  "north": 1439597.46,
+  "conf": 1.0,
+  "size_pt": 33.48
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "Street",
+  "east": 416332.18,
+  "north": 1440062.8,
+  "conf": 1.0,
+  "size_pt": 22.92
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "AnjaneyarKoil Street/",
+  "east": 415819.32,
+  "north": 1438705.92,
+  "conf": 1.0,
+  "size_pt": 32.52
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "Panpet I/ Street",
+  "east": 416699.41,
+  "north": 1440037.19,
+  "conf": 1.0,
+  "size_pt": 49.8
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "Hospital RoadVeterinary",
+  "east": 416845.35,
+  "north": 1440095.4,
+  "conf": 1.0,
+  "size_pt": 43.2
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "North Avenue,Srinagar Colony",
+  "east": 416411.98,
+  "north": 1439021.41,
+  "conf": 1.0,
+  "size_pt": 51.0
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "Pwd Quarters",
+  "east": 416623.32,
+  "north": 1439636.51,
+  "conf": 1.0,
+  "size_pt": 41.52
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "Pwd Quarters",
+  "east": 416686.71,
+  "north": 1439801.08,
+  "conf": 1.0,
+  "size_pt": 37.08
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "L.D.G.Lane-/i",
+  "east": 416083.05,
+  "north": 1439164.49,
+  "conf": 1.0,
+  "size_pt": 20.52
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "(NearOver NightLink RoadExprees)",
+  "east": 417328.26,
+  "north": 1440640.23,
+  "conf": 1.0,
+  "size_pt": 75.0
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "Sardar Patel Road",
+  "east": 417611.15,
+  "north": 1439139.62,
+  "conf": 1.0,
+  "size_pt": 57.84
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "Anna University",
+  "east": 417065.27,
+  "north": 1438293.91,
+  "conf": 1.0,
+  "size_pt": 48.72
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "ANNA UNIVERSITY",
+  "east": 417452.29,
+  "north": 1438755.34,
+  "conf": 1.0,
+  "size_pt": 55.8
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "Anna University",
+  "east": 417111.2,
+  "north": 1438548.02,
+  "conf": 1.0,
+  "size_pt": 48.72
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "Anna University",
+  "east": 416871.6,
+  "north": 1438444.41,
+  "conf": 1.0,
+  "size_pt": 48.72
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "Anna University",
+  "east": 416985.37,
+  "north": 1438705.29,
+  "conf": 1.0,
+  "size_pt": 48.6
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "Anna University",
+  "east": 417513.78,
+  "north": 1439020.67,
+  "conf": 1.0,
+  "size_pt": 48.0
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "Anna Salai",
+  "east": 416588.18,
+  "north": 1440030.63,
+  "conf": 1.0,
+  "size_pt": 26.28
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "Pwd Quarters",
+  "east": 416182.96,
+  "north": 1439516.71,
+  "conf": 1.0,
+  "size_pt": 41.64
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "cet\u2022 StreetJothiammal Nagar (Old)",
+  "east": 416560.56,
+  "north": 1439394.05,
+  "conf": 1.0,
+  "size_pt": 71.28
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "Nagar SlumSathya",
+  "east": 416743.97,
+  "north": 1438885.94,
+  "conf": 1.0,
+  "size_pt": 31.92
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "Anna University",
+  "east": 416534.53,
+  "north": 1438340.8,
+  "conf": 1.0,
+  "size_pt": 48.6
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "BishopColony",
+  "east": 416198.2,
+  "north": 1438927.22,
+  "conf": 1.0,
+  "size_pt": 19.56
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "ChurchRoad",
+  "east": 416125.39,
+  "north": 1438983.94,
+  "conf": 1.0,
+  "size_pt": 19.56
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "2nd3rdStreetStreet",
+  "east": 416275.45,
+  "north": 1440490.58,
+  "conf": 1.0,
+  "size_pt": 34.92
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "Subbu Pillai Thottam2nd Street",
+  "east": 416068.66,
+  "north": 1440516.93,
+  "conf": 1.0,
+  "size_pt": 63.12
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "Anna University",
+  "east": 417459.6,
+  "north": 1438298.89,
+  "conf": 1.0,
+  "size_pt": 48.72
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "/ StreetThomas Nagar",
+  "east": 416449.55,
+  "north": 1439093.48,
+  "conf": 1.0,
+  "size_pt": 43.44
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "479Street",
+  "east": 416007.91,
+  "north": 1438597.34,
+  "conf": 1.0,
+  "size_pt": 31.56
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "Lane-//L.D.G.",
+  "east": 416278.84,
+  "north": 1439167.25,
+  "conf": 1.0,
+  "size_pt": 22.2
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "|| Street",
+  "east": 416114.06,
+  "north": 1440292.88,
+  "conf": 1.0,
+  "size_pt": 25.2
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "1 Street",
+  "east": 416117.77,
+  "north": 1440323.26,
+  "conf": 1.0,
+  "size_pt": 23.64
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "Pwd Quarters",
+  "east": 416220.95,
+  "north": 1439646.88,
+  "conf": 1.0,
+  "size_pt": 41.52
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "Pwd Quarters",
+  "east": 416442.77,
+  "north": 1439528.14,
+  "conf": 1.0,
+  "size_pt": 40.08
+ },
+ {
+  "ward": 171,
+  "role": "road_name",
+  "text": "MGRStreet",
+  "east": 416032.04,
+  "north": 1439079.19,
+  "conf": 1.0,
+  "size_pt": 28.68
+ },
+ {
+  "ward": 171,
+  "role": "location_names",
+  "text": "Anna",
+  "east": 417235.66,
+  "north": 1438628.66,
+  "conf": 1.0,
+  "size_pt": 16.32
+ },
+ {
+  "ward": 171,
+  "role": "location_names",
+  "text": "University",
+  "east": 417287.83,
+  "north": 1438627.39,
+  "conf": 1.0,
+  "size_pt": 32.52
+ },
+ {
+  "ward": 171,
+  "role": "location_names",
+  "text": "PublicThe",
+  "east": 416496.11,
+  "north": 1438680.2,
+  "conf": 1.0,
+  "size_pt": 19.44
+ },
+ {
+  "ward": 171,
+  "role": "location_names",
+  "text": "Indian: School",
+  "east": 416538.02,
+  "north": 1438680.2,
+  "conf": 1.0,
+  "size_pt": 24.96
+ },
+ {
+  "ward": 171,
+  "role": "location_names",
+  "text": "State Bankof India",
+  "east": 417142.74,
+  "north": 1438466.53,
+  "conf": 1.0,
+  "size_pt": 37.92
+ },
+ {
+  "ward": 171,
+  "role": "location_names",
+  "text": "PonnusamyHotel",
+  "east": 415755.19,
+  "north": 1438727.83,
+  "conf": 1.0,
+  "size_pt": 38.76
+ },
+ {
+  "ward": 171,
+  "role": "location_names",
+  "text": "BhavanAnandAdyar",
+  "east": 415913.72,
+  "north": 1438884.67,
+  "conf": 1.0,
+  "size_pt": 25.08
+ },
+ {
+  "ward": 171,
+  "role": "location_names",
+  "text": "Physical",
+  "east": 417172.79,
+  "north": 1440155.62,
+  "conf": 1.0,
+  "size_pt": 26.64
+ },
+ {
+  "ward": 171,
+  "role": "location_names",
+  "text": "Education",
+  "east": 417232.8,
+  "north": 1440156.89,
+  "conf": 1.0,
+  "size_pt": 32.04
+ },
+ {
+  "ward": 171,
+  "role": "location_names",
+  "text": "Higher Secondary SchoolAlpha Matriculation",
+  "east": 416389.01,
+  "north": 1440260.61,
+  "conf": 1.0,
+  "size_pt": 86.16
+ },
+ {
+  "ward": 171,
+  "role": "location_names",
+  "text": "Jaigopal Garodia GovernmentHigher Secondary School",
+  "east": 416443.83,
+  "north": 1439671.12,
+  "conf": 1.0,
+  "size_pt": 100.8
+ },
+ {
+  "ward": 171,
+  "role": "location_names",
+  "text": "Girl's",
+  "east": 416554.95,
+  "north": 1439680.32,
+  "conf": 1.0,
+  "size_pt": 15.36
+ },
+ {
+  "ward": 171,
+  "role": "size_label",
+  "text": "kna 3t140T14-T237.510",
+  "east": 416048.45,
+  "north": 1438709.2,
+  "conf": 0.9,
+  "size_pt": 55.44
+ },
+ {
+  "ward": 171,
+  "role": "size_label",
+  "text": "1337864",
+  "east": 416117.34,
+  "north": 1438642.95,
+  "conf": 1.0,
+  "size_pt": 22.44
+ },
+ {
+  "ward": 171,
+  "role": "size_label",
+  "text": "3.390H91\u0442\u043e 0SHODU",
+  "east": 416050.35,
+  "north": 1440455.44,
+  "conf": 0.825,
+  "size_pt": 37.32
+ }
+]

@@ -1,0 +1,58 @@
+[
+ {
+  "cond_id": "A2->A1",
+  "from_node": "A2",
+  "to_node": "A1",
+  "ward": 46,
+  "length_m": 128.253,
+  "us_invert": 3.226,
+  "ds_invert": 2.759,
+  "width_m": 1.101,
+  "depth_m": 0.38,
+  "type": "C",
+  "slope": 0.003641,
+  "dir_src": "invert"
+ },
+ {
+  "cond_id": "A1->A4",
+  "from_node": "A1",
+  "to_node": "A4",
+  "ward": 46,
+  "length_m": 237.069,
+  "us_invert": 2.759,
+  "ds_invert": 2.58,
+  "width_m": 1.201,
+  "depth_m": 0.8,
+  "type": "C",
+  "slope": 0.000755,
+  "dir_src": "invert"
+ },
+ {
+  "cond_id": "A5->A4",
+  "from_node": "A5",
+  "to_node": "A4",
+  "ward": 46,
+  "length_m": 141.271,
+  "us_invert": 2.744,
+  "ds_invert": 2.58,
+  "width_m": 1.001,
+  "depth_m": 1.005,
+  "type": "C",
+  "slope": 0.001161,
+  "dir_src": "invert"
+ },
+ {
+  "cond_id": "A6->A5",
+  "from_node": "A6",
+  "to_node": "A5",
+  "ward": 46,
+  "length_m": 95.442,
+  "us_invert": 3.201,
+  "ds_invert": 2.744,
+  "width_m": 1.001,
+  "depth_m": 0.38,
+  "type": "C",
+  "slope": 0.004788,
+  "dir_src": "invert"
+ }
+]

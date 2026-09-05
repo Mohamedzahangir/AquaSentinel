@@ -1,0 +1,1226 @@
+[
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "Conservancy LaneV.G.P Salai",
+  "east": 415061.11,
+  "north": 1439491.22,
+  "conf": 1.0,
+  "size_pt": 57.0
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "'Abdul Razak | Street",
+  "east": 415856.8,
+  "north": 1439330.02,
+  "conf": 1.0,
+  "size_pt": 64.8
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "Police Lane",
+  "east": 415595.28,
+  "north": 1439435.33,
+  "conf": 1.0,
+  "size_pt": 35.16
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "Abdul Razak StreetA3",
+  "east": 415745.67,
+  "north": 1439403.26,
+  "conf": 1.0,
+  "size_pt": 58.68
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "PallamStreet",
+  "east": 415153.61,
+  "north": 1439474.07,
+  "conf": 1.0,
+  "size_pt": 21.24
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "Taluk Office Road",
+  "east": 416051.02,
+  "north": 1439617.7,
+  "conf": 1.0,
+  "size_pt": 46.8
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "Pillaiyar Koil Street",
+  "east": 415969.1,
+  "north": 1439983.7,
+  "conf": 1.0,
+  "size_pt": 59.76
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "Karaneeswar Koil Street",
+  "east": 415750.33,
+  "north": 1439835.52,
+  "conf": 1.0,
+  "size_pt": 75.12
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "Mudali Street",
+  "east": 415676.77,
+  "north": 1439697.4,
+  "conf": 1.0,
+  "size_pt": 41.04
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "Kodambakkam Main Road",
+  "east": 415378.52,
+  "north": 1440122.88,
+  "conf": 1.0,
+  "size_pt": 80.52
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "Mosque Street",
+  "east": 415354.81,
+  "north": 1439548.48,
+  "conf": 1.0,
+  "size_pt": 44.16
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "ElaiyazhwarKoil StreetConservancyLaneElaiyazhwarKoil Street",
+  "east": 415120.06,
+  "north": 1439896.7,
+  "conf": 1.0,
+  "size_pt": 75.36
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "Sagunthala Street",
+  "east": 415035.39,
+  "north": 1440091.66,
+  "conf": 1.0,
+  "size_pt": 54.96
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "New Colony 4th Street",
+  "east": 414951.04,
+  "north": 1439785.03,
+  "conf": 1.0,
+  "size_pt": 71.64
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "Thiru",
+  "east": 415228.54,
+  "north": 1440315.83,
+  "conf": 1.0,
+  "size_pt": 12.84
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "Valluvar Street",
+  "east": 415289.08,
+  "north": 1440316.57,
+  "conf": 1.0,
+  "size_pt": 44.52
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "DiwarBashyam Street.ivones Road dane_(south)DiwanBashyam StreetPerumal Koil Street",
+  "east": 415315.44,
+  "north": 1439821.34,
+  "conf": 1.0,
+  "size_pt": 83.52
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "Jeenis Road",
+  "east": 415887.6,
+  "north": 1439580.97,
+  "conf": 1.0,
+  "size_pt": 36.36
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "Jeenis Road",
+  "east": 415878.08,
+  "north": 1439818.69,
+  "conf": 1.0,
+  "size_pt": 37.32
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "Duraisamy Thottam",
+  "east": 414637.96,
+  "north": 1439622.35,
+  "conf": 1.0,
+  "size_pt": 59.4
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "Vaaniyar Street",
+  "east": 415334.91,
+  "north": 1439938.93,
+  "conf": 1.0,
+  "size_pt": 46.32
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "Rangabashyam Street",
+  "east": 415142.29,
+  "north": 1439962.53,
+  "conf": 1.0,
+  "size_pt": 67.92
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "Brahmin Street",
+  "east": 415667.35,
+  "north": 1439625.42,
+  "conf": 1.0,
+  "size_pt": 47.16
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "Kavarai StreetKavarai Street Conservancy Lane",
+  "east": 415272.26,
+  "north": 1439709.99,
+  "conf": 1.0,
+  "size_pt": 113.52
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "Narayanasamy || Street",
+  "east": 414641.35,
+  "north": 1439587.0,
+  "conf": 1.0,
+  "size_pt": 70.92
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "Murugan Street",
+  "east": 415317.45,
+  "north": 1440230.52,
+  "conf": 1.0,
+  "size_pt": 47.64
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "Balaji Singh Street",
+  "east": 416093.46,
+  "north": 1440029.74,
+  "conf": 1.0,
+  "size_pt": 58.68
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "rapuramKamasamy StreetStreetConservancysLaneMosqueRamanujam Street",
+  "east": 415106.3,
+  "north": 1439561.49,
+  "conf": 0.9,
+  "size_pt": 96.96
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "Rajagopal Street",
+  "east": 414926.06,
+  "north": 1439646.91,
+  "conf": 1.0,
+  "size_pt": 51.24
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "Kothaval Chavadi Street",
+  "east": 414883.72,
+  "north": 1439699.51,
+  "conf": 1.0,
+  "size_pt": 75.48
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "Rethinam#|\u2022\u2022",
+  "east": 414616.69,
+  "north": 1439540.22,
+  "conf": 0.65,
+  "size_pt": 26.64
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "ThottamHHHPPI",
+  "east": 414670.35,
+  "north": 1439551.97,
+  "conf": 0.65,
+  "size_pt": 23.64
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "ANarayanasamyStreet//",
+  "east": 414724.75,
+  "north": 1439601.61,
+  "conf": 1.0,
+  "size_pt": 52.08
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "\u0424B7 Kothaval ChavadiStreet5.536Street\u2022 Mosque Lane\u00abStreMosque Pallam IV StreetamMosque StreetStreetMosque Pallam|/ StreetMosque Pallam",
+  "east": 415270.35,
+  "north": 1439551.02,
+  "conf": 1.0,
+  "size_pt": 102.0
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "Narayanaswamy/ StreetNarayanaswamy Street* KarunakaranStreet",
+  "east": 414811.65,
+  "north": 1439602.35,
+  "conf": 1.0,
+  "size_pt": 79.08
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "Thadi Rathinam Street",
+  "east": 415118.47,
+  "north": 1440098.43,
+  "conf": 1.0,
+  "size_pt": 69.6
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "Subramania Salai",
+  "east": 415153.4,
+  "north": 1440097.48,
+  "conf": 1.0,
+  "size_pt": 53.88
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "Vinayagampet Street",
+  "east": 415786.0,
+  "north": 1439525.19,
+  "conf": 1.0,
+  "size_pt": 61.2
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "Jayaram",
+  "east": 415944.33,
+  "north": 1439646.06,
+  "conf": 1.0,
+  "size_pt": 23.76
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "Street",
+  "east": 415954.28,
+  "north": 1439600.87,
+  "conf": 1.0,
+  "size_pt": 17.4
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "Subramania Mudali Street",
+  "east": 415646.18,
+  "north": 1439825.25,
+  "conf": 1.0,
+  "size_pt": 80.04
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "Brahmin LaneB4Road5.920gAlandurRoad",
+  "east": 415594.11,
+  "north": 1439562.55,
+  "conf": 1.0,
+  "size_pt": 65.64
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "KothavalchavadiStreet ConservaramapuramRamasamy Street",
+  "east": 415100.16,
+  "north": 1439614.84,
+  "conf": 1.0,
+  "size_pt": 55.44
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "Flower Street",
+  "east": 416003.71,
+  "north": 1439678.45,
+  "conf": 1.0,
+  "size_pt": 38.64
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "Chetty Street",
+  "east": 415463.4,
+  "north": 1439559.27,
+  "conf": 1.0,
+  "size_pt": 41.04
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "Bridge",
+  "east": 415139.43,
+  "north": 1439142.36,
+  "conf": 1.0,
+  "size_pt": 20.76
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "RilwayBridge",
+  "east": 415524.36,
+  "north": 1439074.2,
+  "conf": 1.0,
+  "size_pt": 22.32
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "ThideerBridgeNagar",
+  "east": 415883.05,
+  "north": 1439235.92,
+  "conf": 1.0,
+  "size_pt": 42.6
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "Anjaneyar Koil Street",
+  "east": 415029.78,
+  "north": 1439902.2,
+  "conf": 1.0,
+  "size_pt": 66.0
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "Othavadai Street",
+  "east": 415481.08,
+  "north": 1439982.32,
+  "conf": 1.0,
+  "size_pt": 51.48
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "Potters Street",
+  "east": 416222.37,
+  "north": 1439965.18,
+  "conf": 1.0,
+  "size_pt": 44.52
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "Samiyar ThottamSlum Lanes",
+  "east": 415514.73,
+  "north": 1439275.93,
+  "conf": 1.0,
+  "size_pt": 52.68
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "Karaneeswarar Koil Conservancy",
+  "east": 415711.7,
+  "north": 1439844.73,
+  "conf": 1.0,
+  "size_pt": 101.16
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "5.626Tank Square StreetSubramania Mudali Laneramania Mudali Street",
+  "east": 415609.35,
+  "north": 1439853.09,
+  "conf": 1.0,
+  "size_pt": 86.4
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "Tank SquareWest Street",
+  "east": 415600.14,
+  "north": 1439983.7,
+  "conf": 1.0,
+  "size_pt": 38.16
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "Koothadum Pillaiyar Koil Street",
+  "east": 415544.9,
+  "north": 1439842.51,
+  "conf": 1.0,
+  "size_pt": 97.92
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "V.s.mudali Street",
+  "east": 415596.12,
+  "north": 1439722.06,
+  "conf": 1.0,
+  "size_pt": 51.84
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "Koothadum Pillayar Koil Lane",
+  "east": 415492.08,
+  "north": 1439871.61,
+  "conf": 1.0,
+  "size_pt": 92.04
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "Subramaniasamy Koil Street",
+  "east": 415440.33,
+  "north": 1439848.75,
+  "conf": 1.0,
+  "size_pt": 87.96
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "Sembada Street",
+  "east": 415398.63,
+  "north": 1439836.16,
+  "conf": 1.0,
+  "size_pt": 49.68
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "VarasidhiVinayagar Koil Street",
+  "east": 415507.96,
+  "north": 1439637.07,
+  "conf": 1.0,
+  "size_pt": 64.92
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "Koil West Street\u00e0Subramaniasamyi",
+  "east": 415396.09,
+  "north": 1439673.48,
+  "conf": 1.0,
+  "size_pt": 51.96
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "East Street",
+  "east": 415446.78,
+  "north": 1439680.99,
+  "conf": 1.0,
+  "size_pt": 35.52
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "'Bujanga Rao Street",
+  "east": 415532.09,
+  "north": 1439562.76,
+  "conf": 1.0,
+  "size_pt": 61.32
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "KaraneeswararKoil Conservancy",
+  "east": 415697.73,
+  "north": 1439663.63,
+  "conf": 1.0,
+  "size_pt": 52.8
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "'ulgopal StreetAnjaneyar Koil StreetDhanasekaranStreetIchinnammalStreetCo",
+  "east": 414949.24,
+  "north": 1439580.97,
+  "conf": 1.0,
+  "size_pt": 80.4
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "J.ILPerumal Koil StreetConservancy",
+  "east": 415073.07,
+  "north": 1439709.89,
+  "conf": 0.767,
+  "size_pt": 61.2
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "PerumalKoil Street",
+  "east": 415090.53,
+  "north": 1439777.62,
+  "conf": 1.0,
+  "size_pt": 32.76
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "Kavarai Street",
+  "east": 415211.29,
+  "north": 1439872.25,
+  "conf": 1.0,
+  "size_pt": 44.04
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "Kambar Street",
+  "east": 415088.1,
+  "north": 1440265.98,
+  "conf": 1.0,
+  "size_pt": 45.12
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "Munuswamy Street",
+  "east": 415222.51,
+  "north": 1440121.82,
+  "conf": 1.0,
+  "size_pt": 57.6
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "Ramaswamy Street",
+  "east": 415222.19,
+  "north": 1440088.7,
+  "conf": 1.0,
+  "size_pt": 59.16
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "Balakrishnan Street",
+  "east": 415223.68,
+  "north": 1440062.24,
+  "conf": 1.0,
+  "size_pt": 60.12
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "Bazaar Road",
+  "east": 415828.54,
+  "north": 1439640.98,
+  "conf": 1.0,
+  "size_pt": 34.8
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "r Colony!)Salaviyalar Colony II $treet|l Street",
+  "east": 415756.79,
+  "north": 1439213.48,
+  "conf": 1.0,
+  "size_pt": 82.8
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "Jayaram",
+  "east": 415923.48,
+  "north": 1439630.08,
+  "conf": 1.0,
+  "size_pt": 23.88
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "StreetLane",
+  "east": 415933.75,
+  "north": 1439569.01,
+  "conf": 1.0,
+  "size_pt": 35.28
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "Madha Church",
+  "east": 416030.49,
+  "north": 1439715.71,
+  "conf": 1.0,
+  "size_pt": 41.28
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "BazaarLane",
+  "east": 416103.73,
+  "north": 1439775.72,
+  "conf": 1.0,
+  "size_pt": 18.6
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "V.g.p.",
+  "east": 416067.42,
+  "north": 1439837.43,
+  "conf": 1.0,
+  "size_pt": 14.52
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "Lane",
+  "east": 416101.29,
+  "north": 1439839.75,
+  "conf": 1.0,
+  "size_pt": 13.56
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "Dharamaraja Koil Street",
+  "east": 415942.74,
+  "north": 1439846.42,
+  "conf": 1.0,
+  "size_pt": 75.0
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "Jeer Naidu Lane",
+  "east": 416015.24,
+  "north": 1439872.46,
+  "conf": 1.0,
+  "size_pt": 50.16
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "DharamarajaKoil Lane",
+  "east": 415919.25,
+  "north": 1439755.82,
+  "conf": 1.0,
+  "size_pt": 38.28
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "Balaji Singh Lane",
+  "east": 416106.48,
+  "north": 1439972.06,
+  "conf": 1.0,
+  "size_pt": 54.0
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "Krishnappa(p) Thottam Lane",
+  "east": 416295.29,
+  "north": 1439988.78,
+  "conf": 1.0,
+  "size_pt": 55.68
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "Jones Road (east)H\u0428|\u2022*",
+  "east": 416224.7,
+  "north": 1440050.7,
+  "conf": 0.65,
+  "size_pt": 57.48
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "Mortuary nuuStreetSalaviyalar Colonyhinar Colon)",
+  "east": 415701.43,
+  "north": 1439234.02,
+  "conf": 1.0,
+  "size_pt": 81.24
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "Seshachala (M) Street",
+  "east": 416094.41,
+  "north": 1439905.06,
+  "conf": 1.0,
+  "size_pt": 69.84
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "Kamakoti Street",
+  "east": 415217.22,
+  "north": 1440213.8,
+  "conf": 1.0,
+  "size_pt": 50.16
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "Adhikesavan Street",
+  "east": 415223.25,
+  "north": 1440183.64,
+  "conf": 1.0,
+  "size_pt": 59.16
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "Kumaraswamy Street",
+  "east": 415228.33,
+  "north": 1440153.26,
+  "conf": 1.0,
+  "size_pt": 65.4
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "Abdul Razak I| Street",
+  "east": 415752.02,
+  "north": 1439456.39,
+  "conf": 1.0,
+  "size_pt": 67.08
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "Road(part)Bazaar",
+  "east": 415995.24,
+  "north": 1439799.01,
+  "conf": 1.0,
+  "size_pt": 31.56
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "PillaiyarKoil Lane",
+  "east": 416032.39,
+  "north": 1439993.65,
+  "conf": 1.0,
+  "size_pt": 29.52
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "V.v. Koil StreetConservancy Lane",
+  "east": 415559.93,
+  "north": 1439699.62,
+  "conf": 1.0,
+  "size_pt": 54.72
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "Varasidhi Vinayagar Koil Street",
+  "east": 415417.78,
+  "north": 1439552.18,
+  "conf": 1.0,
+  "size_pt": 96.12
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "Mortuary Road(Anna Road)",
+  "east": 415596.97,
+  "north": 1439191.89,
+  "conf": 1.0,
+  "size_pt": 45.24
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "Salavaithurai",
+  "east": 415734.24,
+  "north": 1439293.5,
+  "conf": 1.0,
+  "size_pt": 37.8
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "Kothamedu",
+  "east": 415738.58,
+  "north": 1439154.11,
+  "conf": 1.0,
+  "size_pt": 33.84
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "Abith ColonyMain Road",
+  "east": 415384.13,
+  "north": 1439373.52,
+  "conf": 1.0,
+  "size_pt": 39.72
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "\u2022 Abith ColonyKamaraj Street",
+  "east": 415427.84,
+  "north": 1439147.33,
+  "conf": 1.0,
+  "size_pt": 47.28
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "Abith Colonyo.C.streetV.",
+  "east": 415360.95,
+  "north": 1439145.32,
+  "conf": 1.0,
+  "size_pt": 39.48
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "1Gandhi Street:Abith ColonyKannagi_StreetAbith ColonyThiruvalluvar Stre..Abith ColonyRharel.",
+  "east": 415432.18,
+  "north": 1439276.25,
+  "conf": 1.0,
+  "size_pt": 71.16
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "Abith ColonyGandhi Street",
+  "east": 415444.14,
+  "north": 1439317.21,
+  "conf": 1.0,
+  "size_pt": 42.0
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "Abith ColonyBharathi Street",
+  "east": 415440.75,
+  "north": 1439237.09,
+  "conf": 1.0,
+  "size_pt": 47.76
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "SoundareswararKoil Street",
+  "east": 415599.09,
+  "north": 1439665.86,
+  "conf": 1.0,
+  "size_pt": 48.0
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "NatarajanStreet",
+  "east": 415194.36,
+  "north": 1440285.46,
+  "conf": 1.0,
+  "size_pt": 29.04
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "ElumalaiStreet",
+  "east": 415198.8,
+  "north": 1440241.53,
+  "conf": 1.0,
+  "size_pt": 25.2
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "Mortuary Road (anna Road)1 Street",
+  "east": 415713.5,
+  "north": 1439257.62,
+  "conf": 1.0,
+  "size_pt": 86.04
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "Abith",
+  "east": 415413.45,
+  "north": 1439208.09,
+  "conf": 1.0,
+  "size_pt": 14.88
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "Abith ColonyKambar Street",
+  "east": 415431.65,
+  "north": 1439199.09,
+  "conf": 1.0,
+  "size_pt": 45.12
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "Colony",
+  "east": 415455.04,
+  "north": 1439247.25,
+  "conf": 1.0,
+  "size_pt": 19.56
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "Colony",
+  "east": 415458.0,
+  "north": 1439289.16,
+  "conf": 1.0,
+  "size_pt": 19.56
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "Samiyar ThottamLanesSlum",
+  "east": 415514.94,
+  "north": 1439382.2,
+  "conf": 1.0,
+  "size_pt": 52.68
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "ThottamSlum LanesSamiyar",
+  "east": 415557.91,
+  "north": 1439332.45,
+  "conf": 1.0,
+  "size_pt": 52.68
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "Karunanithi Nagar",
+  "east": 415885.8,
+  "north": 1439311.39,
+  "conf": 1.0,
+  "size_pt": 52.56
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "Kothavalchavadi Street Slum Road",
+  "east": 414636.8,
+  "north": 1439684.27,
+  "conf": 1.0,
+  "size_pt": 108.0
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "Bazaar Road",
+  "east": 416068.27,
+  "north": 1439806.2,
+  "conf": 1.0,
+  "size_pt": 34.92
+ },
+ {
+  "ward": 142,
+  "role": "road_name",
+  "text": "Lane",
+  "east": 415133.82,
+  "north": 1439903.89,
+  "conf": 1.0,
+  "size_pt": 13.68
+ },
+ {
+  "ward": 142,
+  "role": "location_names",
+  "text": "PillaiyarKoil",
+  "east": 415470.92,
+  "north": 1439486.35,
+  "conf": 1.0,
+  "size_pt": 23.16
+ },
+ {
+  "ward": 142,
+  "role": "location_names",
+  "text": "SchoolChurch",
+  "east": 415509.65,
+  "north": 1439455.76,
+  "conf": 1.0,
+  "size_pt": 23.64
+ },
+ {
+  "ward": 142,
+  "role": "location_names",
+  "text": "VidhyasagarGovernment School",
+  "east": 416084.25,
+  "north": 1439937.66,
+  "conf": 1.0,
+  "size_pt": 65.76
+ },
+ {
+  "ward": 142,
+  "role": "location_names",
+  "text": "Chennai Girl's HigherSecondary School",
+  "east": 415311.1,
+  "north": 1439967.08,
+  "conf": 1.0,
+  "size_pt": 71.88
+ },
+ {
+  "ward": 142,
+  "role": "location_names",
+  "text": "Pillaiyar",
+  "east": 415993.23,
+  "north": 1439885.8,
+  "conf": 1.0,
+  "size_pt": 25.68
+ },
+ {
+  "ward": 142,
+  "role": "location_names",
+  "text": "Koil",
+  "east": 416033.87,
+  "north": 1439887.17,
+  "conf": 1.0,
+  "size_pt": 11.52
+ },
+ {
+  "ward": 142,
+  "role": "location_names",
+  "text": "Pharmacy",
+  "east": 415959.26,
+  "north": 1439687.02,
+  "conf": 1.0,
+  "size_pt": 30.36
+ },
+ {
+  "ward": 142,
+  "role": "location_names",
+  "text": "AmmanMedicals",
+  "east": 415501.5,
+  "north": 1440005.08,
+  "conf": 1.0,
+  "size_pt": 27.6
+ },
+ {
+  "ward": 142,
+  "role": "location_names",
+  "text": "NagaMedicals",
+  "east": 415587.13,
+  "north": 1440012.6,
+  "conf": 1.0,
+  "size_pt": 27.72
+ },
+ {
+  "ward": 142,
+  "role": "location_names",
+  "text": "VasanthamMedicals",
+  "east": 415411.01,
+  "north": 1439730.21,
+  "conf": 1.0,
+  "size_pt": 36.84
+ },
+ {
+  "ward": 142,
+  "role": "location_names",
+  "text": "SaranyaMedicals,",
+  "east": 415484.15,
+  "north": 1439705.55,
+  "conf": 1.0,
+  "size_pt": 27.6
+ },
+ {
+  "ward": 142,
+  "role": "location_names",
+  "text": "NatarajaDevara Sabai",
+  "east": 416000.96,
+  "north": 1439848.54,
+  "conf": 1.0,
+  "size_pt": 45.24
+ },
+ {
+  "ward": 142,
+  "role": "location_names",
+  "text": "ChennaiCorporationPark",
+  "east": 415072.12,
+  "north": 1440169.45,
+  "conf": 1.0,
+  "size_pt": 37.8
+ },
+ {
+  "ward": 142,
+  "role": "location_names",
+  "text": "MaruthiPharmacu",
+  "east": 415264.42,
+  "north": 1439913.53,
+  "conf": 1.0,
+  "size_pt": 33.12
+ },
+ {
+  "ward": 142,
+  "role": "location_names",
+  "text": "Tank",
+  "east": 415687.99,
+  "north": 1440000.21,
+  "conf": 1.0,
+  "size_pt": 13.44
+ },
+ {
+  "ward": 142,
+  "role": "location_names",
+  "text": "KaraneeswararKoil",
+  "east": 415810.76,
+  "north": 1440000.85,
+  "conf": 1.0,
+  "size_pt": 49.44
+ }
+]

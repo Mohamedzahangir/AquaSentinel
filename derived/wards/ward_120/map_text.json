@@ -1,0 +1,326 @@
+[
+ {
+  "ward": 120,
+  "role": "road_name",
+  "text": "Llbyds ColonyMain RoadLloyds ColonyMain Road",
+  "east": 421064.49,
+  "north": 1442646.45,
+  "conf": 1.0,
+  "size_pt": 87.84
+ },
+ {
+  "ward": 120,
+  "role": "road_name",
+  "text": "Muthiah Mudali StreetLloyds ColonyLi, Ls, Ln, Lm BAVenkatesapuram4tn Streetert",
+  "east": 421255.5,
+  "north": 1442818.68,
+  "conf": 0.883,
+  "size_pt": 73.44
+ },
+ {
+  "ward": 120,
+  "role": "road_name",
+  "text": "Muthiah MudaliGarden3.750Lloyds ColonyLloyds ColonyTo Lclg,lpMain RoadTo G BlockColony AA To G BILloydsAvvaisanmugam salai",
+  "east": 421003.42,
+  "north": 1442623.84,
+  "conf": 1.0,
+  "size_pt": 139.92
+ },
+ {
+  "ward": 120,
+  "role": "road_name",
+  "text": ".489Suthanthira Nagar ena Streefate4thstreek\u00aeYew StreStreetGosSuthanthira NagewSuthanthira Nagar",
+  "east": 421149.01,
+  "north": 1442569.84,
+  "conf": 0.9,
+  "size_pt": 102.6
+ },
+ {
+  "ward": 120,
+  "role": "road_name",
+  "text": "Vaikol ThottiStreetIst Street5th StreetElephant Tank6th Street ThondakkaIrusappanMackan2nd Lane2nd Lane",
+  "east": 421273.25,
+  "north": 1442949.28,
+  "conf": 1.0,
+  "size_pt": 112.32
+ },
+ {
+  "ward": 120,
+  "role": "road_name",
+  "text": "RoadDr. Natesan",
+  "east": 421359.36,
+  "north": 1442579.46,
+  "conf": 1.0,
+  "size_pt": 52.32
+ },
+ {
+  "ward": 120,
+  "role": "road_name",
+  "text": "and SoptMurugappa Mudali StreeStreetGajapathy Ist LanQGajapathy lind LarIrusappa GramaniW\u0131rusappalIstLaneRooyKandappan Streetdlst streefnd StreetRam NagarStreetRam NagarNagar3rd Street8th4th StreetamStreet5th StreetNagarDr.Besant School Road6th StreetamyRoad7th StreetDr. Natesan Ist LaneatesanLime\u2122Klin Street",
+  "east": 421427.93,
+  "north": 1442742.6,
+  "conf": 0.959,
+  "size_pt": 203.04
+ },
+ {
+  "ward": 120,
+  "role": "road_name",
+  "text": "5th Street4th StreetEwNadukuppam3rd StreetNadukuppam 6th StreettreNadukuppam2nd Street7thIst Street",
+  "east": 421764.0,
+  "north": 1442456.04,
+  "conf": 1.0,
+  "size_pt": 80.4
+ },
+ {
+  "ward": 120,
+  "role": "road_name",
+  "text": "utreMRTSNeelam Kasha Dharka SlumNeelam Kasha DhaLady WilTrainingNeelam Kasha Dharka Slum",
+  "east": 421816.61,
+  "north": 1442678.25,
+  "conf": 1.0,
+  "size_pt": 111.96
+ },
+ {
+  "ward": 120,
+  "role": "road_name",
+  "text": "faalsLaneCanal(Gajabathy Lala Ga) !Bank StreetRajaji Nagar{aaH5Munusamy NagarMunusamy 1Gajapathy lind Lane(Gajabathy Lala)Nagar,(Gajabathy Lala)B1 (OL)VenkatarangamPillai Streetarka SlumWARD 120treetet",
+  "east": 421643.56,
+  "north": 1442832.42,
+  "conf": 0.93,
+  "size_pt": 159.24
+ },
+ {
+  "ward": 120,
+  "role": "road_name",
+  "text": "Kamarajar Salai",
+  "east": 421968.43,
+  "north": 1442597.0,
+  "conf": 1.0,
+  "size_pt": 49.92
+ },
+ {
+  "ward": 120,
+  "role": "road_name",
+  "text": "Kamarajar Salai",
+  "east": 422019.67,
+  "north": 1442591.5,
+  "conf": 1.0,
+  "size_pt": 49.92
+ },
+ {
+  "ward": 120,
+  "role": "road_name",
+  "text": "Neelam Kasha Dharka Slum",
+  "east": 421867.01,
+  "north": 1442694.21,
+  "conf": 1.0,
+  "size_pt": 86.88
+ },
+ {
+  "ward": 120,
+  "role": "road_name",
+  "text": "Nammalvar StreetCaint",
+  "east": 421575.62,
+  "north": 1442942.94,
+  "conf": 1.0,
+  "size_pt": 53.04
+ },
+ {
+  "ward": 120,
+  "role": "road_name",
+  "text": "Murugappa Mudali Street",
+  "east": 421440.71,
+  "north": 1442862.11,
+  "conf": 1.0,
+  "size_pt": 77.4
+ },
+ {
+  "ward": 120,
+  "role": "road_name",
+  "text": "Gajapathy Ist Lane",
+  "east": 421493.01,
+  "north": 1442876.37,
+  "conf": 1.0,
+  "size_pt": 58.08
+ },
+ {
+  "ward": 120,
+  "role": "road_name",
+  "text": "Kutharath AliMackkan Street",
+  "east": 421421.16,
+  "north": 1442534.45,
+  "conf": 1.0,
+  "size_pt": 48.0
+ },
+ {
+  "ward": 120,
+  "role": "road_name",
+  "text": "2nd Street",
+  "east": 421272.41,
+  "north": 1442736.26,
+  "conf": 1.0,
+  "size_pt": 33.36
+ },
+ {
+  "ward": 120,
+  "role": "road_name",
+  "text": "Deppo StreetE Depot LaneVenkatasamyLane",
+  "east": 421295.44,
+  "north": 1442654.8,
+  "conf": 1.0,
+  "size_pt": 62.88
+ },
+ {
+  "ward": 120,
+  "role": "road_name",
+  "text": "Street1st(dura)",
+  "east": 421307.7,
+  "north": 1442704.56,
+  "conf": 1.0,
+  "size_pt": 29.76
+ },
+ {
+  "ward": 120,
+  "role": "road_name",
+  "text": "VenkatasamyLane",
+  "east": 421303.79,
+  "north": 1442626.69,
+  "conf": 1.0,
+  "size_pt": 39.48
+ },
+ {
+  "ward": 120,
+  "role": "road_name",
+  "text": "B6Poad3.439MainRLloyds Colony,(loyds Estate,nV",
+  "east": 421045.05,
+  "north": 1442805.47,
+  "conf": 1.0,
+  "size_pt": 67.2
+ },
+ {
+  "ward": 120,
+  "role": "road_name",
+  "text": "Lloyds Colony Rk,Rg Block Road",
+  "east": 421201.62,
+  "north": 1442719.99,
+  "conf": 1.0,
+  "size_pt": 52.8
+ },
+ {
+  "ward": 120,
+  "role": "road_name",
+  "text": "84.Dr.Besant Roa\u00a7Mohammed HussoinKhan Street&EJawagar Hussain2nd StreetPeriya Malaiyappan Streetawagar Hussain Ist Streettree2nd Street5th Street\"awagor Hussoine4th StreetPeriyaMala\u0131yappanstreet6th Street5thStreet1st, StreetMuthiah Mudali 2nd Street",
+  "east": 421051.07,
+  "north": 1443013.0,
+  "conf": 0.967,
+  "size_pt": 136.68
+ },
+ {
+  "ward": 120,
+  "role": "road_name",
+  "text": "4th StreetStreetStreetVaikc2nd",
+  "east": 421173.73,
+  "north": 1443004.33,
+  "conf": 1.0,
+  "size_pt": 41.76
+ },
+ {
+  "ward": 120,
+  "role": "road_name",
+  "text": "2.83rd Street",
+  "east": 421180.07,
+  "north": 1443063.72,
+  "conf": 1.0,
+  "size_pt": 31.92
+ },
+ {
+  "ward": 120,
+  "role": "road_name",
+  "text": "Nadukuppam 8th Street",
+  "east": 421675.36,
+  "north": 1442477.71,
+  "conf": 1.0,
+  "size_pt": 71.64
+ },
+ {
+  "ward": 120,
+  "role": "road_name",
+  "text": "Hanumanandpunam islumHanumandhapuram Main Street 1 To 5 LaneM BUCKINGAMdukunnam eth si",
+  "east": 421641.02,
+  "north": 1442573.54,
+  "conf": 1.0,
+  "size_pt": 160.08
+ },
+ {
+  "ward": 120,
+  "role": "road_name",
+  "text": "3rd Street",
+  "east": 421283.92,
+  "north": 1442760.67,
+  "conf": 1.0,
+  "size_pt": 31.8
+ },
+ {
+  "ward": 120,
+  "role": "road_name",
+  "text": "BlockLloyds OolonyRI, Rm, Ag",
+  "east": 421105.8,
+  "north": 1442734.36,
+  "conf": 1.0,
+  "size_pt": 53.52
+ },
+ {
+  "ward": 120,
+  "role": "road_name",
+  "text": "Kamarajar Salai",
+  "east": 421945.61,
+  "north": 1442838.12,
+  "conf": 1.0,
+  "size_pt": 46.8
+ },
+ {
+  "ward": 120,
+  "role": "road_name",
+  "text": "Avvai Shanmugam Salai(Alias) LA2",
+  "east": 421456.24,
+  "north": 1442436.39,
+  "conf": 1.0,
+  "size_pt": 103.92
+ },
+ {
+  "ward": 120,
+  "role": "road_name",
+  "text": "A To G Block",
+  "east": 421047.48,
+  "north": 1442546.7,
+  "conf": 1.0,
+  "size_pt": 42.36
+ },
+ {
+  "ward": 120,
+  "role": "location_names",
+  "text": "Lady WillingtonTraining College",
+  "east": 421894.69,
+  "north": 1442618.55,
+  "conf": 1.0,
+  "size_pt": 52.56
+ },
+ {
+  "ward": 120,
+  "role": "location_names",
+  "text": "Corporation",
+  "east": 421181.44,
+  "north": 1442688.82,
+  "conf": 1.0,
+  "size_pt": 38.04
+ },
+ {
+  "ward": 120,
+  "role": "location_names",
+  "text": "Office,",
+  "east": 421241.14,
+  "north": 1442690.19,
+  "conf": 1.0,
+  "size_pt": 18.24
+ }
+]

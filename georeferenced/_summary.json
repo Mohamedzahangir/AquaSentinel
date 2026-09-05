@@ -1,0 +1,7092 @@
+{
+  "ok": [
+    {
+      "file": "160_Ward.pdf",
+      "ward": 160,
+      "info": {
+        "E0": 411173.45633666666,
+        "N0": 1436297.9418366668,
+        "eE": 126.41461247066036,
+        "eN": 167.6833982404787,
+        "shapefiles": [
+          [
+            "CarriageWay",
+            192
+          ],
+          [
+            "Drain",
+            58
+          ],
+          [
+            "Fly_Over",
+            7
+          ],
+          [
+            "Location_Names",
+            265
+          ],
+          [
+            "Metro_Railway",
+            710
+          ],
+          [
+            "Railway_linestring",
+            36
+          ],
+          [
+            "Railway_multipolygon",
+            110
+          ],
+          [
+            "Road_Names",
+            477
+          ],
+          [
+            "Text",
+            25
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_160/ward_160.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_160"
+      }
+    },
+    {
+      "file": "WARD - 110.pdf",
+      "ward": 110,
+      "info": {
+        "E0": 415820.7925766667,
+        "N0": 1442538.9861833334,
+        "eE": 137.419303603936,
+        "eN": 116.93791381781921,
+        "shapefiles": [
+          [
+            "BRIDGE",
+            8
+          ],
+          [
+            "CarriageWay",
+            56
+          ],
+          [
+            "Divider",
+            31
+          ],
+          [
+            "Drain_linestring",
+            69
+          ],
+          [
+            "Drain_point",
+            232
+          ],
+          [
+            "Drain_Flow",
+            53
+          ],
+          [
+            "Drain_Nos",
+            451
+          ],
+          [
+            "Gen_Text",
+            14
+          ],
+          [
+            "Location_Names",
+            551
+          ],
+          [
+            "MSL_BOTTOM",
+            555
+          ],
+          [
+            "Missing_Road",
+            51
+          ],
+          [
+            "Railway_multipolygon",
+            142
+          ],
+          [
+            "Railway_linestring",
+            36
+          ],
+          [
+            "River_linestring",
+            3603
+          ],
+          [
+            "River_polygon",
+            1
+          ],
+          [
+            "Road_Names",
+            2122
+          ],
+          [
+            "Zone_Boundary",
+            521
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_110/ward_110.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_110"
+      }
+    },
+    {
+      "file": "WARD 170.pdf",
+      "ward": 170,
+      "info": {
+        "E0": 411496.88331666664,
+        "N0": 1437296.6599166666,
+        "eE": 87.70726063259644,
+        "eN": 209.94307298306376,
+        "shapefiles": [
+          [
+            "0_linestring",
+            5471
+          ],
+          [
+            "0_multipolygon",
+            57
+          ],
+          [
+            "AREA",
+            169
+          ],
+          [
+            "Asphalted_Road",
+            226
+          ],
+          [
+            "BRIDGE",
+            17
+          ],
+          [
+            "DGPS",
+            11
+          ],
+          [
+            "Destination_linestring",
+            58
+          ],
+          [
+            "Destination_polygon",
+            2
+          ],
+          [
+            "Drain",
+            508
+          ],
+          [
+            "Drain_Nos",
+            832
+          ],
+          [
+            "Drain_Size_linestring",
+            170
+          ],
+          [
+            "Drain_Size_polygon",
+            12
+          ],
+          [
+            "GPS",
+            1
+          ],
+          [
+            "Gen_Text",
+            39
+          ],
+          [
+            "Grid",
+            190
+          ],
+          [
+            "Inundated_area",
+            161
+          ],
+          [
+            "Lat_Long_linestring",
+            578
+          ],
+          [
+            "Lat_Long_point",
+            22
+          ],
+          [
+            "Location_Names",
+            263
+          ],
+          [
+            "MSL_BOTTOM",
+            1364
+          ],
+          [
+            "Metro_Railway",
+            4993
+          ],
+          [
+            "Missing_Road_Name",
+            58
+          ],
+          [
+            "Open_Drain",
+            9
+          ],
+          [
+            "Outlet_hatch_polygon",
+            11
+          ],
+          [
+            "Outlet_hatch_multipolygon",
+            40
+          ],
+          [
+            "Outlet_hatch_linestring",
+            1
+          ],
+          [
+            "Railway_multipolygon",
+            98
+          ],
+          [
+            "Railway_linestring",
+            30
+          ],
+          [
+            "River",
+            26274
+          ],
+          [
+            "Road_Names",
+            2060
+          ],
+          [
+            "Road_Txt_Add",
+            99
+          ],
+          [
+            "Text",
+            160
+          ],
+          [
+            "Zone_Boundary",
+            3106
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_170/ward_170.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_170"
+      }
+    },
+    {
+      "file": "WARD 171.pdf",
+      "ward": 171,
+      "info": {
+        "E0": 414996.48349666665,
+        "N0": 1437640.92664,
+        "eE": 89.43787433131365,
+        "eN": 104.22094277269207,
+        "shapefiles": [
+          [
+            "0_linestring",
+            7687
+          ],
+          [
+            "0_multipolygon",
+            107
+          ],
+          [
+            "0_polygon",
+            6
+          ],
+          [
+            "0_point",
+            3
+          ],
+          [
+            "Asphalted_Road",
+            26
+          ],
+          [
+            "BRIDGE",
+            15
+          ],
+          [
+            "CANAL",
+            30
+          ],
+          [
+            "CHENNAI_WARDS",
+            2
+          ],
+          [
+            "CarriageWay",
+            2763
+          ],
+          [
+            "Destination_linestring",
+            213
+          ],
+          [
+            "Destination_polygon",
+            7
+          ],
+          [
+            "Divider",
+            270
+          ],
+          [
+            "Drain_linestring",
+            181
+          ],
+          [
+            "Drain_point",
+            246
+          ],
+          [
+            "Drain_Nos",
+            495
+          ],
+          [
+            "Drain_Size_polygon",
+            6
+          ],
+          [
+            "Drain_Size_linestring",
+            86
+          ],
+          [
+            "FeatureAttribs",
+            286
+          ],
+          [
+            "GF",
+            109
+          ],
+          [
+            "Gen_Text_linestring",
+            97
+          ],
+          [
+            "Gen_Text_point",
+            2
+          ],
+          [
+            "Grid",
+            233
+          ],
+          [
+            "Lat_Long_linestring",
+            522
+          ],
+          [
+            "Lat_Long_point",
+            18
+          ],
+          [
+            "Location_Names",
+            313
+          ],
+          [
+            "MSL_BOTTOM_linestring",
+            705
+          ],
+          [
+            "MSL_BOTTOM_polygon",
+            5
+          ],
+          [
+            "Metro_Railway",
+            1252
+          ],
+          [
+            "Missing_Road_Name",
+            2677
+          ],
+          [
+            "Outlet_hatch",
+            121632
+          ],
+          [
+            "Railway_multipolygon",
+            36
+          ],
+          [
+            "Railway_linestring",
+            9
+          ],
+          [
+            "River_linestring",
+            24219
+          ],
+          [
+            "River_polygon",
+            5
+          ],
+          [
+            "Road__Txt_Add",
+            202
+          ],
+          [
+            "Road_Names",
+            1741
+          ],
+          [
+            "TITLE_linestring",
+            5152
+          ],
+          [
+            "TITLE_multipolygon",
+            1
+          ],
+          [
+            "TITLE_point",
+            2
+          ],
+          [
+            "Text",
+            142
+          ],
+          [
+            "Ward_Boundary_polygon",
+            84
+          ],
+          [
+            "Ward_Boundary_linestring",
+            804
+          ],
+          [
+            "Zone_Boundary",
+            2586
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_171/ward_171.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_171"
+      }
+    },
+    {
+      "file": "WARD 174.pdf",
+      "ward": 174,
+      "info": {
+        "E0": 413900.17632666667,
+        "N0": 1434319.5224366668,
+        "eE": 63.746914086979814,
+        "eN": 89.34951675543562,
+        "shapefiles": [
+          [
+            "0_linestring",
+            1557
+          ],
+          [
+            "0_multipolygon",
+            16
+          ],
+          [
+            "CarriageWay",
+            212
+          ],
+          [
+            "Destination",
+            47
+          ],
+          [
+            "Drain",
+            17
+          ],
+          [
+            "Grid",
+            245
+          ],
+          [
+            "Lat_Long_linestring",
+            626
+          ],
+          [
+            "Lat_Long_point",
+            22
+          ],
+          [
+            "Location_Names",
+            1190
+          ],
+          [
+            "Metro_Railway",
+            859
+          ],
+          [
+            "Pond",
+            40810
+          ],
+          [
+            "Railway_multipolygon",
+            121
+          ],
+          [
+            "Railway_linestring",
+            28
+          ],
+          [
+            "TITLE",
+            14
+          ],
+          [
+            "Ward_Boundary",
+            1079
+          ],
+          [
+            "Zone_Boundary",
+            553
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_174/ward_174.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_174"
+      }
+    },
+    {
+      "file": "WARD 177.pdf",
+      "ward": 177,
+      "info": {
+        "E0": 412268.7050566667,
+        "N0": 1433953.9455866667,
+        "eE": 225.3011634531431,
+        "eN": 8.768880283692852,
+        "shapefiles": [
+          [
+            "Asphalted_Road",
+            148
+          ],
+          [
+            "Drain",
+            68
+          ],
+          [
+            "Grid",
+            313
+          ],
+          [
+            "Lat_Long_linestring",
+            389
+          ],
+          [
+            "Lat_Long_point",
+            18
+          ],
+          [
+            "Pond",
+            33480
+          ],
+          [
+            "Ward_Boundary",
+            580
+          ],
+          [
+            "Zone_Boundary",
+            304
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_177/ward_177.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_177"
+      }
+    },
+    {
+      "file": "WARD-173.pdf",
+      "ward": 173,
+      "info": {
+        "E0": 416997.7418566667,
+        "N0": 1438049.0061766666,
+        "eE": 230.13120860175695,
+        "eN": 110.434362990316,
+        "shapefiles": [
+          [
+            "AREA",
+            34
+          ],
+          [
+            "Asphalted_Road",
+            144
+          ],
+          [
+            "Divider_linestring",
+            518
+          ],
+          [
+            "Divider_polygon",
+            245
+          ],
+          [
+            "Divider_multipolygon",
+            4
+          ],
+          [
+            "Drain",
+            93
+          ],
+          [
+            "Location_Names",
+            224
+          ],
+          [
+            "Missing_Road_Names",
+            75
+          ],
+          [
+            "River",
+            36403
+          ],
+          [
+            "Road_Names",
+            1076
+          ],
+          [
+            "Road_Txt_Add",
+            34
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_173/ward_173.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_173"
+      }
+    },
+    {
+      "file": "Ward - 109.pdf",
+      "ward": 109,
+      "info": {
+        "E0": 414358.47339666664,
+        "N0": 1442697.8124666666,
+        "eE": 12.418462334608193,
+        "eN": 26.2128792735748,
+        "shapefiles": [
+          [
+            "0_linestring",
+            3930
+          ],
+          [
+            "0_multipolygon",
+            46
+          ],
+          [
+            "CANAL",
+            47
+          ],
+          [
+            "CarriageWay",
+            2776
+          ],
+          [
+            "Divider",
+            5431
+          ],
+          [
+            "Drain",
+            251
+          ],
+          [
+            "Drain_Flow",
+            50
+          ],
+          [
+            "Drain_Nos",
+            342
+          ],
+          [
+            "Gen_Text",
+            14
+          ],
+          [
+            "Grid",
+            152
+          ],
+          [
+            "Lat_Long_linestring",
+            350
+          ],
+          [
+            "Lat_Long_point",
+            12
+          ],
+          [
+            "MSL_BOTTOM",
+            420
+          ],
+          [
+            "Missing_Road",
+            18
+          ],
+          [
+            "Missing_Road_Name",
+            1
+          ],
+          [
+            "Railway_multipolygon",
+            46
+          ],
+          [
+            "Railway_linestring",
+            18
+          ],
+          [
+            "River_linestring",
+            1704
+          ],
+          [
+            "River_polygon",
+            2
+          ],
+          [
+            "Road_Names",
+            48
+          ],
+          [
+            "Text",
+            1
+          ],
+          [
+            "Ward_Boundary",
+            27
+          ],
+          [
+            "Zone_Boundary",
+            601
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_109/ward_109.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_109"
+      }
+    },
+    {
+      "file": "Ward - 111.pdf",
+      "ward": 111,
+      "info": {
+        "E0": 417084.75822666666,
+        "N0": 1441821.6393366666,
+        "eE": 108.01765003131004,
+        "eN": 214.7076262596529,
+        "shapefiles": [
+          [
+            "BRIDGE",
+            6
+          ],
+          [
+            "CANAL",
+            14
+          ],
+          [
+            "CarriageWay",
+            410
+          ],
+          [
+            "Divider_linestring",
+            893
+          ],
+          [
+            "Divider_multipolygon",
+            44
+          ],
+          [
+            "Divider_polygon",
+            88
+          ],
+          [
+            "Drain",
+            363
+          ],
+          [
+            "Drain_Flow",
+            79
+          ],
+          [
+            "Drain_Nos_linestring",
+            535
+          ],
+          [
+            "Drain_Nos_polygon",
+            1
+          ],
+          [
+            "Drain_Pipe",
+            1
+          ],
+          [
+            "Fly_Over",
+            6
+          ],
+          [
+            "Gen_Text",
+            14
+          ],
+          [
+            "Location_Names",
+            1959
+          ],
+          [
+            "MSL_BOTTOM",
+            680
+          ],
+          [
+            "Missing_Road",
+            74
+          ],
+          [
+            "River_linestring",
+            9852
+          ],
+          [
+            "River_polygon",
+            1
+          ],
+          [
+            "Road_Names",
+            1423
+          ],
+          [
+            "Ward_Boundary",
+            702
+          ],
+          [
+            "Zone_Boundary",
+            1282
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_111/ward_111.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_111"
+      }
+    },
+    {
+      "file": "Ward - 112.pdf",
+      "ward": 112,
+      "info": {
+        "E0": 413274.22077666665,
+        "N0": 1442437.2456366667,
+        "eE": 199.24486372823594,
+        "eN": 195.75986103503965,
+        "shapefiles": [
+          [
+            "CANAL",
+            14
+          ],
+          [
+            "CarriageWay",
+            615
+          ],
+          [
+            "Drain",
+            327
+          ],
+          [
+            "Drain_Flow",
+            58
+          ],
+          [
+            "Drain_Nos",
+            483
+          ],
+          [
+            "Grid",
+            144
+          ],
+          [
+            "Lat_Long_linestring",
+            370
+          ],
+          [
+            "Lat_Long_point",
+            14
+          ],
+          [
+            "MSL_BOTTOM",
+            509
+          ],
+          [
+            "Missing_Road",
+            18
+          ],
+          [
+            "Outlet_hatch_polygon",
+            10
+          ],
+          [
+            "Outlet_hatch_multipolygon",
+            40
+          ],
+          [
+            "Road_Names",
+            160
+          ],
+          [
+            "Ward_Boundary",
+            379
+          ],
+          [
+            "Zone_Boundary",
+            754
+          ],
+          [
+            "ZoneBoundary",
+            5
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_112/ward_112.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_112"
+      }
+    },
+    {
+      "file": "Ward - 113.pdf",
+      "ward": 113,
+      "info": {
+        "E0": 415831.16538666666,
+        "N0": 1441827.5784366666,
+        "eE": 118.62131149857305,
+        "eN": 46.51532406080514,
+        "shapefiles": [
+          [
+            "CANAL",
+            3
+          ],
+          [
+            "CarriageWay",
+            344
+          ],
+          [
+            "Drain",
+            252
+          ],
+          [
+            "Drain_Flow",
+            68
+          ],
+          [
+            "Drain_Nos",
+            304
+          ],
+          [
+            "Fly_Over",
+            4
+          ],
+          [
+            "Grid",
+            7
+          ],
+          [
+            "Inundated_area",
+            71
+          ],
+          [
+            "Location_Names",
+            661
+          ],
+          [
+            "MSL_BOTTOM",
+            305
+          ],
+          [
+            "Missing_Road",
+            14
+          ],
+          [
+            "Missing_Road_Name",
+            657
+          ],
+          [
+            "Road_Names",
+            644
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_113/ward_113.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_113"
+      }
+    },
+    {
+      "file": "Ward - 114.pdf",
+      "ward": 114,
+      "info": {
+        "E0": 419562.507275,
+        "N0": 1442795.577965,
+        "eE": 15.591761427000165,
+        "eN": 58.45344893448055,
+        "shapefiles": [
+          [
+            "CarriageWay",
+            176
+          ],
+          [
+            "Drain",
+            47
+          ],
+          [
+            "Drain_Size",
+            51
+          ],
+          [
+            "Location_Names",
+            25
+          ],
+          [
+            "Missing_Road",
+            75
+          ],
+          [
+            "Missing_Road_Name_polygon",
+            1
+          ],
+          [
+            "Missing_Road_Name_linestring",
+            339
+          ],
+          [
+            "River",
+            14303
+          ],
+          [
+            "Road_Names",
+            415
+          ],
+          [
+            "Sea",
+            11807
+          ],
+          [
+            "Ward_Boundary",
+            192
+          ],
+          [
+            "Zone_Boundary",
+            1257
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_114/ward_114.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_114"
+      }
+    },
+    {
+      "file": "Ward - 115.pdf",
+      "ward": 115,
+      "info": {
+        "E0": 418835.39918666665,
+        "N0": 1442071.0219366667,
+        "eE": 237.5660964375711,
+        "eN": 99.39498862414621,
+        "shapefiles": [
+          [
+            "CarriageWay",
+            367
+          ],
+          [
+            "Divider",
+            6
+          ],
+          [
+            "Drain",
+            56
+          ],
+          [
+            "Drain_Flow",
+            13
+          ],
+          [
+            "Drain_Nos",
+            67
+          ],
+          [
+            "MSL_BOTTOM",
+            105
+          ],
+          [
+            "Ward_Boundary",
+            102
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_115/ward_115.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_115"
+      }
+    },
+    {
+      "file": "Ward - 116.pdf",
+      "ward": 116,
+      "info": {
+        "E0": 419836.6693266667,
+        "N0": 1442320.8043566667,
+        "eE": 37.480192942370195,
+        "eN": 238.1192168793641,
+        "shapefiles": [
+          [
+            "CANAL",
+            3
+          ],
+          [
+            "CarriageWay",
+            497
+          ],
+          [
+            "Destination_linestring",
+            64
+          ],
+          [
+            "Destination_polygon",
+            2
+          ],
+          [
+            "Drain",
+            46
+          ],
+          [
+            "Drain_Flow",
+            16
+          ],
+          [
+            "Drain_Nos",
+            71
+          ],
+          [
+            "Grid",
+            165
+          ],
+          [
+            "Lat_Long_linestring",
+            306
+          ],
+          [
+            "Lat_Long_point",
+            10
+          ],
+          [
+            "Location_Names",
+            26
+          ],
+          [
+            "MSL_BOTTOM",
+            105
+          ],
+          [
+            "Metro_Railway",
+            1015
+          ],
+          [
+            "Sea",
+            12228
+          ],
+          [
+            "Ward_Boundary",
+            127
+          ],
+          [
+            "Zone_Boundary",
+            245
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_116/ward_116.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_116"
+      }
+    },
+    {
+      "file": "Ward - 117.pdf",
+      "ward": 117,
+      "info": {
+        "E0": 416321.42764666665,
+        "N0": 1440912.1838733333,
+        "eE": 98.52847772237146,
+        "eN": 103.06114064017311,
+        "shapefiles": [
+          [
+            "CarriageWay",
+            133
+          ],
+          [
+            "Divider",
+            19
+          ],
+          [
+            "Drain_linestring",
+            68
+          ],
+          [
+            "Drain_point",
+            178
+          ],
+          [
+            "Drain_Flow",
+            62
+          ],
+          [
+            "Drain_Nos",
+            380
+          ],
+          [
+            "MSL_BOTTOM",
+            395
+          ],
+          [
+            "Mambalam_Drain",
+            11
+          ],
+          [
+            "Missing_Road",
+            61
+          ],
+          [
+            "Railway_multipolygon",
+            57
+          ],
+          [
+            "Railway_linestring",
+            62
+          ],
+          [
+            "River_linestring",
+            5
+          ],
+          [
+            "River_polygon",
+            1
+          ],
+          [
+            "Text",
+            50
+          ],
+          [
+            "Ward_Boundary",
+            1361
+          ],
+          [
+            "Zone_Boundary",
+            1118
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_117/ward_117.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_117"
+      }
+    },
+    {
+      "file": "Ward - 118.pdf",
+      "ward": 118,
+      "info": {
+        "E0": 416774.63237666665,
+        "N0": 1440819.7459066666,
+        "eE": 186.51020395418163,
+        "eN": 202.25334731931798,
+        "shapefiles": [
+          [
+            "CarriageWay",
+            7
+          ],
+          [
+            "Drain",
+            283
+          ],
+          [
+            "Drain_Flow",
+            63
+          ],
+          [
+            "Drain_Nos",
+            320
+          ],
+          [
+            "MSL_BOTTOM",
+            330
+          ],
+          [
+            "Ward_Boundary",
+            1111
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_118/ward_118.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_118"
+      }
+    },
+    {
+      "file": "Ward - 119.pdf",
+      "ward": 119,
+      "info": {
+        "E0": 418585.82845666667,
+        "N0": 1440821.8628066666,
+        "eE": 177.04200023337035,
+        "eN": 7.0372886036057025,
+        "shapefiles": [
+          [
+            "CarriageWay",
+            492
+          ],
+          [
+            "Destination_linestring",
+            229
+          ],
+          [
+            "Destination_polygon",
+            8
+          ],
+          [
+            "Divider",
+            68
+          ],
+          [
+            "Drain",
+            277
+          ],
+          [
+            "Drain_Nos_linestring",
+            318
+          ],
+          [
+            "Drain_Nos_polygon",
+            2
+          ],
+          [
+            "Drain_Size",
+            68
+          ],
+          [
+            "Fly_Over",
+            20
+          ],
+          [
+            "Grid",
+            115
+          ],
+          [
+            "Lat_Long_linestring",
+            378
+          ],
+          [
+            "Lat_Long_point",
+            14
+          ],
+          [
+            "Location_Names",
+            1037
+          ],
+          [
+            "MSL_BOTTOM",
+            305
+          ],
+          [
+            "Missing_Road",
+            19
+          ],
+          [
+            "Missing_Road_Name",
+            2379
+          ],
+          [
+            "Outlet_hatch_polygon",
+            8
+          ],
+          [
+            "Outlet_hatch_multipolygon",
+            32
+          ],
+          [
+            "Road_Names",
+            1133
+          ],
+          [
+            "Road_Txt_Add",
+            69
+          ],
+          [
+            "Ward_Boundary",
+            926
+          ],
+          [
+            "ZoneBoundary",
+            4
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_119/ward_119.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_119"
+      }
+    },
+    {
+      "file": "Ward - 120.pdf",
+      "ward": 120,
+      "info": {
+        "E0": 419333.07059666666,
+        "N0": 1441321.6511166666,
+        "eE": 198.37830241635675,
+        "eN": 34.43321431102231,
+        "shapefiles": [
+          [
+            "Asphalted_Road",
+            28
+          ],
+          [
+            "CANAL",
+            3
+          ],
+          [
+            "CarriageWay",
+            436
+          ],
+          [
+            "Drain",
+            54
+          ],
+          [
+            "Drain_Flow",
+            12
+          ],
+          [
+            "Drain_Nos",
+            60
+          ],
+          [
+            "Grid",
+            122
+          ],
+          [
+            "Lat_Long_linestring",
+            306
+          ],
+          [
+            "Lat_Long_point",
+            10
+          ],
+          [
+            "MSL_BOTTOM",
+            105
+          ],
+          [
+            "Metro_Railway",
+            588
+          ],
+          [
+            "River_linestring",
+            5
+          ],
+          [
+            "River_polygon",
+            1
+          ],
+          [
+            "Sea",
+            12797
+          ],
+          [
+            "Text",
+            19
+          ],
+          [
+            "Ward_Boundary",
+            378
+          ],
+          [
+            "Zone_Boundary",
+            185
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_120/ward_120.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_120"
+      }
+    },
+    {
+      "file": "Ward - 122.pdf",
+      "ward": 122,
+      "info": {
+        "E0": 416563.31875333335,
+        "N0": 1438545.1663358333,
+        "eE": 29.462765409087297,
+        "eN": 78.98776082508266,
+        "shapefiles": [
+          [
+            "CANAL",
+            9
+          ],
+          [
+            "Drain_linestring",
+            54
+          ],
+          [
+            "Drain_point",
+            238
+          ],
+          [
+            "Drain_Flow",
+            78
+          ],
+          [
+            "Drain_Nos",
+            500
+          ],
+          [
+            "Inundated_area",
+            1
+          ],
+          [
+            "MSL_BOTTOM",
+            580
+          ],
+          [
+            "Missing_Road",
+            40
+          ],
+          [
+            "Outlet_hatch_polygon",
+            2
+          ],
+          [
+            "Outlet_hatch_multipolygon",
+            30
+          ],
+          [
+            "River",
+            15308
+          ],
+          [
+            "Zone_Boundary_linestring",
+            621
+          ],
+          [
+            "Zone_Boundary_polygon",
+            1
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_122/ward_122.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_122"
+      }
+    },
+    {
+      "file": "Ward - 123.pdf",
+      "ward": 123,
+      "info": {
+        "E0": 416772.9270766667,
+        "N0": 1439544.9840666666,
+        "eE": 193.34102785401046,
+        "eN": 179.6693387173582,
+        "shapefiles": [
+          [
+            "CANAL",
+            24
+          ],
+          [
+            "CarriageWay",
+            149
+          ],
+          [
+            "Drain",
+            453
+          ],
+          [
+            "Drain_Flow",
+            97
+          ],
+          [
+            "Drain_Nos",
+            623
+          ],
+          [
+            "Inundated_area",
+            137
+          ],
+          [
+            "Location_Names",
+            1348
+          ],
+          [
+            "MSL_BOTTOM",
+            865
+          ],
+          [
+            "Metro_Railway",
+            2640
+          ],
+          [
+            "Missing_Road",
+            14
+          ],
+          [
+            "Missing_Road_Name",
+            1227
+          ],
+          [
+            "River_linestring",
+            5
+          ],
+          [
+            "River_polygon",
+            1
+          ],
+          [
+            "Road_Names",
+            2102
+          ],
+          [
+            "Text",
+            25
+          ],
+          [
+            "Ward_Boundary",
+            759
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_123/ward_123.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_123"
+      }
+    },
+    {
+      "file": "Ward - 124.pdf",
+      "ward": 124,
+      "info": {
+        "E0": 418836.2459466667,
+        "N0": 1439571.0101566666,
+        "eE": 73.38662539952202,
+        "eN": 169.57891327422112,
+        "shapefiles": [
+          [
+            "Asphalted_Road",
+            2
+          ],
+          [
+            "CANAL",
+            21
+          ],
+          [
+            "Drain",
+            333
+          ],
+          [
+            "Drain_Flow",
+            45
+          ],
+          [
+            "Grid",
+            112
+          ],
+          [
+            "Inundated_area",
+            56
+          ],
+          [
+            "Lat_Long_linestring",
+            450
+          ],
+          [
+            "Lat_Long_point",
+            18
+          ],
+          [
+            "Location_Names",
+            223
+          ],
+          [
+            "MSL_BOTTOM",
+            290
+          ],
+          [
+            "Metro_Railway",
+            2286
+          ],
+          [
+            "Missing_Road",
+            82
+          ],
+          [
+            "Missing_Road_Name",
+            205
+          ],
+          [
+            "Pond",
+            862
+          ],
+          [
+            "River_linestring",
+            10
+          ],
+          [
+            "River_polygon",
+            2
+          ],
+          [
+            "Road_Names",
+            616
+          ],
+          [
+            "Text",
+            38
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_124/ward_124.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_124"
+      }
+    },
+    {
+      "file": "Ward - 125.pdf",
+      "ward": 125,
+      "info": {
+        "E0": 419306.40943666664,
+        "N0": 1439548.3711066667,
+        "eE": 73.37960159027716,
+        "eN": 134.2685174860526,
+        "shapefiles": [
+          [
+            "0",
+            19
+          ],
+          [
+            "BRIDGE",
+            4
+          ],
+          [
+            "CANAL",
+            6
+          ],
+          [
+            "CarriageWay",
+            101
+          ],
+          [
+            "Divider",
+            432
+          ],
+          [
+            "Drain",
+            91
+          ],
+          [
+            "Drain_Flow",
+            24
+          ],
+          [
+            "Drain_Nos",
+            126
+          ],
+          [
+            "Grid",
+            112
+          ],
+          [
+            "Lat_Long_linestring",
+            370
+          ],
+          [
+            "Lat_Long_point",
+            16
+          ],
+          [
+            "Location_Names",
+            519
+          ],
+          [
+            "MSL_BOTTOM",
+            195
+          ],
+          [
+            "Metro_Railway",
+            583
+          ],
+          [
+            "Missing_Road",
+            105
+          ],
+          [
+            "Missing_Road_Name",
+            160
+          ],
+          [
+            "Road_Names",
+            1172
+          ],
+          [
+            "Sea",
+            1
+          ],
+          [
+            "Text",
+            19
+          ],
+          [
+            "Ward_Boundary",
+            758
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_125/ward_125.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_125"
+      }
+    },
+    {
+      "file": "Ward - 126.pdf",
+      "ward": 126,
+      "info": {
+        "E0": 418336.44585666666,
+        "N0": 1438801.1171866667,
+        "eE": 237.8267047678819,
+        "eN": 107.13330912333913,
+        "shapefiles": [
+          [
+            "0",
+            1
+          ],
+          [
+            "Asphalted_Road",
+            4
+          ],
+          [
+            "BRIDGE",
+            2
+          ],
+          [
+            "CANAL",
+            6
+          ],
+          [
+            "CarriageWay",
+            505
+          ],
+          [
+            "Destination_linestring",
+            58
+          ],
+          [
+            "Destination_polygon",
+            2
+          ],
+          [
+            "Divider",
+            200
+          ],
+          [
+            "Drain",
+            105
+          ],
+          [
+            "Drain_Flow",
+            27
+          ],
+          [
+            "Drain_Nos",
+            148
+          ],
+          [
+            "Gen_Text",
+            21
+          ],
+          [
+            "Grid",
+            178
+          ],
+          [
+            "Location_Names",
+            109
+          ],
+          [
+            "MSL_BOTTOM",
+            245
+          ],
+          [
+            "Metro_Railway",
+            791
+          ],
+          [
+            "Missing_Road",
+            46
+          ],
+          [
+            "Missing_Road_Name",
+            117
+          ],
+          [
+            "River_linestring",
+            11411
+          ],
+          [
+            "River_polygon",
+            1
+          ],
+          [
+            "Road_Names",
+            1102
+          ],
+          [
+            "TITLE_polygon",
+            2
+          ],
+          [
+            "TITLE_linestring",
+            5
+          ],
+          [
+            "Text",
+            19
+          ],
+          [
+            "Ward_Boundary",
+            398
+          ],
+          [
+            "Zone_Boundary",
+            1234
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_126/ward_126.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_126"
+      }
+    },
+    {
+      "file": "Ward - 55.pdf",
+      "ward": 55,
+      "info": {
+        "E0": 420586.4635266667,
+        "N0": 1447071.0219366667,
+        "eE": 98.34882979717804,
+        "eN": 181.92881508124992,
+        "shapefiles": [
+          [
+            "CarriageWay",
+            47
+          ],
+          [
+            "Drain",
+            91
+          ],
+          [
+            "Drain_Nos",
+            102
+          ],
+          [
+            "Drain_Size",
+            26
+          ],
+          [
+            "MSL_BOTTOM",
+            170
+          ],
+          [
+            "Missing_Roads",
+            13
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_055/ward_055.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_055"
+      }
+    },
+    {
+      "file": "Ward 178 Final.pdf",
+      "ward": 178,
+      "info": {
+        "E0": 413569.74001666665,
+        "N0": 1433661.5546933333,
+        "eE": 98.9803567454801,
+        "eN": 196.21716630761512,
+        "shapefiles": [
+          [
+            "0_linestring",
+            3495
+          ],
+          [
+            "0_multipolygon",
+            41
+          ],
+          [
+            "Asphalted_Road",
+            4616
+          ],
+          [
+            "BRIDGE",
+            20
+          ],
+          [
+            "Canal",
+            27
+          ],
+          [
+            "Destination_linestring",
+            196
+          ],
+          [
+            "Destination_polygon",
+            6
+          ],
+          [
+            "Drain_linestring",
+            57
+          ],
+          [
+            "Drain_point",
+            192
+          ],
+          [
+            "Drain_Nos",
+            456
+          ],
+          [
+            "Grid",
+            161
+          ],
+          [
+            "Lat_Long_linestring",
+            418
+          ],
+          [
+            "Lat_Long_point",
+            16
+          ],
+          [
+            "Location_Names",
+            924
+          ],
+          [
+            "MSL_BOTTOM",
+            485
+          ],
+          [
+            "Metro_Railway",
+            1313
+          ],
+          [
+            "Missing_Road__Name",
+            6749
+          ],
+          [
+            "Pond",
+            1367
+          ],
+          [
+            "River_linestring",
+            10
+          ],
+          [
+            "River_polygon",
+            2
+          ],
+          [
+            "Road_Names",
+            448
+          ],
+          [
+            "Road_Txt_Add",
+            99
+          ],
+          [
+            "TITLE",
+            14
+          ],
+          [
+            "Text",
+            126
+          ],
+          [
+            "Ward_Boundary",
+            719
+          ],
+          [
+            "Zone_Boundary",
+            804
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_178/ward_178.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_178"
+      }
+    },
+    {
+      "file": "Ward 179.pdf",
+      "ward": 179,
+      "info": {
+        "E0": 414024.84995666664,
+        "N0": 1433569.7400166667,
+        "eE": 237.85015382280108,
+        "eN": 243.01869654189795,
+        "shapefiles": [
+          [
+            "Asphalted_Road",
+            46
+          ],
+          [
+            "CarriageWay",
+            15
+          ],
+          [
+            "Divider",
+            633
+          ],
+          [
+            "Drain",
+            121
+          ],
+          [
+            "Grid",
+            137
+          ],
+          [
+            "Lat_Long_linestring",
+            372
+          ],
+          [
+            "Lat_Long_point",
+            16
+          ],
+          [
+            "Missing_Road_Name",
+            1
+          ],
+          [
+            "Ward_Boundary",
+            671
+          ],
+          [
+            "Zone_Boundary",
+            822
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_179/ward_179.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_179"
+      }
+    },
+    {
+      "file": "Ward- 49.pdf",
+      "ward": 49,
+      "info": {
+        "E0": 421337.0927066667,
+        "N0": 1448819.7459066666,
+        "eE": 92.91332653682912,
+        "eN": 2.187574379844591,
+        "shapefiles": [
+          [
+            "CarriageWay",
+            668
+          ],
+          [
+            "Destination_linestring",
+            29
+          ],
+          [
+            "Destination_polygon",
+            1
+          ],
+          [
+            "Drain",
+            110
+          ],
+          [
+            "Drain_Nos",
+            144
+          ],
+          [
+            "Drain_Size",
+            25
+          ],
+          [
+            "Location_Names",
+            191
+          ],
+          [
+            "MSL_BOTTOM",
+            220
+          ],
+          [
+            "Missing_Road",
+            14
+          ],
+          [
+            "Missing_Road_Name",
+            96
+          ],
+          [
+            "Road_Names",
+            70
+          ],
+          [
+            "Ward_Boundary",
+            106
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_049/ward_049.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_049"
+      }
+    },
+    {
+      "file": "Ward- 63.pdf",
+      "ward": 63,
+      "info": {
+        "E0": 418821.6511166667,
+        "N0": 1443163.9538466667,
+        "eE": 177.59397269500187,
+        "eN": 19.56011738954112,
+        "shapefiles": [
+          [
+            "CarriageWay",
+            135
+          ],
+          [
+            "Divider",
+            188
+          ],
+          [
+            "Drain_linestring",
+            28
+          ],
+          [
+            "Drain_point",
+            138
+          ],
+          [
+            "Drain_Flow",
+            37
+          ],
+          [
+            "Drain_Nos",
+            268
+          ],
+          [
+            "MSL_BOTTOM",
+            285
+          ],
+          [
+            "Missing_Road",
+            20
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_063/ward_063.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_063"
+      }
+    },
+    {
+      "file": "Ward-100.pdf",
+      "ward": 100,
+      "info": {
+        "E0": 412312.9600466667,
+        "N0": 1444796.0248466667,
+        "eE": 121.17916884104488,
+        "eN": 35.77384410868399,
+        "shapefiles": [
+          [
+            "BRIDGE",
+            8
+          ],
+          [
+            "CarriageWay",
+            503
+          ],
+          [
+            "Divider",
+            1
+          ],
+          [
+            "Drain",
+            141
+          ],
+          [
+            "Drain_Nos_linestring",
+            694
+          ],
+          [
+            "Drain_Nos_polygon",
+            6
+          ],
+          [
+            "Drain_Size",
+            129
+          ],
+          [
+            "Location_Names",
+            922
+          ],
+          [
+            "MSL_BOTTOM",
+            1015
+          ],
+          [
+            "Open_Drain",
+            9
+          ],
+          [
+            "River",
+            8438
+          ],
+          [
+            "Road_Names",
+            885
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_100/ward_100.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_100"
+      }
+    },
+    {
+      "file": "Ward-101.pdf",
+      "ward": 101,
+      "info": {
+        "E0": 413250.61734166666,
+        "N0": 1444797.1891416667,
+        "eE": 46.626311404572334,
+        "eN": 167.21758412290365,
+        "shapefiles": [
+          [
+            "BRIDGE",
+            6
+          ],
+          [
+            "CANAL",
+            16
+          ],
+          [
+            "CarriageWay",
+            174
+          ],
+          [
+            "Divider",
+            1198
+          ],
+          [
+            "Drain_linestring",
+            87
+          ],
+          [
+            "Drain_point",
+            454
+          ],
+          [
+            "Drain_Nos_linestring",
+            911
+          ],
+          [
+            "Drain_Nos_polygon",
+            8
+          ],
+          [
+            "Drain_Size",
+            95
+          ],
+          [
+            "Gen_Text",
+            30
+          ],
+          [
+            "Grid",
+            144
+          ],
+          [
+            "Lat_Long_linestring",
+            384
+          ],
+          [
+            "Lat_Long_point",
+            12
+          ],
+          [
+            "Location_Names",
+            991
+          ],
+          [
+            "MSL_BOTTOM",
+            1075
+          ],
+          [
+            "Missing_Road",
+            14
+          ],
+          [
+            "River_polygon",
+            4149
+          ],
+          [
+            "River_linestring",
+            10
+          ],
+          [
+            "Road_Names",
+            325
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_101/ward_101.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_101"
+      }
+    },
+    {
+      "file": "Ward-102.pdf",
+      "ward": 102,
+      "info": {
+        "E0": 414319.7459066667,
+        "N0": 1445162.0486366667,
+        "eE": 243.69075012695976,
+        "eN": 5.2182100671343505,
+        "shapefiles": [
+          [
+            "CarriageWay",
+            809
+          ],
+          [
+            "Divider",
+            793
+          ],
+          [
+            "Drain_linestring",
+            38
+          ],
+          [
+            "Drain_point",
+            138
+          ],
+          [
+            "Drain_Nos",
+            218
+          ],
+          [
+            "Drain_Size",
+            44
+          ],
+          [
+            "Grid",
+            136
+          ],
+          [
+            "Lat_Long_linestring",
+            398
+          ],
+          [
+            "Lat_Long_point",
+            16
+          ],
+          [
+            "MSL_BOTTOM",
+            325
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_102/ward_102.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_102"
+      }
+    },
+    {
+      "file": "Ward-103.pdf",
+      "ward": 103,
+      "info": {
+        "E0": 415565.92959666665,
+        "N0": 1445254.9687666667,
+        "eE": 71.23583661695011,
+        "eN": 229.4204476007726,
+        "shapefiles": [
+          [
+            "CANAL",
+            13
+          ],
+          [
+            "CarriageWay",
+            94
+          ],
+          [
+            "Divider",
+            883
+          ],
+          [
+            "Drain",
+            215
+          ],
+          [
+            "Drain_Nos",
+            374
+          ],
+          [
+            "Drain_Size",
+            42
+          ],
+          [
+            "Grid",
+            1
+          ],
+          [
+            "MSL_BOTTOM",
+            405
+          ],
+          [
+            "Missing_Road",
+            120
+          ],
+          [
+            "Ward_Boundary",
+            896
+          ],
+          [
+            "Zone_Boundary",
+            49
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_103/ward_103.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_103"
+      }
+    },
+    {
+      "file": "Ward-104.pdf",
+      "ward": 104,
+      "info": {
+        "E0": 417336.6693266667,
+        "N0": 1444821.2277366666,
+        "eE": 37.49344419251429,
+        "eN": 131.9824975861702,
+        "shapefiles": [
+          [
+            "CarriageWay",
+            37
+          ],
+          [
+            "Drain",
+            71
+          ],
+          [
+            "Drain_Nos",
+            91
+          ],
+          [
+            "Drain_Size",
+            17
+          ],
+          [
+            "MSL_BOTTOM",
+            115
+          ],
+          [
+            "Missing_Road",
+            103
+          ],
+          [
+            "Pond",
+            3912
+          ],
+          [
+            "Railway_multipolygon",
+            195
+          ],
+          [
+            "Railway_linestring",
+            25
+          ],
+          [
+            "Ward_Boundary",
+            584
+          ],
+          [
+            "Zone_Boundary",
+            657
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_104/ward_104.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_104"
+      }
+    },
+    {
+      "file": "Ward-105.pdf",
+      "ward": 105,
+      "info": {
+        "E0": 412569.5283266667,
+        "N0": 1443412.0545266666,
+        "eE": 137.03805564710638,
+        "eN": 83.22831960162148,
+        "shapefiles": [
+          [
+            "CANAL",
+            10
+          ],
+          [
+            "Carriage_Way",
+            10
+          ],
+          [
+            "CarriageWay",
+            191
+          ],
+          [
+            "Drain_linestring",
+            62
+          ],
+          [
+            "Drain_point",
+            268
+          ],
+          [
+            "Drain_Nos",
+            559
+          ],
+          [
+            "Drain_Size",
+            78
+          ],
+          [
+            "Fly_Over",
+            2
+          ],
+          [
+            "MSL_BOTTOM",
+            601
+          ],
+          [
+            "Missing_Road",
+            8
+          ],
+          [
+            "Ward_Boundary",
+            44
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_105/ward_105.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_105"
+      }
+    },
+    {
+      "file": "Ward-106.pdf",
+      "ward": 106,
+      "info": {
+        "E0": 413831.58876666665,
+        "N0": 1443324.6147766667,
+        "eE": 12.202067595615517,
+        "eN": 148.35531439143233,
+        "shapefiles": [
+          [
+            "CANAL",
+            26
+          ],
+          [
+            "Drain",
+            37
+          ],
+          [
+            "Missing_Road",
+            4
+          ],
+          [
+            "River",
+            3783
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_106/ward_106.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_106"
+      }
+    },
+    {
+      "file": "Ward-107.pdf",
+      "ward": 107,
+      "info": {
+        "E0": 415336.2459466667,
+        "N0": 1443570.3868666666,
+        "eE": 65.52686560439179,
+        "eN": 180.59170415694825,
+        "shapefiles": [
+          [
+            "BRIDGE",
+            2
+          ],
+          [
+            "CANAL",
+            11
+          ],
+          [
+            "CarriageWay",
+            194
+          ],
+          [
+            "Divider",
+            33
+          ],
+          [
+            "Drain",
+            38
+          ],
+          [
+            "Drain_Nos",
+            565
+          ],
+          [
+            "Drain_Size",
+            42
+          ],
+          [
+            "Grid",
+            144
+          ],
+          [
+            "Lat_Long_linestring",
+            406
+          ],
+          [
+            "Lat_Long_point",
+            14
+          ],
+          [
+            "Location_Names",
+            472
+          ],
+          [
+            "MSL_BOTTOM",
+            5
+          ],
+          [
+            "Missing_Road",
+            1
+          ],
+          [
+            "Missing_Road_Name",
+            65
+          ],
+          [
+            "Railway_multipolygon",
+            376
+          ],
+          [
+            "Railway_linestring",
+            55
+          ],
+          [
+            "River",
+            5429
+          ],
+          [
+            "Road_Names",
+            616
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_107/ward_107.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_107"
+      }
+    },
+    {
+      "file": "Ward-108.pdf",
+      "ward": 108,
+      "info": {
+        "E0": 413337.1044866667,
+        "N0": 1442933.4352166667,
+        "eE": 45.60585665580584,
+        "eN": 94.7981769433245,
+        "shapefiles": [
+          [
+            "CANAL",
+            34
+          ],
+          [
+            "CarriageWay",
+            139
+          ],
+          [
+            "Drain",
+            189
+          ],
+          [
+            "Drain_Nos",
+            274
+          ],
+          [
+            "Drain_Size",
+            52
+          ],
+          [
+            "Fly_Over",
+            1
+          ],
+          [
+            "MSL_BOTTOM",
+            280
+          ],
+          [
+            "Ward_Boundary",
+            369
+          ],
+          [
+            "Zone_Boundary",
+            199
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_108/ward_108.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_108"
+      }
+    },
+    {
+      "file": "Ward-121.pdf",
+      "ward": 121,
+      "info": {
+        "E0": 419086.0401466667,
+        "N0": 1440323.1329466666,
+        "eE": 11.489380324899685,
+        "eN": 79.21743561862968,
+        "shapefiles": [
+          [
+            "CarriageWay",
+            539
+          ],
+          [
+            "Divider_polygon",
+            15
+          ],
+          [
+            "Divider_multipolygon",
+            182
+          ],
+          [
+            "Divider_linestring",
+            275
+          ],
+          [
+            "Drain",
+            127
+          ],
+          [
+            "Drain_Flow",
+            24
+          ],
+          [
+            "Drain_Nos",
+            184
+          ],
+          [
+            "Grid",
+            138
+          ],
+          [
+            "Lat_Long_linestring",
+            328
+          ],
+          [
+            "Lat_Long_point",
+            12
+          ],
+          [
+            "Missing_Road_Name",
+            1
+          ],
+          [
+            "Outlet_hatch_polygon",
+            2
+          ],
+          [
+            "Outlet_hatch_multipolygon",
+            8
+          ],
+          [
+            "PT",
+            6
+          ],
+          [
+            "Zone_Boundary",
+            49
+          ],
+          [
+            "ZoneBoundary",
+            1
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_121/ward_121.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_121"
+      }
+    },
+    {
+      "file": "Ward-127.pdf",
+      "ward": 127,
+      "info": {
+        "E0": 410475.5144066667,
+        "N0": 1442571.6452266667,
+        "eE": 93.54249049699865,
+        "eN": 45.48738647252321,
+        "shapefiles": [
+          [
+            "BRIDGE",
+            2
+          ],
+          [
+            "Carriage_Way",
+            192
+          ],
+          [
+            "Destination_linestring",
+            35
+          ],
+          [
+            "Destination_polygon",
+            1
+          ],
+          [
+            "Divider_linestring",
+            1671
+          ],
+          [
+            "Divider_multipolygon",
+            7
+          ],
+          [
+            "Divider_polygon",
+            1
+          ],
+          [
+            "Drain",
+            151
+          ],
+          [
+            "Drain_Flow",
+            111
+          ],
+          [
+            "Drain_Nos",
+            821
+          ],
+          [
+            "Fly_Over",
+            2
+          ],
+          [
+            "Gen_Text",
+            14
+          ],
+          [
+            "MSL_BOTTOM",
+            939
+          ],
+          [
+            "Missing_Road",
+            47
+          ],
+          [
+            "Outlet_hatch_polygon",
+            8
+          ],
+          [
+            "Outlet_hatch_multipolygon",
+            32
+          ],
+          [
+            "River_linestring",
+            4482
+          ],
+          [
+            "River_polygon",
+            1
+          ],
+          [
+            "Ward_Boundary",
+            6
+          ],
+          [
+            "Zone_Boundary_linestring",
+            87
+          ],
+          [
+            "Zone_Boundary_polygon",
+            3
+          ],
+          [
+            "Zone_Boundary_multipolygon",
+            3
+          ],
+          [
+            "ZoneBoundary",
+            4
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_127/ward_127.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_127"
+      }
+    },
+    {
+      "file": "Ward-128.pdf",
+      "ward": 128,
+      "info": {
+        "E0": 410024.84995666664,
+        "N0": 1440319.7341266666,
+        "eE": 125.91876932693413,
+        "eN": 191.5441421919968,
+        "shapefiles": [
+          [
+            "0",
+            103
+          ],
+          [
+            "Asphalted_Road",
+            13
+          ],
+          [
+            "CarriageWay",
+            1253
+          ],
+          [
+            "Divider_linestring",
+            4
+          ],
+          [
+            "Divider_multipolygon",
+            10
+          ],
+          [
+            "Drain",
+            529
+          ],
+          [
+            "Drain_Nos",
+            712
+          ],
+          [
+            "MSL_BOTTOM",
+            790
+          ],
+          [
+            "Missing_Road",
+            40
+          ],
+          [
+            "Missing_Road_Name",
+            5
+          ],
+          [
+            "Ward_Boundary",
+            754
+          ],
+          [
+            "Zone_Boundary_linestring",
+            751
+          ],
+          [
+            "Zone_Boundary_polygon",
+            10
+          ],
+          [
+            "Zone_Boundary_multipolygon",
+            18
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_128/ward_128.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_128"
+      }
+    },
+    {
+      "file": "Ward-129.pdf",
+      "ward": 129,
+      "info": {
+        "E0": 411275.06753666664,
+        "N0": 1441444.8546966666,
+        "eE": 198.36194330902072,
+        "eN": 59.183088664896786,
+        "shapefiles": [
+          [
+            "0_linestring",
+            1933
+          ],
+          [
+            "0_multipolygon",
+            21
+          ],
+          [
+            "Asphalted_Road",
+            2
+          ],
+          [
+            "BRIDGE",
+            4
+          ],
+          [
+            "CANAL",
+            6
+          ],
+          [
+            "CarriageWay",
+            1705
+          ],
+          [
+            "Divider",
+            251
+          ],
+          [
+            "Drain",
+            392
+          ],
+          [
+            "Drain_Flow",
+            84
+          ],
+          [
+            "Drain_Nos",
+            506
+          ],
+          [
+            "Location_Names",
+            1125
+          ],
+          [
+            "MSL_BOTTOM",
+            510
+          ],
+          [
+            "Missing_Road",
+            34
+          ],
+          [
+            "Missing_Road_Name",
+            1319
+          ],
+          [
+            "PT",
+            29
+          ],
+          [
+            "River_linestring",
+            5
+          ],
+          [
+            "River_polygon",
+            1
+          ],
+          [
+            "Road_Names",
+            375
+          ],
+          [
+            "Text",
+            38
+          ],
+          [
+            "Ward_Boundary",
+            755
+          ],
+          [
+            "Zone_Boundary",
+            152
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_129/ward_129.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_129"
+      }
+    },
+    {
+      "file": "Ward-132.pdf",
+      "ward": 132,
+      "info": {
+        "E0": 413310.00816666667,
+        "N0": 1440162.4720166666,
+        "eE": 218.36383327341173,
+        "eN": 135.72340684058145,
+        "shapefiles": [
+          [
+            "0",
+            73
+          ],
+          [
+            "CarriageWay",
+            64
+          ],
+          [
+            "Divider",
+            23
+          ],
+          [
+            "Drain_linestring",
+            71
+          ],
+          [
+            "Drain_point",
+            274
+          ],
+          [
+            "Drain_Nos",
+            434
+          ],
+          [
+            "Grid",
+            145
+          ],
+          [
+            "Lat_Long_linestring",
+            396
+          ],
+          [
+            "Lat_Long_point",
+            16
+          ],
+          [
+            "MSL_BOTTOM",
+            621
+          ],
+          [
+            "Missing_Road",
+            87
+          ],
+          [
+            "Ward_Boundary",
+            630
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_132/ward_132.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_132"
+      }
+    },
+    {
+      "file": "Ward-133.pdf",
+      "ward": 133,
+      "info": {
+        "E0": 413796.2365366667,
+        "N0": 1440487.8159866666,
+        "eE": 132.41995570092695,
+        "eN": 13.729637590702623,
+        "shapefiles": [
+          [
+            "CarriageWay",
+            402
+          ],
+          [
+            "Divider",
+            41
+          ],
+          [
+            "Drain_linestring",
+            56
+          ],
+          [
+            "Drain_point",
+            184
+          ],
+          [
+            "Drain_Flow",
+            48
+          ],
+          [
+            "Drain_Nos",
+            266
+          ],
+          [
+            "Grid",
+            304
+          ],
+          [
+            "Lat_Long_linestring",
+            388
+          ],
+          [
+            "Lat_Long_point",
+            12
+          ],
+          [
+            "MSL_BOTTOM",
+            440
+          ],
+          [
+            "Missing_Road",
+            34
+          ],
+          [
+            "Ward_Boundary",
+            967
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_133/ward_133.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_133"
+      }
+    },
+    {
+      "file": "Ward-135.pdf",
+      "ward": 135,
+      "info": {
+        "E0": 414085.4050766667,
+        "N0": 1440072.4919866666,
+        "eE": 146.26358789397636,
+        "eN": 216.3284495852422,
+        "shapefiles": [
+          [
+            "0",
+            48
+          ],
+          [
+            "CarriageWay",
+            82
+          ],
+          [
+            "Drain",
+            215
+          ],
+          [
+            "Drain_Nos",
+            313
+          ],
+          [
+            "MSL_BOTTOM",
+            395
+          ],
+          [
+            "Railway_linestring",
+            59
+          ],
+          [
+            "Railway_multipolygon",
+            71
+          ],
+          [
+            "Ward_Boundary",
+            626
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_135/ward_135.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_135"
+      }
+    },
+    {
+      "file": "Ward-136.pdf",
+      "ward": 136,
+      "info": {
+        "E0": 414773.16232666664,
+        "N0": 1440069.9517066667,
+        "eE": 88.69716701720608,
+        "eN": 117.62245653988793,
+        "shapefiles": [
+          [
+            "CarriageWay",
+            88
+          ],
+          [
+            "Divider",
+            22
+          ],
+          [
+            "Drain",
+            232
+          ],
+          [
+            "Drain_Flow",
+            76
+          ],
+          [
+            "Drain_Nos",
+            404
+          ],
+          [
+            "MSL_BOTTOM",
+            330
+          ],
+          [
+            "Railway",
+            44
+          ],
+          [
+            "Text",
+            25
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_136/ward_136.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_136"
+      }
+    },
+    {
+      "file": "Ward-140.pdf",
+      "ward": 140,
+      "info": {
+        "E0": 413832.01214666665,
+        "N0": 1439299.8470466668,
+        "eE": 84.62947879091371,
+        "eN": 100.28433227166533,
+        "shapefiles": [
+          [
+            "0",
+            33
+          ],
+          [
+            "CANAL",
+            1
+          ],
+          [
+            "CarriageWay",
+            59
+          ],
+          [
+            "Drain",
+            114
+          ],
+          [
+            "Drain_Nos",
+            145
+          ],
+          [
+            "MSL_BOTTOM",
+            210
+          ],
+          [
+            "Missing_Road",
+            25
+          ],
+          [
+            "Pond",
+            1
+          ],
+          [
+            "River",
+            736
+          ],
+          [
+            "Ward_Boundary",
+            18
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_140/ward_140.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_140"
+      }
+    },
+    {
+      "file": "Ward-141.pdf",
+      "ward": 141,
+      "info": {
+        "E0": 415223.21526666667,
+        "N0": 1439690.8266966667,
+        "eE": 179.77615456737112,
+        "eN": 243.72498159995303,
+        "shapefiles": [
+          [
+            "CANAL",
+            10
+          ],
+          [
+            "CarriageWay",
+            49
+          ],
+          [
+            "Drain_linestring",
+            45
+          ],
+          [
+            "Drain_point",
+            192
+          ],
+          [
+            "Drain_Flow",
+            54
+          ],
+          [
+            "Drain_Nos",
+            381
+          ],
+          [
+            "Grid",
+            179
+          ],
+          [
+            "Lat_Long_linestring",
+            323
+          ],
+          [
+            "Lat_Long_point",
+            14
+          ],
+          [
+            "MSL_BOTTOM",
+            275
+          ],
+          [
+            "Railway_multipolygon",
+            41
+          ],
+          [
+            "Railway_linestring",
+            6
+          ],
+          [
+            "Ward_Boundary",
+            11
+          ],
+          [
+            "Zone_Boundary",
+            1
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_141/ward_141.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_141"
+      }
+    },
+    {
+      "file": "Ward-142.pdf",
+      "ward": 142,
+      "info": {
+        "E0": 413335.5990966667,
+        "N0": 1438324.4030866667,
+        "eE": 160.53843008738477,
+        "eN": 212.70909753115848,
+        "shapefiles": [
+          [
+            "CarriageWay",
+            103
+          ],
+          [
+            "Drain",
+            124
+          ],
+          [
+            "Drain_Flow",
+            34
+          ],
+          [
+            "Drain_Nos",
+            146
+          ],
+          [
+            "MSL_BOTTOM",
+            255
+          ],
+          [
+            "Missing_Road",
+            72
+          ],
+          [
+            "Pond",
+            608
+          ],
+          [
+            "River",
+            19102
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_142/ward_142.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_142"
+      }
+    },
+    {
+      "file": "Ward-145.pdf",
+      "ward": 145,
+      "info": {
+        "E0": 408411.63114666665,
+        "N0": 1442819.7459066666,
+        "eE": 138.52788676152704,
+        "eN": 150.94356963480823,
+        "shapefiles": [
+          [
+            "CANAL",
+            12
+          ],
+          [
+            "CarriageWay",
+            89
+          ],
+          [
+            "Divider",
+            5
+          ],
+          [
+            "Drain",
+            150
+          ],
+          [
+            "Drain_Nos",
+            172
+          ],
+          [
+            "River_linestring",
+            2209
+          ],
+          [
+            "River_polygon",
+            2
+          ],
+          [
+            "Text",
+            8
+          ],
+          [
+            "Zone_Boundary",
+            418
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_145/ward_145.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_145"
+      }
+    },
+    {
+      "file": "Ward-172.pdf",
+      "ward": 172,
+      "info": {
+        "E0": 415981.94745,
+        "N0": 1436837.99825,
+        "eE": 219.4792118971818,
+        "eN": 201.66694088024087,
+        "shapefiles": [
+          [
+            "Asphalted_Road",
+            4
+          ],
+          [
+            "BRIDGE",
+            8
+          ],
+          [
+            "CANAL",
+            11
+          ],
+          [
+            "CarriageWay",
+            900
+          ],
+          [
+            "Destination_linestring",
+            142
+          ],
+          [
+            "Destination_polygon",
+            5
+          ],
+          [
+            "Divider",
+            698
+          ],
+          [
+            "Drain_linestring",
+            82
+          ],
+          [
+            "Drain_point",
+            260
+          ],
+          [
+            "Drain_Nos",
+            501
+          ],
+          [
+            "Drain_Size",
+            54
+          ],
+          [
+            "Fly_Over",
+            1
+          ],
+          [
+            "Invert_level",
+            1
+          ],
+          [
+            "Location_Names",
+            1
+          ],
+          [
+            "MSL_BOTTOM",
+            680
+          ],
+          [
+            "Metro_Railway",
+            2707
+          ],
+          [
+            "Missing_Road",
+            16
+          ],
+          [
+            "Missing_Road_Name",
+            375
+          ],
+          [
+            "River_linestring",
+            22362
+          ],
+          [
+            "River_polygon",
+            1
+          ],
+          [
+            "Road_Names",
+            783
+          ],
+          [
+            "Road_Txt_Add",
+            24
+          ],
+          [
+            "Text",
+            61
+          ],
+          [
+            "Ward_Boundary",
+            1115
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_172/ward_172.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_172"
+      }
+    },
+    {
+      "file": "Ward-175.pdf",
+      "ward": 175,
+      "info": {
+        "E0": 417025.2851166667,
+        "N0": 1435675.5850166667,
+        "eE": 27.069158533937298,
+        "eN": 172.76253409450874,
+        "shapefiles": [
+          [
+            "CANAL",
+            10
+          ],
+          [
+            "CarriageWay",
+            2
+          ],
+          [
+            "Drain_Nos",
+            616
+          ],
+          [
+            "Drain_Size",
+            94
+          ],
+          [
+            "MSL_BOTTOM",
+            666
+          ],
+          [
+            "Missing_Road",
+            55
+          ],
+          [
+            "Missing_Road_Name",
+            50
+          ],
+          [
+            "River",
+            45513
+          ],
+          [
+            "Road_Name",
+            953
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_175/ward_175.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_175"
+      }
+    },
+    {
+      "file": "Ward-176 Final.pdf",
+      "ward": 176,
+      "info": {
+        "E0": 418570.16339666664,
+        "N0": 1436311.9369366667,
+        "eE": 180.05832553096116,
+        "eN": 93.64376565092243,
+        "shapefiles": [
+          [
+            "CarriageWay",
+            53
+          ],
+          [
+            "Drain",
+            35
+          ],
+          [
+            "River",
+            53206
+          ],
+          [
+            "Ward_Boundary",
+            871
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_176/ward_176.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_176"
+      }
+    },
+    {
+      "file": "Ward-180.pdf",
+      "ward": 180,
+      "info": {
+        "E0": 415884.52304666664,
+        "N0": 1434688.5216666667,
+        "eE": 11.131878269370645,
+        "eN": 218.292282495182,
+        "shapefiles": [
+          [
+            "Asphalted_Road",
+            28
+          ],
+          [
+            "BRIDGE",
+            4
+          ],
+          [
+            "CANAL",
+            13
+          ],
+          [
+            "CarriageWay",
+            929
+          ],
+          [
+            "Divider",
+            2330
+          ],
+          [
+            "Drain_linestring",
+            82
+          ],
+          [
+            "Drain_point",
+            308
+          ],
+          [
+            "Drain_Nos_linestring",
+            567
+          ],
+          [
+            "Drain_Nos_polygon",
+            9
+          ],
+          [
+            "Drain_Size",
+            79
+          ],
+          [
+            "Location_Names",
+            476
+          ],
+          [
+            "MSL_BOTTOM",
+            780
+          ],
+          [
+            "Metro_Railway",
+            3404
+          ],
+          [
+            "Missing_Raod",
+            157
+          ],
+          [
+            "Missing_Road_Name",
+            53
+          ],
+          [
+            "Pond",
+            13684
+          ],
+          [
+            "River_linestring",
+            5
+          ],
+          [
+            "River_polygon",
+            1
+          ],
+          [
+            "Road_Names",
+            434
+          ],
+          [
+            "TITLE",
+            1
+          ],
+          [
+            "Text",
+            27
+          ],
+          [
+            "Ward_Boundary",
+            892
+          ],
+          [
+            "Zone_Boundary",
+            1055
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_180/ward_180.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_180"
+      }
+    },
+    {
+      "file": "Ward-181.pdf",
+      "ward": 181,
+      "info": {
+        "E0": 418327.5666566667,
+        "N0": 1434600.8584466667,
+        "eE": 38.60852951760171,
+        "eN": 148.5254147083033,
+        "shapefiles": [
+          [
+            "CarriageWay",
+            120
+          ],
+          [
+            "Divider",
+            39
+          ],
+          [
+            "Drain",
+            137
+          ],
+          [
+            "Drain_Nos",
+            139
+          ],
+          [
+            "Drain_Size",
+            26
+          ],
+          [
+            "MSL_BOTTOM",
+            255
+          ],
+          [
+            "Missing_Road",
+            60
+          ],
+          [
+            "Missing_Road_Name",
+            1
+          ],
+          [
+            "Sea",
+            2189
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_181/ward_181.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_181"
+      }
+    },
+    {
+      "file": "Ward-182.pdf",
+      "ward": 182,
+      "info": {
+        "E0": 417524.84995666664,
+        "N0": 1433694.8488066667,
+        "eE": 78.14644506003242,
+        "eN": 117.41337492782623,
+        "shapefiles": [
+          [
+            "CarriageWay",
+            194
+          ],
+          [
+            "Drain",
+            255
+          ],
+          [
+            "Drain_Nos",
+            312
+          ],
+          [
+            "Drain_Size",
+            53
+          ],
+          [
+            "MSL_BOTTOM",
+            500
+          ],
+          [
+            "Missing_Road_Name",
+            3
+          ],
+          [
+            "Pond",
+            486
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_182/ward_182.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_182"
+      }
+    },
+    {
+      "file": "Ward-28.pdf",
+      "ward": 28,
+      "info": {
+        "E0": 417071.22184666665,
+        "N0": 1452664.2948833334,
+        "eE": 24.66526927042287,
+        "eN": 162.79325057123788,
+        "shapefiles": [
+          [
+            "CANAL",
+            1
+          ],
+          [
+            "CarriageWay",
+            868
+          ],
+          [
+            "Drain",
+            51
+          ],
+          [
+            "Drain_Nos",
+            77
+          ],
+          [
+            "Drain_Size",
+            13
+          ],
+          [
+            "MSL_BOTTOM",
+            125
+          ],
+          [
+            "Pond",
+            37198
+          ],
+          [
+            "Road_Names",
+            122
+          ],
+          [
+            "Ward_Boundary",
+            377
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_028/ward_028.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_028"
+      }
+    },
+    {
+      "file": "Ward-29.pdf",
+      "ward": 29,
+      "info": {
+        "E0": 418080.32451666665,
+        "N0": 1452198.8709166667,
+        "eE": 120.6221359987976,
+        "eN": 226.01513828756288,
+        "shapefiles": [
+          [
+            "CarriageWay",
+            303
+          ],
+          [
+            "Drain",
+            155
+          ],
+          [
+            "Drain_Nos",
+            210
+          ],
+          [
+            "Drain_Size",
+            26
+          ],
+          [
+            "MSL_BOTTOM",
+            325
+          ],
+          [
+            "Missing_Road_Name",
+            40
+          ],
+          [
+            "Road_Names",
+            346
+          ],
+          [
+            "Ward_Boundary",
+            282
+          ],
+          [
+            "Zone_Boundary",
+            1752
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_029/ward_029.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_029"
+      }
+    },
+    {
+      "file": "Ward-33.pdf",
+      "ward": 33,
+      "info": {
+        "E0": 414561.8957066667,
+        "N0": 1450069.7400166667,
+        "eE": 54.703078382182866,
+        "eN": 202.54876155336387,
+        "shapefiles": [
+          [
+            "CANAL",
+            24
+          ],
+          [
+            "CarriageWay",
+            805
+          ],
+          [
+            "Divider",
+            15
+          ],
+          [
+            "Drain",
+            97
+          ],
+          [
+            "Drain_Nos",
+            141
+          ],
+          [
+            "Drain_Size",
+            10
+          ],
+          [
+            "FEATURE_LABEL",
+            74
+          ],
+          [
+            "Grid",
+            9
+          ],
+          [
+            "Location_Names",
+            323
+          ],
+          [
+            "MSL_BOTTOM",
+            225
+          ],
+          [
+            "Missing_Road_Name",
+            285
+          ],
+          [
+            "Pond",
+            2562
+          ],
+          [
+            "River_linestring",
+            5
+          ],
+          [
+            "River_polygon",
+            1
+          ],
+          [
+            "Road_Names",
+            1374
+          ],
+          [
+            "Text",
+            34
+          ],
+          [
+            "Zone_Boundary",
+            1021
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_033/ward_033.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_033"
+      }
+    },
+    {
+      "file": "Ward-34.pdf",
+      "ward": 34,
+      "info": {
+        "E0": 416587.36907,
+        "N0": 1451570.03405,
+        "eE": 239.62668573623523,
+        "eN": 192.80308614554815,
+        "shapefiles": [
+          [
+            "CANAL",
+            9
+          ],
+          [
+            "CarriageWay",
+            201
+          ],
+          [
+            "Drain",
+            92
+          ],
+          [
+            "Drain_Nos",
+            115
+          ],
+          [
+            "Drain_Size",
+            12
+          ],
+          [
+            "Location_Names",
+            193
+          ],
+          [
+            "MSL_BOTTOM",
+            165
+          ],
+          [
+            "Missing_Road",
+            39
+          ],
+          [
+            "Missing_Road_Names",
+            1
+          ],
+          [
+            "Road_Names",
+            184
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_034/ward_034.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_034"
+      }
+    },
+    {
+      "file": "Ward-35.pdf",
+      "ward": 35,
+      "info": {
+        "E0": 416836.2577266667,
+        "N0": 1450072.2920766666,
+        "eE": 194.94957131170668,
+        "eN": 142.06379410717636,
+        "shapefiles": [
+          [
+            "Drain",
+            143
+          ],
+          [
+            "Drain_Nos",
+            209
+          ],
+          [
+            "Drain_Size",
+            24
+          ],
+          [
+            "MSL_BOTTOM",
+            285
+          ],
+          [
+            "Ward_Boundary",
+            1
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_035/ward_035.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_035"
+      }
+    },
+    {
+      "file": "Ward-37.pdf",
+      "ward": 37,
+      "info": {
+        "E0": 418570.36330666667,
+        "N0": 1450411.25477,
+        "eE": 63.051600301405415,
+        "eN": 233.98315744870342,
+        "shapefiles": [
+          [
+            "Canal_Drain",
+            7
+          ],
+          [
+            "CarriageWay",
+            152
+          ],
+          [
+            "Divider",
+            7
+          ],
+          [
+            "Drain",
+            242
+          ],
+          [
+            "Drain_Nos",
+            379
+          ],
+          [
+            "Drain_Size",
+            46
+          ],
+          [
+            "MSL_BOTTOM",
+            535
+          ],
+          [
+            "Missing_Roads",
+            191
+          ],
+          [
+            "Zone_Boundary",
+            740
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_037/ward_037.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_037"
+      }
+    },
+    {
+      "file": "Ward-38.pdf",
+      "ward": 38,
+      "info": {
+        "E0": 420321.42764666665,
+        "N0": 1450164.3536666667,
+        "eE": 218.48997050337493,
+        "eN": 151.88749426207505,
+        "shapefiles": [
+          [
+            "CarriageWay",
+            576
+          ],
+          [
+            "Divider",
+            60
+          ],
+          [
+            "Drain_linestring",
+            41
+          ],
+          [
+            "Drain_point",
+            150
+          ],
+          [
+            "Drain_Nos",
+            258
+          ],
+          [
+            "Drain_Size",
+            34
+          ],
+          [
+            "MSL_BOTTOM",
+            390
+          ],
+          [
+            "Missing_Roads",
+            22
+          ],
+          [
+            "Railway_multipolygon",
+            339
+          ],
+          [
+            "Railway_linestring",
+            45
+          ],
+          [
+            "River",
+            10
+          ],
+          [
+            "Ward_Boundary",
+            1356
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_038/ward_038.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_038"
+      }
+    },
+    {
+      "file": "Ward-39.pdf",
+      "ward": 39,
+      "info": {
+        "E0": 421836.2459466667,
+        "N0": 1450820.5926666667,
+        "eE": 55.64668036799412,
+        "eN": 59.98025428713299,
+        "shapefiles": [
+          [
+            "Asphalted_Road",
+            24
+          ],
+          [
+            "CarriageWay",
+            380
+          ],
+          [
+            "Drain",
+            76
+          ],
+          [
+            "Drain_Nos",
+            80
+          ],
+          [
+            "Drain_Size",
+            28
+          ],
+          [
+            "MSL_BOTTOM",
+            88
+          ],
+          [
+            "Missing_roads",
+            131
+          ],
+          [
+            "Railway_multipolygon",
+            38
+          ],
+          [
+            "Railway_linestring",
+            1
+          ],
+          [
+            "Ward_Boundary",
+            385
+          ],
+          [
+            "Zone_Boundary",
+            847
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_039/ward_039.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_039"
+      }
+    },
+    {
+      "file": "Ward-40.pdf",
+      "ward": 40,
+      "info": {
+        "E0": 421337.30439666664,
+        "N0": 1450569.7517966668,
+        "eE": 34.09145907306811,
+        "eN": 61.43231163243763,
+        "shapefiles": [
+          [
+            "Drain",
+            102
+          ],
+          [
+            "Drain_Nos",
+            142
+          ],
+          [
+            "Drain_Size",
+            19
+          ],
+          [
+            "MSL_BOTTOM",
+            205
+          ],
+          [
+            "Missing_Roads",
+            15
+          ],
+          [
+            "Road_Names",
+            382
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_040/ward_040.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_040"
+      }
+    },
+    {
+      "file": "Ward-41.pdf",
+      "ward": 41,
+      "info": {
+        "E0": 419587.3102866667,
+        "N0": 1449819.7459066666,
+        "eE": 48.17460164061049,
+        "eN": 93.28580128611065,
+        "shapefiles": [
+          [
+            "BRIDGE",
+            2
+          ],
+          [
+            "CarriageWay",
+            55
+          ],
+          [
+            "Divider",
+            1
+          ],
+          [
+            "Drain",
+            59
+          ],
+          [
+            "Drain_Nos",
+            67
+          ],
+          [
+            "Drain_Size",
+            9
+          ],
+          [
+            "MSL_BOTTOM",
+            130
+          ],
+          [
+            "Missing_Roads",
+            60
+          ],
+          [
+            "Railway_multipolygon",
+            127
+          ],
+          [
+            "Railway_linestring",
+            22
+          ],
+          [
+            "River",
+            12
+          ],
+          [
+            "Ward_Boundary",
+            855
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_041/ward_041.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_041"
+      }
+    },
+    {
+      "file": "Ward-42.pdf",
+      "ward": 42,
+      "info": {
+        "E0": 420837.0927066667,
+        "N0": 1448569.7400166667,
+        "eE": 139.3313687168993,
+        "eN": 245.21273122448474,
+        "shapefiles": [
+          [
+            "CarriageWay",
+            254
+          ],
+          [
+            "Dividel",
+            9
+          ],
+          [
+            "Drain",
+            75
+          ],
+          [
+            "Drain_Nos",
+            87
+          ],
+          [
+            "Drain_Size",
+            19
+          ],
+          [
+            "MSL_BOTTOM",
+            135
+          ],
+          [
+            "Missing_roads",
+            26
+          ],
+          [
+            "Road_Names",
+            235
+          ],
+          [
+            "Ward_Boundary",
+            257
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_042/ward_042.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_042"
+      }
+    },
+    {
+      "file": "Ward-43.pdf",
+      "ward": 43,
+      "info": {
+        "E0": 421587.09859666665,
+        "N0": 1449569.7400166667,
+        "eE": 71.91166704322677,
+        "eN": 193.63350308383815,
+        "shapefiles": [
+          [
+            "0",
+            6
+          ],
+          [
+            "CarriageWay",
+            2
+          ],
+          [
+            "Destination_linestring",
+            165
+          ],
+          [
+            "Destination_polygon",
+            5
+          ],
+          [
+            "Drain",
+            65
+          ],
+          [
+            "Drain_Nos",
+            85
+          ],
+          [
+            "Drain_Size",
+            11
+          ],
+          [
+            "Grid",
+            161
+          ],
+          [
+            "Lat_Long_linestring",
+            420
+          ],
+          [
+            "Lat_Long_point",
+            16
+          ],
+          [
+            "Location_Names",
+            50
+          ],
+          [
+            "MSL_BOTTOM",
+            120
+          ],
+          [
+            "Missing_Road",
+            107
+          ],
+          [
+            "Road_Names",
+            553
+          ],
+          [
+            "Ward_Boundary",
+            239
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_043/ward_043.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_043"
+      }
+    },
+    {
+      "file": "Ward-44.pdf",
+      "ward": 44,
+      "info": {
+        "E0": 416836.2577266667,
+        "N0": 1449069.9634866666,
+        "eE": 22.744435295229778,
+        "eN": 89.92925690393895,
+        "shapefiles": [
+          [
+            "CarriageWay",
+            12
+          ],
+          [
+            "Drain",
+            32
+          ],
+          [
+            "Drain_Nos",
+            143
+          ],
+          [
+            "Drain_Size",
+            17
+          ],
+          [
+            "MSL_BOTTOM",
+            210
+          ],
+          [
+            "Manhole",
+            78
+          ],
+          [
+            "missing_roads",
+            119
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_044/ward_044.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_044"
+      }
+    },
+    {
+      "file": "Ward-45.pdf",
+      "ward": 45,
+      "info": {
+        "E0": 417835.82256666664,
+        "N0": 1448572.7154566667,
+        "eE": 35.731854528421536,
+        "eN": 19.096980140078813,
+        "shapefiles": [
+          [
+            "CarriageWay",
+            2
+          ],
+          [
+            "Drain",
+            161
+          ],
+          [
+            "Drain_Nos",
+            177
+          ],
+          [
+            "Drain_Size",
+            31
+          ],
+          [
+            "MSL_BOTTOM",
+            245
+          ],
+          [
+            "Missing_Roads",
+            2
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_045/ward_045.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_045"
+      }
+    },
+    {
+      "file": "Ward-46.pdf",
+      "ward": 46,
+      "info": {
+        "E0": 418837.30439666664,
+        "N0": 1448069.7517966668,
+        "eE": 39.471635565161705,
+        "eN": 161.8258510227315,
+        "shapefiles": [
+          [
+            "Drain",
+            95
+          ],
+          [
+            "Drain_Nos",
+            98
+          ],
+          [
+            "Drain_Size",
+            18
+          ],
+          [
+            "MSL_BOTTOM",
+            160
+          ],
+          [
+            "Missing_Roads",
+            9
+          ],
+          [
+            "Ward_Boundary",
+            161
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_046/ward_046.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_046"
+      }
+    },
+    {
+      "file": "Ward-47.pdf",
+      "ward": 47,
+      "info": {
+        "E0": 419837.30439666664,
+        "N0": 1448819.7459066666,
+        "eE": 54.424694138986524,
+        "eN": 72.11971147963777,
+        "shapefiles": [
+          [
+            "CarriageWay",
+            421
+          ],
+          [
+            "Destination_linestring",
+            258
+          ],
+          [
+            "Destination_polygon",
+            8
+          ],
+          [
+            "Drain",
+            72
+          ],
+          [
+            "Drain_Nos",
+            94
+          ],
+          [
+            "Drain_Size",
+            15
+          ],
+          [
+            "Grid",
+            123
+          ],
+          [
+            "Lat_Long_linestring",
+            328
+          ],
+          [
+            "Lat_Long_point",
+            10
+          ],
+          [
+            "Location_Names",
+            73
+          ],
+          [
+            "MSL_BOTTOM",
+            145
+          ],
+          [
+            "Missing_Roads",
+            34
+          ],
+          [
+            "Pond",
+            1343
+          ],
+          [
+            "Railway_multipolygon",
+            109
+          ],
+          [
+            "Railway_linestring",
+            19
+          ],
+          [
+            "River_linestring",
+            22
+          ],
+          [
+            "River_polygon",
+            1
+          ],
+          [
+            "Road_Names",
+            332
+          ],
+          [
+            "Text",
+            19
+          ],
+          [
+            "Ward_Boundary",
+            507
+          ],
+          [
+            "Zone_Boundary",
+            136
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_047/ward_047.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_047"
+      }
+    },
+    {
+      "file": "Ward-48.pdf",
+      "ward": 48,
+      "info": {
+        "E0": 420587.3102866667,
+        "N0": 1448569.7517966668,
+        "eE": 18.68116969044786,
+        "eN": 78.75564773986116,
+        "shapefiles": [
+          [
+            "CarriageWay",
+            301
+          ],
+          [
+            "Location_Names",
+            143
+          ],
+          [
+            "Missing_Road",
+            29
+          ],
+          [
+            "Road_Names",
+            607
+          ],
+          [
+            "Ward_Boundary",
+            220
+          ],
+          [
+            "Zone_Boundary",
+            193
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_048/ward_048.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_048"
+      }
+    },
+    {
+      "file": "Ward-50.pdf",
+      "ward": 50,
+      "info": {
+        "E0": 422088.3687366667,
+        "N0": 1448072.2802966668,
+        "eE": 80.53937752882484,
+        "eN": 114.7569656255655,
+        "shapefiles": [
+          [
+            "Asphalted_Road",
+            2
+          ],
+          [
+            "CarriageWay",
+            340
+          ],
+          [
+            "Drain",
+            106
+          ],
+          [
+            "Drain_Nos",
+            119
+          ],
+          [
+            "Drain_Size",
+            22
+          ],
+          [
+            "MSL_BOTTOM",
+            180
+          ],
+          [
+            "Miss_Road_Names",
+            72
+          ],
+          [
+            "Missing_Roads",
+            47
+          ],
+          [
+            "Road_Names",
+            198
+          ],
+          [
+            "TITLE_multipolygon",
+            91
+          ],
+          [
+            "TITLE_linestring",
+            5
+          ],
+          [
+            "Ward_Boundary",
+            342
+          ],
+          [
+            "Zone_Boundary",
+            1050
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_050/ward_050.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_050"
+      }
+    },
+    {
+      "file": "Ward-51.pdf",
+      "ward": 51,
+      "info": {
+        "E0": 420834.7641166667,
+        "N0": 1448322.9212566668,
+        "eE": 62.019089413108304,
+        "eN": 50.48169011855498,
+        "shapefiles": [
+          [
+            "CarriageWay",
+            286
+          ],
+          [
+            "Drain",
+            28
+          ],
+          [
+            "Drain_Nos",
+            23
+          ],
+          [
+            "Drain_Size",
+            6
+          ],
+          [
+            "MSL_BOTTOM",
+            50
+          ],
+          [
+            "Miss_Road_Names",
+            52
+          ],
+          [
+            "Missing_Roads",
+            4
+          ],
+          [
+            "Road_Names",
+            150
+          ],
+          [
+            "Ward_Boundary",
+            136
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_051/ward_051.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_051"
+      }
+    },
+    {
+      "file": "Ward-52.pdf",
+      "ward": 52,
+      "info": {
+        "E0": 421086.0401466667,
+        "N0": 1448071.2454066668,
+        "eE": 133.6295300318743,
+        "eN": 14.73429185547866,
+        "shapefiles": [
+          [
+            "CarriageWay",
+            978
+          ],
+          [
+            "Drain",
+            49
+          ],
+          [
+            "Drain_Flow",
+            11
+          ],
+          [
+            "Drain_Nos",
+            59
+          ],
+          [
+            "Grid",
+            113
+          ],
+          [
+            "MSL_BOTTOM",
+            100
+          ],
+          [
+            "Missings_Roads",
+            18
+          ],
+          [
+            "Railway_multipolygon",
+            18
+          ],
+          [
+            "Railway_linestring",
+            1
+          ],
+          [
+            "Ward_Boundary",
+            44
+          ],
+          [
+            "Zone_Boundary",
+            37
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_052/ward_052.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_052"
+      }
+    },
+    {
+      "file": "Ward-53.pdf",
+      "ward": 53,
+      "info": {
+        "E0": 419583.0764866667,
+        "N0": 1447696.9657066667,
+        "eE": 19.932241207454354,
+        "eN": 13.948298198869452,
+        "shapefiles": [
+          [
+            "Drain",
+            188
+          ],
+          [
+            "Drain_Nos",
+            226
+          ],
+          [
+            "Drain_Size",
+            37
+          ],
+          [
+            "MSL_BOTTOM",
+            370
+          ],
+          [
+            "Manhole_1",
+            1
+          ],
+          [
+            "Missing_Roads",
+            39
+          ],
+          [
+            "Road_Names",
+            534
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_053/ward_053.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_053"
+      }
+    },
+    {
+      "file": "Ward-54.pdf",
+      "ward": 54,
+      "info": {
+        "E0": 419836.6693266667,
+        "N0": 1447072.5037666666,
+        "eE": 23.059909688541666,
+        "eN": 81.84042486129329,
+        "shapefiles": [
+          [
+            "CarriageWay",
+            61
+          ],
+          [
+            "Drain",
+            74
+          ],
+          [
+            "Drain_Flow",
+            15
+          ],
+          [
+            "Drain_Nos",
+            91
+          ],
+          [
+            "Grid",
+            119
+          ],
+          [
+            "Lat_Long_linestring",
+            350
+          ],
+          [
+            "Lat_Long_point",
+            12
+          ],
+          [
+            "MSL_BOTTOM",
+            100
+          ],
+          [
+            "Missing_Roads",
+            45
+          ],
+          [
+            "River",
+            2
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_054/ward_054.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_054"
+      }
+    },
+    {
+      "file": "Ward-56.pdf",
+      "ward": 56,
+      "info": {
+        "E0": 420835.83434666664,
+        "N0": 1447071.8686966666,
+        "eE": 143.3189650476561,
+        "eN": 117.8355898084119,
+        "shapefiles": [
+          [
+            "Drain",
+            84
+          ],
+          [
+            "Drain_Nos",
+            107
+          ],
+          [
+            "Drain_Size",
+            20
+          ],
+          [
+            "MSL_BOTTOM",
+            165
+          ],
+          [
+            "Missing_Roads",
+            1
+          ],
+          [
+            "Ward_Boundary",
+            197
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_056/ward_056.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_056"
+      }
+    },
+    {
+      "file": "Ward-58.pdf",
+      "ward": 58,
+      "info": {
+        "E0": 417523.35634666664,
+        "N0": 1445045.8308266667,
+        "eE": 142.70369815733284,
+        "eN": 47.91800937009975,
+        "shapefiles": [
+          [
+            "CarriageWay",
+            50
+          ],
+          [
+            "Divider",
+            1419
+          ],
+          [
+            "Drain",
+            313
+          ],
+          [
+            "Drain_Nos",
+            466
+          ],
+          [
+            "Drain_Size",
+            55
+          ],
+          [
+            "MSL_BOTTOM",
+            580
+          ],
+          [
+            "Missing_Roads",
+            55
+          ],
+          [
+            "River",
+            6703
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_058/ward_058.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_058"
+      }
+    },
+    {
+      "file": "Ward-59.pdf",
+      "ward": 59,
+      "info": {
+        "E0": 419834.97580666665,
+        "N0": 1443571.8451366667,
+        "eE": 19.36472422728548,
+        "eN": 108.93024319550022,
+        "shapefiles": [
+          [
+            "BRIDGE",
+            4
+          ],
+          [
+            "CarriageWay",
+            95
+          ],
+          [
+            "Inundated_area",
+            1
+          ],
+          [
+            "Missing_Road",
+            85
+          ],
+          [
+            "Outlet_hatch_polygon",
+            2
+          ],
+          [
+            "Outlet_hatch_multipolygon",
+            8
+          ],
+          [
+            "River",
+            33254
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_059/ward_059.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_059"
+      }
+    },
+    {
+      "file": "Ward-60.pdf",
+      "ward": 60,
+      "info": {
+        "E0": 421374.3619266667,
+        "N0": 1443795.7895966666,
+        "eE": 57.69813755445648,
+        "eN": 145.82388019794598,
+        "shapefiles": [
+          [
+            "0_linestring",
+            27585
+          ],
+          [
+            "0_multipolygon",
+            47
+          ],
+          [
+            "0_polygon",
+            6
+          ],
+          [
+            "BRIDGE",
+            8
+          ],
+          [
+            "CANAL",
+            11
+          ],
+          [
+            "CHENNAI_WARDS",
+            121
+          ],
+          [
+            "CarriageWay",
+            623
+          ],
+          [
+            "Channel",
+            10
+          ],
+          [
+            "Church",
+            36
+          ],
+          [
+            "DGPS",
+            9
+          ],
+          [
+            "Destination_linestring",
+            90
+          ],
+          [
+            "Destination_polygon",
+            3
+          ],
+          [
+            "Divider",
+            650
+          ],
+          [
+            "Drain",
+            128
+          ],
+          [
+            "Drain_Flow",
+            46
+          ],
+          [
+            "Drain_Nos",
+            192
+          ],
+          [
+            "FMT_multipolygon",
+            4
+          ],
+          [
+            "FMT_linestring",
+            34
+          ],
+          [
+            "FeatureAttribs",
+            286
+          ],
+          [
+            "GF",
+            109
+          ],
+          [
+            "GPS",
+            1
+          ],
+          [
+            "Gen_Text",
+            65
+          ],
+          [
+            "Grid",
+            206
+          ],
+          [
+            "Lat_Long_linestring",
+            563
+          ],
+          [
+            "Lat_Long_point",
+            26
+          ],
+          [
+            "Location_Names",
+            950
+          ],
+          [
+            "MSL_BOTTOM_linestring",
+            230
+          ],
+          [
+            "MSL_BOTTOM_polygon",
+            5
+          ],
+          [
+            "Metro_Railway",
+            1477
+          ],
+          [
+            "Missing_Road_Names",
+            1240
+          ],
+          [
+            "Outlet_hatch_polygon",
+            1
+          ],
+          [
+            "Outlet_hatch_linestring",
+            78577
+          ],
+          [
+            "Pond",
+            146
+          ],
+          [
+            "Pumping_Station",
+            26
+          ],
+          [
+            "Railway_multipolygon",
+            406
+          ],
+          [
+            "Railway_linestring",
+            53
+          ],
+          [
+            "Railway_polygon",
+            1
+          ],
+          [
+            "River_linestring",
+            17592
+          ],
+          [
+            "River_polygon",
+            2
+          ],
+          [
+            "Road_Names",
+            1730
+          ],
+          [
+            "Sea_linestring",
+            93262
+          ],
+          [
+            "Sea_multipolygon",
+            4
+          ],
+          [
+            "TITLE_linestring",
+            3876
+          ],
+          [
+            "TITLE_multipolygon",
+            23
+          ],
+          [
+            "TITLE_polygon",
+            30
+          ],
+          [
+            "Temple",
+            7
+          ],
+          [
+            "Ward_Boundary_linestring",
+            825
+          ],
+          [
+            "Ward_Boundary_polygon",
+            37
+          ],
+          [
+            "Zone_Boundary",
+            1730
+          ],
+          [
+            "road_text_add",
+            161
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_060/ward_060.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_060"
+      }
+    },
+    {
+      "file": "Ward-61.pdf",
+      "ward": 61,
+      "info": {
+        "E0": 417560.20218666666,
+        "N0": 1443321.2277366666,
+        "eE": 31.349819370661862,
+        "eN": 16.993868919322267,
+        "shapefiles": [
+          [
+            "BRIDGE",
+            10
+          ],
+          [
+            "CANAL",
+            12
+          ],
+          [
+            "CarriageWay",
+            583
+          ],
+          [
+            "Destination_linestring",
+            22
+          ],
+          [
+            "Destination_polygon",
+            1
+          ],
+          [
+            "Divider_linestring",
+            806
+          ],
+          [
+            "Divider_polygon",
+            4
+          ],
+          [
+            "Divider_multipolygon",
+            12
+          ],
+          [
+            "Drain",
+            245
+          ],
+          [
+            "Drain_Flow",
+            52
+          ],
+          [
+            "Drain_Nos",
+            331
+          ],
+          [
+            "Gen_Text",
+            19
+          ],
+          [
+            "MSL_BOTTOM",
+            410
+          ],
+          [
+            "Missing_Road",
+            28
+          ],
+          [
+            "Railway_multipolygon",
+            275
+          ],
+          [
+            "Railway_linestring",
+            61
+          ],
+          [
+            "River",
+            10736
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_061/ward_061.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_061"
+      }
+    },
+    {
+      "file": "Ward-62.pdf",
+      "ward": 62,
+      "info": {
+        "E0": 419086.4635266667,
+        "N0": 1443956.0742666668,
+        "eE": 54.827412477112375,
+        "eN": 7.583654129412025,
+        "shapefiles": [
+          [
+            "CarriageWay",
+            421
+          ],
+          [
+            "Divider",
+            193
+          ],
+          [
+            "Drain",
+            145
+          ],
+          [
+            "Drain_Size",
+            33
+          ],
+          [
+            "Grid",
+            179
+          ],
+          [
+            "Lat_Long_linestring",
+            306
+          ],
+          [
+            "Lat_Long_point",
+            10
+          ],
+          [
+            "Missing_Road",
+            36
+          ],
+          [
+            "River",
+            11468
+          ],
+          [
+            "Ward_Boundary",
+            468
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_062/ward_062.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_062"
+      }
+    },
+    {
+      "file": "Ward-64.pdf",
+      "ward": 64,
+      "info": {
+        "E0": 412522.52136666665,
+        "N0": 1449572.7154566667,
+        "eE": 114.12106860522181,
+        "eN": 189.4482129982207,
+        "shapefiles": [
+          [
+            "CANAL",
+            4
+          ],
+          [
+            "CarriageWay",
+            222
+          ],
+          [
+            "Divider",
+            2
+          ],
+          [
+            "Drain",
+            381
+          ],
+          [
+            "Drain_Flow",
+            75
+          ],
+          [
+            "Drain_Nos",
+            466
+          ],
+          [
+            "MSL_BOTTOM",
+            695
+          ],
+          [
+            "Missing_Road",
+            46
+          ],
+          [
+            "Road_Names",
+            26
+          ],
+          [
+            "Ward_Boundary",
+            679
+          ],
+          [
+            "Zone_Boundary",
+            246
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_064/ward_064.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_064"
+      }
+    },
+    {
+      "file": "Ward-65.pdf",
+      "ward": 65,
+      "info": {
+        "E0": 412569.31663666666,
+        "N0": 1449412.0545266666,
+        "eE": 218.53151842410443,
+        "eN": 179.34439452528022,
+        "shapefiles": [
+          [
+            "CarriageWay",
+            265
+          ],
+          [
+            "Destination_linestring",
+            51
+          ],
+          [
+            "Destination_polygon",
+            2
+          ],
+          [
+            "Divider",
+            4
+          ],
+          [
+            "Drain_linestring",
+            35
+          ],
+          [
+            "Drain_point",
+            146
+          ],
+          [
+            "Drain_Flow",
+            38
+          ],
+          [
+            "Drain_Nos",
+            213
+          ],
+          [
+            "Fly_Over",
+            2
+          ],
+          [
+            "MSL_BOTTOM",
+            276
+          ],
+          [
+            "Missing_Road",
+            33
+          ],
+          [
+            "Missing_Road_Name",
+            22
+          ],
+          [
+            "Outlet_hatch_polygon",
+            2
+          ],
+          [
+            "Outlet_hatch_multipolygon",
+            8
+          ],
+          [
+            "Railway_multipolygon",
+            95
+          ],
+          [
+            "Railway_linestring",
+            16
+          ],
+          [
+            "Ward_Boundary",
+            669
+          ],
+          [
+            "Zone_Boundary",
+            1840
+          ],
+          [
+            "ZoneBoundary",
+            1
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_065/ward_065.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_065"
+      }
+    },
+    {
+      "file": "Ward-66.pdf",
+      "ward": 66,
+      "info": {
+        "E0": 413773.5739266667,
+        "N0": 1448696.7540166667,
+        "eE": 206.89209319412475,
+        "eN": 24.111380783608183,
+        "shapefiles": [
+          [
+            "CarriageWay",
+            883
+          ],
+          [
+            "Divider",
+            15
+          ],
+          [
+            "Drain",
+            806
+          ],
+          [
+            "Drain_flow",
+            73
+          ],
+          [
+            "MSL_BOTTOM",
+            630
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_066/ward_066.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_066"
+      }
+    },
+    {
+      "file": "Ward-67.pdf",
+      "ward": 67,
+      "info": {
+        "E0": 413772.0803166667,
+        "N0": 1448546.4776766666,
+        "eE": 61.178838910127524,
+        "eN": 105.12723788595758,
+        "shapefiles": [
+          [
+            "Drain",
+            179
+          ],
+          [
+            "Drain_Nos",
+            231
+          ],
+          [
+            "Drain_Size",
+            36
+          ],
+          [
+            "Inundated_area",
+            2
+          ],
+          [
+            "MSL_BOTTOM",
+            330
+          ],
+          [
+            "Missing_Road",
+            18
+          ],
+          [
+            "Outlet_hatch_polygon",
+            4
+          ],
+          [
+            "Outlet_hatch_multipolygon",
+            16
+          ],
+          [
+            "Pond",
+            566
+          ],
+          [
+            "Railway",
+            7
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_067/ward_067.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_067"
+      }
+    },
+    {
+      "file": "Ward-68.pdf",
+      "ward": 68,
+      "info": {
+        "E0": 415823.76801666664,
+        "N0": 1448917.7701566666,
+        "eE": 77.2567272229353,
+        "eN": 190.75812996714376,
+        "shapefiles": [
+          [
+            "CarriageWay",
+            1
+          ],
+          [
+            "Divider",
+            17
+          ],
+          [
+            "Drain_linestring",
+            18
+          ],
+          [
+            "Drain_point",
+            104
+          ],
+          [
+            "Drain_Nos",
+            147
+          ],
+          [
+            "Drain_Size",
+            26
+          ],
+          [
+            "MSL_BOTTOM",
+            215
+          ],
+          [
+            "Missing_Road",
+            34
+          ],
+          [
+            "Ward_Boundary",
+            182
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_068/ward_068.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_068"
+      }
+    },
+    {
+      "file": "Ward-69.pdf",
+      "ward": 69,
+      "info": {
+        "E0": 416214.94757666666,
+        "N0": 1447569.3048566666,
+        "eE": 246.61335287062684,
+        "eN": 62.48600621265359,
+        "shapefiles": [
+          [
+            "BRIDGE",
+            10
+          ],
+          [
+            "CANAL",
+            8
+          ],
+          [
+            "CarriageWay",
+            1133
+          ],
+          [
+            "Divider",
+            102
+          ],
+          [
+            "Drain",
+            214
+          ],
+          [
+            "Drain_Nos_linestring",
+            325
+          ],
+          [
+            "Drain_Nos_polygon",
+            1
+          ],
+          [
+            "Drain_Size",
+            32
+          ],
+          [
+            "Fly_Over",
+            3
+          ],
+          [
+            "Grid",
+            135
+          ],
+          [
+            "Lat_Long_linestring",
+            460
+          ],
+          [
+            "Lat_Long_point",
+            24
+          ],
+          [
+            "Location_Names",
+            378
+          ],
+          [
+            "MSL_BOTTOM",
+            370
+          ],
+          [
+            "Missing_Road",
+            110
+          ],
+          [
+            "Missing_Road_Name",
+            67
+          ],
+          [
+            "Pond",
+            3571
+          ],
+          [
+            "Railway_multipolygon",
+            80
+          ],
+          [
+            "Railway_linestring",
+            12
+          ],
+          [
+            "River_linestring",
+            14
+          ],
+          [
+            "River_polygon",
+            2
+          ],
+          [
+            "Road_Names",
+            538
+          ],
+          [
+            "TITLE",
+            25
+          ],
+          [
+            "Text",
+            31
+          ],
+          [
+            "Ward_Boundary",
+            6
+          ],
+          [
+            "Zone_Boundary",
+            1841
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_069/ward_069.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_069"
+      }
+    },
+    {
+      "file": "Ward-70.pdf",
+      "ward": 70,
+      "info": {
+        "E0": 417087.52197666664,
+        "N0": 1447569.1049466666,
+        "eE": 66.56512216915144,
+        "eN": 20.113714107777923,
+        "shapefiles": [
+          [
+            "CANAL",
+            6
+          ],
+          [
+            "CarriageWay",
+            565
+          ],
+          [
+            "Divider",
+            73
+          ],
+          [
+            "Drain",
+            182
+          ],
+          [
+            "Drain_Nos",
+            278
+          ],
+          [
+            "Drain_Size",
+            45
+          ],
+          [
+            "Fly_Over",
+            30
+          ],
+          [
+            "MSL_BOTTOM",
+            315
+          ],
+          [
+            "Missing_Road",
+            6
+          ],
+          [
+            "Outlet_hatch_polygon",
+            2
+          ],
+          [
+            "Outlet_hatch_multipolygon",
+            8
+          ],
+          [
+            "Road_Names",
+            31
+          ],
+          [
+            "Ward_Boundary",
+            1022
+          ],
+          [
+            "ZoneBoundary",
+            1
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_070/ward_070.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_070"
+      }
+    },
+    {
+      "file": "Ward-71.pdf",
+      "ward": 71,
+      "info": {
+        "E0": 416587.09859666665,
+        "N0": 1447069.7517966668,
+        "eE": 131.05256967572495,
+        "eN": 225.9890842945315,
+        "shapefiles": [
+          [
+            "CANAL",
+            51
+          ],
+          [
+            "CarriageWay",
+            1
+          ],
+          [
+            "Drain",
+            140
+          ],
+          [
+            "Drain_Flow",
+            38
+          ],
+          [
+            "Drain_Nos",
+            193
+          ],
+          [
+            "MSL_BOTTOM",
+            255
+          ],
+          [
+            "Missing_Road",
+            1
+          ],
+          [
+            "Missing_Road_Name",
+            74
+          ],
+          [
+            "Outlet_hatch_polygon",
+            2
+          ],
+          [
+            "Outlet_hatch_multipolygon",
+            8
+          ],
+          [
+            "Road_Names",
+            198
+          ],
+          [
+            "Ward_Boundary",
+            236
+          ],
+          [
+            "ZoneBoundary",
+            1
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_071/ward_071.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_071"
+      }
+    },
+    {
+      "file": "Ward-72.pdf",
+      "ward": 72,
+      "info": {
+        "E0": 418837.30439666664,
+        "N0": 1447319.7459066666,
+        "eE": 148.92613801331026,
+        "eN": 38.619854025542736,
+        "shapefiles": [
+          [
+            "0_linestring",
+            385
+          ],
+          [
+            "0_multipolygon",
+            5
+          ],
+          [
+            "BRIDGE",
+            12
+          ],
+          [
+            "CANAL",
+            4
+          ],
+          [
+            "CarriageWay",
+            910
+          ],
+          [
+            "Destination_linestring",
+            185
+          ],
+          [
+            "Destination_polygon",
+            6
+          ],
+          [
+            "Divider",
+            8
+          ],
+          [
+            "Drain",
+            47
+          ],
+          [
+            "Drain_Flow",
+            9
+          ],
+          [
+            "Drain_Nos",
+            75
+          ],
+          [
+            "Grid",
+            99
+          ],
+          [
+            "Lat_Long_linestring",
+            334
+          ],
+          [
+            "Lat_Long_point",
+            10
+          ],
+          [
+            "Location_Names",
+            195
+          ],
+          [
+            "MSL_BOTTOM",
+            90
+          ],
+          [
+            "Pond",
+            829
+          ],
+          [
+            "Railway_multipolygon",
+            569
+          ],
+          [
+            "Railway_linestring",
+            80
+          ],
+          [
+            "River_linestring",
+            33
+          ],
+          [
+            "River_polygon",
+            2
+          ],
+          [
+            "Road_Names",
+            513
+          ],
+          [
+            "Text",
+            50
+          ],
+          [
+            "Ward_Boundary",
+            488
+          ],
+          [
+            "Zone_Boundary",
+            925
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_072/ward_072.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_072"
+      }
+    },
+    {
+      "file": "Ward-73.pdf",
+      "ward": 73,
+      "info": {
+        "E0": 417836.88101666665,
+        "N0": 1447070.3868666666,
+        "eE": 187.82673928351142,
+        "eN": 33.75118465349078,
+        "shapefiles": [
+          [
+            "0_linestring",
+            2334
+          ],
+          [
+            "0_multipolygon",
+            24
+          ],
+          [
+            "BRIDGE",
+            8
+          ],
+          [
+            "CANAL",
+            8
+          ],
+          [
+            "CarriageWay",
+            434
+          ],
+          [
+            "Destination_linestring",
+            185
+          ],
+          [
+            "Destination_polygon",
+            6
+          ],
+          [
+            "Divider",
+            7
+          ],
+          [
+            "Drain",
+            98
+          ],
+          [
+            "Drain_Nos_linestring",
+            139
+          ],
+          [
+            "Drain_Nos_polygon",
+            1
+          ],
+          [
+            "Drain_Size",
+            22
+          ],
+          [
+            "Grid",
+            122
+          ],
+          [
+            "Lat_Long_linestring",
+            326
+          ],
+          [
+            "Lat_Long_point",
+            12
+          ],
+          [
+            "Location_Names",
+            130
+          ],
+          [
+            "MSL_BOTTOM",
+            195
+          ],
+          [
+            "Missing_Road_Name",
+            69
+          ],
+          [
+            "Outlet_hatch_polygon",
+            8
+          ],
+          [
+            "Outlet_hatch_multipolygon",
+            32
+          ],
+          [
+            "River_linestring",
+            5
+          ],
+          [
+            "River_polygon",
+            1
+          ],
+          [
+            "Road_Names",
+            496
+          ],
+          [
+            "Text",
+            25
+          ],
+          [
+            "Ward_Boundary",
+            728
+          ],
+          [
+            "ZoneBoundary",
+            4
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_073/ward_073.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_073"
+      }
+    },
+    {
+      "file": "Ward-74.pdf",
+      "ward": 74,
+      "info": {
+        "E0": 416583.4998666667,
+        "N0": 1446199.3060766666,
+        "eE": 111.61299451539526,
+        "eN": 44.100354506867006,
+        "shapefiles": [
+          [
+            "CANAL",
+            10
+          ],
+          [
+            "Drain",
+            146
+          ],
+          [
+            "Drain_Nos",
+            170
+          ],
+          [
+            "Drain_Size",
+            32
+          ],
+          [
+            "MSL_BOTTOM",
+            185
+          ],
+          [
+            "Missing_Road",
+            14
+          ],
+          [
+            "Ward_Boundary",
+            125
+          ],
+          [
+            "Zone_Boundary",
+            670
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_074/ward_074.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_074"
+      }
+    },
+    {
+      "file": "Ward-75.pdf",
+      "ward": 75,
+      "info": {
+        "E0": 417336.03425666667,
+        "N0": 1446321.2277366666,
+        "eE": 121.29136539832689,
+        "eN": 58.224041499430314,
+        "shapefiles": [
+          [
+            "BRIDGE",
+            4
+          ],
+          [
+            "CANAL",
+            9
+          ],
+          [
+            "CarriageWay",
+            49
+          ],
+          [
+            "Divider",
+            4
+          ],
+          [
+            "Drain",
+            68
+          ],
+          [
+            "Drain_Nos",
+            73
+          ],
+          [
+            "Drain_Size",
+            19
+          ],
+          [
+            "MSL_BOTTOM",
+            130
+          ],
+          [
+            "Missing_Road",
+            10
+          ],
+          [
+            "Ward_Boundary",
+            290
+          ],
+          [
+            "Zone_Boundary",
+            74
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_075/ward_075.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_075"
+      }
+    },
+    {
+      "file": "Ward-76.pdf",
+      "ward": 76,
+      "info": {
+        "E0": 417836.45763666666,
+        "N0": 1446570.5985566666,
+        "eE": 25.971265809144825,
+        "eN": 12.710146044380963,
+        "shapefiles": [
+          [
+            "CarriageWay",
+            2
+          ],
+          [
+            "Drain",
+            115
+          ],
+          [
+            "Drain_Flow",
+            15
+          ],
+          [
+            "Drain_Nos",
+            183
+          ],
+          [
+            "MSL_BOTTOM",
+            195
+          ],
+          [
+            "Missing_Road",
+            9
+          ],
+          [
+            "Ward_Boundary",
+            1
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_076/ward_076.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_076"
+      }
+    },
+    {
+      "file": "Ward-77.pdf",
+      "ward": 77,
+      "info": {
+        "E0": 419336.88101666665,
+        "N0": 1446569.7517966668,
+        "eE": 149.94463841884863,
+        "eN": 153.57953488407657,
+        "shapefiles": [
+          [
+            "Drain",
+            136
+          ],
+          [
+            "Drain_Flow",
+            22
+          ],
+          [
+            "Missing_Road",
+            15
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_077/ward_077.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_077"
+      }
+    },
+    {
+      "file": "Ward-78.pdf",
+      "ward": 78,
+      "info": {
+        "E0": 418086.25183666666,
+        "N0": 1446069.5401066667,
+        "eE": 218.59385840204777,
+        "eN": 39.75288842828013,
+        "shapefiles": [
+          [
+            "Drain",
+            79
+          ],
+          [
+            "Drain_Flow",
+            15
+          ],
+          [
+            "Drain_Nos",
+            65
+          ],
+          [
+            "MSL_BOTTOM",
+            100
+          ],
+          [
+            "Missi_Road",
+            16
+          ],
+          [
+            "Ward_Boundary",
+            384
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_078/ward_078.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_078"
+      }
+    },
+    {
+      "file": "Ward-90.pdf",
+      "ward": 90,
+      "info": {
+        "E0": 410522.7330566667,
+        "N0": 1445048.1476366667,
+        "eE": 12.145432679506484,
+        "eN": 82.00132520496845,
+        "shapefiles": [
+          [
+            "CANAL",
+            11
+          ],
+          [
+            "CarriageWay",
+            84
+          ],
+          [
+            "Divider_linestring",
+            20
+          ],
+          [
+            "Divider_polygon",
+            3
+          ],
+          [
+            "Divider_multipolygon",
+            8
+          ],
+          [
+            "Drain",
+            363
+          ],
+          [
+            "Drain_Flow",
+            70
+          ],
+          [
+            "Drain_Nos",
+            532
+          ],
+          [
+            "MSL_BOTTOM",
+            675
+          ],
+          [
+            "Ward_Boundary",
+            526
+          ],
+          [
+            "Zone_Boundary",
+            1410
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_090/ward_090.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_090"
+      }
+    },
+    {
+      "file": "Ward-93.pdf",
+      "ward": 93,
+      "info": {
+        "E0": 410335.83434666664,
+        "N0": 1444445.9131466667,
+        "eE": 157.40623713255627,
+        "eN": 64.07152709015645,
+        "shapefiles": [
+          [
+            "CarriageWay",
+            165
+          ],
+          [
+            "Divider",
+            199
+          ],
+          [
+            "Drain",
+            302
+          ],
+          [
+            "Drain_Nos",
+            462
+          ],
+          [
+            "Drain_Size_linestring",
+            83
+          ],
+          [
+            "Drain_Size_polygon",
+            3
+          ],
+          [
+            "MSL_BOTTOM",
+            500
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_093/ward_093.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_093"
+      }
+    },
+    {
+      "file": "Ward-94.pdf",
+      "ward": 94,
+      "info": {
+        "E0": 411272.1038766667,
+        "N0": 1448072.9271466667,
+        "eE": 154.85817489534384,
+        "eN": 40.54104564432055,
+        "shapefiles": [
+          [
+            "CarriageWay",
+            233
+          ],
+          [
+            "Divider",
+            8
+          ],
+          [
+            "Drain",
+            285
+          ],
+          [
+            "Drain_Nos",
+            401
+          ],
+          [
+            "Drain_Size",
+            24
+          ],
+          [
+            "Fly_Over",
+            1
+          ],
+          [
+            "MSL_BOTTOM",
+            572
+          ],
+          [
+            "Missing_Road",
+            21
+          ],
+          [
+            "Pond",
+            16343
+          ],
+          [
+            "Railway_multipolygon",
+            90
+          ],
+          [
+            "Railway_linestring",
+            15
+          ],
+          [
+            "Road_Names",
+            20
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_094/ward_094.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_094"
+      }
+    },
+    {
+      "file": "Ward-95.pdf",
+      "ward": 95,
+      "info": {
+        "E0": 411224.66175666667,
+        "N0": 1446430.6596866667,
+        "eE": 147.75358629738912,
+        "eN": 172.9611437160056,
+        "shapefiles": [
+          [
+            "Asphalted_Road",
+            4
+          ],
+          [
+            "CANAL",
+            5
+          ],
+          [
+            "CarriageWay",
+            906
+          ],
+          [
+            "Drain",
+            507
+          ],
+          [
+            "Drain_Nos",
+            714
+          ],
+          [
+            "Drain_Size",
+            101
+          ],
+          [
+            "Inundated_area",
+            17
+          ],
+          [
+            "Location_Names",
+            568
+          ],
+          [
+            "MSL_BOTTOM",
+            821
+          ],
+          [
+            "Missing_Road__Name",
+            199
+          ],
+          [
+            "Pond",
+            2
+          ],
+          [
+            "Railway_multipolygon",
+            181
+          ],
+          [
+            "Railway_linestring",
+            43
+          ],
+          [
+            "Road_Names",
+            897
+          ],
+          [
+            "Ward_Boundary",
+            571
+          ],
+          [
+            "Zone_Boundary",
+            416
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_095/ward_095.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_095"
+      }
+    },
+    {
+      "file": "Ward-96.pdf",
+      "ward": 96,
+      "info": {
+        "E0": 413249.58825416665,
+        "N0": 1447293.9726491666,
+        "eE": 100.41185977286659,
+        "eN": 82.11257536057383,
+        "shapefiles": [
+          [
+            "CANAL",
+            7
+          ],
+          [
+            "CarriageWay",
+            277
+          ],
+          [
+            "Divider",
+            4
+          ],
+          [
+            "Drain_linestring",
+            87
+          ],
+          [
+            "Drain_point",
+            228
+          ],
+          [
+            "Drain_Nos",
+            352
+          ],
+          [
+            "Drain_Size_linestring",
+            71
+          ],
+          [
+            "Drain_Size_polygon",
+            3
+          ],
+          [
+            "MSL_BOTTOM",
+            540
+          ],
+          [
+            "Pond_polygon",
+            11779
+          ],
+          [
+            "Pond_linestring",
+            1
+          ],
+          [
+            "Ward_Boundary",
+            24
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_096/ward_096.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_096"
+      }
+    },
+    {
+      "file": "Ward-97.pdf",
+      "ward": 97,
+      "info": {
+        "E0": 414585.61676666664,
+        "N0": 1446321.0160466668,
+        "eE": 133.7633757542353,
+        "eN": 2.627983577316627,
+        "shapefiles": [
+          [
+            "Drain",
+            125
+          ],
+          [
+            "Drain_Nos",
+            134
+          ],
+          [
+            "Drain_Size",
+            30
+          ],
+          [
+            "MSL_BOTTOM",
+            240
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_097/ward_097.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_097"
+      }
+    },
+    {
+      "file": "Ward-98.pdf",
+      "ward": 98,
+      "info": {
+        "E0": 415556.40354666667,
+        "N0": 1445795.1898666667,
+        "eE": 186.95585456950357,
+        "eN": 20.82159687485546,
+        "shapefiles": [
+          [
+            "CANAL",
+            11
+          ],
+          [
+            "CarriageWay",
+            110
+          ],
+          [
+            "Divider",
+            564
+          ],
+          [
+            "Drain",
+            57
+          ],
+          [
+            "Drain_Nos",
+            62
+          ],
+          [
+            "Drain_Size",
+            13
+          ],
+          [
+            "Location_Names",
+            75
+          ],
+          [
+            "MSL_BOTTOM",
+            100
+          ],
+          [
+            "Missing_Road_Name",
+            27
+          ],
+          [
+            "Road_Names",
+            84
+          ],
+          [
+            "Ward_Boundary",
+            383
+          ],
+          [
+            "Zone_Boundary",
+            436
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_098/ward_098.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_098"
+      }
+    },
+    {
+      "file": "Ward-99.pdf",
+      "ward": 99,
+      "info": {
+        "E0": 411274.8558466667,
+        "N0": 1445319.7459066666,
+        "eE": 109.5594278939534,
+        "eN": 159.27240785001777,
+        "shapefiles": [
+          [
+            "CarriageWay",
+            83
+          ],
+          [
+            "Divider",
+            509
+          ],
+          [
+            "Drain",
+            319
+          ],
+          [
+            "Drain_Nos",
+            448
+          ],
+          [
+            "Drain_Size",
+            75
+          ],
+          [
+            "MSL_BOTTOM",
+            637
+          ],
+          [
+            "Missing_Road",
+            41
+          ],
+          [
+            "River",
+            2506
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_099/ward_099.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_099"
+      }
+    },
+    {
+      "file": "Ward_57.pdf",
+      "ward": 57,
+      "info": {
+        "E0": 419827.9900366667,
+        "N0": 1446199.3060766666,
+        "eE": 64.64630954654422,
+        "eN": 35.65055926772766,
+        "shapefiles": [
+          [
+            "CarriageWay",
+            91
+          ],
+          [
+            "Drain",
+            65
+          ],
+          [
+            "Drain_Nos",
+            83
+          ],
+          [
+            "Drain_Size",
+            17
+          ],
+          [
+            "MSL_BOTTOM",
+            145
+          ],
+          [
+            "Missing_Road_Name",
+            1793
+          ],
+          [
+            "Zone_Boundary",
+            273
+          ]
+        ],
+        "tif": "/Users/admin/Desktop/projects/swd/georeferenced/ward_057/ward_057.tif",
+        "out_dir": "/Users/admin/Desktop/projects/swd/georeferenced/ward_057"
+      }
+    }
+  ],
+  "skip": [],
+  "err": []
+}

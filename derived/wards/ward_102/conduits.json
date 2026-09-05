@@ -1,0 +1,44 @@
+[
+ {
+  "cond_id": "A4->A3",
+  "from_node": "A4",
+  "to_node": "A3",
+  "ward": 102,
+  "length_m": 268.781,
+  "us_invert": 5.815,
+  "ds_invert": 5.578,
+  "width_m": 0.953,
+  "depth_m": 0.359,
+  "type": "C",
+  "slope": 0.000882,
+  "dir_src": "invert"
+ },
+ {
+  "cond_id": "C4->C2",
+  "from_node": "C4",
+  "to_node": "C2",
+  "ward": 102,
+  "length_m": 280.457,
+  "us_invert": 6.093,
+  "ds_invert": 4.934,
+  "width_m": 0.891,
+  "depth_m": 0.755,
+  "type": "C",
+  "slope": 0.004133,
+  "dir_src": "invert"
+ },
+ {
+  "cond_id": "E4->E3",
+  "from_node": "E4",
+  "to_node": "E3",
+  "ward": 102,
+  "length_m": 101.323,
+  "us_invert": 6.836,
+  "ds_invert": 6.39,
+  "width_m": 0.605,
+  "depth_m": 0.248,
+  "type": "C",
+  "slope": 0.004402,
+  "dir_src": "invert"
+ }
+]

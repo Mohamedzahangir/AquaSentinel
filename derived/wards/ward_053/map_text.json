@@ -1,0 +1,740 @@
+[
+ {
+  "ward": 53,
+  "role": "road_name",
+  "text": "Mint Street",
+  "east": 421881.35,
+  "north": 1448870.13,
+  "conf": 1.0,
+  "size_pt": 32.52
+ },
+ {
+  "ward": 53,
+  "role": "road_name",
+  "text": "Mint Street",
+  "east": 421640.03,
+  "north": 1448802.18,
+  "conf": 1.0,
+  "size_pt": 31.8
+ },
+ {
+  "ward": 53,
+  "role": "road_name",
+  "text": "Padavattamman Koil Street.",
+  "east": 421511.85,
+  "north": 1448647.76,
+  "conf": 1.0,
+  "size_pt": 86.4
+ },
+ {
+  "ward": 53,
+  "role": "road_name",
+  "text": "NorthWallsRoad",
+  "east": 421514.92,
+  "north": 1448768.52,
+  "conf": 1.0,
+  "size_pt": 20.52
+ },
+ {
+  "ward": 53,
+  "role": "road_name",
+  "text": "StreetSabapathi",
+  "east": 421553.87,
+  "north": 1448490.05,
+  "conf": 1.0,
+  "size_pt": 52.08
+ },
+ {
+  "ward": 53,
+  "role": "road_name",
+  "text": "Peddu Street",
+  "east": 421417.23,
+  "north": 1448538.53,
+  "conf": 1.0,
+  "size_pt": 40.08
+ },
+ {
+  "ward": 53,
+  "role": "road_name",
+  "text": "3rd Ln C23.221Canal Street2nd LnumCochrane Basin RoadL1500",
+  "east": 421125.32,
+  "north": 1449201.95,
+  "conf": 0.9,
+  "size_pt": 77.52
+ },
+ {
+  "ward": 53,
+  "role": "road_name",
+  "text": "2.410 gKathibada LabourNew Lane (East)PDOY DOOQAY(South)(West)",
+  "east": 421487.09,
+  "north": 1448961.37,
+  "conf": 0.883,
+  "size_pt": 100.32
+ },
+ {
+  "ward": 53,
+  "role": "road_name",
+  "text": "\"Kathibada Road2.3",
+  "east": 421899.03,
+  "north": 1449106.05,
+  "conf": 1.0,
+  "size_pt": 48.0
+ },
+ {
+  "ward": 53,
+  "role": "road_name",
+  "text": "Vijayaraghavalu Road",
+  "east": 421996.72,
+  "north": 1449140.56,
+  "conf": 1.0,
+  "size_pt": 63.12
+ },
+ {
+  "ward": 53,
+  "role": "road_name",
+  "text": "Boja Raja Nagar115",
+  "east": 421574.72,
+  "north": 1449459.67,
+  "conf": 1.0,
+  "size_pt": 51.84
+ },
+ {
+  "ward": 53,
+  "role": "road_name",
+  "text": "Ist Street",
+  "east": 421562.34,
+  "north": 1449494.39,
+  "conf": 1.0,
+  "size_pt": 29.88
+ },
+ {
+  "ward": 53,
+  "role": "road_name",
+  "text": "'StreetIst",
+  "east": 421496.61,
+  "north": 1449453.64,
+  "conf": 1.0,
+  "size_pt": 29.76
+ },
+ {
+  "ward": 53,
+  "role": "road_name",
+  "text": "3rdth6th LaneMint45th Lane4th LaneIstMain Rd.s3rd Lane=2nd Lane3rd StreetBoja Raja NagarBola, Raja Nagar1st Laneznd Street",
+  "east": 421486.35,
+  "north": 1449595.05,
+  "conf": 0.961,
+  "size_pt": 115.32
+ },
+ {
+  "ward": 53,
+  "role": "road_name",
+  "text": "Thiruvetriyur High Road",
+  "east": 422085.73,
+  "north": 1449384.63,
+  "conf": 1.0,
+  "size_pt": 69.6
+ },
+ {
+  "ward": 53,
+  "role": "road_name",
+  "text": ")18.897Muthiah Maistry Street17Mohamed Street76SreetlStreeJayaram Nadar Street6thLaneSundaram Naid\u0131Balasub\u013115th LaneMudaliAzizMunusamySajjaVasan Street7th LaneEye161.800CareHospital,LaneTondiaMunusamy Street1stLane3rd Lane4th2nd LaneaD14Lalakunda3,594Tst StreetDr. V.R.Road",
+  "east": 421964.75,
+  "north": 1449569.64,
+  "conf": 0.981,
+  "size_pt": 165.48
+ },
+ {
+  "ward": 53,
+  "role": "road_name",
+  "text": "EgappanStreet",
+  "east": 421666.6,
+  "north": 1449874.68,
+  "conf": 1.0,
+  "size_pt": 24.96
+ },
+ {
+  "ward": 53,
+  "role": "road_name",
+  "text": "D37D2Muniyappan\u00ae2.464x2.5StreetNorth eLanet6thD2LaneOil'suram\u0103n1.3705thLanelMain Road\u20224thParaLaneDharmaraja3rd\u00baD20Lane2.1062nd Lane",
+  "east": 421710.63,
+  "north": 1449787.79,
+  "conf": 1.0,
+  "size_pt": 79.32
+ },
+ {
+  "ward": 53,
+  "role": "road_name",
+  "text": "Peddu Street",
+  "east": 421579.38,
+  "north": 1448559.8,
+  "conf": 1.0,
+  "size_pt": 40.32
+ },
+ {
+  "ward": 53,
+  "role": "road_name",
+  "text": "Kanniah Street",
+  "east": 421617.7,
+  "north": 1448681.73,
+  "conf": 1.0,
+  "size_pt": 45.48
+ },
+ {
+  "ward": 53,
+  "role": "road_name",
+  "text": "Canal Bund Road",
+  "east": 421279.64,
+  "north": 1448509.1,
+  "conf": 1.0,
+  "size_pt": 51.12
+ },
+ {
+  "ward": 53,
+  "role": "road_name",
+  "text": "Thisuttani High Road",
+  "east": 421481.27,
+  "north": 1448458.3,
+  "conf": 1.0,
+  "size_pt": 64.44
+ },
+ {
+  "ward": 53,
+  "role": "road_name",
+  "text": "Old Jail Road",
+  "east": 422033.02,
+  "north": 1448891.62,
+  "conf": 1.0,
+  "size_pt": 41.52
+ },
+ {
+  "ward": 53,
+  "role": "road_name",
+  "text": "Periyapalayathamman Koil Stne",
+  "east": 421325.15,
+  "north": 1449112.51,
+  "conf": 1.0,
+  "size_pt": 84.6
+ },
+ {
+  "ward": 53,
+  "role": "road_name",
+  "text": "3rd Cross Streetane2nd Cross Street3rd LaneKathibada Labour Colony1st Cross StreetGover",
+  "east": 421747.88,
+  "north": 1449039.27,
+  "conf": 1.0,
+  "size_pt": 83.28
+ },
+ {
+  "ward": 53,
+  "role": "road_name",
+  "text": "Kathibada Road3rd",
+  "east": 421642.99,
+  "north": 1449076.21,
+  "conf": 1.0,
+  "size_pt": 44.28
+ },
+ {
+  "ward": 53,
+  "role": "road_name",
+  "text": "Thiruneelakanda Nayanar St",
+  "east": 421590.18,
+  "north": 1448677.07,
+  "conf": 1.0,
+  "size_pt": 85.56
+ },
+ {
+  "ward": 53,
+  "role": "road_name",
+  "text": "3rd Lane",
+  "east": 421276.25,
+  "north": 1449048.26,
+  "conf": 1.0,
+  "size_pt": 27.12
+ },
+ {
+  "ward": 53,
+  "role": "road_name",
+  "text": "2nd Lane",
+  "east": 421281.96,
+  "north": 1449019.69,
+  "conf": 1.0,
+  "size_pt": 28.32
+ },
+ {
+  "ward": 53,
+  "role": "road_name",
+  "text": "Ist Lane",
+  "east": 421312.55,
+  "north": 1448991.11,
+  "conf": 1.0,
+  "size_pt": 24.84
+ },
+ {
+  "ward": 53,
+  "role": "road_name",
+  "text": "6th Lane",
+  "east": 421256.77,
+  "north": 1449131.46,
+  "conf": 1.0,
+  "size_pt": 26.88
+ },
+ {
+  "ward": 53,
+  "role": "road_name",
+  "text": "5th Lane.",
+  "east": 421247.88,
+  "north": 1449103.62,
+  "conf": 1.0,
+  "size_pt": 27.12
+ },
+ {
+  "ward": 53,
+  "role": "road_name",
+  "text": "4th Lane",
+  "east": 421269.9,
+  "north": 1449072.5,
+  "conf": 1.0,
+  "size_pt": 27.12
+ },
+ {
+  "ward": 53,
+  "role": "road_name",
+  "text": "d3r",
+  "east": 421836.47,
+  "north": 1449452.9,
+  "conf": 1.0,
+  "size_pt": 54.6
+ },
+ {
+  "ward": 53,
+  "role": "road_name",
+  "text": "4th Street",
+  "east": 421077.16,
+  "north": 1449389.18,
+  "conf": 1.0,
+  "size_pt": 31.56
+ },
+ {
+  "ward": 53,
+  "role": "road_name",
+  "text": "3rd Street",
+  "east": 421066.89,
+  "north": 1449362.93,
+  "conf": 1.0,
+  "size_pt": 31.68
+ },
+ {
+  "ward": 53,
+  "role": "road_name",
+  "text": "5th Street",
+  "east": 421072.4,
+  "north": 1449415.33,
+  "conf": 1.0,
+  "size_pt": 31.68
+ },
+ {
+  "ward": 53,
+  "role": "road_name",
+  "text": "2nd Street",
+  "east": 421073.24,
+  "north": 1449333.3,
+  "conf": 1.0,
+  "size_pt": 33.36
+ },
+ {
+  "ward": 53,
+  "role": "road_name",
+  "text": "Stanly NagarIst Street",
+  "east": 421077.48,
+  "north": 1449296.78,
+  "conf": 1.0,
+  "size_pt": 39.84
+ },
+ {
+  "ward": 53,
+  "role": "road_name",
+  "text": "C12.27C15Cochrane2.277Basin RoadCochrane6th Street5th StreetChithambaranar NagarBasin Road3rd Street2nd Street1st Street",
+  "east": 421247.46,
+  "north": 1448887.81,
+  "conf": 1.0,
+  "size_pt": 105.84
+ },
+ {
+  "ward": 53,
+  "role": "road_name",
+  "text": "Basin Bridge Road",
+  "east": 421762.6,
+  "north": 1448913.0,
+  "conf": 1.0,
+  "size_pt": 54.36
+ },
+ {
+  "ward": 53,
+  "role": "road_name",
+  "text": "Mint Flyover",
+  "east": 421934.17,
+  "north": 1448935.33,
+  "conf": 1.0,
+  "size_pt": 36.96
+ },
+ {
+  "ward": 53,
+  "role": "road_name",
+  "text": "BasinBridge",
+  "east": 421135.06,
+  "north": 1448760.16,
+  "conf": 1.0,
+  "size_pt": 18.48
+ },
+ {
+  "ward": 53,
+  "role": "road_name",
+  "text": "Kannan Street",
+  "east": 421626.59,
+  "north": 1449802.5,
+  "conf": 1.0,
+  "size_pt": 44.16
+ },
+ {
+  "ward": 53,
+  "role": "road_name",
+  "text": "Divan Bahdur Kumarasamy St",
+  "east": 421926.02,
+  "north": 1449681.41,
+  "conf": 1.0,
+  "size_pt": 93.72
+ },
+ {
+  "ward": 53,
+  "role": "road_name",
+  "text": "Boja Raja NagarMain Road2900",
+  "east": 421634.53,
+  "north": 1449559.38,
+  "conf": 1.0,
+  "size_pt": 85.32
+ },
+ {
+  "ward": 53,
+  "role": "road_name",
+  "text": "4thLane3rdSrinivasapuram2nd StreetIst Lanet ModerncityCitv",
+  "east": 421532.28,
+  "north": 1449789.37,
+  "conf": 1.0,
+  "size_pt": 91.2
+ },
+ {
+  "ward": 53,
+  "role": "road_name",
+  "text": "Cochrane Basin Road",
+  "east": 421323.03,
+  "north": 1449610.92,
+  "conf": 1.0,
+  "size_pt": 63.36
+ },
+ {
+  "ward": 53,
+  "role": "road_name",
+  "text": "Basin Bridge Road",
+  "east": 421352.67,
+  "north": 1448740.37,
+  "conf": 1.0,
+  "size_pt": 56.16
+ },
+ {
+  "ward": 53,
+  "role": "road_name",
+  "text": "iol slreetDr. V.R.Road\u2192 (North)Washermanpel(We.(East)Muthiah ChettyIst Lane",
+  "east": 421989.84,
+  "north": 1449444.75,
+  "conf": 1.0,
+  "size_pt": 88.56
+ },
+ {
+  "ward": 53,
+  "role": "road_name",
+  "text": "Lalakundaz.Ist Street",
+  "east": 422039.59,
+  "north": 1449488.99,
+  "conf": 1.0,
+  "size_pt": 30.0
+ },
+ {
+  "ward": 53,
+  "role": "road_name",
+  "text": "Nagappa NagarStStanly Nagar 6th4th LaneIst Lane",
+  "east": 421159.19,
+  "north": 1449338.91,
+  "conf": 1.0,
+  "size_pt": 65.52
+ },
+ {
+  "ward": 53,
+  "role": "road_name",
+  "text": "NatarajaStreet",
+  "east": 422081.92,
+  "north": 1449682.26,
+  "conf": 1.0,
+  "size_pt": 24.72
+ },
+ {
+  "ward": 53,
+  "role": "road_name",
+  "text": "KuppammalStreet",
+  "east": 421758.78,
+  "north": 1449626.59,
+  "conf": 1.0,
+  "size_pt": 35.64
+ },
+ {
+  "ward": 53,
+  "role": "road_name",
+  "text": "Ist Lane",
+  "east": 421696.87,
+  "north": 1449695.81,
+  "conf": 1.0,
+  "size_pt": 25.44
+ },
+ {
+  "ward": 53,
+  "role": "road_name",
+  "text": "SouthLane",
+  "east": 421694.33,
+  "north": 1449659.93,
+  "conf": 1.0,
+  "size_pt": 16.56
+ },
+ {
+  "ward": 53,
+  "role": "road_name",
+  "text": "-Mint ModernW7SCity2nd Cross Lane494Mint Modern City3rd Main Rd4th Main RdIst Cross Lane1.571bth Lanesth Lane4th LaneIstMain Rd.s3rd LaneRd3rd Street2nd Lanev1.18aja Naaar",
+  "east": 421515.03,
+  "north": 1449646.91,
+  "conf": 1.0,
+  "size_pt": 100.56
+ },
+ {
+  "ward": 53,
+  "role": "road_name",
+  "text": "7th LaneSouth Lane8th Lane",
+  "east": 421425.7,
+  "north": 1449486.03,
+  "conf": 1.0,
+  "size_pt": 49.68
+ },
+ {
+  "ward": 53,
+  "role": "road_name",
+  "text": "Sra StreetNew Pensioner4th Street3rd StreetCrossStreetCross St2ndNew Pensioner 2nd StreetIst1st Street",
+  "east": 421907.81,
+  "north": 1449227.67,
+  "conf": 1.0,
+  "size_pt": 105.72
+ },
+ {
+  "ward": 53,
+  "role": "road_name",
+  "text": "4th Street",
+  "east": 421863.15,
+  "north": 1449331.71,
+  "conf": 1.0,
+  "size_pt": 31.32
+ },
+ {
+  "ward": 53,
+  "role": "road_name",
+  "text": "3rd Street",
+  "east": 421846.95,
+  "north": 1449301.12,
+  "conf": 1.0,
+  "size_pt": 31.44
+ },
+ {
+  "ward": 53,
+  "role": "road_name",
+  "text": "sra uu2nd Cross Streeta.r C",
+  "east": 421746.61,
+  "north": 1449045.09,
+  "conf": 0.833,
+  "size_pt": 51.6
+ },
+ {
+  "ward": 53,
+  "role": "road_name",
+  "text": "2nd Lane",
+  "east": 421806.31,
+  "north": 1449080.86,
+  "conf": 1.0,
+  "size_pt": 27.84
+ },
+ {
+  "ward": 53,
+  "role": "road_name",
+  "text": "Ramdas Nagar",
+  "east": 421700.47,
+  "north": 1449233.38,
+  "conf": 1.0,
+  "size_pt": 35.28
+ },
+ {
+  "ward": 53,
+  "role": "road_name",
+  "text": "Ist Lane",
+  "east": 421865.47,
+  "north": 1449033.98,
+  "conf": 1.0,
+  "size_pt": 25.56
+ },
+ {
+  "ward": 53,
+  "role": "road_name",
+  "text": "Ist Street",
+  "east": 421289.9,
+  "north": 1448795.19,
+  "conf": 1.0,
+  "size_pt": 29.88
+ },
+ {
+  "ward": 53,
+  "role": "road_name",
+  "text": "2nd Street",
+  "east": 421284.93,
+  "north": 1448818.48,
+  "conf": 1.0,
+  "size_pt": 32.4
+ },
+ {
+  "ward": 53,
+  "role": "road_name",
+  "text": "Streek.8th Street\u00ae9th7th Street",
+  "east": 421237.83,
+  "north": 1449172.31,
+  "conf": 0.875,
+  "size_pt": 45.48
+ },
+ {
+  "ward": 53,
+  "role": "road_name",
+  "text": "Pandit Gola Puri Nagar",
+  "east": 421202.16,
+  "north": 1449074.41,
+  "conf": 1.0,
+  "size_pt": 72.6
+ },
+ {
+  "ward": 53,
+  "role": "road_name",
+  "text": "Nehru Memorial Nagar",
+  "east": 421068.16,
+  "north": 1449439.25,
+  "conf": 1.0,
+  "size_pt": 69.84
+ },
+ {
+  "ward": 53,
+  "role": "road_name",
+  "text": "Nagappa NagarSrd Lone $2528",
+  "east": 421214.44,
+  "north": 1449415.33,
+  "conf": 1.0,
+  "size_pt": 48.0
+ },
+ {
+  "ward": 53,
+  "role": "road_name",
+  "text": "2nd Ln",
+  "east": 421139.29,
+  "north": 1449232.22,
+  "conf": 1.0,
+  "size_pt": 21.12
+ },
+ {
+  "ward": 53,
+  "role": "road_name",
+  "text": "3rd Ln",
+  "east": 421139.61,
+  "north": 1449262.81,
+  "conf": 1.0,
+  "size_pt": 19.56
+ },
+ {
+  "ward": 53,
+  "role": "location_names",
+  "text": "Hindu",
+  "east": 421344.31,
+  "north": 1449414.48,
+  "conf": 1.0,
+  "size_pt": 16.2
+ },
+ {
+  "ward": 53,
+  "role": "location_names",
+  "text": "burial",
+  "east": 421380.82,
+  "north": 1449414.48,
+  "conf": 1.0,
+  "size_pt": 16.32
+ },
+ {
+  "ward": 53,
+  "role": "location_names",
+  "text": "ground",
+  "east": 421421.04,
+  "north": 1449413.21,
+  "conf": 1.0,
+  "size_pt": 20.64
+ },
+ {
+  "ward": 53,
+  "role": "location_names",
+  "text": "Corporation",
+  "east": 421439.14,
+  "north": 1449059.59,
+  "conf": 1.0,
+  "size_pt": 34.2
+ },
+ {
+  "ward": 53,
+  "role": "location_names",
+  "text": "Lorry Depot",
+  "east": 421508.89,
+  "north": 1449059.59,
+  "conf": 1.0,
+  "size_pt": 35.52
+ },
+ {
+  "ward": 53,
+  "role": "location_names",
+  "text": "GovernmentPress",
+  "east": 421826.31,
+  "north": 1448987.83,
+  "conf": 1.0,
+  "size_pt": 35.64
+ },
+ {
+  "ward": 53,
+  "role": "location_names",
+  "text": "Sri KrishnaTalkies",
+  "east": 421896.59,
+  "north": 1448978.2,
+  "conf": 1.0,
+  "size_pt": 33.48
+ },
+ {
+  "ward": 53,
+  "role": "location_names",
+  "text": "Washermanpet",
+  "east": 422035.46,
+  "north": 1449456.82,
+  "conf": 1.0,
+  "size_pt": 42.6
+ },
+ {
+  "ward": 53,
+  "role": "location_names",
+  "text": "\u0131valdVasanStreetEyeCareHospital,Tondia",
+  "east": 422063.61,
+  "north": 1449542.87,
+  "conf": 1.0,
+  "size_pt": 42.12
+ }
+]

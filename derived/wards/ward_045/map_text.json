@@ -1,0 +1,839 @@
+[
+ {
+  "ward": 45,
+  "role": "road_name",
+  "text": "Perambur High Road",
+  "east": 419615.92,
+  "north": 1449371.51,
+  "conf": 1.0,
+  "size_pt": 65.04
+ },
+ {
+  "ward": 45,
+  "role": "road_name",
+  "text": "Erukkancheri High Road",
+  "east": 419830.53,
+  "north": 1450343.99,
+  "conf": 1.0,
+  "size_pt": 74.16
+ },
+ {
+  "ward": 45,
+  "role": "road_name",
+  "text": "Moorthinagar St",
+  "east": 419970.54,
+  "north": 1450060.86,
+  "conf": 1.0,
+  "size_pt": 48.84
+ },
+ {
+  "ward": 45,
+  "role": "road_name",
+  "text": "Muthu Street",
+  "east": 420020.59,
+  "north": 1449893.73,
+  "conf": 1.0,
+  "size_pt": 40.08
+ },
+ {
+  "ward": 45,
+  "role": "road_name",
+  "text": "Erukkancheri High Rd",
+  "east": 420090.01,
+  "north": 1450135.8,
+  "conf": 1.0,
+  "size_pt": 59.4
+ },
+ {
+  "ward": 45,
+  "role": "road_name",
+  "text": "Erukkancheri High Road",
+  "east": 420318.38,
+  "north": 1449581.39,
+  "conf": 1.0,
+  "size_pt": 57.72
+ },
+ {
+  "ward": 45,
+  "role": "road_name",
+  "text": "Balamurugan Street",
+  "east": 419073.78,
+  "north": 1449784.08,
+  "conf": 1.0,
+  "size_pt": 61.68
+ },
+ {
+  "ward": 45,
+  "role": "road_name",
+  "text": "7th Street",
+  "east": 419400.78,
+  "north": 1449670.51,
+  "conf": 1.0,
+  "size_pt": 31.08
+ },
+ {
+  "ward": 45,
+  "role": "road_name",
+  "text": "8th Street",
+  "east": 419404.27,
+  "north": 1449720.36,
+  "conf": 1.0,
+  "size_pt": 31.68
+ },
+ {
+  "ward": 45,
+  "role": "road_name",
+  "text": "SundaramSt3rd CrossAppu StreetSundaram6th Street",
+  "east": 420016.15,
+  "north": 1449608.17,
+  "conf": 1.0,
+  "size_pt": 55.92
+ },
+ {
+  "ward": 45,
+  "role": "road_name",
+  "text": "BB Road",
+  "east": 419003.2,
+  "north": 1449814.14,
+  "conf": 1.0,
+  "size_pt": 27.12
+ },
+ {
+  "ward": 45,
+  "role": "road_name",
+  "text": "A.A.Road",
+  "east": 419229.34,
+  "north": 1449323.35,
+  "conf": 1.0,
+  "size_pt": 26.52
+ },
+ {
+  "ward": 45,
+  "role": "road_name",
+  "text": "Ist Streetarpadi",
+  "east": 419552.85,
+  "north": 1449534.4,
+  "conf": 1.0,
+  "size_pt": 37.8
+ },
+ {
+  "ward": 45,
+  "role": "road_name",
+  "text": "M.M. Garden Ist Street",
+  "east": 419623.54,
+  "north": 1449459.89,
+  "conf": 1.0,
+  "size_pt": 72.36
+ },
+ {
+  "ward": 45,
+  "role": "road_name",
+  "text": "GardenM.M.RoadMain3rd.2nd StreetStreet",
+  "east": 419675.18,
+  "north": 1449436.81,
+  "conf": 1.0,
+  "size_pt": 49.08
+ },
+ {
+  "ward": 45,
+  "role": "road_name",
+  "text": "BSNL Quarters",
+  "east": 419173.47,
+  "north": 1449513.55,
+  "conf": 1.0,
+  "size_pt": 45.0
+ },
+ {
+  "ward": 45,
+  "role": "road_name",
+  "text": "Omi3 SundaramSundar5th StreetD233.921",
+  "east": 419922.49,
+  "north": 1449626.59,
+  "conf": 0.9,
+  "size_pt": 58.08
+ },
+ {
+  "ward": 45,
+  "role": "road_name",
+  "text": "Balakrishnan St",
+  "east": 420050.65,
+  "north": 1449764.61,
+  "conf": 1.0,
+  "size_pt": 48.0
+ },
+ {
+  "ward": 45,
+  "role": "road_name",
+  "text": "1st Cross StMayor Krishnamurthy Main RoadSundaramQQ2nd St3rd StIst StGanesapurameO.P.Lane.2nd St3rd St\u20221st StQMain",
+  "east": 419879.64,
+  "north": 1449470.36,
+  "conf": 1.0,
+  "size_pt": 142.56
+ },
+ {
+  "ward": 45,
+  "role": "road_name",
+  "text": ":Bhakthavatchalam Colony8th Stgth St",
+  "east": 419370.72,
+  "north": 1450016.09,
+  "conf": 1.0,
+  "size_pt": 79.92
+ },
+ {
+  "ward": 45,
+  "role": "road_name",
+  "text": "LZSrd StreetRecreation Ground3rd LaneStBhakthavatchak4th St22nd StreetAnnai Sathiya Nagar22nd3rd Streets,8th Stgth StD2010th Street21st Street5th St3.910=Bhakthavatchalam Colony11th StreetN/st StB.VCotonyNagar12th StreetAnnai Sath20th StreetIst Lane13th StreetStreet14th StreetRoad19th st\"715th Street/4.065BhakthavatchalamMurthingarRoad17th30thColony2.1216th St29thMurthingar Road1st St8th28th217thStMurthingarMurAth StSt-St St7th St st6th St19th st18th StuzColony5thRoaRoadNew StSt14th Sty3thStl1th StrMurthingaral17th stSan21st St 20th StiayisSt 16th26th St24th10th St 9thRoadNagar25th25th/22nd StStD177th\u043d\u0131ngn4.13612th15thD13St3rd54,600",
+  "east": 419599.41,
+  "north": 1449941.79,
+  "conf": 0.984,
+  "size_pt": 292.32
+ },
+ {
+  "ward": 45,
+  "role": "road_name",
+  "text": "Ist St2nd St",
+  "east": 418962.98,
+  "north": 1450052.5,
+  "conf": 1.0,
+  "size_pt": 20.64
+ },
+ {
+  "ward": 45,
+  "role": "road_name",
+  "text": "Renuka Amman Koil 5th Stu' ulreetSt5thKakan || Colony5thStreetKakkan |! ColonyStreet2nd St3rd StPuthu",
+  "east": 418913.88,
+  "north": 1450142.89,
+  "conf": 1.0,
+  "size_pt": 151.68
+ },
+ {
+  "ward": 45,
+  "role": "road_name",
+  "text": "3rd St",
+  "east": 418931.76,
+  "north": 1450048.26,
+  "conf": 1.0,
+  "size_pt": 18.96
+ },
+ {
+  "ward": 45,
+  "role": "road_name",
+  "text": "Nagavalli Amman Koil Street",
+  "east": 418858.85,
+  "north": 1450170.62,
+  "conf": 1.0,
+  "size_pt": 89.76
+ },
+ {
+  "ward": 45,
+  "role": "road_name",
+  "text": "24th Street",
+  "east": 419494.43,
+  "north": 1450128.28,
+  "conf": 1.0,
+  "size_pt": 35.76
+ },
+ {
+  "ward": 45,
+  "role": "road_name",
+  "text": "10th Street",
+  "east": 419407.55,
+  "north": 1450026.57,
+  "conf": 1.0,
+  "size_pt": 34.2
+ },
+ {
+  "ward": 45,
+  "role": "road_name",
+  "text": "11th Street",
+  "east": 419438.03,
+  "north": 1450002.75,
+  "conf": 1.0,
+  "size_pt": 33.84
+ },
+ {
+  "ward": 45,
+  "role": "road_name",
+  "text": "12th Street",
+  "east": 419468.4,
+  "north": 1449990.9,
+  "conf": 1.0,
+  "size_pt": 34.32
+ },
+ {
+  "ward": 45,
+  "role": "road_name",
+  "text": "13th Street",
+  "east": 419496.97,
+  "north": 1449977.77,
+  "conf": 1.0,
+  "size_pt": 34.56
+ },
+ {
+  "ward": 45,
+  "role": "road_name",
+  "text": "20th Street",
+  "east": 419625.87,
+  "north": 1449987.93,
+  "conf": 1.0,
+  "size_pt": 36.24
+ },
+ {
+  "ward": 45,
+  "role": "road_name",
+  "text": "23rd Streetation GroundBhakthavatchalam01922nd St",
+  "east": 419511.26,
+  "north": 1450067.85,
+  "conf": 1.0,
+  "size_pt": 54.12
+ },
+ {
+  "ward": 45,
+  "role": "road_name",
+  "text": "22nd Street",
+  "east": 419625.44,
+  "north": 1450056.2,
+  "conf": 1.0,
+  "size_pt": 37.2
+ },
+ {
+  "ward": 45,
+  "role": "road_name",
+  "text": "ColorKarimedu Colony Ist Street3rd2nd",
+  "east": 419208.92,
+  "north": 1449913.42,
+  "conf": 0.825,
+  "size_pt": 86.4
+ },
+ {
+  "ward": 45,
+  "role": "road_name",
+  "text": "E Bhakthavatchalam Colony 5th StBhakthavatchalam Colony 6th St",
+  "east": 419245.01,
+  "north": 1450005.4,
+  "conf": 1.0,
+  "size_pt": 111.72
+ },
+ {
+  "ward": 45,
+  "role": "road_name",
+  "text": "Bhakthavatchalam Colony 7th Stmedu c",
+  "east": 419248.39,
+  "north": 1449957.87,
+  "conf": 0.65,
+  "size_pt": 103.08
+ },
+ {
+  "ward": 45,
+  "role": "road_name",
+  "text": "4th Street",
+  "east": 419285.01,
+  "north": 1450053.45,
+  "conf": 1.0,
+  "size_pt": 31.8
+ },
+ {
+  "ward": 45,
+  "role": "road_name",
+  "text": "3rd Street4th S",
+  "east": 419248.18,
+  "north": 1450067.1,
+  "conf": 1.0,
+  "size_pt": 37.32
+ },
+ {
+  "ward": 45,
+  "role": "road_name",
+  "text": "Ath St",
+  "east": 419099.39,
+  "north": 1450023.39,
+  "conf": 1.0,
+  "size_pt": 19.56
+ },
+ {
+  "ward": 45,
+  "role": "road_name",
+  "text": "4th Street",
+  "east": 419089.23,
+  "north": 1450105.52,
+  "conf": 1.0,
+  "size_pt": 31.32
+ },
+ {
+  "ward": 45,
+  "role": "road_name",
+  "text": "5th Street",
+  "east": 419297.39,
+  "north": 1449671.04,
+  "conf": 1.0,
+  "size_pt": 31.68
+ },
+ {
+  "ward": 45,
+  "role": "road_name",
+  "text": "Murthingar Road",
+  "east": 419915.3,
+  "north": 1450014.61,
+  "conf": 1.0,
+  "size_pt": 50.88
+ },
+ {
+  "ward": 45,
+  "role": "road_name",
+  "text": "unakinavatcnsColony31st29th StreethalamBhakthavatchalamColony 30th StBhakthavatchalamColony29th StBhaktha",
+  "east": 419588.3,
+  "north": 1450230.1,
+  "conf": 1.0,
+  "size_pt": 109.8
+ },
+ {
+  "ward": 45,
+  "role": "road_name",
+  "text": "4th St",
+  "east": 418979.7,
+  "north": 1450120.34,
+  "conf": 1.0,
+  "size_pt": 19.32
+ },
+ {
+  "ward": 45,
+  "role": "road_name",
+  "text": "DSri4.2.Ram Nagar 2nd StreetSri Ram Nagar2nd StMain RoadShanthi Nagar 4th St",
+  "east": 419198.87,
+  "north": 1449782.71,
+  "conf": 1.0,
+  "size_pt": 88.68
+ },
+ {
+  "ward": 45,
+  "role": "road_name",
+  "text": "Shanthi Nagar 4th Street",
+  "east": 419231.57,
+  "north": 1449740.69,
+  "conf": 1.0,
+  "size_pt": 80.16
+ },
+ {
+  "ward": 45,
+  "role": "road_name",
+  "text": "14th_Street",
+  "east": 419447.13,
+  "north": 1449585.63,
+  "conf": 1.0,
+  "size_pt": 31.56
+ },
+ {
+  "ward": 45,
+  "role": "road_name",
+  "text": "6th Street",
+  "east": 419405.96,
+  "north": 1449640.56,
+  "conf": 1.0,
+  "size_pt": 31.92
+ },
+ {
+  "ward": 45,
+  "role": "road_name",
+  "text": "accnalam29th StBhakthavatchalameetColony 28th Steet",
+  "east": 419599.83,
+  "north": 1450152.52,
+  "conf": 1.0,
+  "size_pt": 96.48
+ },
+ {
+  "ward": 45,
+  "role": "road_name",
+  "text": "26th Street25th Street",
+  "east": 419461.1,
+  "north": 1450168.5,
+  "conf": 1.0,
+  "size_pt": 70.44
+ },
+ {
+  "ward": 45,
+  "role": "road_name",
+  "text": "Kanniah GardenIst StreetD2",
+  "east": 419686.93,
+  "north": 1449553.03,
+  "conf": 1.0,
+  "size_pt": 47.88
+ },
+ {
+  "ward": 45,
+  "role": "road_name",
+  "text": "KrishnanKoil St",
+  "east": 420209.49,
+  "north": 1449705.65,
+  "conf": 1.0,
+  "size_pt": 25.32
+ },
+ {
+  "ward": 45,
+  "role": "road_name",
+  "text": "ChinnathambiStreet",
+  "east": 420134.35,
+  "north": 1449750.11,
+  "conf": 1.0,
+  "size_pt": 41.4
+ },
+ {
+  "ward": 45,
+  "role": "road_name",
+  "text": "D144.942Main RoadMoorthinganRathinamLaneDe\u015figaNandhapuramNandhapuramPower Line",
+  "east": 419896.78,
+  "north": 1449778.79,
+  "conf": 1.0,
+  "size_pt": 69.6
+ },
+ {
+  "ward": 45,
+  "role": "road_name",
+  "text": "RathinamIst Street",
+  "east": 419980.49,
+  "north": 1449811.28,
+  "conf": 1.0,
+  "size_pt": 29.88
+ },
+ {
+  "ward": 45,
+  "role": "road_name",
+  "text": "O.P.Lane",
+  "east": 419791.8,
+  "north": 1449448.98,
+  "conf": 1.0,
+  "size_pt": 25.44
+ },
+ {
+  "ward": 45,
+  "role": "road_name",
+  "text": "SundaramMain Road",
+  "east": 420103.45,
+  "north": 1449531.12,
+  "conf": 1.0,
+  "size_pt": 32.28
+ },
+ {
+  "ward": 45,
+  "role": "road_name",
+  "text": "2nd crossSt",
+  "east": 419979.11,
+  "north": 1449536.2,
+  "conf": 1.0,
+  "size_pt": 40.8
+ },
+ {
+  "ward": 45,
+  "role": "road_name",
+  "text": "Stand Road",
+  "east": 420033.08,
+  "north": 1449448.14,
+  "conf": 0.3,
+  "size_pt": 32.64
+ },
+ {
+  "ward": 45,
+  "role": "road_name",
+  "text": "4.000LCRatlD)4Moor4.029DesigaNorver Pit-PowerRenganathapuramDr. Ambedkar College RoadIst Street2nd StreetD3.877 \u0433DesikanandapuramDesikanandapuramSundaKanniah Garden 2nd_stree Desikanandapuramo5th StIst StreetD2.3.925th4th StreetD21",
+  "east": 419758.68,
+  "north": 1449674.01,
+  "conf": 0.974,
+  "size_pt": 180.12
+ },
+ {
+  "ward": 45,
+  "role": "road_name",
+  "text": "Balakrishnan Street",
+  "east": 420101.13,
+  "north": 1449658.45,
+  "conf": 1.0,
+  "size_pt": 58.68
+ },
+ {
+  "ward": 45,
+  "role": "road_name",
+  "text": "Bhakthavatchalam",
+  "east": 419166.27,
+  "north": 1450150.93,
+  "conf": 1.0,
+  "size_pt": 54.84
+ },
+ {
+  "ward": 45,
+  "role": "road_name",
+  "text": "Colony 1st St",
+  "east": 419266.91,
+  "north": 1450162.26,
+  "conf": 1.0,
+  "size_pt": 41.52
+ },
+ {
+  "ward": 45,
+  "role": "road_name",
+  "text": "2nd Street",
+  "east": 419220.67,
+  "north": 1450114.84,
+  "conf": 1.0,
+  "size_pt": 32.76
+ },
+ {
+  "ward": 45,
+  "role": "road_name",
+  "text": "BhakthavatchalamColony 31stSt",
+  "east": 419663.22,
+  "north": 1450270.0,
+  "conf": 1.0,
+  "size_pt": 55.32
+ },
+ {
+  "ward": 45,
+  "role": "road_name",
+  "text": "29thBhakthavatchalamColony 28th StBhakthavatchalamColony 27th Street",
+  "east": 419441.31,
+  "north": 1450243.86,
+  "conf": 1.0,
+  "size_pt": 82.32
+ },
+ {
+  "ward": 45,
+  "role": "road_name",
+  "text": "3rd Street",
+  "east": 419444.48,
+  "north": 1449476.29,
+  "conf": 1.0,
+  "size_pt": 31.68
+ },
+ {
+  "ward": 45,
+  "role": "road_name",
+  "text": "Avvai Nag\u00e4roIst Street",
+  "east": 419434.01,
+  "north": 1449388.55,
+  "conf": 1.0,
+  "size_pt": 40.92
+ },
+ {
+  "ward": 45,
+  "role": "road_name",
+  "text": "2nd Street",
+  "east": 419443.43,
+  "north": 1449436.49,
+  "conf": 1.0,
+  "size_pt": 32.64
+ },
+ {
+  "ward": 45,
+  "role": "road_name",
+  "text": "MurthingarRoad",
+  "east": 419868.74,
+  "north": 1449864.94,
+  "conf": 1.0,
+  "size_pt": 31.8
+ },
+ {
+  "ward": 45,
+  "role": "road_name",
+  "text": "Sundaram6th Street",
+  "east": 420008.32,
+  "north": 1449585.31,
+  "conf": 1.0,
+  "size_pt": 32.4
+ },
+ {
+  "ward": 45,
+  "role": "road_name",
+  "text": "RathinamInd Street",
+  "east": 419974.67,
+  "north": 1449759.31,
+  "conf": 1.0,
+  "size_pt": 32.64
+ },
+ {
+  "ward": 45,
+  "role": "road_name",
+  "text": "MelpattiPonnappanSalai",
+  "east": 418946.47,
+  "north": 1449922.52,
+  "conf": 1.0,
+  "size_pt": 46.8
+ },
+ {
+  "ward": 45,
+  "role": "road_name",
+  "text": "4th Cross St",
+  "east": 419029.12,
+  "north": 1449522.65,
+  "conf": 1.0,
+  "size_pt": 40.2
+ },
+ {
+  "ward": 45,
+  "role": "road_name",
+  "text": "6th Street",
+  "east": 419300.35,
+  "north": 1449626.38,
+  "conf": 1.0,
+  "size_pt": 31.68
+ },
+ {
+  "ward": 45,
+  "role": "road_name",
+  "text": "2nd Street",
+  "east": 419072.09,
+  "north": 1450068.37,
+  "conf": 1.0,
+  "size_pt": 32.76
+ },
+ {
+  "ward": 45,
+  "role": "road_name",
+  "text": "3rd st",
+  "east": 419118.97,
+  "north": 1450054.61,
+  "conf": 1.0,
+  "size_pt": 18.48
+ },
+ {
+  "ward": 45,
+  "role": "road_name",
+  "text": "21st Street",
+  "east": 419620.15,
+  "north": 1450024.24,
+  "conf": 1.0,
+  "size_pt": 35.04
+ },
+ {
+  "ward": 45,
+  "role": "road_name",
+  "text": "Kasthuri BaiGandhi Nagarl",
+  "east": 419121.08,
+  "north": 1449323.88,
+  "conf": 1.0,
+  "size_pt": 41.52
+ },
+ {
+  "ward": 45,
+  "role": "road_name",
+  "text": "5th Cross St",
+  "east": 419018.22,
+  "north": 1449455.23,
+  "conf": 1.0,
+  "size_pt": 40.56
+ },
+ {
+  "ward": 45,
+  "role": "road_name",
+  "text": "B.B.Road6th Cross St",
+  "east": 419013.78,
+  "north": 1449408.45,
+  "conf": 1.0,
+  "size_pt": 40.32
+ },
+ {
+  "ward": 45,
+  "role": "road_name",
+  "text": "K.K.NagarStreet",
+  "east": 419063.73,
+  "north": 1449921.78,
+  "conf": 1.0,
+  "size_pt": 29.88
+ },
+ {
+  "ward": 45,
+  "role": "road_name",
+  "text": "Kakanji ColonyIstStreet",
+  "east": 419007.22,
+  "north": 1450181.31,
+  "conf": 1.0,
+  "size_pt": 46.56
+ },
+ {
+  "ward": 45,
+  "role": "road_name",
+  "text": "30th Street",
+  "east": 419528.72,
+  "north": 1450309.8,
+  "conf": 1.0,
+  "size_pt": 36.0
+ },
+ {
+  "ward": 45,
+  "role": "road_name",
+  "text": "ErukancheryHigh Road",
+  "east": 419843.76,
+  "north": 1450243.65,
+  "conf": 1.0,
+  "size_pt": 37.2
+ },
+ {
+  "ward": 45,
+  "role": "road_name",
+  "text": "Renganathapuram",
+  "east": 419637.61,
+  "north": 1449710.84,
+  "conf": 1.0,
+  "size_pt": 54.48
+ },
+ {
+  "ward": 45,
+  "role": "road_name",
+  "text": "Perambur High Road",
+  "east": 419246.59,
+  "north": 1449198.56,
+  "conf": 1.0,
+  "size_pt": 65.04
+ },
+ {
+  "ward": 45,
+  "role": "road_name",
+  "text": "BSNL Quarters",
+  "east": 419126.9,
+  "north": 1449437.24,
+  "conf": 1.0,
+  "size_pt": 45.0
+ },
+ {
+  "ward": 45,
+  "role": "road_name",
+  "text": "BSNL Quarters",
+  "east": 419239.5,
+  "north": 1449418.08,
+  "conf": 1.0,
+  "size_pt": 44.4
+ },
+ {
+  "ward": 45,
+  "role": "road_name",
+  "text": "BSNL Quarters",
+  "east": 419275.38,
+  "north": 1449590.92,
+  "conf": 1.0,
+  "size_pt": 45.12
+ },
+ {
+  "ward": 45,
+  "role": "location_names",
+  "text": "BSNLPlayground",
+  "east": 419245.64,
+  "north": 1449661.62,
+  "conf": 1.0,
+  "size_pt": 33.24
+ },
+ {
+  "ward": 45,
+  "role": "location_names",
+  "text": "Recreation Ground",
+  "east": 419480.99,
+  "north": 1450087.21,
+  "conf": 1.0,
+  "size_pt": 57.48
+ },
+ {
+  "ward": 45,
+  "role": "location_names",
+  "text": "VyasarpadiJeeva",
+  "east": 419522.9,
+  "north": 1449538.53,
+  "conf": 1.0,
+  "size_pt": 31.56
+ }
+]

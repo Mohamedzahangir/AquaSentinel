@@ -1,0 +1,911 @@
+[
+ {
+  "ward": 114,
+  "role": "road_name",
+  "text": "Murugappa Street",
+  "east": 421562.03,
+  "north": 1444360.26,
+  "conf": 1.0,
+  "size_pt": 54.17
+ },
+ {
+  "ward": 114,
+  "role": "road_name",
+  "text": "ZamBazaarMarketKuppumuthu StreetThiruvatteeswaranSanadhi StreetB294.005Pillaiyar Koil Street",
+  "east": 421091.23,
+  "north": 1444038.64,
+  "conf": 1.0,
+  "size_pt": 67.2
+ },
+ {
+  "ward": 114,
+  "role": "road_name",
+  "text": "ParthasarathyNaidu_Street",
+  "east": 421516.88,
+  "north": 1444029.47,
+  "conf": 1.0,
+  "size_pt": 40.92
+ },
+ {
+  "ward": 114,
+  "role": "road_name",
+  "text": "Venkatachala StreetJttice",
+  "east": 421671.9,
+  "north": 1444098.51,
+  "conf": 1.0,
+  "size_pt": 61.03
+ },
+ {
+  "ward": 114,
+  "role": "road_name",
+  "text": "Pillai StreetAyya",
+  "east": 421542.38,
+  "north": 1443920.21,
+  "conf": 1.0,
+  "size_pt": 35.54
+ },
+ {
+  "ward": 114,
+  "role": "road_name",
+  "text": "Ranganathan St",
+  "east": 421581.38,
+  "north": 1443915.68,
+  "conf": 1.0,
+  "size_pt": 49.37
+ },
+ {
+  "ward": 114,
+  "role": "road_name",
+  "text": "TriplicaneHigh Road",
+  "east": 421322.85,
+  "north": 1443698.78,
+  "conf": 1.0,
+  "size_pt": 33.83
+ },
+ {
+  "ward": 114,
+  "role": "road_name",
+  "text": "Thayar Sahib Street",
+  "east": 420870.99,
+  "north": 1444343.43,
+  "conf": 1.0,
+  "size_pt": 61.03
+ },
+ {
+  "ward": 114,
+  "role": "road_name",
+  "text": "Appavoo StreetF7\u0424R",
+  "east": 421093.34,
+  "north": 1444404.61,
+  "conf": 0.65,
+  "size_pt": 48.0
+ },
+ {
+  "ward": 114,
+  "role": "road_name",
+  "text": "Pachiyappan Street",
+  "east": 421106.45,
+  "north": 1444374.98,
+  "conf": 1.0,
+  "size_pt": 59.89
+ },
+ {
+  "ward": 114,
+  "role": "road_name",
+  "text": "dhinkhand LaneChepaukArunachala Acharya StStation RoaddeenkhanPolic QuartersStTyphoon Ali Khan Street\u00c8 Yusuf LaneAbdulKareemYuusfStreetYusufStreetStreeB12Abduldul Karim03.426 Kareem LaneVB1123+3.753KridC.N. Krishnasamy RoadC.N.",
+  "east": 421419.81,
+  "north": 1444371.55,
+  "conf": 0.974,
+  "size_pt": 142.06
+ },
+ {
+  "ward": 114,
+  "role": "road_name",
+  "text": "GuruswamyStreetBangaru StreetBurrahStSahib",
+  "east": 420971.79,
+  "north": 1444143.16,
+  "conf": 1.0,
+  "size_pt": 47.32
+ },
+ {
+  "ward": 114,
+  "role": "road_name",
+  "text": "C.N. Kridhnasamy RoadLal Mohammed StVenkatachala Street-OfficeLalmohamedCross StTLalmohamedStreet581Mosque LaneMasuthi Street (Mosque Street)",
+  "east": 421574.63,
+  "north": 1444217.74,
+  "conf": 1.0,
+  "size_pt": 113.26
+ },
+ {
+  "ward": 114,
+  "role": "road_name",
+  "text": "KrishnappaStreet",
+  "east": 421628.05,
+  "north": 1444101.63,
+  "conf": 1.0,
+  "size_pt": 33.26
+ },
+ {
+  "ward": 114,
+  "role": "road_name",
+  "text": "Vallaba AgaraharamThambi StB15nathambi Street4.325fhinnoDistrict BranchwMuragesaNaicker B33Library,Mansion 3.413Tiruvaayor Chitti-B32StreeMayor Chitti Babu Street\u00ae3942",
+  "east": 421175.19,
+  "north": 1444168.86,
+  "conf": 1.0,
+  "size_pt": 138.52
+ },
+ {
+  "ward": 114,
+  "role": "road_name",
+  "text": "Marina Beach Road,",
+  "east": 422165.68,
+  "north": 1443552.13,
+  "conf": 1.0,
+  "size_pt": 60.46
+ },
+ {
+  "ward": 114,
+  "role": "road_name",
+  "text": "Police Quarters StreetShifa HospitalAnd Reasearch CeVeeraraghava Street (Big Street)TriplicaneBuchi Babu SGovernmentHospital9B84,418",
+  "east": 421391.59,
+  "north": 1444093.47,
+  "conf": 1.0,
+  "size_pt": 111.32
+ },
+ {
+  "ward": 114,
+  "role": "road_name",
+  "text": "Buchi Babu St",
+  "east": 421407.62,
+  "north": 1444025.64,
+  "conf": 1.0,
+  "size_pt": 44.69
+ },
+ {
+  "ward": 114,
+  "role": "road_name",
+  "text": "StJohnQmStBangaruEllis RoadaStreetBangar NaickenChepauk Station RoadRajahydharStreetstreetvamy",
+  "east": 420956.26,
+  "north": 1444229.64,
+  "conf": 1.0,
+  "size_pt": 78.52
+ },
+ {
+  "ward": 114,
+  "role": "road_name",
+  "text": "B243.778B25Habibulla4.162ArumugappaCross(s) 2nd LaneStreetLaneHabibullahShahibakkir Sahib StreeHabibullah Shahib StreetLane3rd Lane\u0e3f20BharathiB17Rice 3.927Bhorathi SalgjB19,3.979Mundy S3.9832nd LaneB183.807E3 Bharathi Salai4.135 (pycrafs Road)E23 710",
+  "east": 421163.6,
+  "north": 1443855.2,
+  "conf": 1.0,
+  "size_pt": 162.41
+ },
+ {
+  "ward": 114,
+  "role": "road_name",
+  "text": "B10Khana Bagh Street3.748Liberty LaneBig Street",
+  "east": 421400.26,
+  "north": 1443949.44,
+  "conf": 1.0,
+  "size_pt": 73.03
+ },
+ {
+  "ward": 114,
+  "role": "road_name",
+  "text": "Walajah Road",
+  "east": 421617.27,
+  "north": 1444513.36,
+  "conf": 1.0,
+  "size_pt": 38.4
+ },
+ {
+  "ward": 114,
+  "role": "road_name",
+  "text": "Napier's Bridge",
+  "east": 422441.25,
+  "north": 1444899.99,
+  "conf": 1.0,
+  "size_pt": 45.72
+ },
+ {
+  "ward": 114,
+  "role": "road_name",
+  "text": "Swami Sivananda Salai",
+  "east": 422306.09,
+  "north": 1444772.59,
+  "conf": 1.0,
+  "size_pt": 71.55
+ },
+ {
+  "ward": 114,
+  "role": "road_name",
+  "text": "Wallajah Road",
+  "east": 421232.94,
+  "north": 1444686.82,
+  "conf": 1.0,
+  "size_pt": 36.23
+ },
+ {
+  "ward": 114,
+  "role": "road_name",
+  "text": "ZamBazaarSannathiLaneMarketThiruvatteeswaranSanadhi Street",
+  "east": 421119.85,
+  "north": 1444050.84,
+  "conf": 1.0,
+  "size_pt": 66.86
+ },
+ {
+  "ward": 114,
+  "role": "road_name",
+  "text": "lat.nSubathral StreetH",
+  "east": 421243.42,
+  "north": 1444105.77,
+  "conf": 0.767,
+  "size_pt": 38.4
+ },
+ {
+  "ward": 114,
+  "role": "road_name",
+  "text": "Jony Basha Street",
+  "east": 420887.12,
+  "north": 1444072.81,
+  "conf": 1.0,
+  "size_pt": 57.26
+ },
+ {
+  "ward": 114,
+  "role": "road_name",
+  "text": "Victoriya Hostel Road",
+  "east": 421798.9,
+  "north": 1443783.64,
+  "conf": 1.0,
+  "size_pt": 66.06
+ },
+ {
+  "ward": 114,
+  "role": "road_name",
+  "text": "Service Road",
+  "east": 422221.72,
+  "north": 1443804.0,
+  "conf": 1.0,
+  "size_pt": 40.0
+ },
+ {
+  "ward": 114,
+  "role": "road_name",
+  "text": "Service Road",
+  "east": 422321.91,
+  "north": 1444131.47,
+  "conf": 1.0,
+  "size_pt": 39.89
+ },
+ {
+  "ward": 114,
+  "role": "road_name",
+  "text": "Akbar Sahib Street",
+  "east": 421605.17,
+  "north": 1443936.04,
+  "conf": 1.0,
+  "size_pt": 59.2
+ },
+ {
+  "ward": 114,
+  "role": "road_name",
+  "text": "Sydoji Lane",
+  "east": 421555.88,
+  "north": 1443794.32,
+  "conf": 1.0,
+  "size_pt": 34.97
+ },
+ {
+  "ward": 114,
+  "role": "road_name",
+  "text": "B47etSahib StreetB42.9823.1tAdyarAnandaAkbarBhavan2nd LaneIst Lane",
+  "east": 421614.95,
+  "north": 1443783.74,
+  "conf": 1.0,
+  "size_pt": 69.6
+ },
+ {
+  "ward": 114,
+  "role": "road_name",
+  "text": "3.511KrishnappaLaneLaneLalbegumStreet 1-34",
+  "east": 421574.43,
+  "north": 1444110.0,
+  "conf": 1.0,
+  "size_pt": 39.66
+ },
+ {
+  "ward": 114,
+  "role": "road_name",
+  "text": "Ist Lane",
+  "east": 421126.81,
+  "north": 1443832.93,
+  "conf": 1.0,
+  "size_pt": 25.49
+ },
+ {
+  "ward": 114,
+  "role": "road_name",
+  "text": "3rd Lane",
+  "east": 421168.13,
+  "north": 1443841.29,
+  "conf": 1.0,
+  "size_pt": 27.2
+ },
+ {
+  "ward": 114,
+  "role": "road_name",
+  "text": "G33.577Bangaru StPG24.185SubbarayanSt",
+  "east": 420932.88,
+  "north": 1444046.7,
+  "conf": 1.0,
+  "size_pt": 48.0
+ },
+ {
+  "ward": 114,
+  "role": "road_name",
+  "text": "Pillaiyar KoilIst Lane2nd Lane",
+  "east": 421271.44,
+  "north": 1444026.04,
+  "conf": 1.0,
+  "size_pt": 37.83
+ },
+ {
+  "ward": 114,
+  "role": "road_name",
+  "text": "RoadtQuaide Millath Road",
+  "east": 421275.98,
+  "north": 1444322.57,
+  "conf": 1.0,
+  "size_pt": 60.92
+ },
+ {
+  "ward": 114,
+  "role": "road_name",
+  "text": "Bangaru*'Street\"+",
+  "east": 420939.53,
+  "north": 1444245.06,
+  "conf": 1.0,
+  "size_pt": 24.46
+ },
+ {
+  "ward": 114,
+  "role": "road_name",
+  "text": "RajahydharStreet",
+  "east": 420946.49,
+  "north": 1444209.68,
+  "conf": 1.0,
+  "size_pt": 33.72
+ },
+ {
+  "ward": 114,
+  "role": "road_name",
+  "text": ",Dera Venkatasamy Street",
+  "east": 421400.56,
+  "north": 1444227.42,
+  "conf": 1.0,
+  "size_pt": 79.55
+ },
+ {
+  "ward": 114,
+  "role": "road_name",
+  "text": "3.90 MiyanIst StreetStree2nd StreetchepaukSubramaniyaStatioB2StreetRoad 2nd StreetVenkatesanMohamed Abdulla1st Streetpa StreetC.N.krishnasamyLane",
+  "east": 421654.36,
+  "north": 1444394.03,
+  "conf": 1.0,
+  "size_pt": 107.66
+ },
+ {
+  "ward": 114,
+  "role": "road_name",
+  "text": "ThakudeenkhanStB5",
+  "east": 421333.63,
+  "north": 1444413.98,
+  "conf": 1.0,
+  "size_pt": 44.34
+ },
+ {
+  "ward": 114,
+  "role": "road_name",
+  "text": "Azudhinkhan2nd Lane",
+  "east": 421335.65,
+  "north": 1444452.59,
+  "conf": 1.0,
+  "size_pt": 37.26
+ },
+ {
+  "ward": 114,
+  "role": "road_name",
+  "text": "Tazudeen Khan Street",
+  "east": 421344.52,
+  "north": 1444503.08,
+  "conf": 1.0,
+  "size_pt": 68.12
+ },
+ {
+  "ward": 114,
+  "role": "road_name",
+  "text": "Walajah Road",
+  "east": 422159.33,
+  "north": 1444392.31,
+  "conf": 1.0,
+  "size_pt": 40.92
+ },
+ {
+  "ward": 114,
+  "role": "road_name",
+  "text": "Kamarajar Salai",
+  "east": 422277.36,
+  "north": 1444240.83,
+  "conf": 1.0,
+  "size_pt": 49.6
+ },
+ {
+  "ward": 114,
+  "role": "road_name",
+  "text": "Kamarajar Salai",
+  "east": 422347.72,
+  "north": 1444590.47,
+  "conf": 1.0,
+  "size_pt": 49.49
+ },
+ {
+  "ward": 114,
+  "role": "road_name",
+  "text": "oposactory Lane",
+  "east": 421366.49,
+  "north": 1443882.52,
+  "conf": 1.0,
+  "size_pt": 40.0
+ },
+ {
+  "ward": 114,
+  "role": "road_name",
+  "text": "ChepaukStationRoad",
+  "east": 421706.07,
+  "north": 1444222.68,
+  "conf": 1.0,
+  "size_pt": 25.03
+ },
+ {
+  "ward": 114,
+  "role": "road_name",
+  "text": "Shahib StreetMufthi Amirullah",
+  "east": 421384.74,
+  "north": 1443813.27,
+  "conf": 1.0,
+  "size_pt": 55.54
+ },
+ {
+  "ward": 114,
+  "role": "road_name",
+  "text": "Habibulla(s) 2nd Lane",
+  "east": 421261.97,
+  "north": 1443935.83,
+  "conf": 1.0,
+  "size_pt": 40.57
+ },
+ {
+  "ward": 114,
+  "role": "road_name",
+  "text": "KithbathKhan St",
+  "east": 421052.72,
+  "north": 1444239.52,
+  "conf": 1.0,
+  "size_pt": 25.26
+ },
+ {
+  "ward": 114,
+  "role": "road_name",
+  "text": "StreetBigMosqueDowlathKhan StKithbath Khan'KithbathKhan St",
+  "east": 421058.06,
+  "north": 1444285.37,
+  "conf": 1.0,
+  "size_pt": 66.29
+ },
+ {
+  "ward": 114,
+  "role": "road_name",
+  "text": "Passage",
+  "east": 422257.0,
+  "north": 1443928.68,
+  "conf": 1.0,
+  "size_pt": 24.8
+ },
+ {
+  "ward": 114,
+  "role": "road_name",
+  "text": "Lock Nagar Slum Area",
+  "east": 422146.43,
+  "north": 1444528.78,
+  "conf": 1.0,
+  "size_pt": 52.8
+ },
+ {
+  "ward": 114,
+  "role": "road_name",
+  "text": "3..Chella Pillayar Koll",
+  "east": 420940.94,
+  "north": 1443926.46,
+  "conf": 0.75,
+  "size_pt": 53.03
+ },
+ {
+  "ward": 114,
+  "role": "road_name",
+  "text": "AdamStreet",
+  "east": 422109.44,
+  "north": 1444664.04,
+  "conf": 1.0,
+  "size_pt": 32.57
+ },
+ {
+  "ward": 114,
+  "role": "road_name",
+  "text": "Chinnathambi Street",
+  "east": 421083.87,
+  "north": 1444190.53,
+  "conf": 1.0,
+  "size_pt": 63.09
+ },
+ {
+  "ward": 114,
+  "role": "road_name",
+  "text": "Bharathi Salai(pycrafs Road)",
+  "east": 421796.78,
+  "north": 1443627.11,
+  "conf": 1.0,
+  "size_pt": 45.83
+ },
+ {
+  "ward": 114,
+  "role": "road_name",
+  "text": "Chepauk Station Road",
+  "east": 422028.2,
+  "north": 1444081.38,
+  "conf": 1.0,
+  "size_pt": 69.26
+ },
+ {
+  "ward": 114,
+  "role": "location_names",
+  "text": "Kannagi Statue",
+  "east": 422192.19,
+  "north": 1443681.64,
+  "conf": 1.0,
+  "size_pt": 47.09
+ },
+ {
+  "ward": 114,
+  "role": "location_names",
+  "text": "MaharajaBroadlandsLodgeParadisecemeteryGuest House",
+  "east": 421215.1,
+  "north": 1444245.56,
+  "conf": 1.0,
+  "size_pt": 90.97
+ },
+ {
+  "ward": 114,
+  "role": "location_names",
+  "text": "MuragesaNaicker B.Mansion 3.4",
+  "east": 421248.26,
+  "north": 1444165.13,
+  "conf": 1.0,
+  "size_pt": 30.97
+ },
+ {
+  "ward": 114,
+  "role": "location_names",
+  "text": "ZamBazaarMarket",
+  "east": 421129.02,
+  "north": 1444060.51,
+  "conf": 1.0,
+  "size_pt": 20.8
+ },
+ {
+  "ward": 114,
+  "role": "location_names",
+  "text": "Polic",
+  "east": 421412.35,
+  "north": 1444413.18,
+  "conf": 1.0,
+  "size_pt": 13.83
+ },
+ {
+  "ward": 114,
+  "role": "location_names",
+  "text": "Quarters",
+  "east": 421455.09,
+  "north": 1444412.87,
+  "conf": 1.0,
+  "size_pt": 25.26
+ },
+ {
+  "ward": 114,
+  "role": "location_names",
+  "text": "VictoriaHostel",
+  "east": 421888.0,
+  "north": 1443830.81,
+  "conf": 1.0,
+  "size_pt": 22.63
+ },
+ {
+  "ward": 114,
+  "role": "location_names",
+  "text": "Shree devimedicals",
+  "east": 421562.64,
+  "north": 1443974.24,
+  "conf": 1.0,
+  "size_pt": 32.46
+ },
+ {
+  "ward": 114,
+  "role": "location_names",
+  "text": "DistrictLibrary,",
+  "east": 421754.75,
+  "north": 1443889.57,
+  "conf": 1.0,
+  "size_pt": 21.03
+ },
+ {
+  "ward": 114,
+  "role": "location_names",
+  "text": "BranchKastur",
+  "east": 421799.5,
+  "north": 1443890.88,
+  "conf": 1.0,
+  "size_pt": 20.34
+ },
+ {
+  "ward": 114,
+  "role": "location_names",
+  "text": "DistrictLibrary,",
+  "east": 421455.69,
+  "north": 1443793.62,
+  "conf": 1.0,
+  "size_pt": 21.37
+ },
+ {
+  "ward": 114,
+  "role": "location_names",
+  "text": "BranchTripli",
+  "east": 421500.45,
+  "north": 1443793.62,
+  "conf": 1.0,
+  "size_pt": 20.23
+ },
+ {
+  "ward": 114,
+  "role": "location_names",
+  "text": "District BranchLibrary (Women)",
+  "east": 421758.58,
+  "north": 1444009.92,
+  "conf": 1.0,
+  "size_pt": 50.29
+ },
+ {
+  "ward": 114,
+  "role": "location_names",
+  "text": "District Branch'Library,Tiruva",
+  "east": 421138.9,
+  "north": 1444163.02,
+  "conf": 1.0,
+  "size_pt": 45.94
+ },
+ {
+  "ward": 114,
+  "role": "location_names",
+  "text": "Full TimeLibrary,Triplicane",
+  "east": 421501.86,
+  "north": 1443953.27,
+  "conf": 1.0,
+  "size_pt": 26.63
+ },
+ {
+  "ward": 114,
+  "role": "location_names",
+  "text": "Districtoocry,",
+  "east": 420816.77,
+  "north": 1443995.91,
+  "conf": 0.65,
+  "size_pt": 21.03
+ },
+ {
+  "ward": 114,
+  "role": "location_names",
+  "text": "BranchPudupa",
+  "east": 420863.13,
+  "north": 1443995.91,
+  "conf": 1.0,
+  "size_pt": 22.4
+ },
+ {
+  "ward": 114,
+  "role": "location_names",
+  "text": "Robin rest houseAaqil guest house",
+  "east": 421667.36,
+  "north": 1444318.64,
+  "conf": 1.0,
+  "size_pt": 56.34
+ },
+ {
+  "ward": 114,
+  "role": "location_names",
+  "text": "Ihaj GuestA\u2022 houseMeridianguest house",
+  "east": 421708.58,
+  "north": 1444268.64,
+  "conf": 1.0,
+  "size_pt": 40.69
+ },
+ {
+  "ward": 114,
+  "role": "location_names",
+  "text": "AdyarAnandaBhavan",
+  "east": 421625.93,
+  "north": 1443772.86,
+  "conf": 1.0,
+  "size_pt": 22.86
+ },
+ {
+  "ward": 114,
+  "role": "location_names",
+  "text": "SivaEN THospital",
+  "east": 421286.16,
+  "north": 1444086.92,
+  "conf": 1.0,
+  "size_pt": 24.12
+ },
+ {
+  "ward": 114,
+  "role": "location_names",
+  "text": "Shifa HospitalAnd Reasearch Ce",
+  "east": 421383.53,
+  "north": 1444100.32,
+  "conf": 1.0,
+  "size_pt": 57.49
+ },
+ {
+  "ward": 114,
+  "role": "location_names",
+  "text": "HibaHospital",
+  "east": 421499.14,
+  "north": 1444061.32,
+  "conf": 1.0,
+  "size_pt": 24.23
+ },
+ {
+  "ward": 114,
+  "role": "location_names",
+  "text": "TriplicaneGovernment_ Hospital",
+  "east": 421367.1,
+  "north": 1444026.34,
+  "conf": 1.0,
+  "size_pt": 34.97
+ },
+ {
+  "ward": 114,
+  "role": "location_names",
+  "text": "Triplicane",
+  "east": 421432.91,
+  "north": 1443920.01,
+  "conf": 1.0,
+  "size_pt": 26.86
+ },
+ {
+  "ward": 114,
+  "role": "location_names",
+  "text": ";Triplicane",
+  "east": 421124.59,
+  "north": 1444300.59,
+  "conf": 1.0,
+  "size_pt": 26.74
+ },
+ {
+  "ward": 114,
+  "role": "location_names",
+  "text": "Big",
+  "east": 421163.6,
+  "north": 1444300.59,
+  "conf": 1.0,
+  "size_pt": 8.8
+ },
+ {
+  "ward": 114,
+  "role": "location_names",
+  "text": "Wallajah",
+  "east": 421200.38,
+  "north": 1444300.59,
+  "conf": 1.0,
+  "size_pt": 22.63
+ },
+ {
+  "ward": 114,
+  "role": "location_names",
+  "text": "Mosque",
+  "east": 421247.86,
+  "north": 1444300.59,
+  "conf": 1.0,
+  "size_pt": 22.06
+ },
+ {
+  "ward": 114,
+  "role": "location_names",
+  "text": "Chepauk",
+  "east": 422001.39,
+  "north": 1444405.21,
+  "conf": 1.0,
+  "size_pt": 24.57
+ },
+ {
+  "ward": 114,
+  "role": "location_names",
+  "text": "RailwayStation",
+  "east": 422055.11,
+  "north": 1444177.93,
+  "conf": 1.0,
+  "size_pt": 23.54
+ },
+ {
+  "ward": 114,
+  "role": "location_names",
+  "text": "Thiruvalliken\u0131",
+  "east": 422046.24,
+  "north": 1443670.66,
+  "conf": 1.0,
+  "size_pt": 37.03
+ },
+ {
+  "ward": 114,
+  "role": "location_names",
+  "text": "Doordarshan",
+  "east": 421960.27,
+  "north": 1444663.64,
+  "conf": 1.0,
+  "size_pt": 37.37
+ },
+ {
+  "ward": 114,
+  "role": "location_names",
+  "text": "State BankE-corner",
+  "east": 421151.4,
+  "north": 1444666.16,
+  "conf": 1.0,
+  "size_pt": 34.52
+ },
+ {
+  "ward": 114,
+  "role": "location_names",
+  "text": "Kendra",
+  "east": 421939.8,
+  "north": 1444647.82,
+  "conf": 1.0,
+  "size_pt": 20.57
+ },
+ {
+  "ward": 114,
+  "role": "location_names",
+  "text": "Chennai",
+  "east": 421987.08,
+  "north": 1444647.82,
+  "conf": 1.0,
+  "size_pt": 23.43
+ },
+ {
+  "ward": 114,
+  "role": "size_label",
+  "text": "1-",
+  "east": 421637.22,
+  "north": 1443855.1,
+  "conf": 1.0,
+  "size_pt": 12.8
+ },
+ {
+  "ward": 114,
+  "role": "size_label",
+  "text": "\u21923",
+  "east": 421647.4,
+  "north": 1444003.16,
+  "conf": 1.0,
+  "size_pt": 16.57
+ }
+]

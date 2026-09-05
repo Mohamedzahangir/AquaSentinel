@@ -1,0 +1,569 @@
+[
+ {
+  "ward": 49,
+  "role": "road_name",
+  "text": "3.14Venkatard\u0131manStAlavandarManikar Chowltry RoadSt(Naidu) Street3.001S.RajagopalVenketap(Naidu)",
+  "east": 422907.34,
+  "north": 1449722.59,
+  "conf": 1.0,
+  "size_pt": 78.84
+ },
+ {
+  "ward": 49,
+  "role": "road_name",
+  "text": "A234.413New SolaiyappanVenkatachalam Naiken StSolaiyappan Street",
+  "east": 422867.87,
+  "north": 1450581.6,
+  "conf": 1.0,
+  "size_pt": 102.96
+ },
+ {
+  "ward": 49,
+  "role": "road_name",
+  "text": "Tandavarayan Mudali Street",
+  "east": 423004.28,
+  "north": 1450645.32,
+  "conf": 1.0,
+  "size_pt": 85.08
+ },
+ {
+  "ward": 49,
+  "role": "road_name",
+  "text": "AgrarRoad4th Lane7th Lane Ali3rd LaneLane AliGarden MainGollavar8thKamakshiom\u0443\u0440\u0442o\u0442 \u0432r Tom\u044c apPLLnas!Silk HouseWoct Kal",
+  "east": 423088.3,
+  "north": 1450096.21,
+  "conf": 0.946,
+  "size_pt": 144.84
+ },
+ {
+  "ward": 49,
+  "role": "road_name",
+  "text": ", New Amaran jipuram St",
+  "east": 423342.81,
+  "north": 1450872.57,
+  "conf": 1.0,
+  "size_pt": 71.52
+ },
+ {
+  "ward": 49,
+  "role": "road_name",
+  "text": "West",
+  "east": 423223.33,
+  "north": 1450002.22,
+  "conf": 1.0,
+  "size_pt": 12.36
+ },
+ {
+  "ward": 49,
+  "role": "road_name",
+  "text": "singara Thottor 5th lLaneF",
+  "east": 422949.99,
+  "north": 1449932.9,
+  "conf": 1.0,
+  "size_pt": 81.12
+ },
+ {
+  "ward": 49,
+  "role": "road_name",
+  "text": "Singara Thottam 6th Lane",
+  "east": 423002.9,
+  "north": 1449937.55,
+  "conf": 1.0,
+  "size_pt": 81.12
+ },
+ {
+  "ward": 49,
+  "role": "road_name",
+  "text": "4th lane",
+  "east": 423192.96,
+  "north": 1449784.82,
+  "conf": 1.0,
+  "size_pt": 25.2
+ },
+ {
+  "ward": 49,
+  "role": "road_name",
+  "text": "4.00/laneWest Kalmandapam Road LaneIst LaneWestKumarasamy LaneKalmandapamRoad2nd LaneSingara Thottam 7thThottamSomu (Chetty)oo ThottamIst Lane3rd LaneA5, (Shaip) Street4.2212nd LaneLaneSinggra\u2022 A4A604.083 04.1054Th LaneA3 3rd laneAdam3.7124th lane4th LaneSingara ThottamB25.393|Nakathal KoilStreet Alias B Puane",
+  "east": 423173.81,
+  "north": 1449853.41,
+  "conf": 1.0,
+  "size_pt": 171.96
+ },
+ {
+  "ward": 49,
+  "role": "road_name",
+  "text": "Gollavar Agranara Roadanin/saLimi",
+  "east": 422965.12,
+  "north": 1450163.84,
+  "conf": 1.0,
+  "size_pt": 75.84
+ },
+ {
+  "ward": 49,
+  "role": "road_name",
+  "text": "L9LETandavarayanStStreet-3rd Lane Ali4th Lane AliThandavaraya(Gramini)G.A Road2nd Lane Ali",
+  "east": 423253.07,
+  "north": 1450738.67,
+  "conf": 0.93,
+  "size_pt": 68.16
+ },
+ {
+  "ward": 49,
+  "role": "road_name",
+  "text": ">Bala Arunachalam StA263.89\u0433Lawyer Chinnathambi StreetSanjeevarayan Koil StreetLawyer Chinnathambi LaneNamachivava 1",
+  "east": 422814.85,
+  "north": 1450012.81,
+  "conf": 1.0,
+  "size_pt": 112.44
+ },
+ {
+  "ward": 49,
+  "role": "road_name",
+  "text": "4.2Tandavarayan2Amaranjipuram St",
+  "east": 423385.14,
+  "north": 1450705.97,
+  "conf": 1.0,
+  "size_pt": 55.92
+ },
+ {
+  "ward": 49,
+  "role": "road_name",
+  "text": "~y StrKuruvappa Chetty Street",
+  "east": 422806.38,
+  "north": 1450780.38,
+  "conf": 0.75,
+  "size_pt": 74.28
+ },
+ {
+  "ward": 49,
+  "role": "road_name",
+  "text": "Soorya NarayandChetty Street",
+  "east": 423332.12,
+  "north": 1450357.54,
+  "conf": 1.0,
+  "size_pt": 51.48
+ },
+ {
+  "ward": 49,
+  "role": "road_name",
+  "text": "4.201G.A Roadi",
+  "east": 423087.24,
+  "north": 1450563.19,
+  "conf": 1.0,
+  "size_pt": 28.2
+ },
+ {
+  "ward": 49,
+  "role": "road_name",
+  "text": "G.A RoadAmaravathi PuramHutting Ground2824.",
+  "east": 423245.13,
+  "north": 1450627.54,
+  "conf": 1.0,
+  "size_pt": 58.92
+ },
+ {
+  "ward": 49,
+  "role": "road_name",
+  "text": "Solaiappan St",
+  "east": 422784.69,
+  "north": 1450392.57,
+  "conf": 1.0,
+  "size_pt": 41.52
+ },
+ {
+  "ward": 49,
+  "role": "road_name",
+  "text": "\u00a1Thanikachalam Lane",
+  "east": 422688.92,
+  "north": 1450171.99,
+  "conf": 1.0,
+  "size_pt": 58.92
+ },
+ {
+  "ward": 49,
+  "role": "road_name",
+  "text": "5th Lane",
+  "east": 423121.74,
+  "north": 1449697.71,
+  "conf": 1.0,
+  "size_pt": 27.36
+ },
+ {
+  "ward": 49,
+  "role": "road_name",
+  "text": "Appasamy StreetAppasamy LaneStreet",
+  "east": 422773.15,
+  "north": 1450650.08,
+  "conf": 1.0,
+  "size_pt": 64.08
+ },
+ {
+  "ward": 49,
+  "role": "road_name",
+  "text": "Ist Lane",
+  "east": 423101.1,
+  "north": 1449958.62,
+  "conf": 1.0,
+  "size_pt": 25.44
+ },
+ {
+  "ward": 49,
+  "role": "road_name",
+  "text": "Old Amaravathipuram:Allas Old A4th Street'",
+  "east": 423312.01,
+  "north": 1450633.47,
+  "conf": 1.0,
+  "size_pt": 85.32
+ },
+ {
+  "ward": 49,
+  "role": "road_name",
+  "text": "New4.12Kamaraj Nagar1St Street",
+  "east": 423386.73,
+  "north": 1450656.75,
+  "conf": 1.0,
+  "size_pt": 46.68
+ },
+ {
+  "ward": 49,
+  "role": "road_name",
+  "text": "Manarsamy Koil Street",
+  "east": 423354.45,
+  "north": 1450080.12,
+  "conf": 1.0,
+  "size_pt": 70.68
+ },
+ {
+  "ward": 49,
+  "role": "road_name",
+  "text": "Soorya Narayana Chetty Street",
+  "east": 423401.86,
+  "north": 1450341.66,
+  "conf": 1.0,
+  "size_pt": 96.48
+ },
+ {
+  "ward": 49,
+  "role": "road_name",
+  "text": "BaluMudaliSt",
+  "east": 422999.09,
+  "north": 1450477.67,
+  "conf": 1.0,
+  "size_pt": 45.12
+ },
+ {
+  "ward": 49,
+  "role": "road_name",
+  "text": "C.A ROBalu LaneG.ARoad",
+  "east": 423062.58,
+  "north": 1450546.68,
+  "conf": 1.0,
+  "size_pt": 44.76
+ },
+ {
+  "ward": 49,
+  "role": "road_name",
+  "text": "G.A Road",
+  "east": 423100.36,
+  "north": 1450598.33,
+  "conf": 1.0,
+  "size_pt": 28.2
+ },
+ {
+  "ward": 49,
+  "role": "road_name",
+  "text": "Pandale RoadJustice",
+  "east": 423084.17,
+  "north": 1450762.7,
+  "conf": 1.0,
+  "size_pt": 42.72
+ },
+ {
+  "ward": 49,
+  "role": "road_name",
+  "text": "3rd Street",
+  "east": 423370.11,
+  "north": 1450579.49,
+  "conf": 1.0,
+  "size_pt": 31.68
+ },
+ {
+  "ward": 49,
+  "role": "road_name",
+  "text": "2nd Street",
+  "east": 423386.83,
+  "north": 1450610.39,
+  "conf": 1.0,
+  "size_pt": 33.12
+ },
+ {
+  "ward": 49,
+  "role": "road_name",
+  "text": "5thStreet3rd Lane2nd LaneB54.223Pudhumanai Kuppam1St Lane",
+  "east": 423345.45,
+  "north": 1450503.18,
+  "conf": 1.0,
+  "size_pt": 66.84
+ },
+ {
+  "ward": 49,
+  "role": "road_name",
+  "text": "Gollavar AgraharamRajavelu-3rd Lane Ali(Mudali) St",
+  "east": 423287.99,
+  "north": 1450415.96,
+  "conf": 1.0,
+  "size_pt": 96.96
+ },
+ {
+  "ward": 49,
+  "role": "road_name",
+  "text": "G.A Road",
+  "east": 423172.96,
+  "north": 1450558.21,
+  "conf": 1.0,
+  "size_pt": 27.96
+ },
+ {
+  "ward": 49,
+  "role": "road_name",
+  "text": "Gollavar Agraharam3rd Lane Ali",
+  "east": 423164.39,
+  "north": 1450507.62,
+  "conf": 1.0,
+  "size_pt": 58.56
+ },
+ {
+  "ward": 49,
+  "role": "road_name",
+  "text": "Gollavar Agraharam4th Lane Ali",
+  "east": 423130.74,
+  "north": 1450398.71,
+  "conf": 1.0,
+  "size_pt": 58.32
+ },
+ {
+  "ward": 49,
+  "role": "road_name",
+  "text": "Gollavar Agraharam5th Lane Ali",
+  "east": 423171.69,
+  "north": 1450192.53,
+  "conf": 1.0,
+  "size_pt": 58.68
+ },
+ {
+  "ward": 49,
+  "role": "road_name",
+  "text": "6th Lane Ali7th Lane Ali",
+  "east": 423060.47,
+  "north": 1450179.3,
+  "conf": 1.0,
+  "size_pt": 48.0
+ },
+ {
+  "ward": 49,
+  "role": "road_name",
+  "text": "Kappal Bolu4.Chetty Street",
+  "east": 422952.21,
+  "north": 1450263.76,
+  "conf": 1.0,
+  "size_pt": 40.44
+ },
+ {
+  "ward": 49,
+  "role": "road_name",
+  "text": "Kappal Balu Chetty Street",
+  "east": 422922.05,
+  "north": 1450373.52,
+  "conf": 1.0,
+  "size_pt": 80.76
+ },
+ {
+  "ward": 49,
+  "role": "road_name",
+  "text": "Koil StreetSanjivarayanA284.125A304.222SanjivarayanKoil Lane",
+  "east": 422850.09,
+  "north": 1450300.38,
+  "conf": 1.0,
+  "size_pt": 98.16
+ },
+ {
+  "ward": 49,
+  "role": "road_name",
+  "text": "Srirangammal Street",
+  "east": 422764.37,
+  "north": 1450289.27,
+  "conf": 1.0,
+  "size_pt": 62.76
+ },
+ {
+  "ward": 49,
+  "role": "road_name",
+  "text": "\"StNew Thandavarayan (Gramani)",
+  "east": 422921.73,
+  "north": 1450751.06,
+  "conf": 0.65,
+  "size_pt": 103.68
+ },
+ {
+  "ward": 49,
+  "role": "road_name",
+  "text": "Kurutippe Chetty Streetruvannr",
+  "east": 422826.28,
+  "north": 1450815.52,
+  "conf": 1.0,
+  "size_pt": 74.28
+ },
+ {
+  "ward": 49,
+  "role": "road_name",
+  "text": "A23.632nd LaneSKothandarama lyerIst LaneJQStreet",
+  "east": 422681.09,
+  "north": 1450471.85,
+  "conf": 1.0,
+  "size_pt": 95.88
+ },
+ {
+  "ward": 49,
+  "role": "road_name",
+  "text": "Subburaya Street",
+  "east": 422614.1,
+  "north": 1450319.33,
+  "conf": 1.0,
+  "size_pt": 51.12
+ },
+ {
+  "ward": 49,
+  "role": "road_name",
+  "text": "5th Lane",
+  "east": 423144.81,
+  "north": 1449838.48,
+  "conf": 1.0,
+  "size_pt": 27.36
+ },
+ {
+  "ward": 49,
+  "role": "road_name",
+  "text": "6th Lane",
+  "east": 423079.09,
+  "north": 1449707.66,
+  "conf": 1.0,
+  "size_pt": 27.12
+ },
+ {
+  "ward": 49,
+  "role": "road_name",
+  "text": "Bashyam(Naidu) St",
+  "east": 422932.74,
+  "north": 1449833.19,
+  "conf": 1.0,
+  "size_pt": 32.28
+ },
+ {
+  "ward": 49,
+  "role": "road_name",
+  "text": "3.149Venkataramanujalu",
+  "east": 422947.13,
+  "north": 1449780.27,
+  "conf": 1.0,
+  "size_pt": 56.28
+ },
+ {
+  "ward": 49,
+  "role": "road_name",
+  "text": "unpl LaneNamachivaya Chetty Street",
+  "east": 422831.15,
+  "north": 1449940.2,
+  "conf": 1.0,
+  "size_pt": 82.92
+ },
+ {
+  "ward": 49,
+  "role": "road_name",
+  "text": "Jandara Pillayar Koil Street",
+  "east": 422799.72,
+  "north": 1449872.88,
+  "conf": 1.0,
+  "size_pt": 84.0
+ },
+ {
+  "ward": 49,
+  "role": "road_name",
+  "text": "Velauthapdndiyan Street",
+  "east": 422897.07,
+  "north": 1449580.12,
+  "conf": 1.0,
+  "size_pt": 70.08
+ },
+ {
+  "ward": 49,
+  "role": "road_name",
+  "text": "Veerasamy (Mudali) Street",
+  "east": 423105.76,
+  "north": 1449623.31,
+  "conf": 1.0,
+  "size_pt": 81.12
+ },
+ {
+  "ward": 49,
+  "role": "road_name",
+  "text": "5.393Nakathal KoilStreetAlias B PuKoilStreet Alias B \u0420uNakathal\u0443\u0442\u0442\u0440\u0442\u043e\u0440\u0440\u0438\u0438\u0442\u043e3.8040",
+  "east": 423222.59,
+  "north": 1449683.11,
+  "conf": 0.922,
+  "size_pt": 72.0
+ },
+ {
+  "ward": 49,
+  "role": "road_name",
+  "text": "Soorya NarayanaChettyStreet",
+  "east": 423283.12,
+  "north": 1450247.67,
+  "conf": 1.0,
+  "size_pt": 51.6
+ },
+ {
+  "ward": 49,
+  "role": "road_name",
+  "text": "E AlPOILWest Kalmandapam Road",
+  "east": 423094.65,
+  "north": 1450017.68,
+  "conf": 0.65,
+  "size_pt": 77.64
+ },
+ {
+  "ward": 49,
+  "role": "location_names",
+  "text": "Sree AgrKamakshiSilk House",
+  "east": 422994.65,
+  "north": 1450058.95,
+  "conf": 1.0,
+  "size_pt": 29.76
+ },
+ {
+  "ward": 49,
+  "role": "location_names",
+  "text": "M N EyeHospitalPrivate,Limite",
+  "east": 422812.52,
+  "north": 1450850.55,
+  "conf": 1.0,
+  "size_pt": 28.44
+ },
+ {
+  "ward": 49,
+  "role": "location_names",
+  "text": "SriKumaranMultiSpecialityHospital",
+  "east": 423291.38,
+  "north": 1450043.61,
+  "conf": 1.0,
+  "size_pt": 30.24
+ },
+ {
+  "ward": 49,
+  "role": "location_names",
+  "text": "NagamaniHospitalsPrivate Limi",
+  "east": 422929.46,
+  "north": 1450213.06,
+  "conf": 1.0,
+  "size_pt": 34.8
+ }
+]

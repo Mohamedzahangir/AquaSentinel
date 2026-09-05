@@ -1,0 +1,1172 @@
+[
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "RbiJusticeRamanujam Street",
+  "east": 419663.6,
+  "north": 1436769.69,
+  "conf": 1.0,
+  "size_pt": 58.32
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "*Dr Radhakrishnan Nagara Main Road5th Street4th StreetL.B.RoadStre3rd Street:1stLic Colony Extension f2nL.B. Road lind Street",
+  "east": 419476.08,
+  "north": 1436395.53,
+  "conf": 1.0,
+  "size_pt": 140.04
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "Arundel Beach RoadRoad2nd StreetArun",
+  "east": 420365.03,
+  "north": 1436472.06,
+  "conf": 1.0,
+  "size_pt": 68.88
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "Coastal Road",
+  "east": 420724.31,
+  "north": 1436304.09,
+  "conf": 1.0,
+  "size_pt": 40.92
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "Pillayar Koil Street",
+  "east": 419862.13,
+  "north": 1435926.55,
+  "conf": 1.0,
+  "size_pt": 58.32
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "Anna Colony4th StreetRukmani Road",
+  "east": 420236.55,
+  "north": 1436684.91,
+  "conf": 1.0,
+  "size_pt": 54.96
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "M.G.Ramachandran Road",
+  "east": 420438.47,
+  "north": 1436584.99,
+  "conf": 1.0,
+  "size_pt": 76.8
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "Parvathi Street",
+  "east": 420384.29,
+  "north": 1436095.26,
+  "conf": 1.0,
+  "size_pt": 47.04
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "Cholapuram Street",
+  "east": 419821.71,
+  "north": 1436040.11,
+  "conf": 1.0,
+  "size_pt": 57.6
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "Yamuna Street",
+  "east": 420404.71,
+  "north": 1436191.36,
+  "conf": 1.0,
+  "size_pt": 44.76
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "Marudeeswarar NagarB17B1Main Road13th 3,8013.36wSiyagamiplfam Ist Lane22thFu2nd Cross st25thStreeStreeB21 B193.2393.35426th StreetB20SivakamipuramOnd Street3.497",
+  "east": 419418.08,
+  "north": 1436651.78,
+  "conf": 1.0,
+  "size_pt": 106.8
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "Etty StreetAmbadkar StreetLakshmipuram 2ndE.V.R. Periyar SalaiLakshmipuramPeriyar E.V.R. Salai,Muthulakshmi Street363.626",
+  "east": 419993.68,
+  "north": 1436221.21,
+  "conf": 1.0,
+  "size_pt": 109.68
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "Ashtalakshmi Nagar2,3,4th StreetAshtalakshmi Garden2nd Streetn",
+  "east": 420829.4,
+  "north": 1436590.71,
+  "conf": 1.0,
+  "size_pt": 64.56
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "Main RoadMalaviya AvenueNO2nd StreetRadhakrishnan\u00aeNagar3.152C12",
+  "east": 419577.56,
+  "north": 1436800.38,
+  "conf": 1.0,
+  "size_pt": 101.76
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "Kamarajar Salai",
+  "east": 419895.05,
+  "north": 1436148.6,
+  "conf": 1.0,
+  "size_pt": 49.92
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "LB Road",
+  "east": 419334.8,
+  "north": 1436499.68,
+  "conf": 1.0,
+  "size_pt": 25.8
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "Kaveri Street",
+  "east": 420606.21,
+  "north": 1436183.74,
+  "conf": 1.0,
+  "size_pt": 40.44
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "Vaigai Street",
+  "east": 420588.32,
+  "north": 1436154.21,
+  "conf": 1.0,
+  "size_pt": 38.4
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "Gangai Street",
+  "east": 420614.67,
+  "north": 1436249.89,
+  "conf": 1.0,
+  "size_pt": 41.64
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "Sri Ram Nagar Main Road",
+  "east": 419693.55,
+  "north": 1436316.15,
+  "conf": 1.0,
+  "size_pt": 82.2
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "Sivagamipuram2nd LaneSivagamipuram Extn",
+  "east": 419736.09,
+  "north": 1436717.72,
+  "conf": 1.0,
+  "size_pt": 63.24
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "Sri Ram Nagar lindCross StreeteKalakshetra Roadoad2nd AvenuB8",
+  "east": 419689.32,
+  "north": 1436220.15,
+  "conf": 1.0,
+  "size_pt": 73.44
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "Radhakrishnan Nagar2nd Cross Street",
+  "east": 419671.86,
+  "north": 1436452.58,
+  "conf": 1.0,
+  "size_pt": 65.28
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "Kumaraguru4th Street",
+  "east": 419877.37,
+  "north": 1436285.88,
+  "conf": 1.0,
+  "size_pt": 36.48
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "3.41Radhakrishnan Nagar3rd Cross Street",
+  "east": 419646.67,
+  "north": 1436502.12,
+  "conf": 1.0,
+  "size_pt": 65.28
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "StreetStreetNethaji 6thNethaji",
+  "east": 420000.77,
+  "north": 1436486.88,
+  "conf": 1.0,
+  "size_pt": 56.88
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "Thiruvanmiyur Kuppam Beach Road",
+  "east": 420085.85,
+  "north": 1435541.07,
+  "conf": 1.0,
+  "size_pt": 109.92
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "4th EastStreet",
+  "east": 419699.05,
+  "north": 1435891.93,
+  "conf": 1.0,
+  "size_pt": 26.52
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "Library",
+  "east": 419763.29,
+  "north": 1435751.06,
+  "conf": 1.0,
+  "size_pt": 20.64
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "library",
+  "east": 419456.6,
+  "north": 1435899.45,
+  "conf": 1.0,
+  "size_pt": 18.96
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "Panuval",
+  "east": 419410.36,
+  "north": 1435853.09,
+  "conf": 1.0,
+  "size_pt": 23.16
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "Balu Street",
+  "east": 419659.37,
+  "north": 1435984.86,
+  "conf": 1.0,
+  "size_pt": 35.04
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "AshtalakshmiGarden4th StreetGardenEast CoastCross RoadAshtalaks",
+  "east": 420821.46,
+  "north": 1436479.89,
+  "conf": 1.0,
+  "size_pt": 78.72
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "Kalashethra Road",
+  "east": 419435.01,
+  "north": 1436194.54,
+  "conf": 1.0,
+  "size_pt": 54.96
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "L.B.Road",
+  "east": 419562.43,
+  "north": 1435849.07,
+  "conf": 1.0,
+  "size_pt": 26.4
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "29th Cross Street",
+  "east": 420386.93,
+  "north": 1436703.43,
+  "conf": 1.0,
+  "size_pt": 56.76
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "Jeyaram StreetLaneStreetJayaram Chetty",
+  "east": 420601.23,
+  "north": 1435602.98,
+  "conf": 1.0,
+  "size_pt": 81.0
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "SingaravelanNagar",
+  "east": 420433.71,
+  "north": 1435523.18,
+  "conf": 1.0,
+  "size_pt": 36.84
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "\u2022 Raja Srinivasa Nagar& M\u0103in Road\u2022 2nd Streettia Srinivasa Nor",
+  "east": 420318.15,
+  "north": 1435644.9,
+  "conf": 1.0,
+  "size_pt": 99.96
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "Cge Colony 2nd3rd Street7Ist Street",
+  "east": 420099.08,
+  "north": 1435602.67,
+  "conf": 1.0,
+  "size_pt": 70.92
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "Ist Street",
+  "east": 420053.58,
+  "north": 1435591.55,
+  "conf": 1.0,
+  "size_pt": 30.36
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "Nagar znd StreRaja Srinivasa Nagar Ist Street",
+  "east": 420301.64,
+  "north": 1435570.17,
+  "conf": 1.0,
+  "size_pt": 98.28
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "KarikalanStreet",
+  "east": 420642.3,
+  "north": 1436316.89,
+  "conf": 1.0,
+  "size_pt": 26.88
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "Kambar StreetKarikalanKambar StreetStreet",
+  "east": 420605.68,
+  "north": 1436320.39,
+  "conf": 1.0,
+  "size_pt": 62.64
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "Pari Street",
+  "east": 420687.06,
+  "north": 1436323.45,
+  "conf": 1.0,
+  "size_pt": 33.84
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "nospitar7th Avenue Extn3rd StreetStreetExtn*2 nd Sture Extn g2nd Street4th Streetrden 3rd Street7th",
+  "east": 420674.36,
+  "north": 1436667.97,
+  "conf": 0.93,
+  "size_pt": 91.08
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "NatesanStreetBharathiyarStreetLakshmipuramN.S.K. RoadLakhsmipuram 3rd St",
+  "east": 419999.08,
+  "north": 1436378.92,
+  "conf": 1.0,
+  "size_pt": 69.84
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "Ist LaneT.M.Maistry Street2nd Lane",
+  "east": 420018.65,
+  "north": 1436738.78,
+  "conf": 1.0,
+  "size_pt": 71.16
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "Raji Street",
+  "east": 419855.36,
+  "north": 1436538.31,
+  "conf": 1.0,
+  "size_pt": 33.36
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "ChellaperumalKoil Street",
+  "east": 419875.47,
+  "north": 1436603.62,
+  "conf": 1.0,
+  "size_pt": 41.76
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "T.M.MaistryStreet Extension",
+  "east": 419839.7,
+  "north": 1436654.74,
+  "conf": 1.0,
+  "size_pt": 50.4
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "2nd Street",
+  "east": 419712.81,
+  "north": 1436826.63,
+  "conf": 1.0,
+  "size_pt": 33.48
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "ValmikiStreet",
+  "east": 419790.91,
+  "north": 1435982.22,
+  "conf": 1.0,
+  "size_pt": 21.48
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "3rd Street2nd StreetKumaraguruIst StreetKalakshetra Road3rd AvenueKamarajar Salai",
+  "east": 419864.78,
+  "north": 1436184.06,
+  "conf": 1.0,
+  "size_pt": 85.8
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "M.G.R Street",
+  "east": 419883.3,
+  "north": 1436357.22,
+  "conf": 1.0,
+  "size_pt": 38.88
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "SelvaganapathyStreet",
+  "east": 419821.71,
+  "north": 1436412.47,
+  "conf": 1.0,
+  "size_pt": 47.52
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "Gangai Amman Koil StreetDr.Radhakrishna NagarIst Cross",
+  "east": 419695.99,
+  "north": 1436396.49,
+  "conf": 1.0,
+  "size_pt": 90.24
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "Road1stAvenueKalashethraKalashethra Road",
+  "east": 419632.38,
+  "north": 1436107.64,
+  "conf": 1.0,
+  "size_pt": 54.84
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "Yamuna StreetNavabharath ColonyStreetRajarajan2nd StreetMarudhuPandiar Stree",
+  "east": 420407.68,
+  "north": 1436166.81,
+  "conf": 1.0,
+  "size_pt": 76.44
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "Kamarajar_Nagar3rd East Street",
+  "east": 419595.13,
+  "north": 1435905.06,
+  "conf": 1.0,
+  "size_pt": 53.16
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "Kamarajar Nagar 3rd East Street",
+  "east": 419560.53,
+  "north": 1435952.05,
+  "conf": 1.0,
+  "size_pt": 106.08
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "Kamarajar Nagar 2nd East Street",
+  "east": 419357.65,
+  "north": 1435992.91,
+  "conf": 1.0,
+  "size_pt": 107.16
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "Sivasundar AvenueIst Street",
+  "east": 419469.73,
+  "north": 1436100.44,
+  "conf": 1.0,
+  "size_pt": 57.0
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "Sivasundaram Avenue2nd Street",
+  "east": 419553.75,
+  "north": 1436063.82,
+  "conf": 1.0,
+  "size_pt": 66.36
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "DuraisamyStreet",
+  "east": 419923.83,
+  "north": 1436545.62,
+  "conf": 1.0,
+  "size_pt": 31.56
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "MandapamStreet",
+  "east": 419903.41,
+  "north": 1436413.53,
+  "conf": 1.0,
+  "size_pt": 31.68
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "Sastri Nagar2nd Avenue",
+  "east": 419479.14,
+  "north": 1436842.61,
+  "conf": 1.0,
+  "size_pt": 41.4
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "Rbi ColonyIst Street",
+  "east": 419659.79,
+  "north": 1436838.8,
+  "conf": 1.0,
+  "size_pt": 34.92
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "Pillaiyar Koil Street Lane",
+  "east": 419804.78,
+  "north": 1435850.23,
+  "conf": 1.0,
+  "size_pt": 77.76
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "Kalakshetra RoadIst Avenue",
+  "east": 419598.31,
+  "north": 1436205.65,
+  "conf": 1.0,
+  "size_pt": 54.36
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "Nethaji5th Street",
+  "east": 419971.98,
+  "north": 1436435.33,
+  "conf": 1.0,
+  "size_pt": 31.92
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "Gangai AmmanKoil Street",
+  "east": 419911.13,
+  "north": 1436473.12,
+  "conf": 1.0,
+  "size_pt": 45.72
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "OdaikuppamIlst LaneAmman Koil Streetnairkanni\u00a7OdaikuppamurchStreet",
+  "east": 420971.0,
+  "north": 1436761.43,
+  "conf": 1.0,
+  "size_pt": 92.16
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "Odaikuppam6th LaneByndi Amman Koil Street",
+  "east": 420938.3,
+  "north": 1436573.45,
+  "conf": 1.0,
+  "size_pt": 83.04
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "AstalakshmiGarden",
+  "east": 420782.94,
+  "north": 1436532.92,
+  "conf": 1.0,
+  "size_pt": 37.08
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "MagalakshmiKoil Street",
+  "east": 420741.03,
+  "north": 1436442.1,
+  "conf": 1.0,
+  "size_pt": 40.2
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "StreetIst",
+  "east": 420645.15,
+  "north": 1436703.01,
+  "conf": 1.0,
+  "size_pt": 18.24
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "Rukumani RoadExtention",
+  "east": 420635.31,
+  "north": 1436572.93,
+  "conf": 1.0,
+  "size_pt": 48.24
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "Arundel Beach Road",
+  "east": 420433.07,
+  "north": 1436422.52,
+  "conf": 1.0,
+  "size_pt": 63.96
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "Thirumurugan Street",
+  "east": 420575.94,
+  "north": 1436079.28,
+  "conf": 1.0,
+  "size_pt": 62.04
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "Navabharath Colony1st Street",
+  "east": 420506.1,
+  "north": 1436163.63,
+  "conf": 1.0,
+  "size_pt": 61.68
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "2nd Lane",
+  "east": 420486.62,
+  "north": 1436239.63,
+  "conf": 1.0,
+  "size_pt": 28.44
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "Kumanan Street",
+  "east": 420538.06,
+  "north": 1436332.45,
+  "conf": 1.0,
+  "size_pt": 50.04
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "Gangai Street",
+  "east": 420652.24,
+  "north": 1436212.21,
+  "conf": 1.0,
+  "size_pt": 41.76
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "Varathachari RoadTiger",
+  "east": 420560.28,
+  "north": 1436597.8,
+  "conf": 1.0,
+  "size_pt": 74.4
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "30thCrossLane",
+  "east": 420399.0,
+  "north": 1436765.35,
+  "conf": 1.0,
+  "size_pt": 16.44
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "Appar Street",
+  "east": 420496.15,
+  "north": 1436376.16,
+  "conf": 1.0,
+  "size_pt": 39.48
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "SanthiStreet",
+  "east": 420312.96,
+  "north": 1436488.78,
+  "conf": 1.0,
+  "size_pt": 19.44
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "Arundel Beach RoadIst Street",
+  "east": 420255.5,
+  "north": 1436480.42,
+  "conf": 1.0,
+  "size_pt": 63.96
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "Nedunchezian Street",
+  "east": 420312.54,
+  "north": 1436613.15,
+  "conf": 1.0,
+  "size_pt": 63.72
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "shmi AvenueETR ANOodaikuppam Beach Road",
+  "east": 420046.38,
+  "north": 1436605.52,
+  "conf": 1.0,
+  "size_pt": 81.0
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "29thCrossLane",
+  "east": 420472.34,
+  "north": 1436710.41,
+  "conf": 1.0,
+  "size_pt": 16.32
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "Navarathina3rd Street",
+  "east": 420181.63,
+  "north": 1436727.88,
+  "conf": 1.0,
+  "size_pt": 73.08
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "Anna Colony 2nd Street",
+  "east": 420177.61,
+  "north": 1436759.21,
+  "conf": 1.0,
+  "size_pt": 75.72
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "30th Cross Street",
+  "east": 420474.66,
+  "north": 1436740.26,
+  "conf": 1.0,
+  "size_pt": 56.4
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "ColonyIst StreetAnna",
+  "east": 420273.38,
+  "north": 1436752.96,
+  "conf": 1.0,
+  "size_pt": 39.12
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "Malaviya Avenue",
+  "east": 419404.75,
+  "north": 1436801.76,
+  "conf": 1.0,
+  "size_pt": 49.92
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "7th Avenue",
+  "east": 420171.79,
+  "north": 1436839.54,
+  "conf": 1.0,
+  "size_pt": 34.32
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "7th Avenue",
+  "east": 420781.88,
+  "north": 1436764.71,
+  "conf": 1.0,
+  "size_pt": 34.44
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "Subbu Street",
+  "east": 419395.54,
+  "north": 1436852.56,
+  "conf": 1.0,
+  "size_pt": 40.2
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "Valmiki Street",
+  "east": 419784.67,
+  "north": 1435873.62,
+  "conf": 1.0,
+  "size_pt": 42.0
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "Anna Street",
+  "east": 420049.66,
+  "north": 1435880.5,
+  "conf": 1.0,
+  "size_pt": 36.96
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "Vembuliamman KoilStreet",
+  "east": 420616.9,
+  "north": 1435476.4,
+  "conf": 1.0,
+  "size_pt": 58.8
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "Vembuliamman:Koll Street:::",
+  "east": 420691.72,
+  "north": 1435552.71,
+  "conf": 1.0,
+  "size_pt": 44.28
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "Subramanian Colony2nd Street",
+  "east": 419900.76,
+  "north": 1436785.25,
+  "conf": 1.0,
+  "size_pt": 63.0
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "5th Street6th Street",
+  "east": 419485.92,
+  "north": 1436744.6,
+  "conf": 1.0,
+  "size_pt": 33.96
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "Marudeeswarar NagarB18 3rd Street",
+  "east": 419378.93,
+  "north": 1436732.01,
+  "conf": 1.0,
+  "size_pt": 66.72
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "dryn KoadBeach",
+  "east": 420663.99,
+  "north": 1436433.95,
+  "conf": 1.0,
+  "size_pt": 37.44
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "T.M.Maistry StreetIst Lane",
+  "east": 420009.34,
+  "north": 1436783.13,
+  "conf": 1.0,
+  "size_pt": 53.16
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "Arundel Beach Road3rd Street",
+  "east": 420529.38,
+  "north": 1436448.98,
+  "conf": 1.0,
+  "size_pt": 63.6
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "Kamarajar NagarIst Last Street",
+  "east": 419472.8,
+  "north": 1435994.28,
+  "conf": 1.0,
+  "size_pt": 53.4
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "Jeevarathinam Street",
+  "east": 419803.61,
+  "north": 1436222.16,
+  "conf": 1.0,
+  "size_pt": 65.88
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "JeevanandamStreet",
+  "east": 419880.34,
+  "north": 1436321.55,
+  "conf": 1.0,
+  "size_pt": 39.84
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "Gangai Street",
+  "east": 420470.11,
+  "north": 1436268.63,
+  "conf": 1.0,
+  "size_pt": 41.4
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "Ashtalakshmi Garden 3rd Street",
+  "east": 420738.18,
+  "north": 1436605.52,
+  "conf": 1.0,
+  "size_pt": 99.96
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "Subramanian ColonyStreetIst",
+  "east": 419865.42,
+  "north": 1436772.65,
+  "conf": 1.0,
+  "size_pt": 62.88
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "Tharmakartha Munusamy MaistrycetT.M.Maistry StrIst LaneT.M.Maistry Stre2nd LaneMahalakshmi Avenue",
+  "east": 419974.31,
+  "north": 1436723.43,
+  "conf": 1.0,
+  "size_pt": 139.08
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "Rbi Colony 3rd Street",
+  "east": 419760.65,
+  "north": 1436774.13,
+  "conf": 1.0,
+  "size_pt": 68.52
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "SivakamipuramInd Streetv.",
+  "east": 419534.39,
+  "north": 1436656.96,
+  "conf": 1.0,
+  "size_pt": 44.52
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "Sri Ram NagarIst Cross St",
+  "east": 419592.7,
+  "north": 1436301.02,
+  "conf": 1.0,
+  "size_pt": 46.32
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "East Mada Street",
+  "east": 419970.61,
+  "north": 1435645.53,
+  "conf": 1.0,
+  "size_pt": 54.84
+ },
+ {
+  "ward": 181,
+  "role": "road_name",
+  "text": "SingaravelanNagar",
+  "east": 420469.9,
+  "north": 1435513.87,
+  "conf": 1.0,
+  "size_pt": 36.84
+ },
+ {
+  "ward": 181,
+  "role": "location_names",
+  "text": "Arupadai VeeduTemple Complex",
+  "east": 420647.06,
+  "north": 1436042.02,
+  "conf": 1.0,
+  "size_pt": 54.6
+ },
+ {
+  "ward": 181,
+  "role": "location_names",
+  "text": "Playground",
+  "east": 420407.46,
+  "north": 1436667.97,
+  "conf": 1.0,
+  "size_pt": 36.84
+ },
+ {
+  "ward": 181,
+  "role": "location_names",
+  "text": "SpencersSupermarket",
+  "east": 420633.94,
+  "north": 1436813.72,
+  "conf": 1.0,
+  "size_pt": 41.88
+ },
+ {
+  "ward": 181,
+  "role": "location_names",
+  "text": "Besant Arundale SeniorSecondary School",
+  "east": 420107.55,
+  "north": 1436046.04,
+  "conf": 1.0,
+  "size_pt": 81.72
+ },
+ {
+  "ward": 181,
+  "role": "location_names",
+  "text": "SantoshHospital",
+  "east": 420703.99,
+  "north": 1436734.34,
+  "conf": 1.0,
+  "size_pt": 26.76
+ },
+ {
+  "ward": 181,
+  "role": "location_names",
+  "text": "AnnaiVelankannikChurch",
+  "east": 420893.85,
+  "north": 1436706.92,
+  "conf": 1.0,
+  "size_pt": 34.44
+ },
+ {
+  "ward": 181,
+  "role": "location_names",
+  "text": "AshtalakshmiTemple",
+  "east": 420849.29,
+  "north": 1436403.15,
+  "conf": 1.0,
+  "size_pt": 40.56
+ },
+ {
+  "ward": 181,
+  "role": "size_label",
+  "text": "ane",
+  "east": 419511.0,
+  "north": 1436663.0,
+  "conf": 1.0,
+  "size_pt": 15.6
+ }
+]

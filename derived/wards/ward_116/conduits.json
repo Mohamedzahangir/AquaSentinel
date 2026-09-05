@@ -1,0 +1,16 @@
+[
+ {
+  "cond_id": "E4->E1",
+  "from_node": "E4",
+  "to_node": "E1",
+  "ward": 116,
+  "length_m": 556.172,
+  "us_invert": 3.158,
+  "ds_invert": 3.022,
+  "width_m": 0.643,
+  "depth_m": 0.824,
+  "type": "C",
+  "slope": 0.000245,
+  "dir_src": "invert"
+ }
+]

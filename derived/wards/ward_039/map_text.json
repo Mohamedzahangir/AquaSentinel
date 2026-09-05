@@ -1,0 +1,542 @@
+[
+ {
+  "ward": 39,
+  "role": "road_name",
+  "text": "Balakrishna St",
+  "east": 423444.69,
+  "north": 1451850.93,
+  "conf": 1.0,
+  "size_pt": 44.64
+ },
+ {
+  "ward": 39,
+  "role": "road_name",
+  "text": "0.1002nd4thSudalai Muthu St3rd2nd StAshok NagarGovindarajalu StCross StreetCherian NagAshokIst Cross S2nd St1Dhanapal Nagar (Alias) PNagar3rd St (Alias) PPonnusamy StCherian NagarCros\u041a\u0430\u043fn\u0438 .CherianNagar* 4th Street NSt LnB93rd Street2nd Street4.328MainoaQB8B74.1955th4.748,0Irusappan 2nd LaneStreetStre2nd Street4thStreetDesiya Nagar Main StreetIst",
+  "east": 423766.09,
+  "north": 1452558.08,
+  "conf": 1.0,
+  "size_pt": 178.92
+ },
+ {
+  "ward": 39,
+  "role": "road_name",
+  "text": "Arunachaleswarar Koil St",
+  "east": 423561.52,
+  "north": 1453084.37,
+  "conf": 1.0,
+  "size_pt": 76.92
+ },
+ {
+  "ward": 39,
+  "role": "road_name",
+  "text": "Peerkankaranai",
+  "east": 423555.28,
+  "north": 1452105.98,
+  "conf": 1.0,
+  "size_pt": 46.2
+ },
+ {
+  "ward": 39,
+  "role": "road_name",
+  "text": "Butchammal St",
+  "east": 423586.18,
+  "north": 1452170.11,
+  "conf": 1.0,
+  "size_pt": 47.64
+ },
+ {
+  "ward": 39,
+  "role": "road_name",
+  "text": "Washer Varadappan St",
+  "east": 423584.81,
+  "north": 1452237.95,
+  "conf": 1.0,
+  "size_pt": 68.64
+ },
+ {
+  "ward": 39,
+  "role": "road_name",
+  "text": "Avoor Muthiah St",
+  "east": 423620.79,
+  "north": 1452276.68,
+  "conf": 1.0,
+  "size_pt": 54.0
+ },
+ {
+  "ward": 39,
+  "role": "road_name",
+  "text": "Nannaiah St",
+  "east": 423701.64,
+  "north": 1452303.88,
+  "conf": 1.0,
+  "size_pt": 37.68
+ },
+ {
+  "ward": 39,
+  "role": "road_name",
+  "text": "Irusappan Ist Ln",
+  "east": 423598.67,
+  "north": 1452518.39,
+  "conf": 1.0,
+  "size_pt": 56.52
+ },
+ {
+  "ward": 39,
+  "role": "road_name",
+  "text": "N Terminus Road",
+  "east": 423928.65,
+  "north": 1453134.32,
+  "conf": 1.0,
+  "size_pt": 53.88
+ },
+ {
+  "ward": 39,
+  "role": "road_name",
+  "text": "Veeraraghavan Road",
+  "east": 423765.25,
+  "north": 1452752.06,
+  "conf": 1.0,
+  "size_pt": 62.28
+ },
+ {
+  "ward": 39,
+  "role": "road_name",
+  "text": "Annie Besant St",
+  "east": 423220.01,
+  "north": 1452904.88,
+  "conf": 1.0,
+  "size_pt": 50.52
+ },
+ {
+  "ward": 39,
+  "role": "road_name",
+  "text": "VOC St",
+  "east": 423374.31,
+  "north": 1452987.53,
+  "conf": 1.0,
+  "size_pt": 20.76
+ },
+ {
+  "ward": 39,
+  "role": "road_name",
+  "text": "Cross Rd",
+  "east": 423298.32,
+  "north": 1452619.25,
+  "conf": 1.0,
+  "size_pt": 27.96
+ },
+ {
+  "ward": 39,
+  "role": "road_name",
+  "text": "Ennore High Road",
+  "east": 423971.4,
+  "north": 1452572.05,
+  "conf": 1.0,
+  "size_pt": 55.44
+ },
+ {
+  "ward": 39,
+  "role": "road_name",
+  "text": "Venkatesan St",
+  "east": 423721.22,
+  "north": 1452356.05,
+  "conf": 1.0,
+  "size_pt": 43.08
+ },
+ {
+  "ward": 39,
+  "role": "road_name",
+  "text": "Irusappan St",
+  "east": 423720.59,
+  "north": 1452398.49,
+  "conf": 1.0,
+  "size_pt": 39.24
+ },
+ {
+  "ward": 39,
+  "role": "road_name",
+  "text": "T.H.Road",
+  "east": 423355.05,
+  "north": 1452108.62,
+  "conf": 1.0,
+  "size_pt": 25.32
+ },
+ {
+  "ward": 39,
+  "role": "road_name",
+  "text": "T.H.Road",
+  "east": 423691.8,
+  "north": 1453018.33,
+  "conf": 1.0,
+  "size_pt": 25.32
+ },
+ {
+  "ward": 39,
+  "role": "road_name",
+  "text": "Cross RoadA.K Street",
+  "east": 423473.47,
+  "north": 1452540.3,
+  "conf": 1.0,
+  "size_pt": 48.96
+ },
+ {
+  "ward": 39,
+  "role": "road_name",
+  "text": "ulreetsurya Narayana (C) StreNagooran Thottam 3rd Main Roadda\u2022 UBalakrishna St3rd Cross2ndRStreetCrossinSt6th Cross 5th main!Nagooran Thottam 4th Main RoadainStreet1stroadCrossoo7th Cross 6th mainStreetSt2nBalakrishna Stroad",
+  "east": 423550.3,
+  "north": 1451902.57,
+  "conf": 0.975,
+  "size_pt": 223.92
+ },
+ {
+  "ward": 39,
+  "role": "road_name",
+  "text": "Q.Q.Scheme Road(Alias) T.H Road",
+  "east": 423591.68,
+  "north": 1452884.56,
+  "conf": 1.0,
+  "size_pt": 54.6
+ },
+ {
+  "ward": 39,
+  "role": "road_name",
+  "text": "Veeraragavan Lane",
+  "east": 423904.94,
+  "north": 1452777.46,
+  "conf": 1.0,
+  "size_pt": 57.24
+ },
+ {
+  "ward": 39,
+  "role": "road_name",
+  "text": "Irusappan 2nd Lane",
+  "east": 423680.9,
+  "north": 1452486.54,
+  "conf": 1.0,
+  "size_pt": 59.76
+ },
+ {
+  "ward": 39,
+  "role": "road_name",
+  "text": "Market Farm6th Lane",
+  "east": 423786.83,
+  "north": 1452155.61,
+  "conf": 1.0,
+  "size_pt": 38.28
+ },
+ {
+  "ward": 39,
+  "role": "road_name",
+  "text": "Theyagi 'PerumalStreet",
+  "east": 423412.2,
+  "north": 1452322.29,
+  "conf": 1.0,
+  "size_pt": 26.76
+ },
+ {
+  "ward": 39,
+  "role": "road_name",
+  "text": "ArunachalaEaswararKoil Street",
+  "east": 423496.23,
+  "north": 1452646.02,
+  "conf": 1.0,
+  "size_pt": 36.36
+ },
+ {
+  "ward": 39,
+  "role": "road_name",
+  "text": "A.A.Scheme Road M.P.T Qts",
+  "east": 423322.03,
+  "north": 1452789.95,
+  "conf": 1.0,
+  "size_pt": 87.96
+ },
+ {
+  "ward": 39,
+  "role": "road_name",
+  "text": "ThangammalPoondiStreet",
+  "east": 423647.35,
+  "north": 1452107.25,
+  "conf": 1.0,
+  "size_pt": 37.44
+ },
+ {
+  "ward": 39,
+  "role": "road_name",
+  "text": "vain streetSurya Narayana (C) Street",
+  "east": 423692.43,
+  "north": 1451951.26,
+  "conf": 1.0,
+  "size_pt": 81.72
+ },
+ {
+  "ward": 39,
+  "role": "road_name",
+  "text": "IstStreeCrosstreetdCross2n3rdStreetStreet3rd Cross StreetFisherman ColonyFisherman Colony 3rd Main StreetIst MainFisherman Colony 2nd Main StreetSurva Norr",
+  "east": 423621.74,
+  "north": 1452019.83,
+  "conf": 1.0,
+  "size_pt": 172.44
+ },
+ {
+  "ward": 39,
+  "role": "road_name",
+  "text": "2ndCrossStreet3rd Cross Street",
+  "east": 423709.79,
+  "north": 1452037.4,
+  "conf": 1.0,
+  "size_pt": 72.84
+ },
+ {
+  "ward": 39,
+  "role": "road_name",
+  "text": "Poondi ThangammalIst Street",
+  "east": 423430.08,
+  "north": 1452056.77,
+  "conf": 1.0,
+  "size_pt": 58.44
+ },
+ {
+  "ward": 39,
+  "role": "road_name",
+  "text": "2ndStreet",
+  "east": 423507.97,
+  "north": 1452074.65,
+  "conf": 1.0,
+  "size_pt": 18.24
+ },
+ {
+  "ward": 39,
+  "role": "road_name",
+  "text": "Market Farm2nd Lane",
+  "east": 423828.32,
+  "north": 1452306.31,
+  "conf": 1.0,
+  "size_pt": 38.28
+ },
+ {
+  "ward": 39,
+  "role": "road_name",
+  "text": "1955thStreet",
+  "east": 423747.47,
+  "north": 1452487.91,
+  "conf": 1.0,
+  "size_pt": 18.12
+ },
+ {
+  "ward": 39,
+  "role": "road_name",
+  "text": "3rd2nd St'Cherian NagarIst Cross St",
+  "east": 423903.14,
+  "north": 1452664.12,
+  "conf": 1.0,
+  "size_pt": 43.68
+ },
+ {
+  "ward": 39,
+  "role": "road_name",
+  "text": "1st St2nd StAshok NagarCross StreetAshok",
+  "east": 423813.4,
+  "north": 1452687.4,
+  "conf": 1.0,
+  "size_pt": 41.28
+ },
+ {
+  "ward": 39,
+  "role": "road_name",
+  "text": "4th St",
+  "east": 423859.33,
+  "north": 1452702.32,
+  "conf": 1.0,
+  "size_pt": 19.56
+ },
+ {
+  "ward": 39,
+  "role": "road_name",
+  "text": "3rd St",
+  "east": 423884.73,
+  "north": 1452698.83,
+  "conf": 1.0,
+  "size_pt": 19.68
+ },
+ {
+  "ward": 39,
+  "role": "road_name",
+  "text": "1st St",
+  "east": 423949.5,
+  "north": 1452694.07,
+  "conf": 1.0,
+  "size_pt": 18.12
+ },
+ {
+  "ward": 39,
+  "role": "road_name",
+  "text": "1st St",
+  "east": 423796.78,
+  "north": 1452711.64,
+  "conf": 1.0,
+  "size_pt": 18.12
+ },
+ {
+  "ward": 39,
+  "role": "road_name",
+  "text": "A.A.Scheme Road M.P.T Qts",
+  "east": 423362.67,
+  "north": 1452878.21,
+  "conf": 1.0,
+  "size_pt": 87.96
+ },
+ {
+  "ward": 39,
+  "role": "road_name",
+  "text": "A.A.Scheme Road M.P.TQts",
+  "east": 423368.17,
+  "north": 1453071.56,
+  "conf": 1.0,
+  "size_pt": 87.48
+ },
+ {
+  "ward": 39,
+  "role": "road_name",
+  "text": "A.A.SchemeRoad M.P.T Qts",
+  "east": 423467.33,
+  "north": 1453198.66,
+  "conf": 1.0,
+  "size_pt": 87.84
+ },
+ {
+  "ward": 39,
+  "role": "road_name",
+  "text": "A.A.Scheme Road M.P.T Qts",
+  "east": 423083.91,
+  "north": 1452829.0,
+  "conf": 1.0,
+  "size_pt": 87.96
+ },
+ {
+  "ward": 39,
+  "role": "road_name",
+  "text": "A.A.Scheme Road M.P.T Qts",
+  "east": 423095.77,
+  "north": 1452909.85,
+  "conf": 1.0,
+  "size_pt": 87.96
+ },
+ {
+  "ward": 39,
+  "role": "road_name",
+  "text": "A.A.Scheme Road M.P.T Qts",
+  "east": 423141.91,
+  "north": 1452995.26,
+  "conf": 1.0,
+  "size_pt": 87.96
+ },
+ {
+  "ward": 39,
+  "role": "road_name",
+  "text": "A.A.Scheme Road M.P.TQts",
+  "east": 423174.71,
+  "north": 1453169.67,
+  "conf": 1.0,
+  "size_pt": 87.72
+ },
+ {
+  "ward": 39,
+  "role": "road_name",
+  "text": "A.A.Scheme Road M.P.T Qts",
+  "east": 423128.78,
+  "north": 1453037.38,
+  "conf": 1.0,
+  "size_pt": 87.72
+ },
+ {
+  "ward": 39,
+  "role": "location_names",
+  "text": "Recreation_",
+  "east": 423062.43,
+  "north": 1452726.35,
+  "conf": 1.0,
+  "size_pt": 31.44
+ },
+ {
+  "ward": 39,
+  "role": "location_names",
+  "text": "_Ground",
+  "east": 423119.26,
+  "north": 1452726.35,
+  "conf": 1.0,
+  "size_pt": 20.76
+ },
+ {
+  "ward": 39,
+  "role": "location_names",
+  "text": "Park",
+  "east": 423081.58,
+  "north": 1452710.68,
+  "conf": 1.0,
+  "size_pt": 13.08
+ },
+ {
+  "ward": 39,
+  "role": "location_names",
+  "text": "Anna",
+  "east": 423405.64,
+  "north": 1452768.47,
+  "conf": 1.0,
+  "size_pt": 14.76
+ },
+ {
+  "ward": 39,
+  "role": "location_names",
+  "text": "Park",
+  "east": 423437.7,
+  "north": 1452768.47,
+  "conf": 1.0,
+  "size_pt": 12.96
+ },
+ {
+  "ward": 39,
+  "role": "location_names",
+  "text": "J.K.Hospital,Chennal",
+  "east": 423470.09,
+  "north": 1452217.84,
+  "conf": 1.0,
+  "size_pt": 35.76
+ },
+ {
+  "ward": 39,
+  "role": "location_names",
+  "text": "Tollgate",
+  "east": 423696.03,
+  "north": 1453067.43,
+  "conf": 1.0,
+  "size_pt": 21.96
+ },
+ {
+  "ward": 39,
+  "role": "location_names",
+  "text": "Jeeva",
+  "east": 423281.07,
+  "north": 1452672.8,
+  "conf": 1.0,
+  "size_pt": 16.08
+ },
+ {
+  "ward": 39,
+  "role": "location_names",
+  "text": "Nagar",
+  "east": 423318.43,
+  "north": 1452671.53,
+  "conf": 1.0,
+  "size_pt": 17.64
+ },
+ {
+  "ward": 39,
+  "role": "location_names",
+  "text": "AshokNagar",
+  "east": 423810.43,
+  "north": 1452641.58,
+  "conf": 1.0,
+  "size_pt": 17.76
+ }
+]

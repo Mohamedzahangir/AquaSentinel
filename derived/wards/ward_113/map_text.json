@@ -1,0 +1,1208 @@
+[
+ {
+  "ward": 113,
+  "role": "road_name",
+  "text": "Pillaiyar Koil St",
+  "east": 416847.48,
+  "north": 1443158.13,
+  "conf": 1.0,
+  "size_pt": 47.76
+ },
+ {
+  "ward": 113,
+  "role": "road_name",
+  "text": "Kodambakkam High Road (Alias) Dr.M.G.R.Salai",
+  "east": 417353.94,
+  "north": 1443157.28,
+  "conf": 1.0,
+  "size_pt": 147.84
+ },
+ {
+  "ward": 113,
+  "role": "road_name",
+  "text": "Soliappan Street",
+  "east": 417273.07,
+  "north": 1443116.32,
+  "conf": 1.0,
+  "size_pt": 48.96
+ },
+ {
+  "ward": 113,
+  "role": "road_name",
+  "text": "Sarathi Street",
+  "east": 417156.54,
+  "north": 1442912.15,
+  "conf": 1.0,
+  "size_pt": 42.96
+ },
+ {
+  "ward": 113,
+  "role": "road_name",
+  "text": "North Usman Road",
+  "east": 416947.5,
+  "north": 1443055.36,
+  "conf": 1.0,
+  "size_pt": 59.16
+ },
+ {
+  "ward": 113,
+  "role": "road_name",
+  "text": "StreetPeriyar RoadPadmanabhanStreet",
+  "east": 417188.72,
+  "north": 1443041.17,
+  "conf": 1.0,
+  "size_pt": 51.48
+ },
+ {
+  "ward": 113,
+  "role": "road_name",
+  "text": "NRodd/ StreetCorporationSivasailam Street \u2022TenementsDharmapuram MainPadmanabhanStreet",
+  "east": 417294.67,
+  "north": 1443027.73,
+  "conf": 1.0,
+  "size_pt": 79.68
+ },
+ {
+  "ward": 113,
+  "role": "road_name",
+  "text": "Pilliyar Koil LaneBaluPillaiyar Koil StMudali StreetstmmanDarthasrSarathy PuramoParthaParthaSarathypuram LanePartha Sarathy Puram",
+  "east": 416798.58,
+  "north": 1443088.7,
+  "conf": 1.0,
+  "size_pt": 132.48
+ },
+ {
+  "ward": 113,
+  "role": "road_name",
+  "text": "Kanniah Street",
+  "east": 417039.06,
+  "north": 1442969.2,
+  "conf": 1.0,
+  "size_pt": 45.0
+ },
+ {
+  "ward": 113,
+  "role": "road_name",
+  "text": "Mambalam High Road",
+  "east": 416668.08,
+  "north": 1443098.96,
+  "conf": 1.0,
+  "size_pt": 66.6
+ },
+ {
+  "ward": 113,
+  "role": "road_name",
+  "text": "Parthasarathy",
+  "east": 416885.9,
+  "north": 1443092.72,
+  "conf": 1.0,
+  "size_pt": 42.72
+ },
+ {
+  "ward": 113,
+  "role": "road_name",
+  "text": "Fly. Over",
+  "east": 416770.64,
+  "north": 1443236.35,
+  "conf": 1.0,
+  "size_pt": 25.32
+ },
+ {
+  "ward": 113,
+  "role": "road_name",
+  "text": "Vidyodoya East Main Road",
+  "east": 418208.3,
+  "north": 1442769.69,
+  "conf": 1.0,
+  "size_pt": 81.84
+ },
+ {
+  "ward": 113,
+  "role": "road_name",
+  "text": "3.921Vidyodaya // CrossRajan Ey\u0119 CarePrakasam /LaneHospital42D49",
+  "east": 417974.92,
+  "north": 1442866.64,
+  "conf": 1.0,
+  "size_pt": 71.16
+ },
+ {
+  "ward": 113,
+  "role": "road_name",
+  "text": "Thirumalai Pillai Road",
+  "east": 417671.57,
+  "north": 1442890.03,
+  "conf": 1.0,
+  "size_pt": 65.88
+ },
+ {
+  "ward": 113,
+  "role": "road_name",
+  "text": "Valluvar Kottam High Rogd",
+  "east": 417802.5,
+  "north": 1443192.32,
+  "conf": 1.0,
+  "size_pt": 79.56
+ },
+ {
+  "ward": 113,
+  "role": "road_name",
+  "text": "New Tank StreetJosier StreetSBI",
+  "east": 418156.01,
+  "north": 1443391.09,
+  "conf": 1.0,
+  "size_pt": 60.0
+ },
+ {
+  "ward": 113,
+  "role": "road_name",
+  "text": "Grama |/ Street",
+  "east": 418113.89,
+  "north": 1443219.41,
+  "conf": 1.0,
+  "size_pt": 48.0
+ },
+ {
+  "ward": 113,
+  "role": "road_name",
+  "text": "6.264Thirumurthy Nagar V Street-lemeno,",
+  "east": 418317.95,
+  "north": 1443269.69,
+  "conf": 1.0,
+  "size_pt": 81.36
+ },
+ {
+  "ward": 113,
+  "role": "road_name",
+  "text": "Prakasam Street",
+  "east": 418092.61,
+  "north": 1442945.28,
+  "conf": 1.0,
+  "size_pt": 50.76
+ },
+ {
+  "ward": 113,
+  "role": "road_name",
+  "text": "Vidyodaya Main Road",
+  "east": 417878.49,
+  "north": 1442876.16,
+  "conf": 1.0,
+  "size_pt": 63.84
+ },
+ {
+  "ward": 113,
+  "role": "road_name",
+  "text": "Balaji Avenue | Street",
+  "east": 417568.69,
+  "north": 1442920.94,
+  "conf": 1.0,
+  "size_pt": 68.76
+ },
+ {
+  "ward": 113,
+  "role": "road_name",
+  "text": "Cathedral Garden Road",
+  "east": 418381.14,
+  "north": 1443021.06,
+  "conf": 1.0,
+  "size_pt": 72.36
+ },
+ {
+  "ward": 113,
+  "role": "road_name",
+  "text": "Thangavelu Street",
+  "east": 417578.54,
+  "north": 1443025.4,
+  "conf": 1.0,
+  "size_pt": 53.52
+ },
+ {
+  "ward": 113,
+  "role": "road_name",
+  "text": "Saradambal StreetThirumalaiPillai Road",
+  "east": 417589.54,
+  "north": 1442964.23,
+  "conf": 1.0,
+  "size_pt": 77.76
+ },
+ {
+  "ward": 113,
+  "role": "road_name",
+  "text": "CanaraBank",
+  "east": 417978.09,
+  "north": 1442743.23,
+  "conf": 1.0,
+  "size_pt": 22.68
+ },
+ {
+  "ward": 113,
+  "role": "road_name",
+  "text": "naeetE25.677Kodambakkam High Road (Alias) Dr.M.G.R.Salai",
+  "east": 418517.04,
+  "north": 1443181.1,
+  "conf": 1.0,
+  "size_pt": 143.88
+ },
+ {
+  "ward": 113,
+  "role": "road_name",
+  "text": "Vaithyanathan Street",
+  "east": 418028.89,
+  "north": 1443218.25,
+  "conf": 1.0,
+  "size_pt": 64.32
+ },
+ {
+  "ward": 113,
+  "role": "road_name",
+  "text": "Krishnabai Street",
+  "east": 417468.14,
+  "north": 1442944.64,
+  "conf": 1.0,
+  "size_pt": 52.92
+ },
+ {
+  "ward": 113,
+  "role": "road_name",
+  "text": "New Colony Street",
+  "east": 418122.14,
+  "north": 1443138.97,
+  "conf": 1.0,
+  "size_pt": 57.12
+ },
+ {
+  "ward": 113,
+  "role": "road_name",
+  "text": "Veerabathran Street",
+  "east": 417934.27,
+  "north": 1443331.5,
+  "conf": 1.0,
+  "size_pt": 61.56
+ },
+ {
+  "ward": 113,
+  "role": "road_name",
+  "text": "Subbarayan Street",
+  "east": 417960.84,
+  "north": 1443164.37,
+  "conf": 1.0,
+  "size_pt": 57.12
+ },
+ {
+  "ward": 113,
+  "role": "road_name",
+  "text": "AA GuruhySilks KanithaMohanNagar / StreetF6\u00b0Oyo Silver Keya5.718StremJ//IIL StreetThirumurthyNagarThirumoorthy NagarIV Street",
+  "east": 418333.4,
+  "north": 1443372.57,
+  "conf": 1.0,
+  "size_pt": 93.36
+ },
+ {
+  "ward": 113,
+  "role": "road_name",
+  "text": "\u2192D48Vidyodaya / Cross Street",
+  "east": 417990.79,
+  "north": 1442803.34,
+  "conf": 0.65,
+  "size_pt": 75.48
+ },
+ {
+  "ward": 113,
+  "role": "road_name",
+  "text": "Velayutham Street",
+  "east": 417930.99,
+  "north": 1443246.4,
+  "conf": 1.0,
+  "size_pt": 56.16
+ },
+ {
+  "ward": 113,
+  "role": "road_name",
+  "text": "Kumarappa Lane",
+  "east": 418158.13,
+  "north": 1443537.47,
+  "conf": 1.0,
+  "size_pt": 51.36
+ },
+ {
+  "ward": 113,
+  "role": "road_name",
+  "text": "Dharmapuram VI StreetoDharmapuramVI Streetlt1th StreetSV Streeto",
+  "east": 417444.22,
+  "north": 1443057.79,
+  "conf": 1.0,
+  "size_pt": 80.52
+ },
+ {
+  "ward": 113,
+  "role": "road_name",
+  "text": "Thirumoorthy Nagar",
+  "east": 418335.84,
+  "north": 1443512.07,
+  "conf": 1.0,
+  "size_pt": 60.24
+ },
+ {
+  "ward": 113,
+  "role": "road_name",
+  "text": "|/ Street",
+  "east": 418357.85,
+  "north": 1443493.44,
+  "conf": 1.0,
+  "size_pt": 24.72
+ },
+ {
+  "ward": 113,
+  "role": "road_name",
+  "text": "Krishnama Road",
+  "east": 418334.25,
+  "north": 1443880.5,
+  "conf": 1.0,
+  "size_pt": 49.44
+ },
+ {
+  "ward": 113,
+  "role": "road_name",
+  "text": "Mangaduswamy Street",
+  "east": 418016.19,
+  "north": 1443681.31,
+  "conf": 1.0,
+  "size_pt": 68.76
+ },
+ {
+  "ward": 113,
+  "role": "road_name",
+  "text": "Kumarappa Street",
+  "east": 418068.27,
+  "north": 1443700.57,
+  "conf": 1.0,
+  "size_pt": 56.28
+ },
+ {
+  "ward": 113,
+  "role": "road_name",
+  "text": "Jaganathan Lane",
+  "east": 418151.35,
+  "north": 1443731.48,
+  "conf": 1.0,
+  "size_pt": 52.44
+ },
+ {
+  "ward": 113,
+  "role": "road_name",
+  "text": "Bragathambal Street",
+  "east": 418279.64,
+  "north": 1443723.54,
+  "conf": 1.0,
+  "size_pt": 64.32
+ },
+ {
+  "ward": 113,
+  "role": "road_name",
+  "text": "Valluvarkottam7 High Road",
+  "east": 417897.33,
+  "north": 1443731.69,
+  "conf": 1.0,
+  "size_pt": 78.36
+ },
+ {
+  "ward": 113,
+  "role": "road_name",
+  "text": "Krishna Street",
+  "east": 417809.59,
+  "north": 1443654.11,
+  "conf": 1.0,
+  "size_pt": 42.84
+ },
+ {
+  "ward": 113,
+  "role": "road_name",
+  "text": "Jambulingam StreetMaie",
+  "east": 417764.39,
+  "north": 1443726.29,
+  "conf": 1.0,
+  "size_pt": 60.24
+ },
+ {
+  "ward": 113,
+  "role": "road_name",
+  "text": "Noor VeerasamyStreet",
+  "east": 417932.9,
+  "north": 1443847.8,
+  "conf": 1.0,
+  "size_pt": 47.04
+ },
+ {
+  "ward": 113,
+  "role": "road_name",
+  "text": "Thirumurthy NagarVI Street",
+  "east": 418282.81,
+  "north": 1443592.82,
+  "conf": 1.0,
+  "size_pt": 56.4
+ },
+ {
+  "ward": 113,
+  "role": "road_name",
+  "text": "East Mada Street",
+  "east": 417833.62,
+  "north": 1443898.92,
+  "conf": 1.0,
+  "size_pt": 54.84
+ },
+ {
+  "ward": 113,
+  "role": "road_name",
+  "text": "West Mada Street",
+  "east": 417715.07,
+  "north": 1443904.42,
+  "conf": 1.0,
+  "size_pt": 54.6
+ },
+ {
+  "ward": 113,
+  "role": "road_name",
+  "text": "South Mada Street",
+  "east": 417768.1,
+  "north": 1443830.23,
+  "conf": 1.0,
+  "size_pt": 58.44
+ },
+ {
+  "ward": 113,
+  "role": "road_name",
+  "text": "Deivanayagan Street",
+  "east": 417600.97,
+  "north": 1443889.29,
+  "conf": 1.0,
+  "size_pt": 63.12
+ },
+ {
+  "ward": 113,
+  "role": "road_name",
+  "text": "Tank Bund Road",
+  "east": 417767.89,
+  "north": 1443593.88,
+  "conf": 1.0,
+  "size_pt": 44.28
+ },
+ {
+  "ward": 113,
+  "role": "road_name",
+  "text": "Shenoy Road",
+  "east": 417485.08,
+  "north": 1443964.44,
+  "conf": 1.0,
+  "size_pt": 39.48
+ },
+ {
+  "ward": 113,
+  "role": "road_name",
+  "text": "Avenue Road",
+  "east": 418050.49,
+  "north": 1444102.24,
+  "conf": 1.0,
+  "size_pt": 40.68
+ },
+ {
+  "ward": 113,
+  "role": "road_name",
+  "text": "North Mada Street",
+  "east": 417790.54,
+  "north": 1443968.88,
+  "conf": 1.0,
+  "size_pt": 58.44
+ },
+ {
+  "ward": 113,
+  "role": "road_name",
+  "text": "Noor Veerasamy Lane",
+  "east": 418113.15,
+  "north": 1443910.77,
+  "conf": 1.0,
+  "size_pt": 67.56
+ },
+ {
+  "ward": 113,
+  "role": "road_name",
+  "text": "Puram Extn",
+  "east": 416908.13,
+  "north": 1443083.62,
+  "conf": 1.0,
+  "size_pt": 35.52
+ },
+ {
+  "ward": 113,
+  "role": "road_name",
+  "text": "Nageswara Rao Road",
+  "east": 418198.67,
+  "north": 1443723.22,
+  "conf": 1.0,
+  "size_pt": 66.6
+ },
+ {
+  "ward": 113,
+  "role": "road_name",
+  "text": "voprCalThirumurthy Nagar Main Road",
+  "east": 418438.93,
+  "north": 1443458.3,
+  "conf": 0.65,
+  "size_pt": 91.8
+ },
+ {
+  "ward": 113,
+  "role": "road_name",
+  "text": "Jaganathan Road",
+  "east": 418190.09,
+  "north": 1444001.69,
+  "conf": 1.0,
+  "size_pt": 54.0
+ },
+ {
+  "ward": 113,
+  "role": "road_name",
+  "text": "Mahathma Gandhi Salai",
+  "east": 418533.76,
+  "north": 1443634.95,
+  "conf": 1.0,
+  "size_pt": 69.24
+ },
+ {
+  "ward": 113,
+  "role": "road_name",
+  "text": "Prakasam Street",
+  "east": 418074.62,
+  "north": 1442853.73,
+  "conf": 1.0,
+  "size_pt": 52.08
+ },
+ {
+  "ward": 113,
+  "role": "road_name",
+  "text": "HabibullahRoad",
+  "east": 417378.6,
+  "north": 1442837.32,
+  "conf": 1.0,
+  "size_pt": 30.12
+ },
+ {
+  "ward": 113,
+  "role": "road_name",
+  "text": "CathedralGardenLane",
+  "east": 418382.83,
+  "north": 1442976.71,
+  "conf": 1.0,
+  "size_pt": 28.56
+ },
+ {
+  "ward": 113,
+  "role": "road_name",
+  "text": "Extn.SollappanStreet",
+  "east": 417193.16,
+  "north": 1443079.17,
+  "conf": 1.0,
+  "size_pt": 35.52
+ },
+ {
+  "ward": 113,
+  "role": "road_name",
+  "text": "// StStreetmStreetKodambakkam-|(Alias) DOHigh Road",
+  "east": 418310.54,
+  "north": 1443166.6,
+  "conf": 1.0,
+  "size_pt": 76.32
+ },
+ {
+  "ward": 113,
+  "role": "road_name",
+  "text": "VeerabathranStreet",
+  "east": 418072.29,
+  "north": 1443283.66,
+  "conf": 1.0,
+  "size_pt": 38.64
+ },
+ {
+  "ward": 113,
+  "role": "road_name",
+  "text": "7S Ill,",
+  "east": 417377.54,
+  "north": 1442951.63,
+  "conf": 1.0,
+  "size_pt": 14.76
+ },
+ {
+  "ward": 113,
+  "role": "road_name",
+  "text": "KodambakkamHigh Road-Alias) DB.R.SPrakasamHospitalStreetPvt. Ltd.",
+  "east": 418139.39,
+  "north": 1443034.5,
+  "conf": 1.0,
+  "size_pt": 62.76
+ },
+ {
+  "ward": 113,
+  "role": "road_name",
+  "text": "Bund RoadTank",
+  "east": 417636.96,
+  "north": 1443796.46,
+  "conf": 1.0,
+  "size_pt": 33.96
+ },
+ {
+  "ward": 113,
+  "role": "road_name",
+  "text": "ShenoyRoad",
+  "east": 417544.67,
+  "north": 1443926.76,
+  "conf": 1.0,
+  "size_pt": 21.6
+ },
+ {
+  "ward": 113,
+  "role": "road_name",
+  "text": "Valluvar KottamHigh Road",
+  "east": 417902.62,
+  "north": 1444001.38,
+  "conf": 1.0,
+  "size_pt": 46.44
+ },
+ {
+  "ward": 113,
+  "role": "road_name",
+  "text": "Nosier Street",
+  "east": 418264.5,
+  "north": 1443502.65,
+  "conf": 1.0,
+  "size_pt": 38.76
+ },
+ {
+  "ward": 113,
+  "role": "road_name",
+  "text": "MohanKumaramangalam St",
+  "east": 418328.43,
+  "north": 1443956.92,
+  "conf": 1.0,
+  "size_pt": 63.48
+ },
+ {
+  "ward": 113,
+  "role": "road_name",
+  "text": "Rama Street",
+  "east": 417980.21,
+  "north": 1443722.9,
+  "conf": 1.0,
+  "size_pt": 39.36
+ },
+ {
+  "ward": 113,
+  "role": "road_name",
+  "text": "Rama Street",
+  "east": 417974.28,
+  "north": 1443571.23,
+  "conf": 1.0,
+  "size_pt": 39.24
+ },
+ {
+  "ward": 113,
+  "role": "road_name",
+  "text": "Rama Street",
+  "east": 417974.92,
+  "north": 1443520.32,
+  "conf": 1.0,
+  "size_pt": 38.88
+ },
+ {
+  "ward": 113,
+  "role": "road_name",
+  "text": "Kumarappa Street",
+  "east": 418089.01,
+  "north": 1443486.03,
+  "conf": 1.0,
+  "size_pt": 56.4
+ },
+ {
+  "ward": 113,
+  "role": "road_name",
+  "text": "New Tank Street",
+  "east": 417943.27,
+  "north": 1443417.34,
+  "conf": 1.0,
+  "size_pt": 51.6
+ },
+ {
+  "ward": 113,
+  "role": "road_name",
+  "text": "Ramanujam Street",
+  "east": 418011.01,
+  "north": 1443495.03,
+  "conf": 1.0,
+  "size_pt": 58.2
+ },
+ {
+  "ward": 113,
+  "role": "road_name",
+  "text": "KodambakkamHigh Road (Alias) D",
+  "east": 418564.46,
+  "north": 1443278.26,
+  "conf": 1.0,
+  "size_pt": 60.6
+ },
+ {
+  "ward": 113,
+  "role": "road_name",
+  "text": "Grama// Street",
+  "east": 418380.61,
+  "north": 1443201.21,
+  "conf": 1.0,
+  "size_pt": 24.48
+ },
+ {
+  "ward": 113,
+  "role": "road_name",
+  "text": "DuraisamyStreet",
+  "east": 417886.96,
+  "north": 1443138.23,
+  "conf": 1.0,
+  "size_pt": 31.68
+ },
+ {
+  "ward": 113,
+  "role": "road_name",
+  "text": "Sarathy Puram|Partha",
+  "east": 416920.51,
+  "north": 1443172.31,
+  "conf": 1.0,
+  "size_pt": 45.6
+ },
+ {
+  "ward": 113,
+  "role": "road_name",
+  "text": "D38Bala MuthuKrishnan Street",
+  "east": 417278.58,
+  "north": 1442903.15,
+  "conf": 1.0,
+  "size_pt": 48.24
+ },
+ {
+  "ward": 113,
+  "role": "road_name",
+  "text": "DS/DharmapuramStreet",
+  "east": 417319.01,
+  "north": 1442925.7,
+  "conf": 1.0,
+  "size_pt": 71.76
+ },
+ {
+  "ward": 113,
+  "role": "road_name",
+  "text": "DharmapuramIV Street",
+  "east": 417392.57,
+  "north": 1442989.94,
+  "conf": 1.0,
+  "size_pt": 42.84
+ },
+ {
+  "ward": 113,
+  "role": "road_name",
+  "text": "Habibullah|/ Lane",
+  "east": 418063.29,
+  "north": 1442735.92,
+  "conf": 1.0,
+  "size_pt": 30.12
+ },
+ {
+  "ward": 113,
+  "role": "road_name",
+  "text": "/ Cross StVidyodaya",
+  "east": 418110.39,
+  "north": 1442742.06,
+  "conf": 1.0,
+  "size_pt": 32.52
+ },
+ {
+  "ward": 113,
+  "role": "road_name",
+  "text": "Habibullah1 Lane",
+  "east": 417798.58,
+  "north": 1442788.53,
+  "conf": 1.0,
+  "size_pt": 29.76
+ },
+ {
+  "ward": 113,
+  "role": "road_name",
+  "text": "ParthaSarathypuram Lane",
+  "east": 416825.78,
+  "north": 1443035.99,
+  "conf": 1.0,
+  "size_pt": 58.56
+ },
+ {
+  "ward": 113,
+  "role": "road_name",
+  "text": "Balaji Avenue |I Street",
+  "east": 417550.28,
+  "north": 1442871.08,
+  "conf": 1.0,
+  "size_pt": 70.2
+ },
+ {
+  "ward": 113,
+  "role": "location_names",
+  "text": "Chennai GovernmentHigher Secondary School",
+  "east": 417935.12,
+  "north": 1443206.08,
+  "conf": 1.0,
+  "size_pt": 86.04
+ },
+ {
+  "ward": 113,
+  "role": "location_names",
+  "text": "Rajan Eye CareHospital",
+  "east": 417956.6,
+  "north": 1442861.56,
+  "conf": 1.0,
+  "size_pt": 45.12
+ },
+ {
+  "ward": 113,
+  "role": "location_names",
+  "text": "GG Hospital",
+  "east": 418463.59,
+  "north": 1443359.23,
+  "conf": 1.0,
+  "size_pt": 39.36
+ },
+ {
+  "ward": 113,
+  "role": "location_names",
+  "text": "Park",
+  "east": 417710.94,
+  "north": 1442843.14,
+  "conf": 1.0,
+  "size_pt": 13.08
+ },
+ {
+  "ward": 113,
+  "role": "location_names",
+  "text": "ProvidentFund Quarters",
+  "east": 418454.91,
+  "north": 1443532.39,
+  "conf": 1.0,
+  "size_pt": 43.92
+ },
+ {
+  "ward": 113,
+  "role": "location_names",
+  "text": "Palmgrove",
+  "east": 418470.47,
+  "north": 1443110.18,
+  "conf": 1.0,
+  "size_pt": 31.08
+ },
+ {
+  "ward": 113,
+  "role": "location_names",
+  "text": "PashaAqua",
+  "east": 418692.1,
+  "north": 1443101.93,
+  "conf": 1.0,
+  "size_pt": 17.88
+ },
+ {
+  "ward": 113,
+  "role": "location_names",
+  "text": "Sangeetao Hotel",
+  "east": 418477.56,
+  "north": 1443432.15,
+  "conf": 1.0,
+  "size_pt": 27.6
+ },
+ {
+  "ward": 113,
+  "role": "location_names",
+  "text": "ShankaraBhavan",
+  "east": 417955.44,
+  "north": 1442946.34,
+  "conf": 1.0,
+  "size_pt": 27.48
+ },
+ {
+  "ward": 113,
+  "role": "location_names",
+  "text": "IndianOverseasBank",
+  "east": 417727.98,
+  "north": 1442945.28,
+  "conf": 1.0,
+  "size_pt": 26.16
+ },
+ {
+  "ward": 113,
+  "role": "location_names",
+  "text": "B.R.SHospitalPvt. Ltd.",
+  "east": 418174.32,
+  "north": 1443016.19,
+  "conf": 1.0,
+  "size_pt": 25.8
+ },
+ {
+  "ward": 113,
+  "role": "location_names",
+  "text": "Chitra'sEnt LaserHospital",
+  "east": 418453.22,
+  "north": 1442971.32,
+  "conf": 1.0,
+  "size_pt": 30.0
+ },
+ {
+  "ward": 113,
+  "role": "location_names",
+  "text": "GreenTrendsHelice",
+  "east": 418160.25,
+  "north": 1443290.64,
+  "conf": 1.0,
+  "size_pt": 19.44
+ },
+ {
+  "ward": 113,
+  "role": "location_names",
+  "text": "SBI Atm",
+  "east": 417905.06,
+  "north": 1443452.79,
+  "conf": 1.0,
+  "size_pt": 24.84
+ },
+ {
+  "ward": 113,
+  "role": "location_names",
+  "text": "SurabhCelebrity InnPark Elanza",
+  "east": 417931.63,
+  "north": 1443528.89,
+  "conf": 1.0,
+  "size_pt": 37.44
+ },
+ {
+  "ward": 113,
+  "role": "location_names",
+  "text": "SIMSHospital",
+  "east": 418470.05,
+  "north": 1443484.12,
+  "conf": 1.0,
+  "size_pt": 24.12
+ },
+ {
+  "ward": 113,
+  "role": "location_names",
+  "text": "KarurVysyaBank",
+  "east": 418273.5,
+  "north": 1443063.19,
+  "conf": 1.0,
+  "size_pt": 18.36
+ },
+ {
+  "ward": 113,
+  "role": "location_names",
+  "text": "Makoba",
+  "east": 418633.68,
+  "north": 1443235.61,
+  "conf": 1.0,
+  "size_pt": 22.2
+ },
+ {
+  "ward": 113,
+  "role": "location_names",
+  "text": "PunjabBank",
+  "east": 418556.52,
+  "north": 1443394.16,
+  "conf": 1.0,
+  "size_pt": 19.92
+ },
+ {
+  "ward": 113,
+  "role": "location_names",
+  "text": "ElemenopyOyo Neha",
+  "east": 418379.45,
+  "north": 1443257.41,
+  "conf": 1.0,
+  "size_pt": 27.24
+ },
+ {
+  "ward": 113,
+  "role": "location_names",
+  "text": "MathuraChat and Lassi",
+  "east": 418269.26,
+  "north": 1443474.39,
+  "conf": 1.0,
+  "size_pt": 47.28
+ },
+ {
+  "ward": 113,
+  "role": "location_names",
+  "text": "GaneshMedicals",
+  "east": 418456.18,
+  "north": 1443398.39,
+  "conf": 1.0,
+  "size_pt": 24.96
+ },
+ {
+  "ward": 113,
+  "role": "location_names",
+  "text": "SBI",
+  "east": 418161.73,
+  "north": 1443377.75,
+  "conf": 1.0,
+  "size_pt": 8.4
+ },
+ {
+  "ward": 113,
+  "role": "location_names",
+  "text": "AA GuruSilks KanithaMohanOOyo Silver Keya",
+  "east": 418330.44,
+  "north": 1443400.3,
+  "conf": 1.0,
+  "size_pt": 51.36
+ },
+ {
+  "ward": 113,
+  "role": "location_names",
+  "text": "SyndicateBank",
+  "east": 418535.77,
+  "north": 1443424.75,
+  "conf": 1.0,
+  "size_pt": 28.56
+ },
+ {
+  "ward": 113,
+  "role": "location_names",
+  "text": "St TheresasChurch",
+  "east": 418558.95,
+  "north": 1443352.77,
+  "conf": 1.0,
+  "size_pt": 36.6
+ },
+ {
+  "ward": 113,
+  "role": "location_names",
+  "text": "GovernmentSchool",
+  "east": 418030.48,
+  "north": 1443823.67,
+  "conf": 1.0,
+  "size_pt": 32.88
+ },
+ {
+  "ward": 113,
+  "role": "location_names",
+  "text": "Park",
+  "east": 417846.21,
+  "north": 1443493.33,
+  "conf": 1.0,
+  "size_pt": 13.08
+ },
+ {
+  "ward": 113,
+  "role": "location_names",
+  "text": "Fort",
+  "east": 418391.19,
+  "north": 1443691.36,
+  "conf": 1.0,
+  "size_pt": 11.52
+ },
+ {
+  "ward": 113,
+  "role": "location_names",
+  "text": "St",
+  "east": 418414.69,
+  "north": 1443691.36,
+  "conf": 1.0,
+  "size_pt": 5.52
+ },
+ {
+  "ward": 113,
+  "role": "location_names",
+  "text": "George",
+  "east": 418446.23,
+  "north": 1443689.99,
+  "conf": 1.0,
+  "size_pt": 19.92
+ },
+ {
+  "ward": 113,
+  "role": "location_names",
+  "text": "Nilgiri's",
+  "east": 418368.65,
+  "north": 1443845.05,
+  "conf": 1.0,
+  "size_pt": 21.24
+ },
+ {
+  "ward": 113,
+  "role": "location_names",
+  "text": "EagleBookStore",
+  "east": 417658.76,
+  "north": 1443927.82,
+  "conf": 1.0,
+  "size_pt": 17.76
+ },
+ {
+  "ward": 113,
+  "role": "location_names",
+  "text": "MedindiaHospitalsChennal",
+  "east": 417971.1,
+  "north": 1443962.43,
+  "conf": 1.0,
+  "size_pt": 27.24
+ },
+ {
+  "ward": 113,
+  "role": "location_names",
+  "text": "MeenakshiHospital&Childrens H",
+  "east": 417933.95,
+  "north": 1443748.73,
+  "conf": 1.0,
+  "size_pt": 34.8
+ },
+ {
+  "ward": 113,
+  "role": "location_names",
+  "text": "Karuppiah-Pharmacy",
+  "east": 417937.66,
+  "north": 1443701.42,
+  "conf": 1.0,
+  "size_pt": 30.36
+ },
+ {
+  "ward": 113,
+  "role": "location_names",
+  "text": "CanaraBank",
+  "east": 417875.0,
+  "north": 1443710.73,
+  "conf": 1.0,
+  "size_pt": 21.24
+ },
+ {
+  "ward": 113,
+  "role": "location_names",
+  "text": "MajesticMedicals",
+  "east": 417817.74,
+  "north": 1443704.81,
+  "conf": 1.0,
+  "size_pt": 24.96
+ },
+ {
+  "ward": 113,
+  "role": "location_names",
+  "text": "USBiometrics",
+  "east": 417943.59,
+  "north": 1443134.74,
+  "conf": 1.0,
+  "size_pt": 35.16
+ },
+ {
+  "ward": 113,
+  "role": "location_names",
+  "text": "Centre",
+  "east": 418002.43,
+  "north": 1443128.07,
+  "conf": 1.0,
+  "size_pt": 21.0
+ }
+]

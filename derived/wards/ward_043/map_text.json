@@ -1,0 +1,515 @@
+[
+ {
+  "ward": 43,
+  "role": "road_name",
+  "text": "SN Chetty Street",
+  "east": 423590.5,
+  "north": 1451334.78,
+  "conf": 1.0,
+  "size_pt": 51.96
+ },
+ {
+  "ward": 43,
+  "role": "road_name",
+  "text": "-anamanKoilA226th St9th4.412St10tr1st St4thSt8thVinayagapuram Main St2nd StZth5thTandaiyar NagarLane3rd StMain StKasipuram Y.M.C.A6th Lar4th St1st LaneA172nd3rd Lane4.1525thA164.3944thJeeva Rathnam RoadLaChockalingam ColonyIst Streetummalammanil St Ext.2nd StreetFNew Amaranchi Puram St993rd StreetSNMuthamil Nagar4th StreetChettyAthSt",
+  "east": 423374.79,
+  "north": 1451083.09,
+  "conf": 0.966,
+  "size_pt": 161.64
+ },
+ {
+  "ward": 43,
+  "role": "road_name",
+  "text": "VaradharajaPerumal Koil St",
+  "east": 423144.58,
+  "north": 1451084.36,
+  "conf": 1.0,
+  "size_pt": 49.2
+ },
+ {
+  "ward": 43,
+  "role": "road_name",
+  "text": "Adi DravadarSt",
+  "east": 423194.01,
+  "north": 1451415.01,
+  "conf": 1.0,
+  "size_pt": 49.8
+ },
+ {
+  "ward": 43,
+  "role": "road_name",
+  "text": "Balakrishna St",
+  "east": 423448.88,
+  "north": 1451868.65,
+  "conf": 1.0,
+  "size_pt": 44.52
+ },
+ {
+  "ward": 43,
+  "role": "road_name",
+  "text": "Pilliyar Koil St",
+  "east": 423062.55,
+  "north": 1451177.71,
+  "conf": 1.0,
+  "size_pt": 43.56
+ },
+ {
+  "ward": 43,
+  "role": "road_name",
+  "text": "Kummalamman Koil St",
+  "east": 423200.36,
+  "north": 1450972.69,
+  "conf": 1.0,
+  "size_pt": 71.76
+ },
+ {
+  "ward": 43,
+  "role": "road_name",
+  "text": "8th laneVinayagapuram7th_laneA211th* Ist Lane4.619StTandaiyarpet4th laneIst Street2nd Street3rd Street5thlane6th2nd StOthVinayagapurgthVin7th Step9th St\u0418\u0440\u0448\u0448\u0440\u0448\u0438\u043f\u0445Periyapalaiyathaman Koil StStTandaiyarpet_4th5th4.4126thtre4th St19Doif1st StSt139inayagapuram Main St2nd St5thipuram Y.M.C.ATandaiyar NagarMain St3rd StA18st Lane4th St5.214AD52",
+  "east": 423282.28,
+  "north": 1451235.82,
+  "conf": 0.972,
+  "size_pt": 173.64
+ },
+ {
+  "ward": 43,
+  "role": "road_name",
+  "text": "SN Chetty Street",
+  "east": 423724.6,
+  "north": 1451678.77,
+  "conf": 1.0,
+  "size_pt": 52.2
+ },
+ {
+  "ward": 43,
+  "role": "road_name",
+  "text": "Thiruvottriyur High Rd",
+  "east": 423005.93,
+  "north": 1451228.51,
+  "conf": 1.0,
+  "size_pt": 63.48
+ },
+ {
+  "ward": 43,
+  "role": "road_name",
+  "text": "Kanakar St",
+  "east": 423056.94,
+  "north": 1450960.41,
+  "conf": 1.0,
+  "size_pt": 34.56
+ },
+ {
+  "ward": 43,
+  "role": "road_name",
+  "text": "Vinayagapuram Main St",
+  "east": 423468.14,
+  "north": 1451466.77,
+  "conf": 1.0,
+  "size_pt": 70.56
+ },
+ {
+  "ward": 43,
+  "role": "road_name",
+  "text": "\u00abSingaravelar Nagar Slum",
+  "east": 423571.13,
+  "north": 1450809.38,
+  "conf": 1.0,
+  "size_pt": 90.24
+ },
+ {
+  "ward": 43,
+  "role": "road_name",
+  "text": "NewA4.14\u041d\u0418\u041d\u041d\u041d\u0406\u041d\u0418Amaranchi Puram St",
+  "east": 423378.6,
+  "north": 1450720.68,
+  "conf": 0.9,
+  "size_pt": 74.76
+ },
+ {
+  "ward": 43,
+  "role": "road_name",
+  "text": "AL0-ZL2HAAHA4Thadavarayan Gramini Street",
+  "east": 423123.41,
+  "north": 1450805.36,
+  "conf": 0.533,
+  "size_pt": 89.04
+ },
+ {
+  "ward": 43,
+  "role": "road_name",
+  "text": "Vinayagapuram9th StreetKasipuram B Block11th Lane9thLane10th Lane8th Lane2nd Lane7th Lane6th LaneA33rd Lane4.26305th LaneA164.3944th",
+  "east": 423492.8,
+  "north": 1451206.39,
+  "conf": 1.0,
+  "size_pt": 136.32
+ },
+ {
+  "ward": 43,
+  "role": "road_name",
+  "text": "Ith1/6/47",
+  "east": 423663.95,
+  "north": 1450590.71,
+  "conf": 0.65,
+  "size_pt": 43.8
+ },
+ {
+  "ward": 43,
+  "role": "road_name",
+  "text": "M. G.R.nagarhousing board",
+  "east": 423615.58,
+  "north": 1450735.5,
+  "conf": 1.0,
+  "size_pt": 44.16
+ },
+ {
+  "ward": 43,
+  "role": "road_name",
+  "text": "\u2022 Kuppam Main StreetLane-aneKasipuramA Block4.263aneB3ne3.8767th StreetPudhumanai6th Street5th Street4th Street3rd Street2nd Street1st StreetSingaravelar Nagar1st St2nd St3rd StB2 4th StlKasimedu fishingharbour(Slum)3.490",
+  "east": 423596.1,
+  "north": 1451021.7,
+  "conf": 1.0,
+  "size_pt": 174.84
+ },
+ {
+  "ward": 43,
+  "role": "road_name",
+  "text": "5thStl",
+  "east": 423477.98,
+  "north": 1450925.59,
+  "conf": 1.0,
+  "size_pt": 19.92
+ },
+ {
+  "ward": 43,
+  "role": "road_name",
+  "text": "PawarKuppam",
+  "east": 423614.31,
+  "north": 1451253.07,
+  "conf": 1.0,
+  "size_pt": 23.76
+ },
+ {
+  "ward": 43,
+  "role": "road_name",
+  "text": "St4124th5th St3rd St4th St",
+  "east": 423318.37,
+  "north": 1451157.18,
+  "conf": 1.0,
+  "size_pt": 52.92
+ },
+ {
+  "ward": 43,
+  "role": "road_name",
+  "text": "elarSlumNagarlhiruvalluvarThiruvalluvarStNagar FirstThird St",
+  "east": 423762.6,
+  "north": 1450855.95,
+  "conf": 1.0,
+  "size_pt": 85.56
+ },
+ {
+  "ward": 43,
+  "role": "road_name",
+  "text": "6th Stl",
+  "east": 423474.07,
+  "north": 1450900.08,
+  "conf": 1.0,
+  "size_pt": 19.8
+ },
+ {
+  "ward": 43,
+  "role": "road_name",
+  "text": "2nd St",
+  "east": 423359.76,
+  "north": 1451154.53,
+  "conf": 1.0,
+  "size_pt": 21.12
+ },
+ {
+  "ward": 43,
+  "role": "road_name",
+  "text": ",6th Lane",
+  "east": 423281.65,
+  "north": 1450828.96,
+  "conf": 1.0,
+  "size_pt": 27.0
+ },
+ {
+  "ward": 43,
+  "role": "road_name",
+  "text": "Devaraj Thoottam(Devarajl Grama)",
+  "east": 423388.44,
+  "north": 1450828.22,
+  "conf": 1.0,
+  "size_pt": 62.64
+ },
+ {
+  "ward": 43,
+  "role": "road_name",
+  "text": "Kashima Nagar Ist St2nd St1st2nd",
+  "east": 423562.02,
+  "north": 1450621.51,
+  "conf": 1.0,
+  "size_pt": 91.92
+ },
+ {
+  "ward": 43,
+  "role": "road_name",
+  "text": "St2ndSt10th",
+  "east": 423395.53,
+  "north": 1451282.92,
+  "conf": 1.0,
+  "size_pt": 30.84
+ },
+ {
+  "ward": 43,
+  "role": "road_name",
+  "text": "SNChetty4thSt",
+  "east": 423486.03,
+  "north": 1450957.45,
+  "conf": 1.0,
+  "size_pt": 20.4
+ },
+ {
+  "ward": 43,
+  "role": "road_name",
+  "text": "5th Lane4th Lane",
+  "east": 423505.82,
+  "north": 1451091.45,
+  "conf": 1.0,
+  "size_pt": 30.6
+ },
+ {
+  "ward": 43,
+  "role": "road_name",
+  "text": "st Lane",
+  "east": 423423.16,
+  "north": 1451127.22,
+  "conf": 1.0,
+  "size_pt": 25.44
+ },
+ {
+  "ward": 43,
+  "role": "road_name",
+  "text": "TandaiyarpetIst Street2nd Street3rd Street",
+  "east": 423242.91,
+  "north": 1451316.15,
+  "conf": 1.0,
+  "size_pt": 39.72
+ },
+ {
+  "ward": 43,
+  "role": "road_name",
+  "text": "PawarKuppam",
+  "east": 423608.38,
+  "north": 1451210.2,
+  "conf": 1.0,
+  "size_pt": 24.96
+ },
+ {
+  "ward": 43,
+  "role": "road_name",
+  "text": "NagarSingaravelarSlum",
+  "east": 423746.4,
+  "north": 1450901.99,
+  "conf": 1.0,
+  "size_pt": 36.48
+ },
+ {
+  "ward": 43,
+  "role": "road_name",
+  "text": "Saint XavierSteet Extension",
+  "east": 423773.39,
+  "north": 1450785.56,
+  "conf": 1.0,
+  "size_pt": 41.4
+ },
+ {
+  "ward": 43,
+  "role": "road_name",
+  "text": "PallavanNagar Slum",
+  "east": 423584.78,
+  "north": 1451620.45,
+  "conf": 1.0,
+  "size_pt": 63.72
+ },
+ {
+  "ward": 43,
+  "role": "road_name",
+  "text": "Pallavan NagarSlum",
+  "east": 423557.68,
+  "north": 1451674.75,
+  "conf": 1.0,
+  "size_pt": 63.48
+ },
+ {
+  "ward": 43,
+  "role": "road_name",
+  "text": "Thideer Nagar(Including Pallava)",
+  "east": 423542.76,
+  "north": 1451726.5,
+  "conf": 1.0,
+  "size_pt": 56.16
+ },
+ {
+  "ward": 43,
+  "role": "road_name",
+  "text": "Thideer Nagar(Including Pallava)",
+  "east": 423664.37,
+  "north": 1451729.78,
+  "conf": 1.0,
+  "size_pt": 56.28
+ },
+ {
+  "ward": 43,
+  "role": "road_name",
+  "text": "5th Street",
+  "east": 423386.64,
+  "north": 1450931.1,
+  "conf": 1.0,
+  "size_pt": 32.04
+ },
+ {
+  "ward": 43,
+  "role": "road_name",
+  "text": "3rd Street",
+  "east": 423399.87,
+  "north": 1450995.13,
+  "conf": 1.0,
+  "size_pt": 31.92
+ },
+ {
+  "ward": 43,
+  "role": "road_name",
+  "text": "4th Street",
+  "east": 423392.78,
+  "north": 1450962.11,
+  "conf": 1.0,
+  "size_pt": 31.8
+ },
+ {
+  "ward": 43,
+  "role": "road_name",
+  "text": "2nd Lane",
+  "east": 423301.65,
+  "north": 1450923.69,
+  "conf": 1.0,
+  "size_pt": 28.56
+ },
+ {
+  "ward": 43,
+  "role": "road_name",
+  "text": "3rdkLane",
+  "east": 423275.08,
+  "north": 1450904.11,
+  "conf": 1.0,
+  "size_pt": 27.0
+ },
+ {
+  "ward": 43,
+  "role": "road_name",
+  "text": "4th Lane",
+  "east": 423285.67,
+  "north": 1450878.39,
+  "conf": 1.0,
+  "size_pt": 27.0
+ },
+ {
+  "ward": 43,
+  "role": "road_name",
+  "text": "Sthflane",
+  "east": 423259.74,
+  "north": 1450859.34,
+  "conf": 1.0,
+  "size_pt": 27.12
+ },
+ {
+  "ward": 43,
+  "role": "road_name",
+  "text": "Murukesan Street",
+  "east": 423081.92,
+  "north": 1450901.78,
+  "conf": 1.0,
+  "size_pt": 53.52
+ },
+ {
+  "ward": 43,
+  "role": "road_name",
+  "text": "Thandavarayan",
+  "east": 423125.21,
+  "north": 1450872.04,
+  "conf": 1.0,
+  "size_pt": 43.08
+ },
+ {
+  "ward": 43,
+  "role": "road_name",
+  "text": "Kanniappan ColonyStreet(S.N. 22-88)",
+  "east": 423162.47,
+  "north": 1450883.26,
+  "conf": 1.0,
+  "size_pt": 63.72
+ },
+ {
+  "ward": 43,
+  "role": "road_name",
+  "text": "7th Street",
+  "east": 423390.24,
+  "north": 1450867.91,
+  "conf": 1.0,
+  "size_pt": 31.56
+ },
+ {
+  "ward": 43,
+  "role": "road_name",
+  "text": "6th Street",
+  "east": 423375.64,
+  "north": 1450903.47,
+  "conf": 1.0,
+  "size_pt": 32.04
+ },
+ {
+  "ward": 43,
+  "role": "road_name",
+  "text": "7th St",
+  "east": 423465.39,
+  "north": 1450863.36,
+  "conf": 1.0,
+  "size_pt": 19.56
+ },
+ {
+  "ward": 43,
+  "role": "road_name",
+  "text": "M. G.R.nagarhousing board",
+  "east": 423882.51,
+  "north": 1450727.77,
+  "conf": 1.0,
+  "size_pt": 48.24
+ },
+ {
+  "ward": 43,
+  "role": "road_name",
+  "text": "KummalammanKoil St Ext.J",
+  "east": 423265.77,
+  "north": 1451034.61,
+  "conf": 1.0,
+  "size_pt": 50.28
+ },
+ {
+  "ward": 43,
+  "role": "location_names",
+  "text": "MalligaiHospital",
+  "east": 423018.84,
+  "north": 1450972.06,
+  "conf": 1.0,
+  "size_pt": 21.84
+ },
+ {
+  "ward": 43,
+  "role": "location_names",
+  "text": "EzhilHospital",
+  "east": 423197.61,
+  "north": 1451550.06,
+  "conf": 1.0,
+  "size_pt": 24.12
+ }
+]

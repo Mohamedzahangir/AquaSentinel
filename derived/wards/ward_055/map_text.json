@@ -1,0 +1,614 @@
+[
+ {
+  "ward": 55,
+  "role": "road_name",
+  "text": "Subramaniyan Street",
+  "east": 422042.34,
+  "north": 1448024.09,
+  "conf": 1.0,
+  "size_pt": 64.56
+ },
+ {
+  "ward": 55,
+  "role": "road_name",
+  "text": "Samayarthama Koil Street",
+  "east": 422044.67,
+  "north": 1448218.48,
+  "conf": 1.0,
+  "size_pt": 81.96
+ },
+ {
+  "ward": 55,
+  "role": "road_name",
+  "text": "2.8942.261Yoil StreetreEgavalliammanKoil StreetVenkatachalam (lyyar)QEMylai Periya Thambi StParrysQBAPPy Moistry Streetra\u2022Parrys Venkatachalam",
+  "east": 422489.1,
+  "north": 1447987.16,
+  "conf": 1.0,
+  "size_pt": 107.64
+ },
+ {
+  "ward": 55,
+  "role": "road_name",
+  "text": "Sambiar Street",
+  "east": 422130.29,
+  "north": 1447937.0,
+  "conf": 1.0,
+  "size_pt": 46.68
+ },
+ {
+  "ward": 55,
+  "role": "road_name",
+  "text": "Appaswamy MPattu RasappanStreetNagamani Garden Street",
+  "east": 422135.58,
+  "north": 1448012.66,
+  "conf": 1.0,
+  "size_pt": 76.92
+ },
+ {
+  "ward": 55,
+  "role": "road_name",
+  "text": "Amman Koil StreetStreetEgavalliammanKoil StreetPondrappanakrishnan",
+  "east": 422397.76,
+  "north": 1448023.56,
+  "conf": 1.0,
+  "size_pt": 68.04
+ },
+ {
+  "ward": 55,
+  "role": "road_name",
+  "text": "Buddi Street",
+  "east": 422417.65,
+  "north": 1447813.19,
+  "conf": 1.0,
+  "size_pt": 38.76
+ },
+ {
+  "ward": 55,
+  "role": "road_name",
+  "text": "Meeran Labbai Street",
+  "east": 422635.9,
+  "north": 1447960.07,
+  "conf": 1.0,
+  "size_pt": 66.6
+ },
+ {
+  "ward": 55,
+  "role": "road_name",
+  "text": "Vidyanathan Mudali Street",
+  "east": 422005.4,
+  "north": 1448276.9,
+  "conf": 1.0,
+  "size_pt": 80.04
+ },
+ {
+  "ward": 55,
+  "role": "road_name",
+  "text": "Kutty Street",
+  "east": 422077.9,
+  "north": 1448220.81,
+  "conf": 1.0,
+  "size_pt": 38.04
+ },
+ {
+  "ward": 55,
+  "role": "road_name",
+  "text": "Srinivasa Street",
+  "east": 422264.71,
+  "north": 1448049.59,
+  "conf": 1.0,
+  "size_pt": 48.6
+ },
+ {
+  "ward": 55,
+  "role": "road_name",
+  "text": "Sadaiyappa Street",
+  "east": 422268.63,
+  "north": 1448218.91,
+  "conf": 1.0,
+  "size_pt": 56.04
+ },
+ {
+  "ward": 55,
+  "role": "road_name",
+  "text": "Kaveri Street",
+  "east": 422308.11,
+  "north": 1448291.08,
+  "conf": 1.0,
+  "size_pt": 40.44
+ },
+ {
+  "ward": 55,
+  "role": "road_name",
+  "text": "Seven",
+  "east": 422218.35,
+  "north": 1448321.45,
+  "conf": 1.0,
+  "size_pt": 16.32
+ },
+ {
+  "ward": 55,
+  "role": "road_name",
+  "text": "Wells St",
+  "east": 422223.75,
+  "north": 1448276.9,
+  "conf": 1.0,
+  "size_pt": 23.16
+ },
+ {
+  "ward": 55,
+  "role": "road_name",
+  "text": "St.Xavier St.Kutty StreetStMuthuswamyMalaiappanStA24.298CMottai MaistryKutty StreetThandava Murthy StrPaniakaraAudiappan StAmman Koil Street",
+  "east": 422135.06,
+  "north": 1448266.42,
+  "conf": 1.0,
+  "size_pt": 128.4
+ },
+ {
+  "ward": 55,
+  "role": "road_name",
+  "text": "(Sahib)StreetMuthu Naicken StreetMofuskhan Garden LaneAsrathMK Garden St",
+  "east": 422487.19,
+  "north": 1447782.61,
+  "conf": 1.0,
+  "size_pt": 78.48
+ },
+ {
+  "ward": 55,
+  "role": "road_name",
+  "text": "Thiyagaraya Street",
+  "east": 422012.6,
+  "north": 1448460.39,
+  "conf": 1.0,
+  "size_pt": 56.04
+ },
+ {
+  "ward": 55,
+  "role": "road_name",
+  "text": "2nd Narayanan StreetOharmarajaRamalinganKoil 1St LaneVaradan StreetSevenappan StreetNarayana Ist StreetWells Street17njabtIonalMangammal Streeteetank",
+  "east": 422073.03,
+  "north": 1448574.25,
+  "conf": 1.0,
+  "size_pt": 102.24
+ },
+ {
+  "ward": 55,
+  "role": "road_name",
+  "text": "4.519AnaikaraKannanStreetShanmugamA11StreetriyannanStreet3.974Lane",
+  "east": 422260.16,
+  "north": 1448426.84,
+  "conf": 1.0,
+  "size_pt": 73.92
+ },
+ {
+  "ward": 55,
+  "role": "road_name",
+  "text": "Baracks Street",
+  "east": 422283.02,
+  "north": 1448675.94,
+  "conf": 1.0,
+  "size_pt": 46.08
+ },
+ {
+  "ward": 55,
+  "role": "road_name",
+  "text": "Palayappan Street",
+  "east": 422220.79,
+  "north": 1448605.36,
+  "conf": 1.0,
+  "size_pt": 56.76
+ },
+ {
+  "ward": 55,
+  "role": "road_name",
+  "text": "Ramalingam St",
+  "east": 422151.67,
+  "north": 1448638.27,
+  "conf": 1.0,
+  "size_pt": 47.28
+ },
+ {
+  "ward": 55,
+  "role": "road_name",
+  "text": "Portuguese Church Road",
+  "east": 422378.81,
+  "north": 1448528.96,
+  "conf": 1.0,
+  "size_pt": 77.16
+ },
+ {
+  "ward": 55,
+  "role": "road_name",
+  "text": "Kutty(Maistry)street",
+  "east": 422122.99,
+  "north": 1448403.03,
+  "conf": 1.0,
+  "size_pt": 42.72
+ },
+ {
+  "ward": 55,
+  "role": "road_name",
+  "text": "Giri Gori Street",
+  "east": 422176.55,
+  "north": 1448597.42,
+  "conf": 1.0,
+  "size_pt": 46.8
+ },
+ {
+  "ward": 55,
+  "role": "road_name",
+  "text": "Old JailRoad",
+  "east": 422057.58,
+  "north": 1448895.1,
+  "conf": 1.0,
+  "size_pt": 41.52
+ },
+ {
+  "ward": 55,
+  "role": "road_name",
+  "text": "Kumarappan StreetVeerangaveduMurugesa St",
+  "east": 422057.26,
+  "north": 1448454.57,
+  "conf": 1.0,
+  "size_pt": 59.76
+ },
+ {
+  "ward": 55,
+  "role": "road_name",
+  "text": "Appaswamy Mudali Street",
+  "east": 422122.35,
+  "north": 1448063.14,
+  "conf": 1.0,
+  "size_pt": 80.04
+ },
+ {
+  "ward": 55,
+  "role": "road_name",
+  "text": "Davinson Street",
+  "east": 422594.94,
+  "north": 1447968.43,
+  "conf": 1.0,
+  "size_pt": 48.72
+ },
+ {
+  "ward": 55,
+  "role": "road_name",
+  "text": "Veeraswamy Pillaiyar Street",
+  "east": 422266.51,
+  "north": 1448574.36,
+  "conf": 1.0,
+  "size_pt": 84.72
+ },
+ {
+  "ward": 55,
+  "role": "road_name",
+  "text": "Varadan StreetIrusappan Street",
+  "east": 422020.32,
+  "north": 1448587.8,
+  "conf": 1.0,
+  "size_pt": 66.72
+ },
+ {
+  "ward": 55,
+  "role": "road_name",
+  "text": "Govindappa Naicken Street",
+  "east": 422212.11,
+  "north": 1447839.75,
+  "conf": 1.0,
+  "size_pt": 82.8
+ },
+ {
+  "ward": 55,
+  "role": "road_name",
+  "text": "Mint Fhyover",
+  "east": 421934.48,
+  "north": 1448934.99,
+  "conf": 1.0,
+  "size_pt": 37.08
+ },
+ {
+  "ward": 55,
+  "role": "road_name",
+  "text": "Nattu Pillaiyar Koil St",
+  "east": 422006.67,
+  "north": 1447834.25,
+  "conf": 1.0,
+  "size_pt": 67.68
+ },
+ {
+  "ward": 55,
+  "role": "road_name",
+  "text": "Mint Street",
+  "east": 421949.09,
+  "north": 1448267.16,
+  "conf": 1.0,
+  "size_pt": 34.2
+ },
+ {
+  "ward": 55,
+  "role": "road_name",
+  "text": "Mint Street",
+  "east": 421942.0,
+  "north": 1448041.34,
+  "conf": 1.0,
+  "size_pt": 34.44
+ },
+ {
+  "ward": 55,
+  "role": "road_name",
+  "text": "Mint Street",
+  "east": 421935.54,
+  "north": 1448543.46,
+  "conf": 1.0,
+  "size_pt": 34.32
+ },
+ {
+  "ward": 55,
+  "role": "road_name",
+  "text": "Mint Street",
+  "east": 421931.73,
+  "north": 1448789.91,
+  "conf": 1.0,
+  "size_pt": 34.44
+ },
+ {
+  "ward": 55,
+  "role": "road_name",
+  "text": "Paramanantha Street",
+  "east": 422340.5,
+  "north": 1448553.72,
+  "conf": 1.0,
+  "size_pt": 66.12
+ },
+ {
+  "ward": 55,
+  "role": "road_name",
+  "text": "Portuguese Church Road",
+  "east": 422348.75,
+  "north": 1448183.77,
+  "conf": 1.0,
+  "size_pt": 76.2
+ },
+ {
+  "ward": 55,
+  "role": "road_name",
+  "text": "St.Xavier Street",
+  "east": 422299.43,
+  "north": 1448334.67,
+  "conf": 1.0,
+  "size_pt": 52.44
+ },
+ {
+  "ward": 55,
+  "role": "road_name",
+  "text": "Thatha Muthiappan Street",
+  "east": 422337.95,
+  "north": 1447688.64,
+  "conf": 1.0,
+  "size_pt": 79.56
+ },
+ {
+  "ward": 55,
+  "role": "road_name",
+  "text": "Thatha Muthiappan Street",
+  "east": 422628.18,
+  "north": 1447810.02,
+  "conf": 1.0,
+  "size_pt": 79.8
+ },
+ {
+  "ward": 55,
+  "role": "road_name",
+  "text": "BalakrishnanLane",
+  "east": 422351.93,
+  "north": 1447972.24,
+  "conf": 1.0,
+  "size_pt": 37.56
+ },
+ {
+  "ward": 55,
+  "role": "road_name",
+  "text": "MarimuthuLane",
+  "east": 421990.47,
+  "north": 1448701.45,
+  "conf": 1.0,
+  "size_pt": 31.44
+ },
+ {
+  "ward": 55,
+  "role": "road_name",
+  "text": "Old Jail RoadDoil'mad LaneA13.5745.690",
+  "east": 422073.14,
+  "north": 1448699.01,
+  "conf": 1.0,
+  "size_pt": 55.32
+ },
+ {
+  "ward": 55,
+  "role": "road_name",
+  "text": "MangammalLane",
+  "east": 422140.56,
+  "north": 1448470.97,
+  "conf": 1.0,
+  "size_pt": 36.0
+ },
+ {
+  "ward": 55,
+  "role": "road_name",
+  "text": "Varadamuthiyappan Street",
+  "east": 422299.22,
+  "north": 1448018.48,
+  "conf": 1.0,
+  "size_pt": 80.28
+ },
+ {
+  "ward": 55,
+  "role": "road_name",
+  "text": "ThathaMuthiappan St",
+  "east": 421978.2,
+  "north": 1447753.19,
+  "conf": 1.0,
+  "size_pt": 44.64
+ },
+ {
+  "ward": 55,
+  "role": "road_name",
+  "text": "DavidsonStreet",
+  "east": 422539.9,
+  "north": 1447701.66,
+  "conf": 1.0,
+  "size_pt": 25.8
+ },
+ {
+  "ward": 55,
+  "role": "road_name",
+  "text": "Nattu Pillaiyar",
+  "east": 422000.53,
+  "north": 1447971.92,
+  "conf": 1.0,
+  "size_pt": 43.08
+ },
+ {
+  "ward": 55,
+  "role": "road_name",
+  "text": "Koil Street",
+  "east": 421988.25,
+  "north": 1448052.24,
+  "conf": 1.0,
+  "size_pt": 32.16
+ },
+ {
+  "ward": 55,
+  "role": "road_name",
+  "text": "PeriyannanStreet",
+  "east": 422293.08,
+  "north": 1448395.52,
+  "conf": 1.0,
+  "size_pt": 32.4
+ },
+ {
+  "ward": 55,
+  "role": "road_name",
+  "text": "BaracksIst Lane",
+  "east": 422391.51,
+  "north": 1448692.24,
+  "conf": 1.0,
+  "size_pt": 27.36
+ },
+ {
+  "ward": 55,
+  "role": "road_name",
+  "text": "Old Jail Road",
+  "east": 422061.81,
+  "north": 1448830.02,
+  "conf": 1.0,
+  "size_pt": 41.28
+ },
+ {
+  "ward": 55,
+  "role": "road_name",
+  "text": "Old Jail Road",
+  "east": 422200.25,
+  "north": 1448822.72,
+  "conf": 1.0,
+  "size_pt": 41.4
+ },
+ {
+  "ward": 55,
+  "role": "road_name",
+  "text": "Jail RoadPIO",
+  "east": 422265.88,
+  "north": 1448816.26,
+  "conf": 1.0,
+  "size_pt": 28.56
+ },
+ {
+  "ward": 55,
+  "role": "road_name",
+  "text": "Jail RoadPIO",
+  "east": 422410.35,
+  "north": 1448831.08,
+  "conf": 1.0,
+  "size_pt": 28.56
+ },
+ {
+  "ward": 55,
+  "role": "road_name",
+  "text": "Amman",
+  "east": 421992.91,
+  "north": 1448131.39,
+  "conf": 1.0,
+  "size_pt": 22.44
+ },
+ {
+  "ward": 55,
+  "role": "road_name",
+  "text": "Koil St",
+  "east": 422025.3,
+  "north": 1448109.17,
+  "conf": 1.0,
+  "size_pt": 20.28
+ },
+ {
+  "ward": 55,
+  "role": "road_name",
+  "text": "Old Jail Road",
+  "east": 422308.74,
+  "north": 1448898.91,
+  "conf": 1.0,
+  "size_pt": 41.4
+ },
+ {
+  "ward": 55,
+  "role": "road_name",
+  "text": "Lane",
+  "east": 422218.04,
+  "north": 1448386.42,
+  "conf": 1.0,
+  "size_pt": 13.68
+ },
+ {
+  "ward": 55,
+  "role": "location_names",
+  "text": "PunjabNationalBank",
+  "east": 421984.02,
+  "north": 1448506.31,
+  "conf": 1.0,
+  "size_pt": 24.6
+ },
+ {
+  "ward": 55,
+  "role": "location_names",
+  "text": "SevenWellsHospitals",
+  "east": 422244.18,
+  "north": 1448235.94,
+  "conf": 1.0,
+  "size_pt": 24.12
+ },
+ {
+  "ward": 55,
+  "role": "location_names",
+  "text": "Anjaneya Koil",
+  "east": 422321.02,
+  "north": 1448712.35,
+  "conf": 1.0,
+  "size_pt": 41.88
+ },
+ {
+  "ward": 55,
+  "role": "location_names",
+  "text": "Mannadi",
+  "east": 422614.63,
+  "north": 1448026.31,
+  "conf": 1.0,
+  "size_pt": 24.6
+ },
+ {
+  "ward": 55,
+  "role": "location_names",
+  "text": "Pond",
+  "east": 422356.37,
+  "north": 1447995.73,
+  "conf": 1.0,
+  "size_pt": 13.8
+ }
+]

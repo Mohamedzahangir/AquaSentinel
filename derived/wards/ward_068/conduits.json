@@ -1,0 +1,16 @@
+[
+ {
+  "cond_id": "A1->A4",
+  "from_node": "A1",
+  "to_node": "A4",
+  "ward": 68,
+  "length_m": 351.517,
+  "us_invert": 6.35,
+  "ds_invert": null,
+  "width_m": 1.109,
+  "depth_m": 0.913,
+  "type": null,
+  "slope": null,
+  "dir_src": "assumed"
+ }
+]

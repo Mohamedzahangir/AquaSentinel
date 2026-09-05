@@ -1,0 +1,1775 @@
+[
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "Aziz Muluk 3rd Street",
+  "east": 418973.99,
+  "north": 1443452.09,
+  "conf": 1.0,
+  "size_pt": 66.84
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "Haddows Road",
+  "east": 418459.98,
+  "north": 1444464.15,
+  "conf": 1.0,
+  "size_pt": 45.48
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "Muluk sra15 75|OntMulkAziz MulukIV StreetZIZModel School RoadV StreetVI StreetC94th4.974gModel SchoolDUUYV Street\u044d\u043807/PYStVI StreetD>OVII StreetA4.760VIII StreetA38",
+  "east": 419094.1,
+  "north": 1443362.02,
+  "conf": 0.913,
+  "size_pt": 167.76
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "Smith Lane",
+  "east": 419957.03,
+  "north": 1443886.84,
+  "conf": 1.0,
+  "size_pt": 30.24
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "Model School Rd",
+  "east": 418916.42,
+  "north": 1443368.8,
+  "conf": 1.0,
+  "size_pt": 42.12
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "GAA 3rd Street",
+  "east": 418964.04,
+  "north": 1443658.77,
+  "conf": 1.0,
+  "size_pt": 47.64
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "Rutland Gate 4th Street",
+  "east": 418578.93,
+  "north": 1443753.39,
+  "conf": 1.0,
+  "size_pt": 75.84
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "Haddows Road Ist St",
+  "east": 418503.37,
+  "north": 1444196.18,
+  "conf": 1.0,
+  "size_pt": 67.44
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "Rutland Gate 6th Street",
+  "east": 418651.42,
+  "north": 1443867.05,
+  "conf": 1.0,
+  "size_pt": 72.84
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "2nd St",
+  "east": 418459.66,
+  "north": 1444086.44,
+  "conf": 1.0,
+  "size_pt": 20.76
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "Wallace GardenIst Street",
+  "east": 418756.93,
+  "north": 1444145.81,
+  "conf": 1.0,
+  "size_pt": 44.16
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "Greams Lane",
+  "east": 419025.84,
+  "north": 1444156.92,
+  "conf": 1.0,
+  "size_pt": 36.12
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "Wallace Garden 3rd StNai",
+  "east": 418794.71,
+  "north": 1444067.18,
+  "conf": 1.0,
+  "size_pt": 69.0
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "Pycrofts Garden Rd4.600",
+  "east": 418737.99,
+  "north": 1444243.91,
+  "conf": 1.0,
+  "size_pt": 55.68
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "Khader Nawaz Khan Road",
+  "east": 418528.76,
+  "north": 1443929.91,
+  "conf": 1.0,
+  "size_pt": 73.44
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "Anno Salai (Mount Road)",
+  "east": 419929.84,
+  "north": 1444009.92,
+  "conf": 1.0,
+  "size_pt": 61.08
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "EthirajBridge",
+  "east": 419774.48,
+  "north": 1444280.21,
+  "conf": 1.0,
+  "size_pt": 20.28
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "StreetShafee Mohammed Rd",
+  "east": 419085.21,
+  "north": 1443933.83,
+  "conf": 1.0,
+  "size_pt": 63.36
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "FiestaAlikhan Bhagadur StGulam AbbasHCLGulam AbbasAli Khan Ist St",
+  "east": 419076.01,
+  "north": 1443813.39,
+  "conf": 1.0,
+  "size_pt": 82.8
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "Uthamar Gandhi Road",
+  "east": 418559.67,
+  "north": 1443562.26,
+  "conf": 1.0,
+  "size_pt": 64.92
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "Model School Road",
+  "east": 418910.6,
+  "north": 1443807.89,
+  "conf": 1.0,
+  "size_pt": 59.52
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "Rutland Gate",
+  "east": 418769.0,
+  "north": 1443905.25,
+  "conf": 1.0,
+  "size_pt": 38.64
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "Kushkumar Road",
+  "east": 418328.11,
+  "north": 1444169.3,
+  "conf": 1.0,
+  "size_pt": 51.96
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "Smith Road",
+  "east": 419883.48,
+  "north": 1443718.78,
+  "conf": 1.0,
+  "size_pt": 36.0
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "Club House RoadL0",
+  "east": 420182.34,
+  "north": 1444038.07,
+  "conf": 0.75,
+  "size_pt": 49.56
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "Patullos Road",
+  "east": 420071.86,
+  "north": 1443898.8,
+  "conf": 1.0,
+  "size_pt": 42.6
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "WoodsRoad",
+  "east": 420234.41,
+  "north": 1444145.17,
+  "conf": 1.0,
+  "size_pt": 29.88
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "Whites Road",
+  "east": 419936.61,
+  "north": 1443644.17,
+  "conf": 1.0,
+  "size_pt": 36.36
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "Wallace Garden2nd Street",
+  "east": 418674.07,
+  "north": 1444083.37,
+  "conf": 1.0,
+  "size_pt": 38.76
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "5th Street",
+  "east": 418843.61,
+  "north": 1443910.55,
+  "conf": 1.0,
+  "size_pt": 32.04
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "Gopalapuram7th Street",
+  "east": 419381.75,
+  "north": 1442439.81,
+  "conf": 1.0,
+  "size_pt": 38.4
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "Gopalapuram 6th St",
+  "east": 419273.8,
+  "north": 1442521.94,
+  "conf": 1.0,
+  "size_pt": 62.64
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "Gopalapuram 8th Street",
+  "east": 419269.78,
+  "north": 1442611.05,
+  "conf": 1.0,
+  "size_pt": 75.12
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "Agri HorticulturalSociety GardensEllari Street",
+  "east": 419162.68,
+  "north": 1442724.5,
+  "conf": 1.0,
+  "size_pt": 59.76
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "GangotreeRestaurant",
+  "east": 419262.69,
+  "north": 1442471.88,
+  "conf": 1.0,
+  "size_pt": 36.12
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "ri Sarda2nd StreethighercondarySchool1sGopalapuram3rd StreetGopalapuramGopalapuram",
+  "east": 419429.79,
+  "north": 1442694.97,
+  "conf": 1.0,
+  "size_pt": 81.12
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "221Avvai Sanmugam Road",
+  "east": 419165.86,
+  "north": 1442990.03,
+  "conf": 1.0,
+  "size_pt": 56.4
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "Sathyam Theatre",
+  "east": 419536.26,
+  "north": 1443377.05,
+  "conf": 1.0,
+  "size_pt": 51.96
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "Cathedral Road",
+  "east": 418954.51,
+  "north": 1442851.81,
+  "conf": 1.0,
+  "size_pt": 37.44
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "BuddhiBegumUnionStreet uBank of IndiaIst LanA35PetersRoad5.453Ely Over",
+  "east": 419447.89,
+  "north": 1443329.85,
+  "conf": 1.0,
+  "size_pt": 71.64
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "Conran Smith Road",
+  "east": 419508.21,
+  "north": 1443068.34,
+  "conf": 1.0,
+  "size_pt": 60.96
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "Padmapathi Road",
+  "east": 419355.29,
+  "north": 1443164.12,
+  "conf": 1.0,
+  "size_pt": 55.08
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "Whites Road",
+  "east": 419722.83,
+  "north": 1443580.56,
+  "conf": 1.0,
+  "size_pt": 35.4
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "OverFly",
+  "east": 418867.21,
+  "north": 1443068.24,
+  "conf": 1.0,
+  "size_pt": 20.4
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "Ganesh Street",
+  "east": 419321.64,
+  "north": 1442780.8,
+  "conf": 1.0,
+  "size_pt": 43.08
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "Thiruveethiyan Road",
+  "east": 419174.43,
+  "north": 1442607.03,
+  "conf": 1.0,
+  "size_pt": 60.84
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "Damodaran St",
+  "east": 419125.43,
+  "north": 1442633.38,
+  "conf": 1.0,
+  "size_pt": 44.4
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "West End St",
+  "east": 419276.13,
+  "north": 1442723.55,
+  "conf": 1.0,
+  "size_pt": 37.68
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "5th Street",
+  "east": 419420.48,
+  "north": 1442531.36,
+  "conf": 1.0,
+  "size_pt": 31.92
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "4th Street",
+  "east": 419423.87,
+  "north": 1442607.03,
+  "conf": 1.0,
+  "size_pt": 31.92
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "Greams Road",
+  "east": 419209.99,
+  "north": 1444562.36,
+  "conf": 1.0,
+  "size_pt": 34.44
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "Anderson Road",
+  "east": 418674.6,
+  "north": 1444550.4,
+  "conf": 1.0,
+  "size_pt": 46.8
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "Subba Rao Avenue",
+  "east": 418100.58,
+  "north": 1444737.3,
+  "conf": 1.0,
+  "size_pt": 58.56
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "Moore Rd",
+  "east": 419020.98,
+  "north": 1444542.89,
+  "conf": 1.0,
+  "size_pt": 24.36
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "College Road",
+  "east": 419093.04,
+  "north": 1444723.75,
+  "conf": 1.0,
+  "size_pt": 32.64
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "College, Bridge",
+  "east": 419162.36,
+  "north": 1444695.07,
+  "conf": 1.0,
+  "size_pt": 32.04
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "Chetpet Bridge",
+  "east": 417874.63,
+  "north": 1444789.58,
+  "conf": 1.0,
+  "size_pt": 43.92
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "College Road",
+  "east": 418175.19,
+  "north": 1444612.73,
+  "conf": 1.0,
+  "size_pt": 38.52
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "College Road",
+  "east": 418615.76,
+  "north": 1444760.05,
+  "conf": 1.0,
+  "size_pt": 39.84
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "2nd StreetMaakkis Garden",
+  "east": 419292.22,
+  "north": 1444071.09,
+  "conf": 1.0,
+  "size_pt": 58.68
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "1XV Stre// StreetVIl LaneV Street1OModel School RoadGAA 3rd StreetVI Street3.762D10Gulam Abbas Alikhan3.881Gulam AbbasAlikhan VII StGulam AbbasAlikhan X StreeD114.632New StreetAbbasStGulamAlikhanD6",
+  "east": 418913.56,
+  "north": 1443598.56,
+  "conf": 1.0,
+  "size_pt": 134.88
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "IXV StreetLane895",
+  "east": 418927.95,
+  "north": 1443692.64,
+  "conf": 0.833,
+  "size_pt": 32.52
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "1 Street",
+  "east": 418851.33,
+  "north": 1443754.66,
+  "conf": 1.0,
+  "size_pt": 23.52
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "ShyamAvenue",
+  "east": 418740.95,
+  "north": 1443865.99,
+  "conf": 1.0,
+  "size_pt": 20.28
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "KadernawazkhanRoad",
+  "east": 418705.39,
+  "north": 1443925.79,
+  "conf": 1.0,
+  "size_pt": 49.56
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "Rangoon Street",
+  "east": 419526.52,
+  "north": 1443794.87,
+  "conf": 1.0,
+  "size_pt": 45.72
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "AndersonRoad",
+  "east": 419089.02,
+  "north": 1444372.18,
+  "conf": 1.0,
+  "size_pt": 27.36
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "NawabHabibullah AvenueCross Street",
+  "east": 418734.81,
+  "north": 1444444.57,
+  "conf": 1.0,
+  "size_pt": 69.24
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "/ Street",
+  "east": 418869.64,
+  "north": 1444411.34,
+  "conf": 1.0,
+  "size_pt": 20.4
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "Valluvar Kottam High Road",
+  "east": 417969.88,
+  "north": 1444410.7,
+  "conf": 1.0,
+  "size_pt": 84.48
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "Valluvar Kottam High Road",
+  "east": 417934.96,
+  "north": 1444647.98,
+  "conf": 1.0,
+  "size_pt": 78.48
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "|/ Street",
+  "east": 418752.59,
+  "north": 1444389.22,
+  "conf": 1.0,
+  "size_pt": 24.6
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "PycroftsGardenRoad",
+  "east": 418578.82,
+  "north": 1444298.1,
+  "conf": 1.0,
+  "size_pt": 24.84
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "Panakkara Arokiyan StreetRamaswamy StreetIst StreetGreams Road",
+  "east": 419218.35,
+  "north": 1444075.11,
+  "conf": 1.0,
+  "size_pt": 91.56
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "BegaumSahib Street3rd Street",
+  "east": 419320.37,
+  "north": 1443979.34,
+  "conf": 1.0,
+  "size_pt": 72.72
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "Thiru. Vi.Ka Road",
+  "east": 419541.44,
+  "north": 1443574.85,
+  "conf": 1.0,
+  "size_pt": 49.44
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "Rutland Gate |I Street",
+  "east": 419004.25,
+  "north": 1443958.8,
+  "conf": 1.0,
+  "size_pt": 69.24
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "7XStreet",
+  "east": 419023.41,
+  "north": 1443274.82,
+  "conf": 0.75,
+  "size_pt": 23.88
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "MurugesanComplex Road",
+  "east": 419172.63,
+  "north": 1443571.67,
+  "conf": 1.0,
+  "size_pt": 43.2
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "Opp. To Mrf Rd",
+  "east": 419277.4,
+  "north": 1443612.1,
+  "conf": 1.0,
+  "size_pt": 44.64
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "Pathari Road",
+  "east": 419462.81,
+  "north": 1443783.65,
+  "conf": 1.0,
+  "size_pt": 37.8
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "Sundaram Avenue",
+  "east": 418853.55,
+  "north": 1443220.63,
+  "conf": 1.0,
+  "size_pt": 49.56
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "2ndLane",
+  "east": 419350.42,
+  "north": 1443323.29,
+  "conf": 1.0,
+  "size_pt": 13.68
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "Conron SmithRoad Lane",
+  "east": 419452.55,
+  "north": 1442875.1,
+  "conf": 1.0,
+  "size_pt": 41.16
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "Kammalar Street",
+  "east": 419330.1,
+  "north": 1443512.73,
+  "conf": 1.0,
+  "size_pt": 49.2
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "Greams Road",
+  "east": 419306.18,
+  "north": 1443555.8,
+  "conf": 1.0,
+  "size_pt": 37.92
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "|| Street",
+  "east": 418994.41,
+  "north": 1443697.61,
+  "conf": 1.0,
+  "size_pt": 24.72
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "Ist Street",
+  "east": 419243.43,
+  "north": 1444100.51,
+  "conf": 1.0,
+  "size_pt": 30.36
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "Ramaswamy Street",
+  "east": 419213.58,
+  "north": 1444080.51,
+  "conf": 1.0,
+  "size_pt": 58.8
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "Peters Lane",
+  "east": 419452.65,
+  "north": 1443110.57,
+  "conf": 1.0,
+  "size_pt": 36.96
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "Model SchoolRd/ Lane",
+  "east": 419002.24,
+  "north": 1443345.62,
+  "conf": 1.0,
+  "size_pt": 34.32
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "Aziz Mulk |/ Street",
+  "east": 419188.61,
+  "north": 1443465.95,
+  "conf": 1.0,
+  "size_pt": 57.0
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "Gulam AbbasXStAlikhanD6",
+  "east": 418845.72,
+  "north": 1443501.51,
+  "conf": 0.875,
+  "size_pt": 39.72
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": ".632New Street",
+  "east": 418945.52,
+  "north": 1443516.85,
+  "conf": 1.0,
+  "size_pt": 32.88
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "Nungambakkam 4th Lane'K11402",
+  "east": 418681.79,
+  "north": 1443428.38,
+  "conf": 1.0,
+  "size_pt": 77.52
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "Gate V LaneRutland",
+  "east": 418792.49,
+  "north": 1443848.21,
+  "conf": 1.0,
+  "size_pt": 36.6
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "Road L Street5 Haddows",
+  "east": 418570.25,
+  "north": 1444146.87,
+  "conf": 1.0,
+  "size_pt": 43.08
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "Greams Road",
+  "east": 419163.0,
+  "north": 1443721.21,
+  "conf": 1.0,
+  "size_pt": 38.76
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "Peters Road",
+  "east": 419338.99,
+  "north": 1443277.04,
+  "conf": 1.0,
+  "size_pt": 38.64
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "3.1900Street\u00c0nna Salai (Mount Road)",
+  "east": 419265.33,
+  "north": 1443374.3,
+  "conf": 1.0,
+  "size_pt": 63.36
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "Dodonds (Mount Roce)AnnaA41",
+  "east": 418955.89,
+  "north": 1443196.19,
+  "conf": 1.0,
+  "size_pt": 64.08
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "I|| Street",
+  "east": 418662.11,
+  "north": 1444499.18,
+  "conf": 1.0,
+  "size_pt": 26.64
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "Subba Rao Avenue |/ Street",
+  "east": 418083.54,
+  "north": 1444788.63,
+  "conf": 1.0,
+  "size_pt": 82.44
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "Subba Rao Avenue | StreetSubba",
+  "east": 418051.48,
+  "north": 1444669.99,
+  "conf": 1.0,
+  "size_pt": 78.48
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "Subba Rao Avenue III StreetAlliarFranc",
+  "east": 418150.95,
+  "north": 1444692.11,
+  "conf": 1.0,
+  "size_pt": 81.6
+ },
+ {
+  "ward": 111,
+  "role": "road_name",
+  "text": "Nungambakkam Lane124.609",
+  "east": 418096.88,
+  "north": 1444323.71,
+  "conf": 1.0,
+  "size_pt": 55.68
+ },
+ {
+  "ward": 111,
+  "role": "location_names",
+  "text": "Sri SardahigherSecondarySchool",
+  "east": 419440.16,
+  "north": 1442725.45,
+  "conf": 1.0,
+  "size_pt": 34.8
+ },
+ {
+  "ward": 111,
+  "role": "location_names",
+  "text": "D.A.V. BoysSenior SecondarySchool",
+  "east": 419404.39,
+  "north": 1442912.24,
+  "conf": 1.0,
+  "size_pt": 59.76
+ },
+ {
+  "ward": 111,
+  "role": "location_names",
+  "text": "\u2022 Hobart HigherSecondary School",
+  "east": 419931.42,
+  "north": 1443581.52,
+  "conf": 1.0,
+  "size_pt": 60.48
+ },
+ {
+  "ward": 111,
+  "role": "location_names",
+  "text": "UnionBank of India",
+  "east": 419475.93,
+  "north": 1443351.23,
+  "conf": 1.0,
+  "size_pt": 46.32
+ },
+ {
+  "ward": 111,
+  "role": "location_names",
+  "text": "HorticulturalSocietyGarden",
+  "east": 419175.38,
+  "north": 1443087.82,
+  "conf": 1.0,
+  "size_pt": 37.44
+ },
+ {
+  "ward": 111,
+  "role": "location_names",
+  "text": "HaddowsRoad Park",
+  "east": 418570.67,
+  "north": 1444470.18,
+  "conf": 1.0,
+  "size_pt": 31.92
+ },
+ {
+  "ward": 111,
+  "role": "location_names",
+  "text": "Ispahani Centre",
+  "east": 418714.6,
+  "north": 1443594.53,
+  "conf": 1.0,
+  "size_pt": 48.0
+ },
+ {
+  "ward": 111,
+  "role": "location_names",
+  "text": "HCL",
+  "east": 419078.33,
+  "north": 1443807.89,
+  "conf": 1.0,
+  "size_pt": 10.68
+ },
+ {
+  "ward": 111,
+  "role": "location_names",
+  "text": "MRF",
+  "east": 419178.13,
+  "north": 1443848.63,
+  "conf": 1.0,
+  "size_pt": 12.48
+ },
+ {
+  "ward": 111,
+  "role": "location_names",
+  "text": "SundaramTowers",
+  "east": 419972.27,
+  "north": 1443933.09,
+  "conf": 1.0,
+  "size_pt": 29.52
+ },
+ {
+  "ward": 111,
+  "role": "location_names",
+  "text": "Park",
+  "east": 418774.39,
+  "north": 1444188.99,
+  "conf": 1.0,
+  "size_pt": 13.08
+ },
+ {
+  "ward": 111,
+  "role": "location_names",
+  "text": "Express Avenue Mall",
+  "east": 420270.71,
+  "north": 1443964.84,
+  "conf": 1.0,
+  "size_pt": 63.6
+ },
+ {
+  "ward": 111,
+  "role": "location_names",
+  "text": "Dsrc",
+  "east": 419902.95,
+  "north": 1443912.03,
+  "conf": 1.0,
+  "size_pt": 12.84
+ },
+ {
+  "ward": 111,
+  "role": "location_names",
+  "text": "LarsenLtd.",
+  "east": 420084.87,
+  "north": 1444211.11,
+  "conf": 1.0,
+  "size_pt": 18.96
+ },
+ {
+  "ward": 111,
+  "role": "location_names",
+  "text": "& Toubro- L&T",
+  "east": 420135.57,
+  "north": 1444211.11,
+  "conf": 1.0,
+  "size_pt": 28.68
+ },
+ {
+  "ward": 111,
+  "role": "location_names",
+  "text": "RecreationGround",
+  "east": 419463.23,
+  "north": 1443032.25,
+  "conf": 1.0,
+  "size_pt": 31.44
+ },
+ {
+  "ward": 111,
+  "role": "location_names",
+  "text": "BarathiHostel",
+  "east": 420120.54,
+  "north": 1443616.44,
+  "conf": 1.0,
+  "size_pt": 21.96
+ },
+ {
+  "ward": 111,
+  "role": "location_names",
+  "text": "RoyapettahClock Tower",
+  "east": 420226.16,
+  "north": 1443700.58,
+  "conf": 1.0,
+  "size_pt": 36.6
+ },
+ {
+  "ward": 111,
+  "role": "location_names",
+  "text": "Melody",
+  "east": 420416.65,
+  "north": 1443816.04,
+  "conf": 1.0,
+  "size_pt": 20.52
+ },
+ {
+  "ward": 111,
+  "role": "location_names",
+  "text": "British CoLibrary",
+  "east": 419556.47,
+  "north": 1443848.42,
+  "conf": 1.0,
+  "size_pt": 28.2
+ },
+ {
+  "ward": 111,
+  "role": "location_names",
+  "text": "Council",
+  "east": 419591.71,
+  "north": 1443856.68,
+  "conf": 1.0,
+  "size_pt": 20.88
+ },
+ {
+  "ward": 111,
+  "role": "location_names",
+  "text": "LittleItaly",
+  "east": 418454.79,
+  "north": 1444001.03,
+  "conf": 1.0,
+  "size_pt": 16.44
+ },
+ {
+  "ward": 111,
+  "role": "location_names",
+  "text": "USIS Library",
+  "east": 418909.43,
+  "north": 1443046.44,
+  "conf": 1.0,
+  "size_pt": 37.56
+ },
+ {
+  "ward": 111,
+  "role": "location_names",
+  "text": "WangsKitchen",
+  "east": 418533.31,
+  "north": 1443996.16,
+  "conf": 1.0,
+  "size_pt": 21.72
+ },
+ {
+  "ward": 111,
+  "role": "location_names",
+  "text": "Casa PicolaBarista",
+  "east": 418831.54,
+  "north": 1443974.04,
+  "conf": 1.0,
+  "size_pt": 52.44
+ },
+ {
+  "ward": 111,
+  "role": "location_names",
+  "text": "VictoriaTechnicalInstitute",
+  "east": 419794.37,
+  "north": 1443958.8,
+  "conf": 1.0,
+  "size_pt": 27.0
+ },
+ {
+  "ward": 111,
+  "role": "location_names",
+  "text": "PashaAqua",
+  "east": 418701.16,
+  "north": 1443102.0,
+  "conf": 1.0,
+  "size_pt": 17.88
+ },
+ {
+  "ward": 111,
+  "role": "location_names",
+  "text": "Hip Asia",
+  "east": 419932.69,
+  "north": 1444226.03,
+  "conf": 1.0,
+  "size_pt": 25.44
+ },
+ {
+  "ward": 111,
+  "role": "location_names",
+  "text": "Sathyam",
+  "east": 419585.78,
+  "north": 1443382.13,
+  "conf": 1.0,
+  "size_pt": 25.44
+ },
+ {
+  "ward": 111,
+  "role": "location_names",
+  "text": "Cinema",
+  "east": 419636.16,
+  "north": 1443383.51,
+  "conf": 1.0,
+  "size_pt": 21.36
+ },
+ {
+  "ward": 111,
+  "role": "location_names",
+  "text": "Hajiali Juice CentreFruit Shop on Greams Road",
+  "east": 419264.49,
+  "north": 1443935.84,
+  "conf": 1.0,
+  "size_pt": 89.04
+ },
+ {
+  "ward": 111,
+  "role": "location_names",
+  "text": "NaturallyAuroville",
+  "east": 418868.05,
+  "north": 1444047.39,
+  "conf": 1.0,
+  "size_pt": 27.12
+ },
+ {
+  "ward": 111,
+  "role": "location_names",
+  "text": "Sandys",
+  "east": 418483.58,
+  "north": 1444024.74,
+  "conf": 1.0,
+  "size_pt": 20.76
+ },
+ {
+  "ward": 111,
+  "role": "location_names",
+  "text": "TexasFiesta",
+  "east": 419070.4,
+  "north": 1443887.05,
+  "conf": 1.0,
+  "size_pt": 18.72
+ },
+ {
+  "ward": 111,
+  "role": "location_names",
+  "text": "JaipurGems",
+  "east": 419351.06,
+  "north": 1442411.87,
+  "conf": 1.0,
+  "size_pt": 17.76
+ },
+ {
+  "ward": 111,
+  "role": "location_names",
+  "text": "MashTaj Hotel",
+  "east": 418492.36,
+  "north": 1444054.48,
+  "conf": 1.0,
+  "size_pt": 26.88
+ },
+ {
+  "ward": 111,
+  "role": "location_names",
+  "text": "Nilgiris",
+  "east": 418995.58,
+  "north": 1443852.13,
+  "conf": 1.0,
+  "size_pt": 19.56
+ },
+ {
+  "ward": 111,
+  "role": "location_names",
+  "text": "Lifestyle",
+  "east": 420289.65,
+  "north": 1443738.04,
+  "conf": 1.0,
+  "size_pt": 24.36
+ },
+ {
+  "ward": 111,
+  "role": "location_names",
+  "text": "ApoloGuestHouse",
+  "east": 419058.33,
+  "north": 1444092.15,
+  "conf": 1.0,
+  "size_pt": 19.2
+ },
+ {
+  "ward": 111,
+  "role": "location_names",
+  "text": "Escape",
+  "east": 420193.56,
+  "north": 1443755.61,
+  "conf": 1.0,
+  "size_pt": 20.76
+ },
+ {
+  "ward": 111,
+  "role": "location_names",
+  "text": "Cinemas",
+  "east": 420242.14,
+  "north": 1443756.88,
+  "conf": 1.0,
+  "size_pt": 24.72
+ },
+ {
+  "ward": 111,
+  "role": "location_names",
+  "text": "BlazeDreamTechnologiesPvt Lt",
+  "east": 418672.27,
+  "north": 1444293.23,
+  "conf": 1.0,
+  "size_pt": 36.96
+ },
+ {
+  "ward": 111,
+  "role": "location_names",
+  "text": "Shankara NetralayaEye Hospital",
+  "east": 418720.63,
+  "north": 1444359.59,
+  "conf": 1.0,
+  "size_pt": 59.88
+ },
+ {
+  "ward": 111,
+  "role": "location_names",
+  "text": "State Bank",
+  "east": 418516.91,
+  "north": 1444407.95,
+  "conf": 1.0,
+  "size_pt": 34.32
+ },
+ {
+  "ward": 111,
+  "role": "location_names",
+  "text": "Of India",
+  "east": 418576.07,
+  "north": 1444407.95,
+  "conf": 1.0,
+  "size_pt": 23.4
+ },
+ {
+  "ward": 111,
+  "role": "location_names",
+  "text": "Devaneya PavanarLibrary",
+  "east": 419535.83,
+  "north": 1443716.98,
+  "conf": 1.0,
+  "size_pt": 56.4
+ },
+ {
+  "ward": 111,
+  "role": "location_names",
+  "text": "DistrictLibrary,",
+  "east": 419609.38,
+  "north": 1443305.72,
+  "conf": 1.0,
+  "size_pt": 21.24
+ },
+ {
+  "ward": 111,
+  "role": "location_names",
+  "text": "BranchPeter",
+  "east": 419653.73,
+  "north": 1443307.1,
+  "conf": 1.0,
+  "size_pt": 20.16
+ },
+ {
+  "ward": 111,
+  "role": "location_names",
+  "text": "The BelsteadVasantha Bhavan",
+  "east": 418268.0,
+  "north": 1444159.35,
+  "conf": 1.0,
+  "size_pt": 51.84
+ },
+ {
+  "ward": 111,
+  "role": "location_names",
+  "text": "Kotak Mahindra BankUnion Bank of India",
+  "east": 419613.09,
+  "north": 1443355.46,
+  "conf": 1.0,
+  "size_pt": 66.48
+ },
+ {
+  "ward": 111,
+  "role": "location_names",
+  "text": "Dr. MohansMv DiabetesSpeciali",
+  "east": 419424.5,
+  "north": 1443248.68,
+  "conf": 1.0,
+  "size_pt": 36.96
+ },
+ {
+  "ward": 111,
+  "role": "location_names",
+  "text": "LifeMedhospital",
+  "east": 419494.03,
+  "north": 1443179.57,
+  "conf": 1.0,
+  "size_pt": 35.4
+ },
+ {
+  "ward": 111,
+  "role": "location_names",
+  "text": "ApolloChildrensHospital",
+  "east": 418957.8,
+  "north": 1443913.51,
+  "conf": 1.0,
+  "size_pt": 27.12
+ },
+ {
+  "ward": 111,
+  "role": "location_names",
+  "text": "Mayori ConsciousClothing Store",
+  "east": 418808.05,
+  "north": 1443941.45,
+  "conf": 1.0,
+  "size_pt": 52.92
+ },
+ {
+  "ward": 111,
+  "role": "location_names",
+  "text": "Makoba",
+  "east": 418653.11,
+  "north": 1443218.41,
+  "conf": 1.0,
+  "size_pt": 22.2
+ },
+ {
+  "ward": 111,
+  "role": "location_names",
+  "text": "Cafe",
+  "east": 418670.89,
+  "north": 1443386.58,
+  "conf": 1.0,
+  "size_pt": 12.6
+ },
+ {
+  "ward": 111,
+  "role": "location_names",
+  "text": "Coffee Day",
+  "east": 418720.1,
+  "north": 1443385.2,
+  "conf": 1.0,
+  "size_pt": 33.84
+ },
+ {
+  "ward": 111,
+  "role": "location_names",
+  "text": "Pulp Dental HospitalTitan Eye Plus",
+  "east": 418732.27,
+  "north": 1443315.78,
+  "conf": 1.0,
+  "size_pt": 63.72
+ },
+ {
+  "ward": 111,
+  "role": "location_names",
+  "text": "RaniSeethai Hall",
+  "east": 418811.22,
+  "north": 1443124.54,
+  "conf": 1.0,
+  "size_pt": 36.84
+ },
+ {
+  "ward": 111,
+  "role": "location_names",
+  "text": "ThousandLights",
+  "east": 419298.46,
+  "north": 1443753.81,
+  "conf": 1.0,
+  "size_pt": 27.48
+ },
+ {
+  "ward": 111,
+  "role": "location_names",
+  "text": "WesleyChurch",
+  "east": 420258.12,
+  "north": 1443611.78,
+  "conf": 1.0,
+  "size_pt": 19.8
+ },
+ {
+  "ward": 111,
+  "role": "location_names",
+  "text": "Indian Oil",
+  "east": 418573.32,
+  "north": 1443661.53,
+  "conf": 1.0,
+  "size_pt": 24.84
+ },
+ {
+  "ward": 111,
+  "role": "location_names",
+  "text": "TVS",
+  "east": 419740.3,
+  "north": 1444031.4,
+  "conf": 1.0,
+  "size_pt": 9.84
+ },
+ {
+  "ward": 111,
+  "role": "location_names",
+  "text": "Woodlands.",
+  "east": 418914.3,
+  "north": 1443196.4,
+  "conf": 1.0,
+  "size_pt": 30.12
+ },
+ {
+  "ward": 111,
+  "role": "location_names",
+  "text": "WoodlandsTheatre",
+  "east": 420308.81,
+  "north": 1443786.3,
+  "conf": 1.0,
+  "size_pt": 30.24
+ },
+ {
+  "ward": 111,
+  "role": "location_names",
+  "text": "SemozhiPoonga",
+  "east": 418984.99,
+  "north": 1443066.65,
+  "conf": 1.0,
+  "size_pt": 27.24
+ },
+ {
+  "ward": 111,
+  "role": "location_names",
+  "text": "Gemini",
+  "east": 418636.18,
+  "north": 1443600.67,
+  "conf": 1.0,
+  "size_pt": 19.8
+ },
+ {
+  "ward": 111,
+  "role": "location_names",
+  "text": "Taj Hotel",
+  "east": 418572.15,
+  "north": 1443822.49,
+  "conf": 1.0,
+  "size_pt": 26.88
+ },
+ {
+  "ward": 111,
+  "role": "location_names",
+  "text": "Gemini",
+  "east": 418665.28,
+  "north": 1443562.15,
+  "conf": 1.0,
+  "size_pt": 19.68
+ },
+ {
+  "ward": 111,
+  "role": "location_names",
+  "text": "Thousand Lights",
+  "east": 419683.99,
+  "north": 1443951.18,
+  "conf": 1.0,
+  "size_pt": 48.96
+ },
+ {
+  "ward": 111,
+  "role": "location_names",
+  "text": "Cochin",
+  "east": 419098.23,
+  "north": 1444555.27,
+  "conf": 1.0,
+  "size_pt": 18.84
+ },
+ {
+  "ward": 111,
+  "role": "location_names",
+  "text": "House",
+  "east": 419138.87,
+  "north": 1444555.27,
+  "conf": 1.0,
+  "size_pt": 17.88
+ },
+ {
+  "ward": 111,
+  "role": "location_names",
+  "text": "BritishDeputyHigh Commission",
+  "east": 418663.06,
+  "north": 1444687.87,
+  "conf": 1.0,
+  "size_pt": 52.44
+ },
+ {
+  "ward": 111,
+  "role": "location_names",
+  "text": "State Bank of IndiaZonal Offic",
+  "east": 418824.34,
+  "north": 1444672.42,
+  "conf": 1.0,
+  "size_pt": 61.8
+ },
+ {
+  "ward": 111,
+  "role": "location_names",
+  "text": "ScopeInternationalOffices",
+  "east": 418532.89,
+  "north": 1444679.09,
+  "conf": 1.0,
+  "size_pt": 38.04
+ },
+ {
+  "ward": 111,
+  "role": "location_names",
+  "text": "StandardChartered Bank",
+  "east": 418542.42,
+  "north": 1444721.63,
+  "conf": 1.0,
+  "size_pt": 47.4
+ },
+ {
+  "ward": 111,
+  "role": "location_names",
+  "text": "AllianceFrancais",
+  "east": 418220.48,
+  "north": 1444664.06,
+  "conf": 1.0,
+  "size_pt": 25.8
+ },
+ {
+  "ward": 111,
+  "role": "location_names",
+  "text": "CreamCentre",
+  "east": 418248.95,
+  "north": 1444708.3,
+  "conf": 1.0,
+  "size_pt": 19.2
+ },
+ {
+  "ward": 111,
+  "role": "location_names",
+  "text": "MadrasLiterarySociety",
+  "east": 418750.79,
+  "north": 1444804.71,
+  "conf": 1.0,
+  "size_pt": 24.48
+ },
+ {
+  "ward": 111,
+  "role": "location_names",
+  "text": "SankaraNethralaya,Chennai",
+  "east": 418720.21,
+  "north": 1444642.58,
+  "conf": 1.0,
+  "size_pt": 33.0
+ },
+ {
+  "ward": 111,
+  "role": "location_names",
+  "text": "Haddows Road",
+  "east": 418500.08,
+  "north": 1444857.73,
+  "conf": 1.0,
+  "size_pt": 45.24
+ },
+ {
+  "ward": 111,
+  "role": "location_names",
+  "text": "Police",
+  "east": 419093.36,
+  "north": 1444537.49,
+  "conf": 1.0,
+  "size_pt": 17.4
+ },
+ {
+  "ward": 111,
+  "role": "location_names",
+  "text": "Quarters",
+  "east": 419139.29,
+  "north": 1444537.17,
+  "conf": 1.0,
+  "size_pt": 25.32
+ },
+ {
+  "ward": 111,
+  "role": "location_names",
+  "text": "ThideerNagar",
+  "east": 419229.35,
+  "north": 1444278.31,
+  "conf": 1.0,
+  "size_pt": 21.12
+ },
+ {
+  "ward": 111,
+  "role": "location_names",
+  "text": "Fountain",
+  "east": 420233.88,
+  "north": 1443878.48,
+  "conf": 1.0,
+  "size_pt": 24.72
+ },
+ {
+  "ward": 111,
+  "role": "location_names",
+  "text": "Culvert",
+  "east": 419192.21,
+  "north": 1444185.71,
+  "conf": 1.0,
+  "size_pt": 21.96
+ },
+ {
+  "ward": 111,
+  "role": "location_names",
+  "text": "\u2022Culvert",
+  "east": 419137.18,
+  "north": 1444111.2,
+  "conf": 1.0,
+  "size_pt": 21.96
+ },
+ {
+  "ward": 111,
+  "role": "location_names",
+  "text": "Culvert",
+  "east": 418909.75,
+  "north": 1444140.2,
+  "conf": 1.0,
+  "size_pt": 21.84
+ },
+ {
+  "ward": 111,
+  "role": "location_names",
+  "text": "Culvert",
+  "east": 418656.29,
+  "north": 1444218.09,
+  "conf": 1.0,
+  "size_pt": 21.96
+ },
+ {
+  "ward": 111,
+  "role": "location_names",
+  "text": "Culvert",
+  "east": 418391.93,
+  "north": 1444243.81,
+  "conf": 1.0,
+  "size_pt": 21.96
+ },
+ {
+  "ward": 111,
+  "role": "location_names",
+  "text": "Culvert",
+  "east": 418148.73,
+  "north": 1444224.97,
+  "conf": 1.0,
+  "size_pt": 21.96
+ }
+]

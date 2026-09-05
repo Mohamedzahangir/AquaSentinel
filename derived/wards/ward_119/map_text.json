@@ -1,0 +1,1217 @@
+[
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "Fly Over",
+  "east": 419820.17,
+  "north": 1442264.92,
+  "conf": 1.0,
+  "size_pt": 25.08
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "SahibStreetPudupet Garden StreetBirasanna VinayagarKovil 1stStreet",
+  "east": 419699.83,
+  "north": 1442502.29,
+  "conf": 1.0,
+  "size_pt": 87.36
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "Goudia Mutt Road",
+  "east": 420106.37,
+  "north": 1442964.95,
+  "conf": 1.0,
+  "size_pt": 45.0
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "Mayor Sivaraj St",
+  "east": 420262.49,
+  "north": 1443041.57,
+  "conf": 1.0,
+  "size_pt": 51.6
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "Diwan Sahib Street",
+  "east": 419749.68,
+  "north": 1442551.92,
+  "conf": 1.0,
+  "size_pt": 59.4
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "Avvai Shanmugam SalaiB24Z150",
+  "east": 419823.14,
+  "north": 1442635.94,
+  "conf": 1.0,
+  "size_pt": 72.12
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "Kalinga Rayan StreetKalinga1.283Rayan StreetThiru.Vi",
+  "east": 420282.92,
+  "north": 1442739.02,
+  "conf": 1.0,
+  "size_pt": 65.64
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "Bishop WallersAvenue (West)",
+  "east": 419794.67,
+  "north": 1442112.43,
+  "conf": 1.0,
+  "size_pt": 44.76
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "Muthiah Mudali Garden Street(Including Huts)",
+  "east": 420977.67,
+  "north": 1442644.62,
+  "conf": 1.0,
+  "size_pt": 142.8
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "Hanumantha Road",
+  "east": 420540.54,
+  "north": 1442651.5,
+  "conf": 1.0,
+  "size_pt": 57.48
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "\u00a3.Balaji NagarQNagar Ist Street",
+  "east": 420559.27,
+  "north": 1442859.34,
+  "conf": 1.0,
+  "size_pt": 72.96
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "Balaji Nagar 2nd Street",
+  "east": 420550.8,
+  "north": 1442923.47,
+  "conf": 1.0,
+  "size_pt": 75.12
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "Balaji Nagar4th Street",
+  "east": 420653.58,
+  "north": 1442863.04,
+  "conf": 1.0,
+  "size_pt": 37.92
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "Pooramprakashrao Boad",
+  "east": 420664.37,
+  "north": 1442979.24,
+  "conf": 1.0,
+  "size_pt": 76.2
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "Sripuram Ist Street",
+  "east": 420578.54,
+  "north": 1442352.54,
+  "conf": 1.0,
+  "size_pt": 61.44
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "salaiAvvai ShanmugamIst Lane",
+  "east": 420351.71,
+  "north": 1442431.17,
+  "conf": 1.0,
+  "size_pt": 75.24
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "Thiru.",
+  "east": 420467.19,
+  "north": 1442475.72,
+  "conf": 1.0,
+  "size_pt": 14.4
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "Vi.Ka Salai",
+  "east": 420471.42,
+  "north": 1442420.8,
+  "conf": 1.0,
+  "size_pt": 35.64
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "Bishop Wallers Avenue (East),",
+  "east": 419927.92,
+  "north": 1442122.9,
+  "conf": 1.0,
+  "size_pt": 90.72
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "Nallanna Mudali Street",
+  "east": 420335.52,
+  "north": 1443073.53,
+  "conf": 1.0,
+  "size_pt": 70.44
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "Masilamani Road",
+  "east": 420434.91,
+  "north": 1442657.85,
+  "conf": 1.0,
+  "size_pt": 52.2
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "Thiru.",
+  "east": 420248.62,
+  "north": 1442700.71,
+  "conf": 1.0,
+  "size_pt": 13.08
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "Vi. Ka Salai",
+  "east": 420301.12,
+  "north": 1442679.44,
+  "conf": 1.0,
+  "size_pt": 34.2
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "Venkatachalam streetSripuramLaneonal",
+  "east": 420641.62,
+  "north": 1442274.55,
+  "conf": 1.0,
+  "size_pt": 66.36
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "Judge Jumbulingam Road",
+  "east": 420901.67,
+  "north": 1442245.24,
+  "conf": 1.0,
+  "size_pt": 79.92
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "Venkatachalam Street",
+  "east": 420783.98,
+  "north": 1442877.65,
+  "conf": 1.0,
+  "size_pt": 66.96
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "Dr. Radhakrishnan Salai",
+  "east": 420243.01,
+  "north": 1442199.52,
+  "conf": 1.0,
+  "size_pt": 74.64
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "Sri Krishnapuram Street",
+  "east": 420572.93,
+  "north": 1442446.41,
+  "conf": 1.0,
+  "size_pt": 75.48
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "Teachers Colony",
+  "east": 420755.93,
+  "north": 1442452.44,
+  "conf": 1.0,
+  "size_pt": 49.68
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "Jegadhambal Colony2nd Colony",
+  "east": 420757.41,
+  "north": 1442406.51,
+  "conf": 1.0,
+  "size_pt": 63.36
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "Lalithapuram Street",
+  "east": 420055.88,
+  "north": 1442675.41,
+  "conf": 1.0,
+  "size_pt": 62.16
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "lyyam Perumal Street",
+  "east": 420386.22,
+  "north": 1442871.3,
+  "conf": 1.0,
+  "size_pt": 67.92
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "Avvai ShanmugamSalai 2nd Lane",
+  "east": 420227.56,
+  "north": 1442484.72,
+  "conf": 1.0,
+  "size_pt": 56.16
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "Ramasamy Street",
+  "east": 419595.36,
+  "north": 1442619.01,
+  "conf": 1.0,
+  "size_pt": 54.48
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "AppakannuAppakannu StreetLane",
+  "east": 420220.26,
+  "north": 1442403.55,
+  "conf": 1.0,
+  "size_pt": 55.2
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "3.504Balaa RoadAvvai Shanmugam SalaiD 119AvvaiShanmugam Salai",
+  "east": 420609.23,
+  "north": 1442599.86,
+  "conf": 1.0,
+  "size_pt": 78.84
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "3.3051st StreetStreeSaivaMudaliMuthiahStreet2nd",
+  "east": 420774.66,
+  "north": 1442640.18,
+  "conf": 1.0,
+  "size_pt": 48.96
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "Pilot Lane",
+  "east": 420138.87,
+  "north": 1442888.65,
+  "conf": 1.0,
+  "size_pt": 30.96
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "Jegadhambal Colony Ist Street",
+  "east": 420850.55,
+  "north": 1442414.77,
+  "conf": 1.0,
+  "size_pt": 96.24
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "Avvai Shanmugam Salai",
+  "east": 420225.66,
+  "north": 1442569.59,
+  "conf": 1.0,
+  "size_pt": 71.04
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "Goudia Mutt Road",
+  "east": 419967.19,
+  "north": 1442677.95,
+  "conf": 1.0,
+  "size_pt": 53.16
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "2.951 \u20ac3rd StreetAvvai Shanmugam Salai'",
+  "east": 420815.83,
+  "north": 1442545.99,
+  "conf": 1.0,
+  "size_pt": 75.36
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "Kasim Street",
+  "east": 420256.77,
+  "north": 1443091.83,
+  "conf": 1.0,
+  "size_pt": 40.56
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "DeivasigamaniRoad",
+  "east": 420052.39,
+  "north": 1442472.44,
+  "conf": 1.0,
+  "size_pt": 43.08
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "BalajiNagar 3rd Street",
+  "east": 420533.66,
+  "north": 1442717.43,
+  "conf": 1.0,
+  "size_pt": 73.68
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "Mavadi Vinayagar Koil St",
+  "east": 420917.02,
+  "north": 1442587.58,
+  "conf": 1.0,
+  "size_pt": 77.64
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "Sripuram 2nd Street",
+  "east": 420566.79,
+  "north": 1442261.64,
+  "conf": 1.0,
+  "size_pt": 63.72
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "Gangai AmmanStreetKoilGangai Amman",
+  "east": 420398.81,
+  "north": 1442304.5,
+  "conf": 1.0,
+  "size_pt": 66.24
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "akshmipuramDr.RadhakrishnanSalai LaneStre",
+  "east": 420092.19,
+  "north": 1442336.35,
+  "conf": 1.0,
+  "size_pt": 63.48
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "LakshmipuramMain Road",
+  "east": 420143.73,
+  "north": 1442519.75,
+  "conf": 1.0,
+  "size_pt": 42.96
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "Saint Ebbas Lane",
+  "east": 420070.91,
+  "north": 1442047.66,
+  "conf": 1.0,
+  "size_pt": 54.0
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "Thiru. Vi. Ka Salai",
+  "east": 420213.17,
+  "north": 1442966.11,
+  "conf": 1.0,
+  "size_pt": 54.48
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "Peters Road",
+  "east": 420685.12,
+  "north": 1443180.41,
+  "conf": 1.0,
+  "size_pt": 38.52
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "Dr.Radhakrishnan Road7th Street",
+  "east": 420743.76,
+  "north": 1442256.14,
+  "conf": 1.0,
+  "size_pt": 71.64
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "5th Cross St",
+  "east": 419825.89,
+  "north": 1441716.01,
+  "conf": 1.0,
+  "size_pt": 40.44
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "C.l.T.ColonyIst Link St",
+  "east": 419761.64,
+  "north": 1441598.01,
+  "conf": 1.0,
+  "size_pt": 36.72
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "C.I.T Colony 2nd Main Road",
+  "east": 419731.48,
+  "north": 1441868.08,
+  "conf": 1.0,
+  "size_pt": 84.48
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "C.l. T.Colony3rd Cross Street",
+  "east": 419812.76,
+  "north": 1441868.29,
+  "conf": 1.0,
+  "size_pt": 52.2
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "C.l.T.Colony2nd Cross Street",
+  "east": 419823.98,
+  "north": 1441931.15,
+  "conf": 1.0,
+  "size_pt": 53.64
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "C.l.T ColonyLoop StreetSanthaveli3rd Street",
+  "east": 419982.32,
+  "north": 1441732.84,
+  "conf": 1.0,
+  "size_pt": 37.92
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "C.l. T.Colony4th Cross Street",
+  "east": 419801.55,
+  "north": 1441809.24,
+  "conf": 1.0,
+  "size_pt": 52.2
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "Salai Lane\u00b0Musiri Subramanian Salai",
+  "east": 420090.5,
+  "north": 1441625.95,
+  "conf": 1.0,
+  "size_pt": 92.52
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "T. T.Krishnamachari Salai",
+  "east": 419790.11,
+  "north": 1442373.92,
+  "conf": 1.0,
+  "size_pt": 65.28
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "AlwarpetPost Office",
+  "east": 419548.9,
+  "north": 1441591.24,
+  "conf": 1.0,
+  "size_pt": 38.16
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "Fly Over",
+  "east": 419454.28,
+  "north": 1441566.48,
+  "conf": 1.0,
+  "size_pt": 21.84
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "C.I. T.Colony 6th Cross Street",
+  "east": 419670.41,
+  "north": 1441683.63,
+  "conf": 1.0,
+  "size_pt": 90.96
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "C.l.T Colony Ist Cross Street",
+  "east": 420013.87,
+  "north": 1441960.04,
+  "conf": 1.0,
+  "size_pt": 90.84
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "C.l.l. Colony 2nd link Street",
+  "east": 419935.33,
+  "north": 1441693.79,
+  "conf": 1.0,
+  "size_pt": 85.8
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "C.l.T Colony Ist Main Road",
+  "east": 419895.11,
+  "north": 1441868.71,
+  "conf": 1.0,
+  "size_pt": 84.96
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "2nd StreetSanthaveliSanthaveli4thStreetGround",
+  "east": 420076.21,
+  "north": 1441705.64,
+  "conf": 1.0,
+  "size_pt": 55.32
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "T. T.K Road",
+  "east": 419643.2,
+  "north": 1441890.62,
+  "conf": 1.0,
+  "size_pt": 30.12
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "Lakshmipuram 3rd Street",
+  "east": 420156.44,
+  "north": 1442273.81,
+  "conf": 1.0,
+  "size_pt": 79.68
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "AppakannuStreet",
+  "east": 420306.2,
+  "north": 1442450.33,
+  "conf": 1.0,
+  "size_pt": 32.76
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "Ramarao GardenStreet3rd Street4thOC193.838C23and streett3.122Balaji NagarC18Ramarao3.504jalaiGarden",
+  "east": 420670.19,
+  "north": 1442717.96,
+  "conf": 0.953,
+  "size_pt": 74.04
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "GowdiaMutt Road",
+  "east": 420030.91,
+  "north": 1442712.14,
+  "conf": 1.0,
+  "size_pt": 32.64
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "MylapooranStreet",
+  "east": 420069.43,
+  "north": 1442765.26,
+  "conf": 1.0,
+  "size_pt": 33.12
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "Kolai KaranpetIst Lane",
+  "east": 420087.0,
+  "north": 1442866.0,
+  "conf": 1.0,
+  "size_pt": 45.36
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "rmal StreetChanda Shahib StreetBegum 4th Street2nd StreetVenkatachalam5th Street2nd Laneegum Pettah StreetBegum Main RoadBegum 3rd StreetThina,, ChulDistrictC26ashrao RoadBranchLibrary",
+  "east": 420817.0,
+  "north": 1443024.11,
+  "conf": 1.0,
+  "size_pt": 172.68
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "Mustura Begum Pettah Street",
+  "east": 420689.46,
+  "north": 1443013.63,
+  "conf": 1.0,
+  "size_pt": 94.56
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "Venkatachalam2nd Lane",
+  "east": 420716.77,
+  "north": 1443046.65,
+  "conf": 1.0,
+  "size_pt": 46.32
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "Thippu Street",
+  "east": 420973.86,
+  "north": 1442989.29,
+  "conf": 1.0,
+  "size_pt": 40.2
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "heregrapn quarlersVathiyar Chinnaiya1st StreetPillai Street",
+  "east": 420883.89,
+  "north": 1443105.91,
+  "conf": 1.0,
+  "size_pt": 90.84
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "Bishop WallersAvenue (south)",
+  "east": 419804.4,
+  "north": 1442030.1,
+  "conf": 1.0,
+  "size_pt": 94.32
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "AppakannuStreet",
+  "east": 420236.45,
+  "north": 1442272.75,
+  "conf": 1.0,
+  "size_pt": 32.88
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "DeivasigamaniRoad",
+  "east": 419950.04,
+  "north": 1442501.54,
+  "conf": 1.0,
+  "size_pt": 43.2
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "Pertho Street",
+  "east": 420799.01,
+  "north": 1442760.29,
+  "conf": 1.0,
+  "size_pt": 42.36
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "GowdiaMutt Road",
+  "east": 420165.11,
+  "north": 1442838.17,
+  "conf": 1.0,
+  "size_pt": 32.4
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "Santhaveli1st Street",
+  "east": 420046.57,
+  "north": 1441786.7,
+  "conf": 1.0,
+  "size_pt": 35.04
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "Street1st",
+  "east": 420143.84,
+  "north": 1442413.71,
+  "conf": 1.0,
+  "size_pt": 18.24
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "Antony Street",
+  "east": 420247.14,
+  "north": 1442929.71,
+  "conf": 1.0,
+  "size_pt": 42.96
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "NallannaMudali Lane",
+  "east": 420327.9,
+  "north": 1442968.97,
+  "conf": 1.0,
+  "size_pt": 65.76
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "Leonard Street",
+  "east": 420328.32,
+  "north": 1442865.05,
+  "conf": 1.0,
+  "size_pt": 45.84
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "Thiru Vi KaSalai Lane",
+  "east": 420141.51,
+  "north": 1442787.8,
+  "conf": 1.0,
+  "size_pt": 35.64
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "Subba RaoAvenueRLI",
+  "east": 420168.5,
+  "north": 1442706.63,
+  "conf": 1.0,
+  "size_pt": 32.88
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "Kalai Karanpetlind Lane",
+  "east": 420067.95,
+  "north": 1442819.65,
+  "conf": 1.0,
+  "size_pt": 44.88
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "RamJagajeevanP And T Quarters",
+  "east": 420910.56,
+  "north": 1442874.68,
+  "conf": 1.0,
+  "size_pt": 56.04
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "Saiva MuthiahMudali 6th Street",
+  "east": 420796.57,
+  "north": 1442719.76,
+  "conf": 1.0,
+  "size_pt": 54.48
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "Streetu2nd",
+  "east": 420075.68,
+  "north": 1442426.83,
+  "conf": 1.0,
+  "size_pt": 18.24
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "Sahib StreetDiwan",
+  "east": 419870.87,
+  "north": 1442560.17,
+  "conf": 1.0,
+  "size_pt": 37.2
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "ASir.P.S.Sivasamy Salai2",
+  "east": 420201.84,
+  "north": 1441949.03,
+  "conf": 1.0,
+  "size_pt": 52.92
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "Dr.Besant Road",
+  "east": 420955.65,
+  "north": 1443151.84,
+  "conf": 1.0,
+  "size_pt": 48.36
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "Periya Malaiyappan Street",
+  "east": 421011.11,
+  "north": 1443048.98,
+  "conf": 1.0,
+  "size_pt": 80.52
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "Luz Church Road",
+  "east": 419633.68,
+  "north": 1441553.15,
+  "conf": 1.0,
+  "size_pt": 54.12
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "Mudali 5th Street.MuthiahSaiva22..951",
+  "east": 420846.63,
+  "north": 1442618.16,
+  "conf": 1.0,
+  "size_pt": 54.96
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "C.l. T.Colony",
+  "east": 419789.59,
+  "north": 1441740.77,
+  "conf": 1.0,
+  "size_pt": 34.56
+ },
+ {
+  "ward": 119,
+  "role": "road_name",
+  "text": "Dr.Radhakrishnan Road8th Street",
+  "east": 420840.39,
+  "north": 1442227.78,
+  "conf": 1.0,
+  "size_pt": 71.64
+ },
+ {
+  "ward": 119,
+  "role": "location_names",
+  "text": "Vivekananda College",
+  "east": 420116.32,
+  "north": 1441807.55,
+  "conf": 1.0,
+  "size_pt": 67.8
+ },
+ {
+  "ward": 119,
+  "role": "location_names",
+  "text": "USAM TechnologySolutions Pvt Ltd",
+  "east": 420044.35,
+  "north": 1441993.38,
+  "conf": 1.0,
+  "size_pt": 62.04
+ },
+ {
+  "ward": 119,
+  "role": "location_names",
+  "text": "IllayarajaCollege of Music",
+  "east": 420037.26,
+  "north": 1442647.37,
+  "conf": 1.0,
+  "size_pt": 56.4
+ },
+ {
+  "ward": 119,
+  "role": "location_names",
+  "text": "Gill Adarsh MatriculationHigher Secondary School",
+  "east": 420858.38,
+  "north": 1442786.74,
+  "conf": 1.0,
+  "size_pt": 86.16
+ },
+ {
+  "ward": 119,
+  "role": "location_names",
+  "text": "CS/ ChurchOf The GoodShepherd",
+  "east": 419879.55,
+  "north": 1442183.44,
+  "conf": 1.0,
+  "size_pt": 43.44
+ },
+ {
+  "ward": 119,
+  "role": "location_names",
+  "text": "P.S.Siva Swamy StreetNewWoodlands1/S",
+  "east": 420032.07,
+  "north": 1442268.41,
+  "conf": 1.0,
+  "size_pt": 71.16
+ },
+ {
+  "ward": 119,
+  "role": "location_names",
+  "text": "DOSaravanaAvmMedical BhavanEntResearchFounda",
+  "east": 420209.57,
+  "north": 1442136.87,
+  "conf": 1.0,
+  "size_pt": 60.96
+ },
+ {
+  "ward": 119,
+  "role": "location_names",
+  "text": "District Leon~ BranchLibraryRoyapettahAIADMKC12Office04.142",
+  "east": 420265.98,
+  "north": 1442832.78,
+  "conf": 1.0,
+  "size_pt": 47.4
+ },
+ {
+  "ward": 119,
+  "role": "location_names",
+  "text": "DistrictBranchLibrary",
+  "east": 420850.66,
+  "north": 1442972.15,
+  "conf": 1.0,
+  "size_pt": 23.64
+ },
+ {
+  "ward": 119,
+  "role": "location_names",
+  "text": "L.BalasubramaniamHall AlobeuSwastika",
+  "east": 420818.9,
+  "north": 1442302.38,
+  "conf": 1.0,
+  "size_pt": 67.08
+ },
+ {
+  "ward": 119,
+  "role": "location_names",
+  "text": "Post &Telegraph QuartersVathi.",
+  "east": 420853.3,
+  "north": 1443129.61,
+  "conf": 1.0,
+  "size_pt": 57.36
+ },
+ {
+  "ward": 119,
+  "role": "location_names",
+  "text": "TNEB",
+  "east": 420411.41,
+  "north": 1442465.14,
+  "conf": 1.0,
+  "size_pt": 13.8
+ },
+ {
+  "ward": 119,
+  "role": "location_names",
+  "text": "Hotel Savera",
+  "east": 419887.49,
+  "north": 1442354.45,
+  "conf": 1.0,
+  "size_pt": 39.24
+ },
+ {
+  "ward": 119,
+  "role": "location_names",
+  "text": "DeccanPlaza",
+  "east": 420506.24,
+  "north": 1442388.84,
+  "conf": 1.0,
+  "size_pt": 21.0
+ },
+ {
+  "ward": 119,
+  "role": "location_names",
+  "text": "Karaikudi",
+  "east": 420276.25,
+  "north": 1442228.09,
+  "conf": 1.0,
+  "size_pt": 27.84
+ },
+ {
+  "ward": 119,
+  "role": "location_names",
+  "text": "HeritageFresh",
+  "east": 419764.71,
+  "north": 1442142.8,
+  "conf": 1.0,
+  "size_pt": 24.84
+ },
+ {
+  "ward": 119,
+  "role": "location_names",
+  "text": "HPPunjab NationalBank ATM-7",
+  "east": 420588.38,
+  "north": 1442218.57,
+  "conf": 0.875,
+  "size_pt": 52.68
+ },
+ {
+  "ward": 119,
+  "role": "location_names",
+  "text": "LakshaHospital",
+  "east": 420172.84,
+  "north": 1442070.94,
+  "conf": 1.0,
+  "size_pt": 24.12
+ },
+ {
+  "ward": 119,
+  "role": "location_names",
+  "text": "Vinayagam LaserHospital, Chenn",
+  "east": 420234.23,
+  "north": 1442514.46,
+  "conf": 1.0,
+  "size_pt": 52.92
+ },
+ {
+  "ward": 119,
+  "role": "location_names",
+  "text": "Seethapathyclinic & Hospital",
+  "east": 420281.12,
+  "north": 1442603.45,
+  "conf": 1.0,
+  "size_pt": 51.6
+ },
+ {
+  "ward": 119,
+  "role": "location_names",
+  "text": "USAMSchool OfInterior Design",
+  "east": 420099.49,
+  "north": 1442239.74,
+  "conf": 1.0,
+  "size_pt": 44.4
+ },
+ {
+  "ward": 119,
+  "role": "location_names",
+  "text": "WoodlandsAVMRajeshwari",
+  "east": 420295.62,
+  "north": 1442411.28,
+  "conf": 1.0,
+  "size_pt": 32.28
+ },
+ {
+  "ward": 119,
+  "role": "location_names",
+  "text": "Recreation Ground",
+  "east": 420014.39,
+  "north": 1441657.28,
+  "conf": 1.0,
+  "size_pt": 57.36
+ },
+ {
+  "ward": 119,
+  "role": "location_names",
+  "text": "Park",
+  "east": 419820.6,
+  "north": 1441666.8,
+  "conf": 1.0,
+  "size_pt": 13.08
+ },
+ {
+  "ward": 119,
+  "role": "location_names",
+  "text": "Midnight ExpressAlwarpet",
+  "east": 419660.56,
+  "north": 1441773.68,
+  "conf": 1.0,
+  "size_pt": 51.72
+ },
+ {
+  "ward": 119,
+  "role": "location_names",
+  "text": "FreezeZone",
+  "east": 419743.97,
+  "north": 1441959.19,
+  "conf": 1.0,
+  "size_pt": 19.32
+ },
+ {
+  "ward": 119,
+  "role": "location_names",
+  "text": "ICICI WealthManagementBank",
+  "east": 419824.41,
+  "north": 1441614.42,
+  "conf": 1.0,
+  "size_pt": 37.8
+ },
+ {
+  "ward": 119,
+  "role": "location_names",
+  "text": "Kaviko, conventionCentre",
+  "east": 419831.08,
+  "north": 1441974.75,
+  "conf": 1.0,
+  "size_pt": 53.28
+ },
+ {
+  "ward": 119,
+  "role": "location_names",
+  "text": "Vivekananda College",
+  "east": 420176.76,
+  "north": 1441861.84,
+  "conf": 1.0,
+  "size_pt": 60.96
+ }
+]

@@ -1,0 +1,443 @@
+[
+ {
+  "ward": 160,
+  "role": "road_name",
+  "text": "10/58,Eswaran koil Street",
+  "east": 413750.72,
+  "north": 1437844.62,
+  "conf": 1.0,
+  "size_pt": 80.52
+ },
+ {
+  "ward": 160,
+  "role": "road_name",
+  "text": "Eswaran Koil Street",
+  "east": 413665.64,
+  "north": 1437803.46,
+  "conf": 1.0,
+  "size_pt": 61.32
+ },
+ {
+  "ward": 160,
+  "role": "road_name",
+  "text": "Kambar Street",
+  "east": 413733.47,
+  "north": 1437959.54,
+  "conf": 1.0,
+  "size_pt": 43.92
+ },
+ {
+  "ward": 160,
+  "role": "road_name",
+  "text": "Venu Reddy Street",
+  "east": 414027.66,
+  "north": 1438009.59,
+  "conf": 1.0,
+  "size_pt": 57.0
+ },
+ {
+  "ward": 160,
+  "role": "road_name",
+  "text": "City Link Road",
+  "east": 414210.42,
+  "north": 1437549.38,
+  "conf": 1.0,
+  "size_pt": 42.0
+ },
+ {
+  "ward": 160,
+  "role": "road_name",
+  "text": "NH45",
+  "east": 413753.68,
+  "north": 1438055.2,
+  "conf": 1.0,
+  "size_pt": 14.28
+ },
+ {
+  "ward": 160,
+  "role": "road_name",
+  "text": "James Street",
+  "east": 414037.72,
+  "north": 1437356.47,
+  "conf": 1.0,
+  "size_pt": 40.44
+ },
+ {
+  "ward": 160,
+  "role": "road_name",
+  "text": "Kadumbadi Amma StreetKoothawal Street",
+  "east": 413885.75,
+  "north": 1437597.64,
+  "conf": 1.0,
+  "size_pt": 78.96
+ },
+ {
+  "ward": 160,
+  "role": "road_name",
+  "text": "MKN Road",
+  "east": 414222.17,
+  "north": 1437769.17,
+  "conf": 1.0,
+  "size_pt": 30.84
+ },
+ {
+  "ward": 160,
+  "role": "road_name",
+  "text": "Paruthivakkam Street",
+  "east": 413974.43,
+  "north": 1437363.77,
+  "conf": 1.0,
+  "size_pt": 66.24
+ },
+ {
+  "ward": 160,
+  "role": "road_name",
+  "text": "7711111111Anna Salai (Mount Road).",
+  "east": 414414.77,
+  "north": 1438203.35,
+  "conf": 0.65,
+  "size_pt": 73.44
+ },
+ {
+  "ward": 160,
+  "role": "road_name",
+  "text": "Vembuli AmmanKoil Street",
+  "east": 413734.95,
+  "north": 1437870.02,
+  "conf": 1.0,
+  "size_pt": 48.24
+ },
+ {
+  "ward": 160,
+  "role": "road_name",
+  "text": "Karpaga.",
+  "east": 413532.93,
+  "north": 1437510.76,
+  "conf": 1.0,
+  "size_pt": 24.6
+ },
+ {
+  "ward": 160,
+  "role": "road_name",
+  "text": "863StreetSubedanSanyasiA7312.990A72Vinayakar'13.949reet",
+  "east": 413525.31,
+  "north": 1437574.89,
+  "conf": 1.0,
+  "size_pt": 72.36
+ },
+ {
+  "ward": 160,
+  "role": "road_name",
+  "text": "MKN Road",
+  "east": 414329.05,
+  "north": 1438102.08,
+  "conf": 1.0,
+  "size_pt": 32.04
+ },
+ {
+  "ward": 160,
+  "role": "road_name",
+  "text": "Chennai Metro Line",
+  "east": 414090.84,
+  "north": 1438156.37,
+  "conf": 1.0,
+  "size_pt": 58.68
+ },
+ {
+  "ward": 160,
+  "role": "road_name",
+  "text": "10,320StreetSwaminathanC",
+  "east": 413762.57,
+  "north": 1437800.39,
+  "conf": 1.0,
+  "size_pt": 61.8
+ },
+ {
+  "ward": 160,
+  "role": "road_name",
+  "text": "GuindyMetroStation",
+  "east": 414637.74,
+  "north": 1438264.09,
+  "conf": 1.0,
+  "size_pt": 24.12
+ },
+ {
+  "ward": 160,
+  "role": "road_name",
+  "text": "Koil Street",
+  "east": 413555.05,
+  "north": 1437529.7,
+  "conf": 1.0,
+  "size_pt": 33.12
+ },
+ {
+  "ward": 160,
+  "role": "road_name",
+  "text": "SalaiAnna",
+  "east": 414586.42,
+  "north": 1438308.85,
+  "conf": 1.0,
+  "size_pt": 30.0
+ },
+ {
+  "ward": 160,
+  "role": "road_name",
+  "text": "OverFly",
+  "east": 414771.82,
+  "north": 1438380.71,
+  "conf": 1.0,
+  "size_pt": 22.56
+ },
+ {
+  "ward": 160,
+  "role": "road_name",
+  "text": "Fly Over",
+  "east": 413816.54,
+  "north": 1438141.13,
+  "conf": 1.0,
+  "size_pt": 25.08
+ },
+ {
+  "ward": 160,
+  "role": "road_name",
+  "text": "Guindy Bridge",
+  "east": 414852.67,
+  "north": 1438406.21,
+  "conf": 1.0,
+  "size_pt": 41.28
+ },
+ {
+  "ward": 160,
+  "role": "road_name",
+  "text": "Gurubux Street",
+  "east": 413536.42,
+  "north": 1437354.25,
+  "conf": 1.0,
+  "size_pt": 46.08
+ },
+ {
+  "ward": 160,
+  "role": "road_name",
+  "text": "NS Street",
+  "east": 413578.75,
+  "north": 1437358.8,
+  "conf": 1.0,
+  "size_pt": 30.36
+ },
+ {
+  "ward": 160,
+  "role": "road_name",
+  "text": "Hussain Subedar Street",
+  "east": 413821.09,
+  "north": 1437586.84,
+  "conf": 1.0,
+  "size_pt": 73.68
+ },
+ {
+  "ward": 160,
+  "role": "road_name",
+  "text": "Asher Khan StreetA45d",
+  "east": 413459.6,
+  "north": 1437185.26,
+  "conf": 1.0,
+  "size_pt": 51.36
+ },
+ {
+  "ward": 160,
+  "role": "road_name",
+  "text": "Lashkar\u2022Street",
+  "east": 413367.42,
+  "north": 1437215.2,
+  "conf": 1.0,
+  "size_pt": 23.64
+ },
+ {
+  "ward": 160,
+  "role": "road_name",
+  "text": "Ramasamy Band Street",
+  "east": 413924.38,
+  "north": 1437599.12,
+  "conf": 1.0,
+  "size_pt": 74.16
+ },
+ {
+  "ward": 160,
+  "role": "road_name",
+  "text": "4thMaduvankaraiStreet",
+  "east": 413987.03,
+  "north": 1437540.6,
+  "conf": 1.0,
+  "size_pt": 29.16
+ },
+ {
+  "ward": 160,
+  "role": "road_name",
+  "text": "Maduvankarait1st Street",
+  "east": 413969.78,
+  "north": 1437497.11,
+  "conf": 1.0,
+  "size_pt": 41.4
+ },
+ {
+  "ward": 160,
+  "role": "road_name",
+  "text": "Vembuli Amman",
+  "east": 414082.8,
+  "north": 1437913.51,
+  "conf": 1.0,
+  "size_pt": 47.88
+ },
+ {
+  "ward": 160,
+  "role": "road_name",
+  "text": "Koil Street",
+  "east": 414161.74,
+  "north": 1437931.29,
+  "conf": 1.0,
+  "size_pt": 31.56
+ },
+ {
+  "ward": 160,
+  "role": "road_name",
+  "text": "Eswaran Koil Lane",
+  "east": 413599.81,
+  "north": 1437810.44,
+  "conf": 1.0,
+  "size_pt": 55.8
+ },
+ {
+  "ward": 160,
+  "role": "road_name",
+  "text": "Madhava Perumal19 South Road",
+  "east": 414041.21,
+  "north": 1437717.43,
+  "conf": 1.0,
+  "size_pt": 54.48
+ },
+ {
+  "ward": 160,
+  "role": "location_names",
+  "text": "VembuliAmmanKovil",
+  "east": 413851.89,
+  "north": 1437914.25,
+  "conf": 1.0,
+  "size_pt": 25.8
+ },
+ {
+  "ward": 160,
+  "role": "location_names",
+  "text": "Karpaga:Vinayagar Koil",
+  "east": 413600.55,
+  "north": 1437435.52,
+  "conf": 1.0,
+  "size_pt": 47.28
+ },
+ {
+  "ward": 160,
+  "role": "location_names",
+  "text": "AlandurRTO",
+  "east": 413528.38,
+  "north": 1437712.87,
+  "conf": 1.0,
+  "size_pt": 25.44
+ },
+ {
+  "ward": 160,
+  "role": "location_names",
+  "text": "DindigulThalappakatti",
+  "east": 414067.03,
+  "north": 1438095.2,
+  "conf": 1.0,
+  "size_pt": 44.16
+ },
+ {
+  "ward": 160,
+  "role": "location_names",
+  "text": "i BalajiHospital(P) Ltd",
+  "east": 413979.94,
+  "north": 1438071.08,
+  "conf": 1.0,
+  "size_pt": 26.76
+ },
+ {
+  "ward": 160,
+  "role": "location_names",
+  "text": "EswaraniKoil",
+  "east": 413638.97,
+  "north": 1437780.92,
+  "conf": 1.0,
+  "size_pt": 26.52
+ },
+ {
+  "ward": 160,
+  "role": "location_names",
+  "text": "Dr Radha Rajendranl71Nursing Home",
+  "east": 413748.71,
+  "north": 1437931.39,
+  "conf": 1.0,
+  "size_pt": 62.4
+ },
+ {
+  "ward": 160,
+  "role": "location_names",
+  "text": "GovernmentHospitalAlandur",
+  "east": 413506.26,
+  "north": 1437811.6,
+  "conf": 1.0,
+  "size_pt": 38.76
+ },
+ {
+  "ward": 160,
+  "role": "location_names",
+  "text": "S.SHospital",
+  "east": 413591.67,
+  "north": 1437698.06,
+  "conf": 1.0,
+  "size_pt": 26.64
+ },
+ {
+  "ward": 160,
+  "role": "location_names",
+  "text": "KaanthiMakapperuHospital",
+  "east": 413965.86,
+  "north": 1437613.72,
+  "conf": 1.0,
+  "size_pt": 35.76
+ },
+ {
+  "ward": 160,
+  "role": "size_label",
+  "text": "762-",
+  "east": 414034.86,
+  "north": 1437424.09,
+  "conf": 1.0,
+  "size_pt": 12.96
+ },
+ {
+  "ward": 160,
+  "role": "size_label",
+  "text": "1.0/4019A34",
+  "east": 414040.47,
+  "north": 1437558.69,
+  "conf": 1.0,
+  "size_pt": 24.36
+ },
+ {
+  "ward": 160,
+  "role": "size_label",
+  "text": "7/",
+  "east": 413873.16,
+  "north": 1437675.63,
+  "conf": 1.0,
+  "size_pt": 14.04
+ },
+ {
+  "ward": 160,
+  "role": "size_label",
+  "text": "Vv.",
+  "east": 413940.67,
+  "north": 1437717.85,
+  "conf": 1.0,
+  "size_pt": 7.68
+ }
+]

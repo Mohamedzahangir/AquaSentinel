@@ -1,0 +1,695 @@
+[
+ {
+  "ward": 68,
+  "role": "road_name",
+  "text": "IstPonnusamyNagarStreet* Pallavan SalaiK.K.R.Avenue",
+  "east": 417584.67,
+  "north": 1450757.43,
+  "conf": 1.0,
+  "size_pt": 70.08
+ },
+ {
+  "ward": 68,
+  "role": "road_name",
+  "text": "\u0410\u041d\u041d\u041d\u0419\u041d\u0406Madhavaram High Rd",
+  "east": 417924.43,
+  "north": 1450710.65,
+  "conf": 0.65,
+  "size_pt": 63.84
+ },
+ {
+  "ward": 68,
+  "role": "road_name",
+  "text": "HomeEs Hospital StreeRaghavan StreeStreetElumalab.Zb\u015bB17ThirunavtkorosuStreGurusamydaibeamStree Nagar)",
+  "east": 416927.82,
+  "north": 1450270.34,
+  "conf": 1.0,
+  "size_pt": 84.72
+ },
+ {
+  "ward": 68,
+  "role": "road_name",
+  "text": "Sabapathy Street",
+  "east": 417467.4,
+  "north": 1449902.08,
+  "conf": 1.0,
+  "size_pt": 51.96
+ },
+ {
+  "ward": 68,
+  "role": "road_name",
+  "text": "Ist StreeElengoStreef\u00aeB3g5.736B20StreetoStreet2ndIst StreetSathya Narayana",
+  "east": 417149.56,
+  "north": 1450796.9,
+  "conf": 1.0,
+  "size_pt": 72.84
+ },
+ {
+  "ward": 68,
+  "role": "road_name",
+  "text": "37.163ippanIst LaneD4V5.946Streetiy\u00f6s\u00fcdevan StrdeleB36B356.120Maduraisamy Madam StMariyanayagamIst StreetMadam LanesMaduraisamy2nd StreetLanesJamalia",
+  "east": 417507.94,
+  "north": 1450090.97,
+  "conf": 0.963,
+  "size_pt": 115.32
+ },
+ {
+  "ward": 68,
+  "role": "road_name",
+  "text": "AARAGopalapuram2nd St",
+  "east": 416886.22,
+  "north": 1451178.8,
+  "conf": 0.767,
+  "size_pt": 38.64
+ },
+ {
+  "ward": 68,
+  "role": "road_name",
+  "text": "Gopalapuram2nd St",
+  "east": 416831.29,
+  "north": 1451101.55,
+  "conf": 1.0,
+  "size_pt": 38.16
+ },
+ {
+  "ward": 68,
+  "role": "road_name",
+  "text": "\u2022Gopalapuram3rd St",
+  "east": 416777.2,
+  "north": 1451045.26,
+  "conf": 1.0,
+  "size_pt": 38.52
+ },
+ {
+  "ward": 68,
+  "role": "road_name",
+  "text": ",GopalapuramIst St",
+  "east": 416808.0,
+  "north": 1450968.22,
+  "conf": 1.0,
+  "size_pt": 38.4
+ },
+ {
+  "ward": 68,
+  "role": "road_name",
+  "text": "S.R.P.Koil Street (North)",
+  "east": 416730.0,
+  "north": 1450320.18,
+  "conf": 1.0,
+  "size_pt": 76.32
+ },
+ {
+  "ward": 68,
+  "role": "road_name",
+  "text": "E.S.I.Hospital Road",
+  "east": 416833.4,
+  "north": 1450180.92,
+  "conf": 1.0,
+  "size_pt": 58.32
+ },
+ {
+  "ward": 68,
+  "role": "road_name",
+  "text": "Andal Avenue 2nd Street",
+  "east": 416814.78,
+  "north": 1450765.04,
+  "conf": 1.0,
+  "size_pt": 78.72
+ },
+ {
+  "ward": 68,
+  "role": "road_name",
+  "text": "2nd Street",
+  "east": 417062.87,
+  "north": 1450843.99,
+  "conf": 1.0,
+  "size_pt": 33.36
+ },
+ {
+  "ward": 68,
+  "role": "road_name",
+  "text": "GurumoorthytNagar",
+  "east": 417031.01,
+  "north": 1450824.2,
+  "conf": 1.0,
+  "size_pt": 39.0
+ },
+ {
+  "ward": 68,
+  "role": "road_name",
+  "text": "B225.352B233rd NorthIst Lane$5.639 Kennedy SquareKennedy Square 3rd NorthIst Street (North)3rd North2nd LanePallavanSalaiSt3rd NorthV.O.C.1st Street3rd Lane",
+  "east": 417341.77,
+  "north": 1450672.87,
+  "conf": 1.0,
+  "size_pt": 104.52
+ },
+ {
+  "ward": 68,
+  "role": "road_name",
+  "text": "ChozhanStreet",
+  "east": 417049.11,
+  "north": 1450746.31,
+  "conf": 1.0,
+  "size_pt": 27.72
+ },
+ {
+  "ward": 68,
+  "role": "road_name",
+  "text": "HemavathyStreetOthavadai StreetTHIOH",
+  "east": 417298.58,
+  "north": 1450795.84,
+  "conf": 0.825,
+  "size_pt": 47.4
+ },
+ {
+  "ward": 68,
+  "role": "road_name",
+  "text": "K.K.R.Avenue",
+  "east": 417613.57,
+  "north": 1450773.83,
+  "conf": 1.0,
+  "size_pt": 21.24
+ },
+ {
+  "ward": 68,
+  "role": "road_name",
+  "text": "K.K.R.Avenue",
+  "east": 417730.21,
+  "north": 1450746.84,
+  "conf": 1.0,
+  "size_pt": 21.12
+ },
+ {
+  "ward": 68,
+  "role": "road_name",
+  "text": "Thiru-Vi-Ka Nagar(37 Roads)0.4LU",
+  "east": 416886.43,
+  "north": 1450358.06,
+  "conf": 1.0,
+  "size_pt": 57.72
+ },
+ {
+  "ward": 68,
+  "role": "road_name",
+  "text": "Ayyavoo Gramani Street",
+  "east": 417091.66,
+  "north": 1450380.39,
+  "conf": 1.0,
+  "size_pt": 74.64
+ },
+ {
+  "ward": 68,
+  "role": "road_name",
+  "text": "Cheran StreetThiruvalluvar StreetKennedy:Ist Stre",
+  "east": 417074.41,
+  "north": 1450497.95,
+  "conf": 1.0,
+  "size_pt": 58.44
+ },
+ {
+  "ward": 68,
+  "role": "road_name",
+  "text": "Kennedy Square Main Road",
+  "east": 417109.12,
+  "north": 1450566.84,
+  "conf": 1.0,
+  "size_pt": 86.04
+ },
+ {
+  "ward": 68,
+  "role": "road_name",
+  "text": "ar StreotKennedy SquareIst Street (South)ThiruvalluvarStreet",
+  "east": 417143.1,
+  "north": 1450490.23,
+  "conf": 1.0,
+  "size_pt": 74.88
+ },
+ {
+  "ward": 68,
+  "role": "road_name",
+  "text": "4uulni streethi StKennedy SquareSivapadam StreetIst St (South)Thiruvalluvar Street2nd StKamaraj Ist St3rd Street o",
+  "east": 417339.12,
+  "north": 1450440.71,
+  "conf": 1.0,
+  "size_pt": 94.44
+ },
+ {
+  "ward": 68,
+  "role": "road_name",
+  "text": "Kennedy SquareIst Street (North)",
+  "east": 417329.59,
+  "north": 1450601.13,
+  "conf": 1.0,
+  "size_pt": 57.12
+ },
+ {
+  "ward": 68,
+  "role": "road_name",
+  "text": "Sathya Narayana St",
+  "east": 417191.89,
+  "north": 1450668.85,
+  "conf": 1.0,
+  "size_pt": 62.28
+ },
+ {
+  "ward": 68,
+  "role": "road_name",
+  "text": "Anbazhagan NagarPallavan Salai4th StreetPallavanLane",
+  "east": 417091.55,
+  "north": 1450676.05,
+  "conf": 1.0,
+  "size_pt": 73.56
+ },
+ {
+  "ward": 68,
+  "role": "road_name",
+  "text": "Madam StreetMaduraisamy",
+  "east": 417521.27,
+  "north": 1450593.62,
+  "conf": 1.0,
+  "size_pt": 43.56
+ },
+ {
+  "ward": 68,
+  "role": "road_name",
+  "text": "\u0131duraisamy3rd Laneaduraisamydam Lanesdam StreetPonnusamy NagarPonnusamy N3rd Streets",
+  "east": 417551.55,
+  "north": 1450591.39,
+  "conf": 1.0,
+  "size_pt": 61.8
+ },
+ {
+  "ward": 68,
+  "role": "road_name",
+  "text": "MaduraisamyMadam Lanes",
+  "east": 417519.37,
+  "north": 1450552.56,
+  "conf": 1.0,
+  "size_pt": 42.12
+ },
+ {
+  "ward": 68,
+  "role": "road_name",
+  "text": "aduraisamydam LanesJamaliaMaduraisamy MadamIst StreetState BankColony",
+  "east": 417611.03,
+  "north": 1450174.04,
+  "conf": 1.0,
+  "size_pt": 72.6
+ },
+ {
+  "ward": 68,
+  "role": "road_name",
+  "text": "Madhavaram highRoad 2nd lane",
+  "east": 417712.74,
+  "north": 1450293.3,
+  "conf": 1.0,
+  "size_pt": 53.76
+ },
+ {
+  "ward": 68,
+  "role": "road_name",
+  "text": "2nd Street",
+  "east": 417725.34,
+  "north": 1450232.03,
+  "conf": 1.0,
+  "size_pt": 33.0
+ },
+ {
+  "ward": 68,
+  "role": "road_name",
+  "text": "Kalyanasundaram StreetIstStAth StreetStreetKalyanasundaram2nd LaneKalyanasundara5th StreetCross Lane-EMain Street\u2022 00 7Subramania Thottam",
+  "east": 417821.97,
+  "north": 1450125.89,
+  "conf": 1.0,
+  "size_pt": 132.0
+ },
+ {
+  "ward": 68,
+  "role": "road_name",
+  "text": "Maduraisamy MadamEast StreetMadam(T.N.S.C.B Tenaments)JamaliaWARD",
+  "east": 417592.61,
+  "north": 1450357.11,
+  "conf": 1.0,
+  "size_pt": 115.8
+ },
+ {
+  "ward": 68,
+  "role": "road_name",
+  "text": "_Maduraisamy Madam 2nd Street",
+  "east": 417499.26,
+  "north": 1450427.05,
+  "conf": 1.0,
+  "size_pt": 101.28
+ },
+ {
+  "ward": 68,
+  "role": "road_name",
+  "text": "Bharathi Street",
+  "east": 417263.02,
+  "north": 1450443.99,
+  "conf": 1.0,
+  "size_pt": 47.52
+ },
+ {
+  "ward": 68,
+  "role": "road_name",
+  "text": "ThiruvalluvarStreet",
+  "east": 417180.67,
+  "north": 1450352.66,
+  "conf": 1.0,
+  "size_pt": 38.04
+ },
+ {
+  "ward": 68,
+  "role": "road_name",
+  "text": "StreetB25Gandhi5.870Gandhi StIndiyappan Street3rd StreetJanakiram NagarJanakiram NagarIst StreetB26 Janakiram NagananePrakash LaneValliai~SeethapathyStreetThillaiadimDhanammal Street2nd Lanein\u0131ruvalluvar streetStreetBalamuruganPrakashtre| 5.507Street6.15Gurusamy Sto2B31",
+  "east": 417306.84,
+  "north": 1450225.68,
+  "conf": 1.0,
+  "size_pt": 172.2
+ },
+ {
+  "ward": 68,
+  "role": "road_name",
+  "text": "4th StreetThillainayagam3rd Street3rd Street5th StrThillainayagam6th Street",
+  "east": 417230.42,
+  "north": 1449990.12,
+  "conf": 1.0,
+  "size_pt": 82.92
+ },
+ {
+  "ward": 68,
+  "role": "road_name",
+  "text": "Prakash Lane",
+  "east": 417285.88,
+  "north": 1450179.86,
+  "conf": 1.0,
+  "size_pt": 41.16
+ },
+ {
+  "ward": 68,
+  "role": "road_name",
+  "text": "Jaibeamz 2nd LaneE2nd st B33Esvosudoran ash tone5.9765.723B34",
+  "east": 417464.33,
+  "north": 1450225.78,
+  "conf": 0.9,
+  "size_pt": 78.84
+ },
+ {
+  "ward": 68,
+  "role": "road_name",
+  "text": "Main StreetMariyanayagamMariyanayagamIst Street2nd Street",
+  "east": 417553.56,
+  "north": 1450031.71,
+  "conf": 1.0,
+  "size_pt": 61.92
+ },
+ {
+  "ward": 68,
+  "role": "road_name",
+  "text": "Mohamadian StreetMir SajjaihHussin StreetWatkin Street",
+  "east": 417346.85,
+  "north": 1449812.77,
+  "conf": 1.0,
+  "size_pt": 67.08
+ },
+ {
+  "ward": 68,
+  "role": "road_name",
+  "text": "StreetPadam",
+  "east": 416969.73,
+  "north": 1450165.57,
+  "conf": 1.0,
+  "size_pt": 22.32
+ },
+ {
+  "ward": 68,
+  "role": "road_name",
+  "text": "B19ManiammaiNagarraahavan StreeHospital StreetElumalaLakshmi Nagar6.241Lakshmi NagarB1802nd StreetLakshmi NagarB174th Street3rd StreetStreetGurusamyPadamStreetNagarTeeds Garden 4th Lane2ndCrossds GardenJanakira\u0131d StreetCross5th SU3rd Streettree3rd Streetd Street4th Str3rd Cross StreetStreet 5Jangkiram NagarTeeds GardenStreet2nd Main Road5thLaneeds Garden7th Street5th6thCross StreetTeeds GardenNagar4thMallippu2nd Street+ThillainayaStreetTeeds3rdGarden 6th",
+  "east": 417039.48,
+  "north": 1450121.13,
+  "conf": 1.0,
+  "size_pt": 191.88
+ },
+ {
+  "ward": 68,
+  "role": "road_name",
+  "text": "Janakiram Nagar5th Streetkamaraj street3rd Cross Street4th StreetJanakiram Nagar2nd Main5thLaneRoad2ndNagMal",
+  "east": 417091.66,
+  "north": 1450257.32,
+  "conf": 1.0,
+  "size_pt": 111.36
+ },
+ {
+  "ward": 68,
+  "role": "road_name",
+  "text": "Teeds Garden3rd Street",
+  "east": 417033.66,
+  "north": 1449963.35,
+  "conf": 1.0,
+  "size_pt": 40.08
+ },
+ {
+  "ward": 68,
+  "role": "road_name",
+  "text": "Teeds Garden 7th Street",
+  "east": 417140.14,
+  "north": 1450001.87,
+  "conf": 1.0,
+  "size_pt": 76.56
+ },
+ {
+  "ward": 68,
+  "role": "road_name",
+  "text": "3rd Street|",
+  "east": 417216.34,
+  "north": 1450009.81,
+  "conf": 1.0,
+  "size_pt": 31.44
+ },
+ {
+  "ward": 68,
+  "role": "road_name",
+  "text": "GurusamyStreetAndiappan10.163Street",
+  "east": 417407.49,
+  "north": 1450001.23,
+  "conf": 1.0,
+  "size_pt": 69.12
+ },
+ {
+  "ward": 68,
+  "role": "road_name",
+  "text": "ThillainayagamMain Street",
+  "east": 417298.05,
+  "north": 1449901.23,
+  "conf": 1.0,
+  "size_pt": 41.64
+ },
+ {
+  "ward": 68,
+  "role": "road_name",
+  "text": "Thillainayagam2nd Street",
+  "east": 417245.24,
+  "north": 1449797.53,
+  "conf": 1.0,
+  "size_pt": 41.64
+ },
+ {
+  "ward": 68,
+  "role": "road_name",
+  "text": "Ist StreetThillainayagam",
+  "east": 417229.25,
+  "north": 1449850.02,
+  "conf": 1.0,
+  "size_pt": 42.24
+ },
+ {
+  "ward": 68,
+  "role": "road_name",
+  "text": "Ist Street",
+  "east": 417097.27,
+  "north": 1450840.71,
+  "conf": 1.0,
+  "size_pt": 29.88
+ },
+ {
+  "ward": 68,
+  "role": "road_name",
+  "text": "3rd Street",
+  "east": 417460.73,
+  "north": 1450344.62,
+  "conf": 1.0,
+  "size_pt": 31.8
+ },
+ {
+  "ward": 68,
+  "role": "road_name",
+  "text": "5th Street",
+  "east": 417251.8,
+  "north": 1450050.34,
+  "conf": 1.0,
+  "size_pt": 31.92
+ },
+ {
+  "ward": 68,
+  "role": "road_name",
+  "text": "JamaliaLanes",
+  "east": 417590.92,
+  "north": 1450111.39,
+  "conf": 1.0,
+  "size_pt": 22.2
+ },
+ {
+  "ward": 68,
+  "role": "road_name",
+  "text": "MariyanayagamMain Street",
+  "east": 417622.14,
+  "north": 1450049.17,
+  "conf": 1.0,
+  "size_pt": 45.72
+ },
+ {
+  "ward": 68,
+  "role": "road_name",
+  "text": "Gopalapuram1st St",
+  "east": 416865.26,
+  "north": 1451045.47,
+  "conf": 1.0,
+  "size_pt": 38.16
+ },
+ {
+  "ward": 68,
+  "role": "road_name",
+  "text": "Pandian Street",
+  "east": 417125.95,
+  "north": 1450620.71,
+  "conf": 1.0,
+  "size_pt": 46.08
+ },
+ {
+  "ward": 68,
+  "role": "road_name",
+  "text": "Kennedy Square Cross St",
+  "east": 417227.14,
+  "north": 1450479.44,
+  "conf": 1.0,
+  "size_pt": 80.04
+ },
+ {
+  "ward": 68,
+  "role": "road_name",
+  "text": "Jaibeam Nagar Ist Street",
+  "east": 417432.79,
+  "north": 1450478.38,
+  "conf": 1.0,
+  "size_pt": 81.24
+ },
+ {
+  "ward": 68,
+  "role": "road_name",
+  "text": "Gurusamy Ste",
+  "east": 417372.04,
+  "north": 1450110.76,
+  "conf": 1.0,
+  "size_pt": 39.0
+ },
+ {
+  "ward": 68,
+  "role": "road_name",
+  "text": "Dhanammal St",
+  "east": 417326.52,
+  "north": 1450001.34,
+  "conf": 1.0,
+  "size_pt": 45.48
+ },
+ {
+  "ward": 68,
+  "role": "road_name",
+  "text": "Thiru-Vi-Ka Nagar(37Roads)",
+  "east": 416860.08,
+  "north": 1450497.0,
+  "conf": 1.0,
+  "size_pt": 57.84
+ },
+ {
+  "ward": 68,
+  "role": "road_name",
+  "text": "2nd Street",
+  "east": 417072.08,
+  "north": 1449963.56,
+  "conf": 1.0,
+  "size_pt": 32.64
+ },
+ {
+  "ward": 68,
+  "role": "road_name",
+  "text": "Ponnusamy Nagar2nd Lane",
+  "east": 417553.34,
+  "north": 1450672.56,
+  "conf": 1.0,
+  "size_pt": 55.92
+ },
+ {
+  "ward": 68,
+  "role": "road_name",
+  "text": "Thiru-Vi-Ka Nagar(37 Roads)",
+  "east": 416904.95,
+  "north": 1450788.54,
+  "conf": 1.0,
+  "size_pt": 58.08
+ },
+ {
+  "ward": 68,
+  "role": "road_name",
+  "text": "Ragavan Street",
+  "east": 417439.03,
+  "north": 1449708.22,
+  "conf": 1.0,
+  "size_pt": 38.64
+ },
+ {
+  "ward": 68,
+  "role": "location_names",
+  "text": "Park",
+  "east": 416964.97,
+  "north": 1450733.4,
+  "conf": 1.0,
+  "size_pt": 13.08
+ },
+ {
+  "ward": 68,
+  "role": "location_names",
+  "text": "Sri Bala Nursing",
+  "east": 416805.67,
+  "north": 1450299.86,
+  "conf": 1.0,
+  "size_pt": 50.4
+ },
+ {
+  "ward": 68,
+  "role": "location_names",
+  "text": "Home",
+  "east": 416872.46,
+  "north": 1450301.13,
+  "conf": 1.0,
+  "size_pt": 16.68
+ },
+ {
+  "ward": 68,
+  "role": "location_names",
+  "text": "HospitalAbhijay",
+  "east": 416839.86,
+  "north": 1450077.95,
+  "conf": 1.0,
+  "size_pt": 24.12
+ },
+ {
+  "ward": 68,
+  "role": "location_names",
+  "text": "Sembiyam",
+  "east": 417780.06,
+  "north": 1450734.36,
+  "conf": 1.0,
+  "size_pt": 30.0
+ }
+]

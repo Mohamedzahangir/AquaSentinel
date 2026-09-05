@@ -1,0 +1,461 @@
+[
+ {
+  "ward": 48,
+  "role": "road_name",
+  "text": "Parasuraman Street",
+  "east": 421723.54,
+  "north": 1449748.2,
+  "conf": 1.0,
+  "size_pt": 62.04
+ },
+ {
+  "ward": 48,
+  "role": "road_name",
+  "text": "Muthiah Mudali Street",
+  "east": 421961.68,
+  "north": 1449863.67,
+  "conf": 1.0,
+  "size_pt": 67.68
+ },
+ {
+  "ward": 48,
+  "role": "road_name",
+  "text": "A3Subammal St2.659ParthasarathyNagar (S.C. Board)DBK Street",
+  "east": 421887.49,
+  "north": 1449695.39,
+  "conf": 1.0,
+  "size_pt": 82.44
+ },
+ {
+  "ward": 48,
+  "role": "road_name",
+  "text": "hatankulamVenkalreetSfStreetThulasingam StreetRoad4.156B1West Cemetery RoadTHY.Thiruvetriyur Highnspector SubrayaluStreet",
+  "east": 422228.2,
+  "north": 1449816.15,
+  "conf": 0.964,
+  "size_pt": 120.12
+ },
+ {
+  "ward": 48,
+  "role": "road_name",
+  "text": "Nallappa Vathiyar Street",
+  "east": 422443.69,
+  "north": 1449674.64,
+  "conf": 1.0,
+  "size_pt": 75.84
+ },
+ {
+  "ward": 48,
+  "role": "road_name",
+  "text": "Znd LaneThatankulam StMuniram Pandiyan Street",
+  "east": 422110.61,
+  "north": 1449897.12,
+  "conf": 1.0,
+  "size_pt": 110.28
+ },
+ {
+  "ward": 48,
+  "role": "road_name",
+  "text": "East Cemetry Road",
+  "east": 422364.52,
+  "north": 1449700.15,
+  "conf": 1.0,
+  "size_pt": 58.92
+ },
+ {
+  "ward": 48,
+  "role": "road_name",
+  "text": "SV Koil St",
+  "east": 422050.28,
+  "north": 1450059.48,
+  "conf": 1.0,
+  "size_pt": 31.68
+ },
+ {
+  "ward": 48,
+  "role": "road_name",
+  "text": "Buddha St",
+  "east": 421995.45,
+  "north": 1450060.75,
+  "conf": 1.0,
+  "size_pt": 31.92
+ },
+ {
+  "ward": 48,
+  "role": "road_name",
+  "text": "MM Koil St",
+  "east": 421960.84,
+  "north": 1450056.63,
+  "conf": 1.0,
+  "size_pt": 33.72
+ },
+ {
+  "ward": 48,
+  "role": "road_name",
+  "text": "Mayor Basuder Street",
+  "east": 422378.81,
+  "north": 1450266.41,
+  "conf": 1.0,
+  "size_pt": 67.56
+ },
+ {
+  "ward": 48,
+  "role": "road_name",
+  "text": "Shammugarayan Street",
+  "east": 422318.37,
+  "north": 1450212.32,
+  "conf": 1.0,
+  "size_pt": 70.08
+ },
+ {
+  "ward": 48,
+  "role": "road_name",
+  "text": "Ramanuja Koodam Street",
+  "east": 422283.66,
+  "north": 1450243.12,
+  "conf": 1.0,
+  "size_pt": 78.36
+ },
+ {
+  "ward": 48,
+  "role": "road_name",
+  "text": "Basuvaian St",
+  "east": 422203.32,
+  "north": 1450292.97,
+  "conf": 1.0,
+  "size_pt": 39.84
+ },
+ {
+  "ward": 48,
+  "role": "road_name",
+  "text": "Arumugam Street",
+  "east": 422067.42,
+  "north": 1450165.64,
+  "conf": 1.0,
+  "size_pt": 55.08
+ },
+ {
+  "ward": 48,
+  "role": "road_name",
+  "text": "Kailaya Street",
+  "east": 422064.14,
+  "north": 1450216.87,
+  "conf": 1.0,
+  "size_pt": 43.44
+ },
+ {
+  "ward": 48,
+  "role": "road_name",
+  "text": "Namachivaya Street",
+  "east": 422051.33,
+  "north": 1450265.66,
+  "conf": 1.0,
+  "size_pt": 61.32
+ },
+ {
+  "ward": 48,
+  "role": "road_name",
+  "text": "Kannu Koil Street",
+  "east": 422149.24,
+  "north": 1450304.19,
+  "conf": 1.0,
+  "size_pt": 54.72
+ },
+ {
+  "ward": 48,
+  "role": "road_name",
+  "text": "Nainiappan Street",
+  "east": 421899.56,
+  "north": 1450068.69,
+  "conf": 1.0,
+  "size_pt": 54.84
+ },
+ {
+  "ward": 48,
+  "role": "road_name",
+  "text": "Ramanujam StBommi\u00e0 Sivaramulu St'JurIth LanethLane,:10thU.Thottam3rd Lane12th Lane\u00abNallappa Vathiyar Street2nd LaneChe\u0148naiScorporotion g5thHospitat4th LaneLaneC164.389Venkat Krishna StreetValluvanC200",
+  "east": 422411.09,
+  "north": 1449955.55,
+  "conf": 1.0,
+  "size_pt": 133.68
+ },
+ {
+  "ward": 48,
+  "role": "road_name",
+  "text": "Telugu Street",
+  "east": 422519.16,
+  "north": 1449701.84,
+  "conf": 1.0,
+  "size_pt": 39.72
+ },
+ {
+  "ward": 48,
+  "role": "road_name",
+  "text": "Muniappan Street",
+  "east": 421788.21,
+  "north": 1449877.86,
+  "conf": 1.0,
+  "size_pt": 53.4
+ },
+ {
+  "ward": 48,
+  "role": "road_name",
+  "text": "N N Street",
+  "east": 422290.43,
+  "north": 1449639.92,
+  "conf": 1.0,
+  "size_pt": 33.36
+ },
+ {
+  "ward": 48,
+  "role": "road_name",
+  "text": "SolaiappanIst LaneSolaiappan Street",
+  "east": 422608.49,
+  "north": 1450071.76,
+  "conf": 1.0,
+  "size_pt": 56.88
+ },
+ {
+  "ward": 48,
+  "role": "road_name",
+  "text": "5th St",
+  "east": 422180.67,
+  "north": 1449666.6,
+  "conf": 1.0,
+  "size_pt": 19.92
+ },
+ {
+  "ward": 48,
+  "role": "road_name",
+  "text": "Jamal SowkarThottam St3rd St4th StStParthasarathy Main Road7th8thRoad)",
+  "east": 421868.23,
+  "north": 1449785.46,
+  "conf": 1.0,
+  "size_pt": 120.12
+ },
+ {
+  "ward": 48,
+  "role": "road_name",
+  "text": "AndiappanStreet",
+  "east": 422456.6,
+  "north": 1449765.88,
+  "conf": 1.0,
+  "size_pt": 55.44
+ },
+ {
+  "ward": 48,
+  "role": "road_name",
+  "text": "Nainiappan Street",
+  "east": 422060.65,
+  "north": 1449997.46,
+  "conf": 1.0,
+  "size_pt": 54.84
+ },
+ {
+  "ward": 48,
+  "role": "road_name",
+  "text": ". S.Naidu StreetMudali StThangavelu StreetAmmaiyappanlst LaneC13WAF3.893StreetUllaramanNainiap1st LcKoil Street",
+  "east": 422159.29,
+  "north": 1450034.08,
+  "conf": 1.0,
+  "size_pt": 91.2
+ },
+ {
+  "ward": 48,
+  "role": "road_name",
+  "text": "Arumugam Lane",
+  "east": 422176.33,
+  "north": 1450186.39,
+  "conf": 1.0,
+  "size_pt": 50.28
+ },
+ {
+  "ward": 48,
+  "role": "road_name",
+  "text": "Varadharajaperumal Street",
+  "east": 422406.75,
+  "north": 1449669.56,
+  "conf": 1.0,
+  "size_pt": 81.36
+ },
+ {
+  "ward": 48,
+  "role": "road_name",
+  "text": "Solaiappan2nd Lane3rd Lane",
+  "east": 422652.41,
+  "north": 1450241.85,
+  "conf": 1.0,
+  "size_pt": 31.2
+ },
+ {
+  "ward": 48,
+  "role": "road_name",
+  "text": "Chellappa Colonyt(T.H Road)",
+  "east": 422534.4,
+  "north": 1450289.06,
+  "conf": 1.0,
+  "size_pt": 48.36
+ },
+ {
+  "ward": 48,
+  "role": "road_name",
+  "text": "Pondicher stMurugesan '",
+  "east": 422545.19,
+  "north": 1449938.4,
+  "conf": 1.0,
+  "size_pt": 41.52
+ },
+ {
+  "ward": 48,
+  "role": "road_name",
+  "text": "St8th",
+  "east": 421947.5,
+  "north": 1449761.64,
+  "conf": 1.0,
+  "size_pt": 19.92
+ },
+ {
+  "ward": 48,
+  "role": "road_name",
+  "text": "Seshchal ThottamCrossLane",
+  "east": 421974.49,
+  "north": 1449954.59,
+  "conf": 1.0,
+  "size_pt": 55.08
+ },
+ {
+  "ward": 48,
+  "role": "road_name",
+  "text": "9th St",
+  "east": 421981.69,
+  "north": 1449767.25,
+  "conf": 1.0,
+  "size_pt": 19.8
+ },
+ {
+  "ward": 48,
+  "role": "road_name",
+  "text": "BhavanThiruvetriyur High Road",
+  "east": 422457.77,
+  "north": 1450296.99,
+  "conf": 1.0,
+  "size_pt": 62.4
+ },
+ {
+  "ward": 48,
+  "role": "road_name",
+  "text": "MuthiahMudali Lane",
+  "east": 422080.55,
+  "north": 1449821.44,
+  "conf": 1.0,
+  "size_pt": 36.12
+ },
+ {
+  "ward": 48,
+  "role": "road_name",
+  "text": "M.S.Naidu Street",
+  "east": 422116.32,
+  "north": 1450101.82,
+  "conf": 1.0,
+  "size_pt": 51.0
+ },
+ {
+  "ward": 48,
+  "role": "road_name",
+  "text": "NainiappanIst Lane",
+  "east": 422119.28,
+  "north": 1449959.36,
+  "conf": 1.0,
+  "size_pt": 32.4
+ },
+ {
+  "ward": 48,
+  "role": "road_name",
+  "text": "Nainiappan2nd Lane",
+  "east": 422064.25,
+  "north": 1449922.95,
+  "conf": 1.0,
+  "size_pt": 32.28
+ },
+ {
+  "ward": 48,
+  "role": "road_name",
+  "text": "Sowcar LaneJamal",
+  "east": 422025.61,
+  "north": 1449800.91,
+  "conf": 1.0,
+  "size_pt": 38.76
+ },
+ {
+  "ward": 48,
+  "role": "road_name",
+  "text": "r.V.Avadanam Ramasamy",
+  "east": 422544.77,
+  "north": 1450183.32,
+  "conf": 1.0,
+  "size_pt": 67.8
+ },
+ {
+  "ward": 48,
+  "role": "road_name",
+  "text": "48Thiruvetriyur High RoadthLane3rd47",
+  "east": 422299.22,
+  "north": 1450007.94,
+  "conf": 1.0,
+  "size_pt": 62.28
+ },
+ {
+  "ward": 48,
+  "role": "road_name",
+  "text": "ChooresanStreet",
+  "east": 422208.83,
+  "north": 1449664.06,
+  "conf": 1.0,
+  "size_pt": 30.0
+ },
+ {
+  "ward": 48,
+  "role": "location_names",
+  "text": "AdyarAnanda Bhavan",
+  "east": 422413.95,
+  "north": 1450355.21,
+  "conf": 1.0,
+  "size_pt": 47.4
+ },
+ {
+  "ward": 48,
+  "role": "location_names",
+  "text": "A. V. Hospital,Chennai",
+  "east": 422625.42,
+  "north": 1450199.09,
+  "conf": 1.0,
+  "size_pt": 40.68
+ },
+ {
+  "ward": 48,
+  "role": "location_names",
+  "text": "Roselin 3.081Gandhi Hospital",
+  "east": 421986.24,
+  "north": 1450135.9,
+  "conf": 1.0,
+  "size_pt": 47.76
+ },
+ {
+  "ward": 48,
+  "role": "location_names",
+  "text": "Chennai{CorporationHospital",
+  "east": 422363.99,
+  "north": 1449927.5,
+  "conf": 1.0,
+  "size_pt": 34.2
+ },
+ {
+  "ward": 48,
+  "role": "location_names",
+  "text": "PARTHASARATHY:etriNAGAR",
+  "east": 422101.19,
+  "north": 1449768.2,
+  "conf": 1.0,
+  "size_pt": 59.76
+ }
+]

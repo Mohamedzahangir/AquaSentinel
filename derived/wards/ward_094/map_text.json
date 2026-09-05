@@ -1,0 +1,1397 @@
+[
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "DismantlingAnd Reconstruction",
+  "east": 412935.21,
+  "north": 1448737.69,
+  "conf": 1.0,
+  "size_pt": 60.24
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "Sidco Nagar82nd3rd MainRoad",
+  "east": 413407.74,
+  "north": 1449385.37,
+  "conf": 1.0,
+  "size_pt": 45.96
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "East Mada",
+  "east": 414410.36,
+  "north": 1449275.41,
+  "conf": 1.0,
+  "size_pt": 31.32
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "(100 Feet Road)\u00ab \u00abK TVS CANALJawaharlal Nehru Road",
+  "east": 412842.61,
+  "north": 1449283.45,
+  "conf": 1.0,
+  "size_pt": 111.96
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "New Avadi Road",
+  "east": 413132.79,
+  "north": 1448706.79,
+  "conf": 1.0,
+  "size_pt": 49.8
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "465Sidc4th Mall37thDCO Nagar32nd St-Oth StreetSt36th28th St34th33rd StreetStSt27th29th31st St9.30th St26th St14Sidco Nagar9.54Sidco Nagar25th StSidco Nagar 5th Main Road32ngtnNathamuni,streTheatreSth st21st20th StreNagarSidco Nagar 11th St23rd Street19th St1th StSidcoE1018th St9.25712th Street16thE9Sslli Nagar",
+  "east": 413567.65,
+  "north": 1448978.88,
+  "conf": 0.972,
+  "size_pt": 159.6
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "9,StSidco Nagar39th St44th42nd Street43rdAS41st Street40th StreetSidco Nagar428thtreet",
+  "east": 413706.18,
+  "north": 1449116.03,
+  "conf": 1.0,
+  "size_pt": 81.96
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "46th Street",
+  "east": 413320.43,
+  "north": 1449031.79,
+  "conf": 1.0,
+  "size_pt": 35.76
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "47th Street",
+  "east": 413321.06,
+  "north": 1449066.5,
+  "conf": 1.0,
+  "size_pt": 35.52
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "50th StreetSidco NagarSidco Nagar53rd St52nd St49th Street48th Street",
+  "east": 413333.34,
+  "north": 1449139.53,
+  "conf": 1.0,
+  "size_pt": 67.2
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "57th Street",
+  "east": 413426.47,
+  "north": 1449282.61,
+  "conf": 1.0,
+  "size_pt": 35.76
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "s8th Street",
+  "east": 413427.32,
+  "north": 1449306.1,
+  "conf": 1.0,
+  "size_pt": 36.0
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "soutr MadaPondAgatheeswarar Koil StreetMada StAgatheswaranKoilKoil Stand LaneSivanWestSouth Mada StreetKonnur High Road+1444144444444 41444496/44444196/r",
+  "east": 413922.07,
+  "north": 1448804.15,
+  "conf": 0.9,
+  "size_pt": 156.36
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "Koil StreetBaali Amman",
+  "east": 414120.29,
+  "north": 1449215.09,
+  "conf": 1.0,
+  "size_pt": 38.76
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "Pillaiyar Kovil StreetSBazaar StreeKoil StVBank ofBarodaSriATMJQQQPazhaniD13MedicalsAndavar9.191Nor+1161444418Reddy Street",
+  "east": 414152.88,
+  "north": 1449001.21,
+  "conf": 0.963,
+  "size_pt": 78.0
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "488Sivan KoilSouth MadaKulakarai StreetPond",
+  "east": 414023.87,
+  "north": 1448858.76,
+  "conf": 1.0,
+  "size_pt": 55.56
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "Market Rd",
+  "east": 414161.66,
+  "north": 1449210.85,
+  "conf": 1.0,
+  "size_pt": 31.8
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "Sannati Street1/44)",
+  "east": 414285.48,
+  "north": 1449071.05,
+  "conf": 0.65,
+  "size_pt": 44.76
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "Sidc\u0131Bharathi N 2nd Street42nd Street",
+  "east": 413740.99,
+  "north": 1449001.31,
+  "conf": 1.0,
+  "size_pt": 70.2
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "'28th St",
+  "east": 413665.33,
+  "north": 1449047.35,
+  "conf": 1.0,
+  "size_pt": 19.68
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "1st Main Road",
+  "east": 413484.15,
+  "north": 1449399.55,
+  "conf": 1.0,
+  "size_pt": 44.28
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "Reddy Street",
+  "east": 414147.8,
+  "north": 1448854.32,
+  "conf": 1.0,
+  "size_pt": 40.08
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "Konnur High Road",
+  "east": 413700.04,
+  "north": 1448764.47,
+  "conf": 1.0,
+  "size_pt": 56.28
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "RoadMain",
+  "east": 413368.05,
+  "north": 1450026.9,
+  "conf": 1.0,
+  "size_pt": 30.96
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "RajamangalamMain Rd",
+  "east": 413957.31,
+  "north": 1449784.34,
+  "conf": 1.0,
+  "size_pt": 44.16
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "110th Street",
+  "east": 413248.25,
+  "north": 1449735.87,
+  "conf": 1.0,
+  "size_pt": 34.08
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "C1Road9.85711stMain RoadMain",
+  "east": 413267.41,
+  "north": 1449792.38,
+  "conf": 1.0,
+  "size_pt": 61.32
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "2nd Main Road",
+  "east": 413387.0,
+  "north": 1449606.44,
+  "conf": 1.0,
+  "size_pt": 47.4
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "98499.755Perivor NagarJagathamb\u0131ga\u0131Main RoadNagar2thNorth JaganathaC4North JagarPeriyar11th Street9.954NagarC1North Jaganatha9.857Nagar Annexe3rd MaltMainRoadC59.669C2Nagar9.756gNorth JagannNagar 1st MaieetJaganathaJaganathaNagar 10th StNagar 8th Street6th StreetNorthNorthNorth Jaganatha7th StNorth Jaganatha NagarNagar 9th St4th Str2nd Main Po",
+  "east": 413405.52,
+  "north": 1449749.31,
+  "conf": 0.988,
+  "size_pt": 163.56
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "4th Street",
+  "east": 413541.19,
+  "north": 1449637.13,
+  "conf": 1.0,
+  "size_pt": 31.68
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "Nagtr 1s7 Maihan5th Street6th Street\u00fcs",
+  "east": 413532.51,
+  "north": 1449706.77,
+  "conf": 1.0,
+  "size_pt": 66.0
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "Kolathur Main Rd",
+  "east": 413509.86,
+  "north": 1450283.64,
+  "conf": 1.0,
+  "size_pt": 48.0
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "IndustrialRoadSidco",
+  "east": 413224.55,
+  "north": 1448866.7,
+  "conf": 1.0,
+  "size_pt": 27.72
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "Check Fly Over",
+  "east": 412814.35,
+  "north": 1448556.3,
+  "conf": 1.0,
+  "size_pt": 43.68
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "VUP",
+  "east": 414022.29,
+  "north": 1449466.43,
+  "conf": 1.0,
+  "size_pt": 18.0
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "St47th StreSidco Nagar46th StreeDismantlingAnd Reconstruction",
+  "east": 413286.67,
+  "north": 1449038.03,
+  "conf": 1.0,
+  "size_pt": 60.36
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "Sidco Nagar 93rd StsSidco Nagar 2nd Road",
+  "east": 413184.97,
+  "north": 1449126.3,
+  "conf": 1.0,
+  "size_pt": 105.36
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "Sivan KoilNorth Mada St",
+  "east": 414018.8,
+  "north": 1448966.92,
+  "conf": 1.0,
+  "size_pt": 46.2
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "'Annai Sathiya NagarTH Rood",
+  "east": 412937.33,
+  "north": 1448675.15,
+  "conf": 1.0,
+  "size_pt": 55.68
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "Balarama RoadMainPuramE299th3rd StSt2nd StSidco Nagar 94th Stlst StSidco Nagar 93rd Stio98thSt97th St96th St95th St92nd StSidco Nagar 91st St",
+  "east": 413118.08,
+  "north": 1449173.28,
+  "conf": 1.0,
+  "size_pt": 126.24
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "dlony Ist LaneRed Hills5th StreetSouth JagannathanNagarNagar 2nd CrossRoadSouth JaganathasSouth JagannathanRoad 5th StreetIst St72nd St71st StBharathi Nagar70th Stth1E30S0E179.0309.384",
+  "east": 413739.19,
+  "north": 1449406.74,
+  "conf": 1.0,
+  "size_pt": 111.72
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "Vellala Street",
+  "east": 414352.79,
+  "north": 1449197.94,
+  "conf": 1.0,
+  "size_pt": 39.96
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "Sidco Nagar4th Main Road",
+  "east": 413483.94,
+  "north": 1449103.23,
+  "conf": 1.0,
+  "size_pt": 36.6
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "D1 BalasubiramaniayamStreetSBI ATMVillivakkamConservency\u2022 D2st LaneBathmanabanStreetVillivakkamD32nd Lane~MedplusThazangkinaru StreetD8",
+  "east": 414055.09,
+  "north": 1449358.17,
+  "conf": 1.0,
+  "size_pt": 106.08
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "Red Hills Road3rd Street 04",
+  "east": 413890.95,
+  "north": 1449295.73,
+  "conf": 1.0,
+  "size_pt": 42.84
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "South Jaganatha Nagar 3rd MainCrossSouth Jaganatha Nagar 2nd Main4th",
+  "east": 413466.37,
+  "north": 1449479.24,
+  "conf": 1.0,
+  "size_pt": 147.48
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "7th Cross",
+  "east": 413245.82,
+  "north": 1449439.44,
+  "conf": 1.0,
+  "size_pt": 29.64
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "3rd Street",
+  "east": 413687.13,
+  "north": 1449844.88,
+  "conf": 1.0,
+  "size_pt": 30.6
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "Baba Nagar 3rdMain Road 13th St",
+  "east": 413687.02,
+  "north": 1449998.96,
+  "conf": 1.0,
+  "size_pt": 61.2
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "Srinivasa Nagar / Main Road44491949197",
+  "east": 413809.68,
+  "north": 1450403.65,
+  "conf": 0.65,
+  "size_pt": 89.16
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "Kattuvan KuttaiBaba Nagar 3rdA10 eMain Road Ist Stif.664mBaba NagarBaba Nagar 3rdMain Road 2nd StMain Road Ist StA118.825",
+  "east": 413916.99,
+  "north": 1450268.09,
+  "conf": 1.0,
+  "size_pt": 87.24
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "baba Nagar Jra~Rajamangalarin Road 13th St8th 2nd LaneSt2nd Main RoadBaba Nagar 14thRajamangalam7th Street\u221eB3StB27th10.99910.864Baba Nagar 15hCC",
+  "east": 413798.88,
+  "north": 1449952.5,
+  "conf": 1.0,
+  "size_pt": 165.24
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "Kajamaryuzane1STMainBaba NMain RcA12Baba NaRajamangalam 8th9.136Zth StRajamangalam ZthA13410.309697th~Rajamangalamu8th 2nd LaneSto2nd Main RoadRajamangalamRajamangalamth7th Street7thStreetB3B210.99910.864Str6th6Street Street Rajamangalam4th Street5th StreetStreet2nd Main RoadRajamangalam Main Road",
+  "east": 413904.61,
+  "north": 1449949.54,
+  "conf": 0.964,
+  "size_pt": 158.76
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "North Jaganatha1 Roaa ('Nagar Annex 1stB129.931Ramakrishna NagarB119.846IstthaB10",
+  "east": 413492.08,
+  "north": 1450029.65,
+  "conf": 1.0,
+  "size_pt": 86.4
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "SamyerThottam",
+  "east": 413980.8,
+  "north": 1449069.25,
+  "conf": 1.0,
+  "size_pt": 24.96
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "North Jaganathan Nagar3rd Main",
+  "east": 413711.89,
+  "north": 1449672.37,
+  "conf": 1.0,
+  "size_pt": 77.4
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "2nd Street",
+  "east": 413668.18,
+  "north": 1449619.04,
+  "conf": 1.0,
+  "size_pt": 32.88
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "0A1Naba- Main Rdird Main Road(6th St) 8.6AMain Road 12th StBaba Nagar 3rdBaba Nagar 3rdBaba Nagar 3rdKolathurSuMain Road 10th SWBaba NagarMain Road 9th St Q4th Cross St4th StA+5 47118.A800\u21929.1120Main0gooyhtRodMa3rdBaba NagarBaba Nagar .3rd Main RoadMain Road 1St St \u00e5Baba Nagar 3rdNIst Main Road3rd MainBaba Nagar 2ndCMain Road 3rd StMain Road 7th st\u00f2Baba Nagar 3rdanathaRoadx 1st136Road2nd MainRamakri.(11thl116>1",
+  "east": 413671.15,
+  "north": 1450176.54,
+  "conf": 0.976,
+  "size_pt": 211.2
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "Balambigai Nagar",
+  "east": 413531.77,
+  "north": 1449950.7,
+  "conf": 1.0,
+  "size_pt": 54.36
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "BharathiNagarChetty ThopuNorth",
+  "east": 413837.83,
+  "north": 1448888.29,
+  "conf": 1.0,
+  "size_pt": 93.24
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "Sidco NagarIst Main Road",
+  "east": 413308.89,
+  "north": 1448754.84,
+  "conf": 1.0,
+  "size_pt": 43.8
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "1587th",
+  "east": 413252.28,
+  "north": 1449372.56,
+  "conf": 1.0,
+  "size_pt": 23.4
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "83rd St",
+  "east": 413308.58,
+  "north": 1449369.7,
+  "conf": 1.0,
+  "size_pt": 23.28
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "88th St",
+  "east": 413213.97,
+  "north": 1449371.61,
+  "conf": 1.0,
+  "size_pt": 23.52
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "NagarStsouth Jaganatha6th Cross86th",
+  "east": 413283.81,
+  "north": 1449435.21,
+  "conf": 1.0,
+  "size_pt": 97.08
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "82nd St",
+  "east": 413344.98,
+  "north": 1449369.17,
+  "conf": 1.0,
+  "size_pt": 24.36
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "73rd St",
+  "east": 413621.83,
+  "north": 1449364.84,
+  "conf": 1.0,
+  "size_pt": 23.04
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "90th St",
+  "east": 413141.15,
+  "north": 1449039.2,
+  "conf": 1.0,
+  "size_pt": 23.28
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "9.2029.600SidcoE29Nagar63rd9.406StE16Sidco Nagar 6tst St64th1+St9.3784th Main RoadE28NagaStreeSidco NagarStreet9.199Sidco65th38th15SidcoNagarSidco Nagar9.36725Sidco Nagar38th Stidco NagarStreet",
+  "east": 413672.42,
+  "north": 1449232.97,
+  "conf": 0.965,
+  "size_pt": 149.04
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "70th St",
+  "east": 413691.89,
+  "north": 1449354.68,
+  "conf": 1.0,
+  "size_pt": 23.28
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "Sidco Nagar74th St",
+  "east": 413593.57,
+  "north": 1449365.89,
+  "conf": 1.0,
+  "size_pt": 37.68
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "71st St",
+  "east": 413667.87,
+  "north": 1449358.7,
+  "conf": 1.0,
+  "size_pt": 21.84
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "AmmanKuttai",
+  "east": 413087.5,
+  "north": 1449340.6,
+  "conf": 1.0,
+  "size_pt": 22.44
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "CrossSouth JagannathansNagar Ayerika",
+  "east": 413148.46,
+  "north": 1449439.66,
+  "conf": 1.0,
+  "size_pt": 64.92
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "5thStBalarama S\u2022 Puram97$",
+  "east": 412997.54,
+  "north": 1449233.18,
+  "conf": 0.86,
+  "size_pt": 36.84
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "Valli Ammal Nagar",
+  "east": 412891.72,
+  "north": 1449176.46,
+  "conf": 1.0,
+  "size_pt": 57.24
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "St68th",
+  "east": 413753.38,
+  "north": 1449356.79,
+  "conf": 1.0,
+  "size_pt": 23.52
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "754769Joi",
+  "east": 413717.71,
+  "north": 1449350.76,
+  "conf": 0.833,
+  "size_pt": 23.4
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "Baba Nagar4th Cross St",
+  "east": 413765.65,
+  "north": 1450249.25,
+  "conf": 1.0,
+  "size_pt": 40.44
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "11th St",
+  "east": 413527.64,
+  "north": 1450212.42,
+  "conf": 1.0,
+  "size_pt": 21.48
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "Rajamangalam 8th Str14to m...",
+  "east": 413931.7,
+  "north": 1450097.91,
+  "conf": 1.0,
+  "size_pt": 65.52
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "7th Street",
+  "east": 413906.72,
+  "north": 1449943.72,
+  "conf": 1.0,
+  "size_pt": 31.2
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "North Redhills Road",
+  "east": 414025.57,
+  "north": 1449619.67,
+  "conf": 1.0,
+  "size_pt": 62.4
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "Rajamangalamend St",
+  "east": 413792.43,
+  "north": 1449771.22,
+  "conf": 1.0,
+  "size_pt": 44.16
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "Rajamangalam1st Lane",
+  "east": 413939.11,
+  "north": 1449744.44,
+  "conf": 1.0,
+  "size_pt": 44.16
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "/.l.C.pump StreetAnd Lane",
+  "east": 413939.0,
+  "north": 1449631.84,
+  "conf": 1.0,
+  "size_pt": 51.48
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "Indra Nagar",
+  "east": 413730.41,
+  "north": 1449618.93,
+  "conf": 1.0,
+  "size_pt": 33.0
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "North daganathaAnnex 2ndNagarThathanKupp\u0430\u0442",
+  "east": 413349.43,
+  "north": 1449936.31,
+  "conf": 1.0,
+  "size_pt": 59.52
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "\u041fo\u0431\u043eN \u0438\u043e\u0438\u0440\u043e\u0439\u0419\u043e\u0411\u0435 \u0447\u041d\u043e\u043c1st St",
+  "east": 413557.06,
+  "north": 1449824.45,
+  "conf": 0.65,
+  "size_pt": 81.12
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "High Court(north) Colony Ist &",
+  "east": 413858.99,
+  "north": 1449115.5,
+  "conf": 1.0,
+  "size_pt": 65.4
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "Highcourt Colony (north)Bharathi Nagar!Ist StreeiPeriri Lane",
+  "east": 413853.81,
+  "north": 1449039.62,
+  "conf": 1.0,
+  "size_pt": 76.32
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "South JagannathanNagar 3rd Cross",
+  "east": 413627.23,
+  "north": 1449452.04,
+  "conf": 1.0,
+  "size_pt": 59.28
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "ColonySoutRedhiDhamotara Perumal1stRoad MLaneRoadRed HilsmRoad 5th, StBhar1stThai Medical",
+  "east": 413869.26,
+  "north": 1449447.81,
+  "conf": 1.0,
+  "size_pt": 77.04
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "East MadaExtension,St.MounasamyMadam Street",
+  "east": 414312.79,
+  "north": 1449304.83,
+  "conf": 1.0,
+  "size_pt": 87.72
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "Railway Road",
+  "east": 414288.02,
+  "north": 1449417.11,
+  "conf": 1.0,
+  "size_pt": 40.92
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "Devar Street",
+  "east": 414277.23,
+  "north": 1449370.66,
+  "conf": 1.0,
+  "size_pt": 38.52
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "Redhills RoadSouth",
+  "east": 413965.25,
+  "north": 1449412.99,
+  "conf": 1.0,
+  "size_pt": 41.88
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "9.996 Damotharam StreetHigh Court(north) ColonyIst & 10.00HDFCV Bank ATMD10Gandhi Stre10.074manreet",
+  "east": 414015.62,
+  "north": 1449207.36,
+  "conf": 1.0,
+  "size_pt": 80.04
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "Red HillsRoad:2nd Street",
+  "east": 413877.83,
+  "north": 1449206.94,
+  "conf": 1.0,
+  "size_pt": 45.96
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "Redhills Road1st Street",
+  "east": 413878.47,
+  "north": 1449160.27,
+  "conf": 1.0,
+  "size_pt": 41.88
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "AgatheswaranKoil Stand Lane",
+  "east": 413854.65,
+  "north": 1448809.34,
+  "conf": 1.0,
+  "size_pt": 49.44
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "BaliammanKoil Lane",
+  "east": 413941.54,
+  "north": 1448935.17,
+  "conf": 1.0,
+  "size_pt": 32.88
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "MombiliammanKoil Street",
+  "east": 413859.84,
+  "north": 1448929.88,
+  "conf": 1.0,
+  "size_pt": 43.32
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "Sidco Nagar'c' Type Ist Part",
+  "east": 413084.22,
+  "north": 1449011.05,
+  "conf": 1.0,
+  "size_pt": 52.32
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "3rd St",
+  "east": 413056.28,
+  "north": 1449217.84,
+  "conf": 1.0,
+  "size_pt": 19.56
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "St9.194Nagar 59thJSidcoTE359.341",
+  "east": 413240.85,
+  "north": 1449263.45,
+  "conf": 1.0,
+  "size_pt": 65.04
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "ME329.308S8th Street53rd St5/th StreetSidco Nagar56th StSidco NagarSidco NagarSidco Nagar54th StSidco Nagar 8thMain Road",
+  "east": 413440.44,
+  "north": 1449261.86,
+  "conf": 1.0,
+  "size_pt": 96.0
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "sthSidco13thStSidco NagarMain Roadkora S\u0131Nagar 11.14th St12th StreetthBharathi Nagar 2nd St",
+  "east": 413467.74,
+  "north": 1448903.0,
+  "conf": 1.0,
+  "size_pt": 85.2
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "GangatharanLane",
+  "east": 413583.31,
+  "north": 1448801.19,
+  "conf": 1.0,
+  "size_pt": 37.44
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": ": Sidco Nagar 1stMain Road",
+  "east": 413377.47,
+  "north": 1448828.49,
+  "conf": 1.0,
+  "size_pt": 86.4
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "Bharathi Nagar2nd StreetF6",
+  "east": 413296.62,
+  "north": 1448805.74,
+  "conf": 1.0,
+  "size_pt": 46.44
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "SidcoIndustrial Estate",
+  "east": 413076.07,
+  "north": 1448847.97,
+  "conf": 1.0,
+  "size_pt": 50.76
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "Sidco Nagar'a'Typels tPart",
+  "east": 413303.28,
+  "north": 1448870.51,
+  "conf": 1.0,
+  "size_pt": 45.84
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "8.\u0131Sidco Industrial Estate",
+  "east": 413272.49,
+  "north": 1448912.52,
+  "conf": 1.0,
+  "size_pt": 70.68
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "M. T.H.Road",
+  "east": 412942.3,
+  "north": 1448646.26,
+  "conf": 1.0,
+  "size_pt": 30.6
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "M. T.H.road",
+  "east": 413308.79,
+  "north": 1448682.45,
+  "conf": 1.0,
+  "size_pt": 30.96
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "3rd St",
+  "east": 412997.97,
+  "north": 1449186.72,
+  "conf": 1.0,
+  "size_pt": 19.56
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "Perumal Koil NorthMada Street",
+  "east": 414280.09,
+  "north": 1449178.15,
+  "conf": 1.0,
+  "size_pt": 59.04
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "Kulakarai StreetPerumal Koil",
+  "east": 414174.79,
+  "north": 1449121.75,
+  "conf": 1.0,
+  "size_pt": 49.56
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "Red HillsRoad 4th St",
+  "east": 413906.62,
+  "north": 1449345.68,
+  "conf": 1.0,
+  "size_pt": 39.0
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "Periri Lane",
+  "east": 413862.91,
+  "north": 1449017.82,
+  "conf": 1.0,
+  "size_pt": 33.0
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "BaliammanKoil Street",
+  "east": 414069.17,
+  "north": 1449141.64,
+  "conf": 1.0,
+  "size_pt": 34.92
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "North JaganathaNagar 9th St.00",
+  "east": 413217.46,
+  "north": 1449673.33,
+  "conf": 0.833,
+  "size_pt": 50.52
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "Maistry StNarayana",
+  "east": 413141.47,
+  "north": 1449341.98,
+  "conf": 1.0,
+  "size_pt": 31.44
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "Sidco15thNagar",
+  "east": 413402.98,
+  "north": 1449073.17,
+  "conf": 1.0,
+  "size_pt": 29.28
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "North JaganathaNagar Annexe",
+  "east": 413487.11,
+  "north": 1449797.68,
+  "conf": 1.0,
+  "size_pt": 51.48
+ },
+ {
+  "ward": 94,
+  "role": "road_name",
+  "text": "Roil Streen",
+  "east": 414026.31,
+  "north": 1449051.37,
+  "conf": 1.0,
+  "size_pt": 35.04
+ },
+ {
+  "ward": 94,
+  "role": "location_names",
+  "text": "VillivakkamGraveyard",
+  "east": 413164.86,
+  "north": 1448965.33,
+  "conf": 1.0,
+  "size_pt": 31.2
+ },
+ {
+  "ward": 94,
+  "role": "location_names",
+  "text": "CricketAcademyf",
+  "east": 412862.4,
+  "north": 1448658.85,
+  "conf": 1.0,
+  "size_pt": 27.84
+ },
+ {
+  "ward": 94,
+  "role": "location_names",
+  "text": "BhagavanMedic\u00e1ls",
+  "east": 414192.04,
+  "north": 1448988.08,
+  "conf": 1.0,
+  "size_pt": 28.32
+ },
+ {
+  "ward": 94,
+  "role": "location_names",
+  "text": "HDFCBank ATM",
+  "east": 413978.79,
+  "north": 1449210.11,
+  "conf": 1.0,
+  "size_pt": 30.6
+ },
+ {
+  "ward": 94,
+  "role": "location_names",
+  "text": "SBI ATM",
+  "east": 414023.13,
+  "north": 1449399.55,
+  "conf": 1.0,
+  "size_pt": 25.2
+ },
+ {
+  "ward": 94,
+  "role": "location_names",
+  "text": "Thai Medical 'and Generals",
+  "east": 413884.39,
+  "north": 1449372.77,
+  "conf": 1.0,
+  "size_pt": 39.72
+ },
+ {
+  "ward": 94,
+  "role": "location_names",
+  "text": "VBank ofBarodaATM",
+  "east": 414111.61,
+  "north": 1449004.28,
+  "conf": 1.0,
+  "size_pt": 26.4
+ },
+ {
+  "ward": 94,
+  "role": "location_names",
+  "text": "Singaram PillaiGirlsHigh Scho",
+  "east": 414211.93,
+  "north": 1449245.57,
+  "conf": 1.0,
+  "size_pt": 46.08
+ },
+ {
+  "ward": 94,
+  "role": "location_names",
+  "text": "Medplus",
+  "east": 414112.03,
+  "north": 1449313.83,
+  "conf": 1.0,
+  "size_pt": 23.52
+ },
+ {
+  "ward": 94,
+  "role": "location_names",
+  "text": "SurveillanceCamera",
+  "east": 413965.03,
+  "north": 1449128.94,
+  "conf": 1.0,
+  "size_pt": 34.92
+ },
+ {
+  "ward": 94,
+  "role": "location_names",
+  "text": "SIDCO",
+  "east": 413430.28,
+  "north": 1449141.32,
+  "conf": 1.0,
+  "size_pt": 17.28
+ },
+ {
+  "ward": 94,
+  "role": "location_names",
+  "text": "Nagar",
+  "east": 413474.94,
+  "north": 1449139.95,
+  "conf": 1.0,
+  "size_pt": 17.76
+ },
+ {
+  "ward": 94,
+  "role": "location_names",
+  "text": "South Jaga Nagarnatha NagarTot Mlnin",
+  "east": 413493.67,
+  "north": 1449410.66,
+  "conf": 0.65,
+  "size_pt": 90.6
+ },
+ {
+  "ward": 94,
+  "role": "location_names",
+  "text": "Railway Halt",
+  "east": 412707.89,
+  "north": 1448745.31,
+  "conf": 1.0,
+  "size_pt": 37.44
+ },
+ {
+  "ward": 94,
+  "role": "location_names",
+  "text": "VillivakkamRailwayStation",
+  "east": 414240.4,
+  "north": 1449440.71,
+  "conf": 1.0,
+  "size_pt": 33.72
+ },
+ {
+  "ward": 94,
+  "role": "location_names",
+  "text": "Sidco Nagar",
+  "east": 413151.1,
+  "north": 1448929.45,
+  "conf": 1.0,
+  "size_pt": 37.68
+ },
+ {
+  "ward": 94,
+  "role": "location_names",
+  "text": "NathamuniTheatre",
+  "east": 413607.23,
+  "north": 1448954.85,
+  "conf": 1.0,
+  "size_pt": 26.88
+ },
+ {
+  "ward": 94,
+  "role": "location_names",
+  "text": "SouthRedhillsRoad Market",
+  "east": 413930.32,
+  "north": 1449465.69,
+  "conf": 1.0,
+  "size_pt": 38.28
+ },
+ {
+  "ward": 94,
+  "role": "location_names",
+  "text": "Konnur High Road",
+  "east": 413862.38,
+  "north": 1448767.11,
+  "conf": 1.0,
+  "size_pt": 57.0
+ },
+ {
+  "ward": 94,
+  "role": "location_names",
+  "text": "B B Hospital",
+  "east": 413734.43,
+  "north": 1450354.13,
+  "conf": 1.0,
+  "size_pt": 39.6
+ },
+ {
+  "ward": 94,
+  "role": "location_names",
+  "text": "Pond",
+  "east": 413001.14,
+  "north": 1449120.26,
+  "conf": 1.0,
+  "size_pt": 15.0
+ },
+ {
+  "ward": 94,
+  "role": "location_names",
+  "text": "Pond",
+  "east": 412940.61,
+  "north": 1449062.8,
+  "conf": 1.0,
+  "size_pt": 15.0
+ },
+ {
+  "ward": 94,
+  "role": "location_names",
+  "text": "Pond",
+  "east": 412861.03,
+  "north": 1448845.43,
+  "conf": 1.0,
+  "size_pt": 15.0
+ },
+ {
+  "ward": 94,
+  "role": "location_names",
+  "text": "Pond",
+  "east": 414010.54,
+  "north": 1448842.25,
+  "conf": 1.0,
+  "size_pt": 15.0
+ },
+ {
+  "ward": 94,
+  "role": "location_names",
+  "text": "Pond",
+  "east": 414123.88,
+  "north": 1449123.76,
+  "conf": 1.0,
+  "size_pt": 15.12
+ },
+ {
+  "ward": 94,
+  "role": "location_names",
+  "text": "Bridge",
+  "east": 412773.29,
+  "north": 1448527.83,
+  "conf": 1.0,
+  "size_pt": 20.4
+ },
+ {
+  "ward": 94,
+  "role": "location_names",
+  "text": "Culvert",
+  "east": 412690.32,
+  "north": 1449052.64,
+  "conf": 1.0,
+  "size_pt": 21.84
+ },
+ {
+  "ward": 94,
+  "role": "location_names",
+  "text": "PadiRailwayStation",
+  "east": 412763.03,
+  "north": 1448651.44,
+  "conf": 1.0,
+  "size_pt": 24.12
+ }
+]

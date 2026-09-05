@@ -1,0 +1,497 @@
+[
+ {
+  "ward": 76,
+  "role": "road_name",
+  "text": "Ammaiyammal Street",
+  "east": 419603.01,
+  "north": 1448184.27,
+  "conf": 1.0,
+  "size_pt": 62.64
+ },
+ {
+  "ward": 76,
+  "role": "road_name",
+  "text": "2.700A422.493New Ferrance RoadVinayagarStrahans RoadKoil StreetPRamanujammal stAnandaSurathA41Bavan LaneA31Ethiraj Garden Street2.6752.507Ramanujalu Garden StreetPaddyField LaneSatchidanandamStreet Barracks RoadStreetVedaC.S.NagarPark StreetC.R.Gardar!bl!eDevarajStreet\u0413\u043e\u043b\u043e\u043b\u0430\u0434(M)Street\u0424A36Naga\u043c\u043e\u0440\u0438\u0432\u0438\u0434\u0440!\u0446\u043e\u0440.Ist Street40\u2022WARD 76.0612nd Street \u00aeDevaraj(M) Street3rd StreetMain StreetKosapetConronsmithParkDevaraj4th Street(M) Street5th Street6A35Sachidanandam Strestz0>",
+  "east": 419490.31,
+  "north": 1447903.26,
+  "conf": 0.987,
+  "size_pt": 199.32
+ },
+ {
+  "ward": 76,
+  "role": "road_name",
+  "text": "Angalamman Koil Street",
+  "east": 420058.37,
+  "north": 1447916.49,
+  "conf": 1.0,
+  "size_pt": 70.68
+ },
+ {
+  "ward": 76,
+  "role": "road_name",
+  "text": "Barracks Gate Ln",
+  "east": 419779.84,
+  "north": 1448067.0,
+  "conf": 1.0,
+  "size_pt": 50.28
+ },
+ {
+  "ward": 76,
+  "role": "road_name",
+  "text": "Pudu Street",
+  "east": 419320.88,
+  "north": 1447688.4,
+  "conf": 1.0,
+  "size_pt": 32.88
+ },
+ {
+  "ward": 76,
+  "role": "road_name",
+  "text": "Kandhasamy Koil",
+  "east": 419275.38,
+  "north": 1447799.32,
+  "conf": 1.0,
+  "size_pt": 45.6
+ },
+ {
+  "ward": 76,
+  "role": "road_name",
+  "text": "Street",
+  "east": 419292.41,
+  "north": 1447734.86,
+  "conf": 1.0,
+  "size_pt": 15.96
+ },
+ {
+  "ward": 76,
+  "role": "road_name",
+  "text": "Barracks Gate Street",
+  "east": 419823.55,
+  "north": 1448074.62,
+  "conf": 1.0,
+  "size_pt": 58.44
+ },
+ {
+  "ward": 76,
+  "role": "road_name",
+  "text": "Haji MohammedAbbas Street",
+  "east": 419295.27,
+  "north": 1447990.58,
+  "conf": 1.0,
+  "size_pt": 46.68
+ },
+ {
+  "ward": 76,
+  "role": "road_name",
+  "text": "VV Koil Street",
+  "east": 419176.11,
+  "north": 1447741.32,
+  "conf": 1.0,
+  "size_pt": 39.84
+ },
+ {
+  "ward": 76,
+  "role": "road_name",
+  "text": "Innatnan\u0131Venkatesa Street",
+  "east": 419220.14,
+  "north": 1447750.95,
+  "conf": 1.0,
+  "size_pt": 47.64
+ },
+ {
+  "ward": 76,
+  "role": "road_name",
+  "text": "Chinnathambi Street-tocr Strept",
+  "east": 419238.13,
+  "north": 1447758.47,
+  "conf": 1.0,
+  "size_pt": 57.12
+ },
+ {
+  "ward": 76,
+  "role": "road_name",
+  "text": "Astabujam Naicken Street",
+  "east": 419796.03,
+  "north": 1447580.23,
+  "conf": 1.0,
+  "size_pt": 76.56
+ },
+ {
+  "ward": 76,
+  "role": "road_name",
+  "text": "Papu Naicken Street",
+  "east": 419746.93,
+  "north": 1448077.48,
+  "conf": 1.0,
+  "size_pt": 60.0
+ },
+ {
+  "ward": 76,
+  "role": "road_name",
+  "text": "Venkatadri StreetKoil Str",
+  "east": 419133.47,
+  "north": 1447727.56,
+  "conf": 1.0,
+  "size_pt": 48.48
+ },
+ {
+  "ward": 76,
+  "role": "road_name",
+  "text": "Padavattaman Koil Streetvenkataar v",
+  "east": 419110.4,
+  "north": 1447731.58,
+  "conf": 1.0,
+  "size_pt": 72.48
+ },
+ {
+  "ward": 76,
+  "role": "road_name",
+  "text": "Demellows Road",
+  "east": 419897.1,
+  "north": 1448099.07,
+  "conf": 1.0,
+  "size_pt": 41.16
+ },
+ {
+  "ward": 76,
+  "role": "road_name",
+  "text": "Strahans Rd",
+  "east": 419774.45,
+  "north": 1447999.36,
+  "conf": 1.0,
+  "size_pt": 35.76
+ },
+ {
+  "ward": 76,
+  "role": "road_name",
+  "text": "New Farrence RoadPPerambur Barracks RatPapu Naicken StreetBarracks Gate Stree1Barracks Gate Ln",
+  "east": 419782.91,
+  "north": 1448095.79,
+  "conf": 1.0,
+  "size_pt": 81.6
+ },
+ {
+  "ward": 76,
+  "role": "road_name",
+  "text": "Kandhasamykoil Street",
+  "east": 419224.69,
+  "north": 1447992.49,
+  "conf": 1.0,
+  "size_pt": 39.24
+ },
+ {
+  "ward": 76,
+  "role": "road_name",
+  "text": "Goodpet Pallam 2nd Street",
+  "east": 419118.23,
+  "north": 1447966.24,
+  "conf": 1.0,
+  "size_pt": 80.28
+ },
+ {
+  "ward": 76,
+  "role": "road_name",
+  "text": "Binny Lane",
+  "east": 419735.4,
+  "north": 1447951.42,
+  "conf": 1.0,
+  "size_pt": 31.08
+ },
+ {
+  "ward": 76,
+  "role": "road_name",
+  "text": "1st Street",
+  "east": 419635.71,
+  "north": 1447854.57,
+  "conf": 1.0,
+  "size_pt": 28.44
+ },
+ {
+  "ward": 76,
+  "role": "road_name",
+  "text": "6th Street",
+  "east": 419937.52,
+  "north": 1447660.35,
+  "conf": 1.0,
+  "size_pt": 29.64
+ },
+ {
+  "ward": 76,
+  "role": "road_name",
+  "text": "Kalyana Mastri Garden Ist StreetA1092.3414th StreefhKalyana Mastri Garden 7th Streeta17S3rdStreetGarden 6th Street?Kalyana Mastri (U\u0103Kalyana MasiKalyana Maistry Garden Street8th",
+  "east": 419815.4,
+  "north": 1447671.78,
+  "conf": 1.0,
+  "size_pt": 165.72
+ },
+ {
+  "ward": 76,
+  "role": "road_name",
+  "text": "EKalyana Mastri Garden8th Street9thA6",
+  "east": 419952.44,
+  "north": 1447630.61,
+  "conf": 1.0,
+  "size_pt": 70.8
+ },
+ {
+  "ward": 76,
+  "role": "road_name",
+  "text": "7th Street",
+  "east": 419938.58,
+  "north": 1447685.44,
+  "conf": 1.0,
+  "size_pt": 28.92
+ },
+ {
+  "ward": 76,
+  "role": "road_name",
+  "text": "Kalyana Mastri Garden13th Street",
+  "east": 420038.8,
+  "north": 1447681.2,
+  "conf": 1.0,
+  "size_pt": 64.32
+ },
+ {
+  "ward": 76,
+  "role": "road_name",
+  "text": "Anjaneya Samy Koil St",
+  "east": 420093.51,
+  "north": 1447882.94,
+  "conf": 1.0,
+  "size_pt": 67.2
+ },
+ {
+  "ward": 76,
+  "role": "road_name",
+  "text": "Munusamy Street",
+  "east": 420121.23,
+  "north": 1447871.72,
+  "conf": 1.0,
+  "size_pt": 49.68
+ },
+ {
+  "ward": 76,
+  "role": "road_name",
+  "text": "MParasuraman Street",
+  "east": 419609.78,
+  "north": 1448106.58,
+  "conf": 1.0,
+  "size_pt": 58.44
+ },
+ {
+  "ward": 76,
+  "role": "road_name",
+  "text": "Appasamy Street",
+  "east": 419553.8,
+  "north": 1448100.44,
+  "conf": 1.0,
+  "size_pt": 50.04
+ },
+ {
+  "ward": 76,
+  "role": "road_name",
+  "text": "Yacub Garden Lane",
+  "east": 419480.36,
+  "north": 1448105.1,
+  "conf": 1.0,
+  "size_pt": 55.32
+ },
+ {
+  "ward": 76,
+  "role": "road_name",
+  "text": "Yacub Garden Street",
+  "east": 419506.92,
+  "north": 1448110.5,
+  "conf": 1.0,
+  "size_pt": 59.76
+ },
+ {
+  "ward": 76,
+  "role": "road_name",
+  "text": "AngalammanKoilSt",
+  "east": 420100.81,
+  "north": 1447801.12,
+  "conf": 1.0,
+  "size_pt": 36.24
+ },
+ {
+  "ward": 76,
+  "role": "road_name",
+  "text": "Angalamman KoilLayout Main Street",
+  "east": 419984.72,
+  "north": 1447847.06,
+  "conf": 1.0,
+  "size_pt": 55.32
+ },
+ {
+  "ward": 76,
+  "role": "road_name",
+  "text": "2nd Street",
+  "east": 419979.22,
+  "north": 1447789.27,
+  "conf": 1.0,
+  "size_pt": 31.08
+ },
+ {
+  "ward": 76,
+  "role": "road_name",
+  "text": "Ist Street",
+  "east": 419935.09,
+  "north": 1447794.35,
+  "conf": 1.0,
+  "size_pt": 28.2
+ },
+ {
+  "ward": 76,
+  "role": "road_name",
+  "text": "Street12th",
+  "east": 420003.66,
+  "north": 1447714.54,
+  "conf": 1.0,
+  "size_pt": 32.28
+ },
+ {
+  "ward": 76,
+  "role": "road_name",
+  "text": "NainiappanStreet",
+  "east": 419888.21,
+  "north": 1448038.31,
+  "conf": 1.0,
+  "size_pt": 29.76
+ },
+ {
+  "ward": 76,
+  "role": "road_name",
+  "text": "A34Housing Board(slumClearance B)",
+  "east": 419552.64,
+  "north": 1447734.55,
+  "conf": 1.0,
+  "size_pt": 56.4
+ },
+ {
+  "ward": 76,
+  "role": "road_name",
+  "text": "Perambur BarracksRoad (Veda VI)",
+  "east": 419716.98,
+  "north": 1447843.88,
+  "conf": 1.0,
+  "size_pt": 55.56
+ },
+ {
+  "ward": 76,
+  "role": "road_name",
+  "text": "KandhasamyStreetKoil",
+  "east": 419236.33,
+  "north": 1447894.37,
+  "conf": 1.0,
+  "size_pt": 37.32
+ },
+ {
+  "ward": 76,
+  "role": "road_name",
+  "text": "Edward Park Street",
+  "east": 419148.81,
+  "north": 1447865.47,
+  "conf": 1.0,
+  "size_pt": 56.88
+ },
+ {
+  "ward": 76,
+  "role": "road_name",
+  "text": "Goodpet Pallam",
+  "east": 419157.28,
+  "north": 1447933.0,
+  "conf": 1.0,
+  "size_pt": 44.76
+ },
+ {
+  "ward": 76,
+  "role": "road_name",
+  "text": "Street1st",
+  "east": 419159.08,
+  "north": 1448006.35,
+  "conf": 1.0,
+  "size_pt": 28.08
+ },
+ {
+  "ward": 76,
+  "role": "road_name",
+  "text": "Garden_StreetRamanu jam5",
+  "east": 419479.3,
+  "north": 1447704.81,
+  "conf": 1.0,
+  "size_pt": 39.0
+ },
+ {
+  "ward": 76,
+  "role": "road_name",
+  "text": "Street11th",
+  "east": 419984.3,
+  "north": 1447710.1,
+  "conf": 1.0,
+  "size_pt": 31.08
+ },
+ {
+  "ward": 76,
+  "role": "road_name",
+  "text": "KalyanamaistriGarden Corporation",
+  "east": 419767.78,
+  "north": 1447749.05,
+  "conf": 1.0,
+  "size_pt": 55.32
+ },
+ {
+  "ward": 76,
+  "role": "road_name",
+  "text": "College RoadDr. Ambedkar",
+  "east": 419773.39,
+  "north": 1448255.4,
+  "conf": 1.0,
+  "size_pt": 37.8
+ },
+ {
+  "ward": 76,
+  "role": "road_name",
+  "text": "Housing Board(slum Clearance B",
+  "east": 419607.98,
+  "north": 1447635.05,
+  "conf": 1.0,
+  "size_pt": 54.12
+ },
+ {
+  "ward": 76,
+  "role": "road_name",
+  "text": "\u2022 Haji Mohammed'Abbas Street",
+  "east": 419190.08,
+  "north": 1447969.2,
+  "conf": 1.0,
+  "size_pt": 46.68
+ },
+ {
+  "ward": 76,
+  "role": "location_names",
+  "text": "KosapetPark",
+  "east": 419536.34,
+  "north": 1447808.11,
+  "conf": 1.0,
+  "size_pt": 23.28
+ },
+ {
+  "ward": 76,
+  "role": "location_names",
+  "text": "N.R.MedicalHomePrivate Limit",
+  "east": 419807.46,
+  "north": 1447915.43,
+  "conf": 1.0,
+  "size_pt": 34.32
+ },
+ {
+  "ward": 76,
+  "role": "location_names",
+  "text": "Limite",
+  "east": 419833.18,
+  "north": 1447904.53,
+  "conf": 1.0,
+  "size_pt": 16.68
+ }
+]

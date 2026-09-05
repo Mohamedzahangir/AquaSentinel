@@ -1,0 +1,632 @@
+[
+ {
+  "ward": 52,
+  "role": "road_name",
+  "text": "Ebrahim Shahib street",
+  "east": 423592.08,
+  "north": 1448733.92,
+  "conf": 1.0,
+  "size_pt": 68.28
+ },
+ {
+  "ward": 52,
+  "role": "road_name",
+  "text": "Ebrahim Sahib Street\u2022 56",
+  "east": 422760.05,
+  "north": 1448743.86,
+  "conf": 1.0,
+  "size_pt": 62.52
+ },
+ {
+  "ward": 52,
+  "role": "road_name",
+  "text": "Cemetry Road",
+  "east": 422881.35,
+  "north": 1449261.11,
+  "conf": 1.0,
+  "size_pt": 42.84
+ },
+ {
+  "ward": 52,
+  "role": "road_name",
+  "text": "Andiappan Street",
+  "east": 423352.35,
+  "north": 1449306.28,
+  "conf": 1.0,
+  "size_pt": 53.16
+ },
+ {
+  "ward": 52,
+  "role": "road_name",
+  "text": "Nagathakoil Street",
+  "east": 423359.02,
+  "north": 1449224.08,
+  "conf": 1.0,
+  "size_pt": 56.4
+ },
+ {
+  "ward": 52,
+  "role": "road_name",
+  "text": "Thoppa Mudali Street",
+  "east": 423120.55,
+  "north": 1449378.33,
+  "conf": 1.0,
+  "size_pt": 65.04
+ },
+ {
+  "ward": 52,
+  "role": "road_name",
+  "text": "StreetRaman",
+  "east": 423017.78,
+  "north": 1449099.34,
+  "conf": 1.0,
+  "size_pt": 43.08
+ },
+ {
+  "ward": 52,
+  "role": "road_name",
+  "text": "Adam Sahib Street",
+  "east": 423170.62,
+  "north": 1449355.59,
+  "conf": 1.0,
+  "size_pt": 59.64
+ },
+ {
+  "ward": 52,
+  "role": "road_name",
+  "text": "BC Press Road",
+  "east": 423306.94,
+  "north": 1449159.97,
+  "conf": 1.0,
+  "size_pt": 47.52
+ },
+ {
+  "ward": 52,
+  "role": "road_name",
+  "text": "Pichandi Road",
+  "east": 422972.16,
+  "north": 1449353.58,
+  "conf": 1.0,
+  "size_pt": 44.04
+ },
+ {
+  "ward": 52,
+  "role": "road_name",
+  "text": "Godown StRope",
+  "east": 422961.26,
+  "north": 1449180.39,
+  "conf": 1.0,
+  "size_pt": 32.52
+ },
+ {
+  "ward": 52,
+  "role": "road_name",
+  "text": "Old Jail Road",
+  "east": 422114.73,
+  "north": 1448932.29,
+  "conf": 1.0,
+  "size_pt": 41.52
+ },
+ {
+  "ward": 52,
+  "role": "road_name",
+  "text": "North Terminus Road",
+  "east": 423275.4,
+  "north": 1448983.07,
+  "conf": 1.0,
+  "size_pt": 66.24
+ },
+ {
+  "ward": 52,
+  "role": "road_name",
+  "text": "Royapuram Harbour Bridge",
+  "east": 423640.56,
+  "north": 1448756.88,
+  "conf": 1.0,
+  "size_pt": 80.64
+ },
+ {
+  "ward": 52,
+  "role": "road_name",
+  "text": "Surya Narayana Road",
+  "east": 423179.93,
+  "north": 1449080.62,
+  "conf": 1.0,
+  "size_pt": 66.72
+ },
+ {
+  "ward": 52,
+  "role": "road_name",
+  "text": "RoyapuramBridge",
+  "east": 423109.34,
+  "north": 1448877.17,
+  "conf": 1.0,
+  "size_pt": 33.0
+ },
+ {
+  "ward": 52,
+  "role": "road_name",
+  "text": "Old SlaughterhouseRoad",
+  "east": 422731.37,
+  "north": 1448877.27,
+  "conf": 1.0,
+  "size_pt": 52.8
+ },
+ {
+  "ward": 52,
+  "role": "road_name",
+  "text": "Thoppai LaneBajanKoil Street",
+  "east": 423114.73,
+  "north": 1449080.09,
+  "conf": 1.0,
+  "size_pt": 48.36
+ },
+ {
+  "ward": 52,
+  "role": "road_name",
+  "text": "Anjaneya Nagar 9th LaneLaneth A Lane",
+  "east": 422837.21,
+  "north": 1448881.51,
+  "conf": 1.0,
+  "size_pt": 74.16
+ },
+ {
+  "ward": 52,
+  "role": "road_name",
+  "text": "Madasamy StreetLaneanL5thAndiappant76MudaliIst LaneAndiyappa",
+  "east": 422971.32,
+  "north": 1449473.66,
+  "conf": 1.0,
+  "size_pt": 74.04
+ },
+ {
+  "ward": 52,
+  "role": "road_name",
+  "text": "Monegar Choultry Rd",
+  "east": 422657.92,
+  "north": 1448989.63,
+  "conf": 1.0,
+  "size_pt": 62.64
+ },
+ {
+  "ward": 52,
+  "role": "road_name",
+  "text": "Monegar Choultry Rd",
+  "east": 422648.29,
+  "north": 1449220.91,
+  "conf": 1.0,
+  "size_pt": 63.6
+ },
+ {
+  "ward": 52,
+  "role": "road_name",
+  "text": "Old Jail Road",
+  "east": 422582.56,
+  "north": 1448844.69,
+  "conf": 1.0,
+  "size_pt": 40.32
+ },
+ {
+  "ward": 52,
+  "role": "road_name",
+  "text": "Veerasamy Street",
+  "east": 423189.67,
+  "north": 1449636.9,
+  "conf": 1.0,
+  "size_pt": 53.52
+ },
+ {
+  "ward": 52,
+  "role": "road_name",
+  "text": "Appier Lane",
+  "east": 423133.89,
+  "north": 1449541.37,
+  "conf": 1.0,
+  "size_pt": 36.6
+ },
+ {
+  "ward": 52,
+  "role": "road_name",
+  "text": "5th Lane3rd Lane4+0J4th LaneUD6th Lane1 7th Lane208th Laneau!4+6",
+  "east": 422457.13,
+  "north": 1449275.07,
+  "conf": 1.0,
+  "size_pt": 60.6
+ },
+ {
+  "ward": 52,
+  "role": "road_name",
+  "text": "A54.213Model Line Ist Lane2nd Lane5th Lane3rd LaneJ4th Lane6th LaneIth lar4.20346\u0430l\u0442 (\u0430\u0440onaUDY",
+  "east": 422405.17,
+  "north": 1449288.51,
+  "conf": 0.883,
+  "size_pt": 93.72
+ },
+ {
+  "ward": 52,
+  "role": "road_name",
+  "text": "Rope Godown St",
+  "east": 423006.88,
+  "north": 1449263.86,
+  "conf": 1.0,
+  "size_pt": 51.6
+ },
+ {
+  "ward": 52,
+  "role": "road_name",
+  "text": "2.814Andiappan StreetGardenRobinson Park3rd streetColonyMunisamy,",
+  "east": 422832.87,
+  "north": 1449434.19,
+  "conf": 1.0,
+  "size_pt": 65.4
+ },
+ {
+  "ward": 52,
+  "role": "road_name",
+  "text": "QuartersScb",
+  "east": 422290.96,
+  "north": 1449321.2,
+  "conf": 1.0,
+  "size_pt": 38.64
+ },
+ {
+  "ward": 52,
+  "role": "road_name",
+  "text": "M.P.T. Colony North Railway Tier",
+  "east": 423499.89,
+  "north": 1448799.51,
+  "conf": 1.0,
+  "size_pt": 75.24
+ },
+ {
+  "ward": 52,
+  "role": "road_name",
+  "text": "StreetRamanaicken",
+  "east": 423058.74,
+  "north": 1449438.64,
+  "conf": 1.0,
+  "size_pt": 61.68
+ },
+ {
+  "ward": 52,
+  "role": "road_name",
+  "text": "Thiruvotriyur High RoadIst Lane",
+  "east": 422158.34,
+  "north": 1449402.77,
+  "conf": 1.0,
+  "size_pt": 71.04
+ },
+ {
+  "ward": 52,
+  "role": "road_name",
+  "text": "RailwayWorkersColonyDhakshina Murthy Koil Street",
+  "east": 422112.4,
+  "north": 1449210.43,
+  "conf": 1.0,
+  "size_pt": 93.36
+ },
+ {
+  "ward": 52,
+  "role": "road_name",
+  "text": "RailwayWorkersColony",
+  "east": 422144.37,
+  "north": 1449127.91,
+  "conf": 1.0,
+  "size_pt": 26.16
+ },
+ {
+  "ward": 52,
+  "role": "road_name",
+  "text": "5th Lane4th Lane7th Lane6th Lane2nd LaneAnjaneya NagarIst LaneKoil StKabilagananaSamygalamalingamStr\u00e9et",
+  "east": 422964.65,
+  "north": 1448760.16,
+  "conf": 1.0,
+  "size_pt": 80.16
+ },
+ {
+  "ward": 52,
+  "role": "road_name",
+  "text": "Thiruvotriyur High Road",
+  "east": 422006.88,
+  "north": 1449141.87,
+  "conf": 1.0,
+  "size_pt": 70.44
+ },
+ {
+  "ward": 52,
+  "role": "road_name",
+  "text": "West Madha Chruch StreetWAF",
+  "east": 423449.62,
+  "north": 1449137.75,
+  "conf": 1.0,
+  "size_pt": 79.68
+ },
+ {
+  "ward": 52,
+  "role": "road_name",
+  "text": "Scb Quarters",
+  "east": 422319.01,
+  "north": 1449381.4,
+  "conf": 1.0,
+  "size_pt": 39.12
+ },
+ {
+  "ward": 52,
+  "role": "road_name",
+  "text": "2nd Lane",
+  "east": 422390.66,
+  "north": 1449312.95,
+  "conf": 1.0,
+  "size_pt": 27.6
+ },
+ {
+  "ward": 52,
+  "role": "road_name",
+  "text": "Hospital Quarters",
+  "east": 422394.79,
+  "north": 1448997.99,
+  "conf": 1.0,
+  "size_pt": 53.88
+ },
+ {
+  "ward": 52,
+  "role": "road_name",
+  "text": "8th Lane",
+  "east": 422935.65,
+  "north": 1448859.82,
+  "conf": 1.0,
+  "size_pt": 25.56
+ },
+ {
+  "ward": 52,
+  "role": "road_name",
+  "text": "9th A Lane",
+  "east": 422850.44,
+  "north": 1448834.11,
+  "conf": 1.0,
+  "size_pt": 34.08
+ },
+ {
+  "ward": 52,
+  "role": "road_name",
+  "text": "10th Lane",
+  "east": 422800.06,
+  "north": 1448892.3,
+  "conf": 1.0,
+  "size_pt": 28.08
+ },
+ {
+  "ward": 52,
+  "role": "road_name",
+  "text": "Karimedu476ColonyChitambaranathanStreet",
+  "east": 422796.04,
+  "north": 1448796.87,
+  "conf": 1.0,
+  "size_pt": 82.2
+ },
+ {
+  "ward": 52,
+  "role": "road_name",
+  "text": "SiSamygalStreetRamalingam",
+  "east": 422951.84,
+  "north": 1448710.43,
+  "conf": 1.0,
+  "size_pt": 34.2
+ },
+ {
+  "ward": 52,
+  "role": "road_name",
+  "text": "Mannar SamyKoil Street",
+  "east": 423267.89,
+  "north": 1449472.49,
+  "conf": 1.0,
+  "size_pt": 42.48
+ },
+ {
+  "ward": 52,
+  "role": "road_name",
+  "text": "Nagathal KoilLane",
+  "east": 423298.9,
+  "north": 1449204.61,
+  "conf": 1.0,
+  "size_pt": 41.52
+ },
+ {
+  "ward": 52,
+  "role": "road_name",
+  "text": "Barbar Lane",
+  "east": 423180.25,
+  "north": 1449504.97,
+  "conf": 1.0,
+  "size_pt": 37.56
+ },
+ {
+  "ward": 52,
+  "role": "road_name",
+  "text": "Munisamy4th StreetGardenVelauthapandiyan Street",
+  "east": 422989.73,
+  "north": 1449585.91,
+  "conf": 1.0,
+  "size_pt": 73.08
+ },
+ {
+  "ward": 52,
+  "role": "road_name",
+  "text": "9th Lane",
+  "east": 423089.54,
+  "north": 1449483.39,
+  "conf": 1.0,
+  "size_pt": 27.24
+ },
+ {
+  "ward": 52,
+  "role": "road_name",
+  "text": "Robinson ParkColony",
+  "east": 422809.59,
+  "north": 1449435.15,
+  "conf": 1.0,
+  "size_pt": 43.8
+ },
+ {
+  "ward": 52,
+  "role": "road_name",
+  "text": "ParthasarathyNaidu StreetJagannathanStreet",
+  "east": 422851.61,
+  "north": 1449546.87,
+  "conf": 1.0,
+  "size_pt": 50.4
+ },
+ {
+  "ward": 52,
+  "role": "road_name",
+  "text": "Periannan St",
+  "east": 423098.54,
+  "north": 1448980.22,
+  "conf": 1.0,
+  "size_pt": 39.96
+ },
+ {
+  "ward": 52,
+  "role": "location_names",
+  "text": "Mosque Street",
+  "east": 423131.67,
+  "north": 1449167.8,
+  "conf": 1.0,
+  "size_pt": 44.16
+ },
+ {
+  "ward": 52,
+  "role": "location_names",
+  "text": "Anna Park",
+  "east": 422887.91,
+  "north": 1449363.94,
+  "conf": 1.0,
+  "size_pt": 32.04
+ },
+ {
+  "ward": 52,
+  "role": "location_names",
+  "text": "Park",
+  "east": 422827.58,
+  "north": 1449136.9,
+  "conf": 1.0,
+  "size_pt": 13.08
+ },
+ {
+  "ward": 52,
+  "role": "location_names",
+  "text": "RecreationGround",
+  "east": 422776.04,
+  "north": 1449349.13,
+  "conf": 1.0,
+  "size_pt": 31.44
+ },
+ {
+  "ward": 52,
+  "role": "location_names",
+  "text": "Cemetery",
+  "east": 422566.26,
+  "north": 1449236.88,
+  "conf": 1.0,
+  "size_pt": 28.56
+ },
+ {
+  "ward": 52,
+  "role": "location_names",
+  "text": "Southern RailwaysPrinting Pres",
+  "east": 423366.0,
+  "north": 1448703.45,
+  "conf": 1.0,
+  "size_pt": 55.68
+ },
+ {
+  "ward": 52,
+  "role": "location_names",
+  "text": "MilitaryEngineering Services",
+  "east": 422057.15,
+  "north": 1448999.05,
+  "conf": 1.0,
+  "size_pt": 62.88
+ },
+ {
+  "ward": 52,
+  "role": "location_names",
+  "text": "Cemetery",
+  "east": 422895.75,
+  "north": 1448867.01,
+  "conf": 1.0,
+  "size_pt": 28.44
+ },
+ {
+  "ward": 52,
+  "role": "location_names",
+  "text": "PWD",
+  "east": 422238.25,
+  "north": 1448982.65,
+  "conf": 1.0,
+  "size_pt": 12.12
+ },
+ {
+  "ward": 52,
+  "role": "location_names",
+  "text": "Workshop",
+  "east": 422281.86,
+  "north": 1448981.38,
+  "conf": 1.0,
+  "size_pt": 26.76
+ },
+ {
+  "ward": 52,
+  "role": "location_names",
+  "text": "AdyarAnandaBhavan",
+  "east": 423238.57,
+  "north": 1449228.63,
+  "conf": 1.0,
+  "size_pt": 22.8
+ },
+ {
+  "ward": 52,
+  "role": "location_names",
+  "text": "BhagwanMahaveerEye Hospitas",
+  "east": 423210.84,
+  "north": 1449464.66,
+  "conf": 1.0,
+  "size_pt": 38.16
+ },
+ {
+  "ward": 52,
+  "role": "location_names",
+  "text": "RoyapuramBrahma Theertham",
+  "east": 423294.14,
+  "north": 1449273.06,
+  "conf": 1.0,
+  "size_pt": 58.92
+ },
+ {
+  "ward": 52,
+  "role": "location_names",
+  "text": "Govt.",
+  "east": 422704.06,
+  "north": 1448991.01,
+  "conf": 1.0,
+  "size_pt": 13.68
+ },
+ {
+  "ward": 52,
+  "role": "location_names",
+  "text": "Stanley Hospital",
+  "east": 422769.48,
+  "north": 1448989.63,
+  "conf": 1.0,
+  "size_pt": 49.92
+ },
+ {
+  "ward": 52,
+  "role": "location_names",
+  "text": "WashermanpetRailway Station",
+  "east": 422157.6,
+  "north": 1449320.25,
+  "conf": 1.0,
+  "size_pt": 46.68
+ }
+]

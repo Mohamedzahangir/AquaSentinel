@@ -1,0 +1,1136 @@
+[
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "Colony 3rd StreetBharathishwarerBhany",
+  "east": 415535.14,
+  "north": 1443783.1,
+  "conf": 0.767,
+  "size_pt": 54.24
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "Sivan Koil StreetD397.97",
+  "east": 415557.58,
+  "north": 1443582.62,
+  "conf": 1.0,
+  "size_pt": 46.08
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "8.147Trustpuram Ist Cross Street",
+  "east": 415969.94,
+  "north": 1443388.39,
+  "conf": 1.0,
+  "size_pt": 88.08
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "SowrastraNagar 5th Street",
+  "east": 416716.87,
+  "north": 1444396.17,
+  "conf": 1.0,
+  "size_pt": 53.64
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "Railway",
+  "east": 416639.61,
+  "north": 1444476.51,
+  "conf": 1.0,
+  "size_pt": 22.2
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "Border Road",
+  "east": 416705.76,
+  "north": 1444475.03,
+  "conf": 1.0,
+  "size_pt": 38.88
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "Choolai Medu High Road",
+  "east": 416514.71,
+  "north": 1443969.5,
+  "conf": 1.0,
+  "size_pt": 75.96
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "Periyar Pathai",
+  "east": 415636.22,
+  "north": 1444036.61,
+  "conf": 1.0,
+  "size_pt": 42.84
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "Trustpuram \"2nd Cross StsyuTrustpuramIst Cross St",
+  "east": 415813.08,
+  "north": 1443372.41,
+  "conf": 1.0,
+  "size_pt": 55.2
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "s StG3P2nd3rd6.8%",
+  "east": 416217.82,
+  "north": 1443789.66,
+  "conf": 0.86,
+  "size_pt": 40.32
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "Periyar Pathai",
+  "east": 415293.4,
+  "north": 1443893.61,
+  "conf": 1.0,
+  "size_pt": 43.2
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "Trustpuram2nd Cross Street",
+  "east": 415979.04,
+  "north": 1443422.69,
+  "conf": 1.0,
+  "size_pt": 52.8
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "Arokiyasamy Street",
+  "east": 416334.89,
+  "north": 1443699.9,
+  "conf": 1.0,
+  "size_pt": 59.76
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "Trustpuram5th Cross Street",
+  "east": 416014.71,
+  "north": 1443622.0,
+  "conf": 1.0,
+  "size_pt": 52.68
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "Vanniyar Street",
+  "east": 415827.16,
+  "north": 1443854.44,
+  "conf": 1.0,
+  "size_pt": 45.96
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "ParkRailwayBorder RoadSowrashtra Nagar 2nd Street",
+  "east": 416699.72,
+  "north": 1444550.18,
+  "conf": 1.0,
+  "size_pt": 96.6
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "Trustpuram4th Cross Street",
+  "east": 416011.75,
+  "north": 1443560.29,
+  "conf": 1.0,
+  "size_pt": 52.2
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "2nd Cross St",
+  "east": 416163.21,
+  "north": 1443813.27,
+  "conf": 1.0,
+  "size_pt": 41.76
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "NagerkoyilSudalaimuthu Krishna",
+  "east": 415860.39,
+  "north": 1443231.21,
+  "conf": 1.0,
+  "size_pt": 64.68
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "Mathavan Nayar Road",
+  "east": 416696.13,
+  "north": 1443680.43,
+  "conf": 1.0,
+  "size_pt": 68.64
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "Zakkariya ColonyMain Road",
+  "east": 416625.32,
+  "north": 1443488.95,
+  "conf": 1.0,
+  "size_pt": 52.44
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "Culvert",
+  "east": 416036.09,
+  "north": 1443286.67,
+  "conf": 1.0,
+  "size_pt": 19.8
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "Culvert",
+  "east": 416122.25,
+  "north": 1443597.55,
+  "conf": 1.0,
+  "size_pt": 19.8
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "2nd Main Roadvo Ganga\u2022 Nagar85",
+  "east": 415689.88,
+  "north": 1443360.34,
+  "conf": 1.0,
+  "size_pt": 47.52
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "aramIst Main RoadGangaNagar",
+  "east": 415550.91,
+  "north": 1443393.68,
+  "conf": 1.0,
+  "size_pt": 43.8
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "StrVellalar Ist Lane MVell",
+  "east": 415310.33,
+  "north": 1443304.56,
+  "conf": 1.0,
+  "size_pt": 60.48
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "South SivanKoil Streeto",
+  "east": 415282.6,
+  "north": 1443211.31,
+  "conf": 1.0,
+  "size_pt": 36.24
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "D57D56Bharatheeswarar7.664Ist Streetsouth StreetKoilSouth StreetBharatheeswararzColony 5th StSivanan vic",
+  "east": 415468.56,
+  "north": 1443627.93,
+  "conf": 0.942,
+  "size_pt": 106.44
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "PonnusamyVadhiyar St",
+  "east": 416201.1,
+  "north": 1443729.12,
+  "conf": 1.0,
+  "size_pt": 36.24
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "Rajapuranikar St",
+  "east": 416271.49,
+  "north": 1443693.13,
+  "conf": 1.0,
+  "size_pt": 51.36
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "\u2020Zakkariya Colony 4th Street",
+  "east": 416553.98,
+  "north": 1443683.5,
+  "conf": 1.0,
+  "size_pt": 88.32
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "Nehru Street",
+  "east": 416602.56,
+  "north": 1443904.19,
+  "conf": 1.0,
+  "size_pt": 39.72
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "Othavadai Street",
+  "east": 415181.31,
+  "north": 1443322.66,
+  "conf": 1.0,
+  "size_pt": 51.6
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "RoadTrustpuram5th Cross StPuliyur MainTrustpuram4th Cross St",
+  "east": 415821.13,
+  "north": 1443582.83,
+  "conf": 1.0,
+  "size_pt": 61.2
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "Parameswari Colony1914",
+  "east": 415175.7,
+  "north": 1443732.4,
+  "conf": 0.65,
+  "size_pt": 62.28
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "Andavar Nagar|l Street",
+  "east": 415169.24,
+  "north": 1443607.29,
+  "conf": 1.0,
+  "size_pt": 46.2
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "ONSivan Koil Street",
+  "east": 415705.65,
+  "north": 1443933.4,
+  "conf": 1.0,
+  "size_pt": 51.84
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "Dayal NagarIst Street",
+  "east": 415473.33,
+  "north": 1443920.7,
+  "conf": 1.0,
+  "size_pt": 37.2
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "3.372Ganga Nagar4th Cross St",
+  "east": 415608.49,
+  "north": 1443292.07,
+  "conf": 1.0,
+  "size_pt": 40.44
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "Choolai Medu High Road",
+  "east": 416402.62,
+  "north": 1443486.62,
+  "conf": 1.0,
+  "size_pt": 75.48
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "SowrashtraNagar 7th StreetH28NagarNagar6.6338th StH27meduCross St6.503oadSowrashtraSowrashtra,00H26hst",
+  "east": 416677.18,
+  "north": 1444249.79,
+  "conf": 1.0,
+  "size_pt": 91.44
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "HousingBoard",
+  "east": 415217.19,
+  "north": 1443712.29,
+  "conf": 1.0,
+  "size_pt": 23.52
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "4th Street",
+  "east": 415346.95,
+  "north": 1443841.74,
+  "conf": 1.0,
+  "size_pt": 31.92
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "N.s.k.salai",
+  "east": 415915.33,
+  "north": 1443326.89,
+  "conf": 1.0,
+  "size_pt": 29.76
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "Koil StreettSouth Sivan",
+  "east": 415193.9,
+  "north": 1443167.91,
+  "conf": 1.0,
+  "size_pt": 73.68
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "Vannarapathai",
+  "east": 415259.95,
+  "north": 1443646.24,
+  "conf": 1.0,
+  "size_pt": 42.6
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "Easwar Nagar 5th StreetHousingBoardsing",
+  "east": 415254.55,
+  "north": 1443772.94,
+  "conf": 1.0,
+  "size_pt": 78.72
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "Puliyur 2nd Lane",
+  "east": 415653.47,
+  "north": 1443550.66,
+  "conf": 1.0,
+  "size_pt": 52.56
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "Trustpuram3rd Street",
+  "east": 415809.27,
+  "north": 1443501.44,
+  "conf": 1.0,
+  "size_pt": 37.68
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "Minor Trustpuram",
+  "east": 416171.78,
+  "north": 1443845.55,
+  "conf": 1.0,
+  "size_pt": 54.12
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "Ist Cross St",
+  "east": 416263.12,
+  "north": 1443837.51,
+  "conf": 1.0,
+  "size_pt": 38.64
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "Varadarajanpet Main Road",
+  "east": 416301.55,
+  "north": 1443505.35,
+  "conf": 1.0,
+  "size_pt": 80.4
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "Vannier Street10th StreetDasspuram9thCross St",
+  "east": 416054.93,
+  "north": 1443793.68,
+  "conf": 1.0,
+  "size_pt": 46.44
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "Trustpuram",
+  "east": 415984.97,
+  "north": 1443705.2,
+  "conf": 1.0,
+  "size_pt": 32.88
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "10th Street",
+  "east": 415986.03,
+  "north": 1443774.53,
+  "conf": 1.0,
+  "size_pt": 34.44
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "Moopan Maistry-Ist Street",
+  "east": 416188.82,
+  "north": 1443659.89,
+  "conf": 1.0,
+  "size_pt": 48.72
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "Ponnusamy VadhiyarStreet",
+  "east": 416117.38,
+  "north": 1443677.67,
+  "conf": 1.0,
+  "size_pt": 63.84
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "Varadarajanpet Main Road",
+  "east": 416252.75,
+  "north": 1443621.05,
+  "conf": 1.0,
+  "size_pt": 81.36
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "Subedhar GardenQuarters Slum B",
+  "east": 416384.74,
+  "north": 1443610.78,
+  "conf": 1.0,
+  "size_pt": 52.44
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "Trustpuram9th CrossStTrustpuram8th Cross St",
+  "east": 415871.3,
+  "north": 1443762.67,
+  "conf": 1.0,
+  "size_pt": 92.88
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "Trustpuram",
+  "east": 415845.26,
+  "north": 1443715.25,
+  "conf": 1.0,
+  "size_pt": 32.88
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "7th Cross St",
+  "east": 415918.71,
+  "north": 1443716.63,
+  "conf": 1.0,
+  "size_pt": 39.6
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "Trustpuram8th Cross St",
+  "east": 415710.31,
+  "north": 1443751.87,
+  "conf": 1.0,
+  "size_pt": 41.88
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "7th Cross St",
+  "east": 415708.4,
+  "north": 1443726.05,
+  "conf": 1.0,
+  "size_pt": 39.96
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "ITrustpuram6th Cross Stth CrossPrustpuram5th Cross St",
+  "east": 415675.17,
+  "north": 1443636.92,
+  "conf": 1.0,
+  "size_pt": 55.8
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "Suliyur 2nd Main Road",
+  "east": 415736.45,
+  "north": 1443554.68,
+  "conf": 1.0,
+  "size_pt": 71.28
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "1.014Easwar NagarIst Street",
+  "east": 415332.35,
+  "north": 1443714.09,
+  "conf": 1.0,
+  "size_pt": 42.72
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "nal2nd StreD667.9023rd Stree4th StreetDayal Nagar Main Road3rd StreetGandhi Street2nd Street",
+  "east": 415402.2,
+  "north": 1443827.45,
+  "conf": 1.0,
+  "size_pt": 93.84
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "3rd Street",
+  "east": 415349.7,
+  "north": 1443809.46,
+  "conf": 1.0,
+  "size_pt": 31.92
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "3rd Street",
+  "east": 415464.23,
+  "north": 1443850.21,
+  "conf": 1.0,
+  "size_pt": 31.68
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "2nd Street",
+  "east": 415469.2,
+  "north": 1443889.69,
+  "conf": 1.0,
+  "size_pt": 32.76
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "5thStreet",
+  "east": 415490.05,
+  "north": 1443535.2,
+  "conf": 1.0,
+  "size_pt": 31.92
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "Bharatheeswarar Colony 4th Streetgarrathishwarer",
+  "east": 415512.6,
+  "north": 1443861.96,
+  "conf": 1.0,
+  "size_pt": 108.84
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "Bharatheeswarar Colony 3rd StreetPharathoscuarar Calureet",
+  "east": 415573.45,
+  "north": 1443836.87,
+  "conf": 0.833,
+  "size_pt": 108.72
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "Bharatheeswarar Colony 2nd Street.w Corony ora Street2nd StreeD457.489D447.265Tru8t",
+  "east": 415629.45,
+  "north": 1443836.34,
+  "conf": 1.0,
+  "size_pt": 110.04
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "South StreVannarapathSivan KoilSouth StreetSivan KoilO99Muthu ThottamPSivan Koil Cross St2nd Street1st StreetSiyanCross StSivan Koil",
+  "east": 415321.55,
+  "north": 1443549.7,
+  "conf": 1.0,
+  "size_pt": 136.68
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "Muthu Thottam2nd Street",
+  "east": 415272.97,
+  "north": 1443566.43,
+  "conf": 1.0,
+  "size_pt": 46.92
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "Ist Street",
+  "east": 415311.28,
+  "north": 1443566.22,
+  "conf": 1.0,
+  "size_pt": 30.36
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "SwarnambigaiStreet",
+  "east": 415419.88,
+  "north": 1443521.02,
+  "conf": 1.0,
+  "size_pt": 39.36
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "South StreetKoilSivan",
+  "east": 415433.11,
+  "north": 1443614.7,
+  "conf": 1.0,
+  "size_pt": 39.24
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "GangaramThottam",
+  "east": 415525.19,
+  "north": 1443419.72,
+  "conf": 1.0,
+  "size_pt": 29.04
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "Vellala Street",
+  "east": 415323.45,
+  "north": 1443381.4,
+  "conf": 1.0,
+  "size_pt": 39.84
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "Vellala 2nd Lane",
+  "east": 415293.71,
+  "north": 1443255.13,
+  "conf": 1.0,
+  "size_pt": 50.04
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "3rd Lane",
+  "east": 415340.28,
+  "north": 1443424.91,
+  "conf": 1.0,
+  "size_pt": 27.24
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "Vellala Street",
+  "east": 415401.35,
+  "north": 1443202.1,
+  "conf": 1.0,
+  "size_pt": 39.84
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "Railway Border Road,",
+  "east": 415374.89,
+  "north": 1443122.39,
+  "conf": 1.0,
+  "size_pt": 61.2
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "Railway Border Road",
+  "east": 416189.46,
+  "north": 1443317.05,
+  "conf": 1.0,
+  "size_pt": 63.36
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "Dr.ambedkar Street",
+  "east": 416562.87,
+  "north": 1443757.7,
+  "conf": 1.0,
+  "size_pt": 59.28
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "New Market Street",
+  "east": 416583.93,
+  "north": 1443786.91,
+  "conf": 1.0,
+  "size_pt": 57.96
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "Sowrashtra Nagar 10th Street",
+  "east": 416629.55,
+  "north": 1444056.93,
+  "conf": 1.0,
+  "size_pt": 93.84
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "Sowrashtra Nagar 9th Street",
+  "east": 416630.29,
+  "north": 1444120.12,
+  "conf": 1.0,
+  "size_pt": 90.6
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "ChoolaimeduHigh Road",
+  "east": 416587.85,
+  "north": 1444236.03,
+  "conf": 1.0,
+  "size_pt": 37.92
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "Sowrashtra Nagar 3rd Street",
+  "east": 416682.26,
+  "north": 1444454.81,
+  "conf": 1.0,
+  "size_pt": 90.96
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "Sowrashtra Nagar 4th Street",
+  "east": 416673.37,
+  "north": 1444426.87,
+  "conf": 1.0,
+  "size_pt": 91.44
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "Sowrashtra Naga3 th Street",
+  "east": 416663.1,
+  "north": 1444342.83,
+  "conf": 1.0,
+  "size_pt": 91.08
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "Railway Border Road",
+  "east": 416806.94,
+  "north": 1444411.42,
+  "conf": 1.0,
+  "size_pt": 64.32
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "H2Sowrashtra NagarIst Street6.2.",
+  "east": 416725.66,
+  "north": 1444663.44,
+  "conf": 1.0,
+  "size_pt": 52.08
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "Tank Bund Road",
+  "east": 416756.14,
+  "north": 1444724.94,
+  "conf": 1.0,
+  "size_pt": 49.2
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "7th Cross St",
+  "east": 416058.21,
+  "north": 1443704.88,
+  "conf": 1.0,
+  "size_pt": 40.08
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "8th Cross .",
+  "east": 416050.59,
+  "north": 1443737.06,
+  "conf": 1.0,
+  "size_pt": 40.56
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "Moopan Maistryf2nd Streete",
+  "east": 416194.33,
+  "north": 1443693.13,
+  "conf": 1.0,
+  "size_pt": 48.72
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "Puliyur Ist Lane",
+  "east": 415613.57,
+  "north": 1443481.54,
+  "conf": 1.0,
+  "size_pt": 50.28
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "South StreetSivan Koil",
+  "east": 415310.75,
+  "north": 1443648.78,
+  "conf": 1.0,
+  "size_pt": 39.24
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "Zakkariya Colony 3rd Street",
+  "east": 416529.74,
+  "north": 1443604.64,
+  "conf": 1.0,
+  "size_pt": 87.72
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "Zakkariya Colony 2nd Street",
+  "east": 416513.34,
+  "north": 1443531.5,
+  "conf": 1.0,
+  "size_pt": 89.04
+ },
+ {
+  "ward": 112,
+  "role": "road_name",
+  "text": "Zakkariya Colony 1st Street",
+  "east": 416500.95,
+  "north": 1443454.02,
+  "conf": 1.0,
+  "size_pt": 86.76
+ },
+ {
+  "ward": 112,
+  "role": "location_names",
+  "text": "Trustpuram",
+  "east": 416020.96,
+  "north": 1443716.2,
+  "conf": 1.0,
+  "size_pt": 32.88
+ },
+ {
+  "ward": 112,
+  "role": "location_names",
+  "text": "Groundi",
+  "east": 416077.26,
+  "north": 1443717.47,
+  "conf": 1.0,
+  "size_pt": 20.88
+ },
+ {
+  "ward": 112,
+  "role": "location_names",
+  "text": "Recreation_",
+  "east": 415948.67,
+  "north": 1443505.99,
+  "conf": 1.0,
+  "size_pt": 31.56
+ },
+ {
+  "ward": 112,
+  "role": "location_names",
+  "text": "-ground",
+  "east": 416004.97,
+  "north": 1443504.61,
+  "conf": 1.0,
+  "size_pt": 20.52
+ },
+ {
+  "ward": 112,
+  "role": "location_names",
+  "text": "Circular Park",
+  "east": 416108.07,
+  "north": 1443382.89,
+  "conf": 1.0,
+  "size_pt": 39.48
+ },
+ {
+  "ward": 112,
+  "role": "location_names",
+  "text": "Park",
+  "east": 416263.44,
+  "north": 1443571.19,
+  "conf": 1.0,
+  "size_pt": 13.08
+ },
+ {
+  "ward": 112,
+  "role": "location_names",
+  "text": "Park",
+  "east": 416715.92,
+  "north": 1444566.17,
+  "conf": 1.0,
+  "size_pt": 12.96
+ },
+ {
+  "ward": 112,
+  "role": "location_names",
+  "text": "Amma",
+  "east": 416585.63,
+  "north": 1444311.81,
+  "conf": 1.0,
+  "size_pt": 19.08
+ },
+ {
+  "ward": 112,
+  "role": "location_names",
+  "text": "Hospital",
+  "east": 416631.35,
+  "north": 1444310.44,
+  "conf": 1.0,
+  "size_pt": 24.12
+ },
+ {
+  "ward": 112,
+  "role": "location_names",
+  "text": "Bank",
+  "east": 415890.66,
+  "north": 1443475.08,
+  "conf": 1.0,
+  "size_pt": 14.28
+ },
+ {
+  "ward": 112,
+  "role": "location_names",
+  "text": "of India",
+  "east": 415931.63,
+  "north": 1443475.08,
+  "conf": 1.0,
+  "size_pt": 23.04
+ },
+ {
+  "ward": 112,
+  "role": "location_names",
+  "text": "Rainmaker",
+  "east": 415904.0,
+  "north": 1443447.35,
+  "conf": 1.0,
+  "size_pt": 31.8
+ },
+ {
+  "ward": 112,
+  "role": "location_names",
+  "text": "District BranchLibrary, Kodamb",
+  "east": 415422.84,
+  "north": 1443388.39,
+  "conf": 1.0,
+  "size_pt": 49.8
+ },
+ {
+  "ward": 112,
+  "role": "location_names",
+  "text": "Kummaran EyeSpeciality Centre",
+  "east": 416598.96,
+  "north": 1444001.57,
+  "conf": 1.0,
+  "size_pt": 51.72
+ },
+ {
+  "ward": 112,
+  "role": "location_names",
+  "text": "The BestHospitalPrivate Ltd",
+  "east": 415402.73,
+  "north": 1443274.5,
+  "conf": 1.0,
+  "size_pt": 34.44
+ },
+ {
+  "ward": 112,
+  "role": "location_names",
+  "text": "\u2022 GangaEnclave",
+  "east": 415630.61,
+  "north": 1443369.13,
+  "conf": 1.0,
+  "size_pt": 22.08
+ },
+ {
+  "ward": 112,
+  "role": "location_names",
+  "text": "St AlphonsaSyro MalabarChurch",
+  "east": 415779.11,
+  "north": 1443644.86,
+  "conf": 1.0,
+  "size_pt": 41.88
+ },
+ {
+  "ward": 112,
+  "role": "location_names",
+  "text": "NungambakkamRailwayStation",
+  "east": 416890.35,
+  "north": 1444631.69,
+  "conf": 1.0,
+  "size_pt": 52.56
+ },
+ {
+  "ward": 112,
+  "role": "location_names",
+  "text": "Trustpuram",
+  "east": 416094.09,
+  "north": 1443500.91,
+  "conf": 1.0,
+  "size_pt": 32.88
+ },
+ {
+  "ward": 112,
+  "role": "location_names",
+  "text": "Canal",
+  "east": 416100.66,
+  "north": 1443552.88,
+  "conf": 1.0,
+  "size_pt": 16.2
+ }
+]

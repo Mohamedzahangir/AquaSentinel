@@ -1,0 +1,452 @@
+[
+ {
+  "ward": 96,
+  "role": "road_name",
+  "text": "Srivallur High Rd",
+  "east": 417103.82,
+  "north": 1449195.29,
+  "conf": 1.0,
+  "size_pt": 49.03
+ },
+ {
+  "ward": 96,
+  "role": "road_name",
+  "text": "RajaMain StreetThirumalai",
+  "east": 416521.35,
+  "north": 1448340.52,
+  "conf": 1.0,
+  "size_pt": 43.2
+ },
+ {
+  "ward": 96,
+  "role": "road_name",
+  "text": "Somasundaram 5th Street",
+  "east": 417128.41,
+  "north": 1448048.44,
+  "conf": 1.0,
+  "size_pt": 77.26
+ },
+ {
+  "ward": 96,
+  "role": "road_name",
+  "text": "Gandhinagar",
+  "east": 415282.84,
+  "north": 1448020.02,
+  "conf": 1.0,
+  "size_pt": 34.74
+ },
+ {
+  "ward": 96,
+  "role": "road_name",
+  "text": "Constable Rd",
+  "east": 416616.9,
+  "north": 1448640.97,
+  "conf": 1.0,
+  "size_pt": 38.4
+ },
+ {
+  "ward": 96,
+  "role": "road_name",
+  "text": "New Avadi Road",
+  "east": 414999.42,
+  "north": 1448051.06,
+  "conf": 1.0,
+  "size_pt": 46.17
+ },
+ {
+  "ward": 96,
+  "role": "road_name",
+  "text": "PrivateRoad",
+  "east": 416461.88,
+  "north": 1448344.15,
+  "conf": 1.0,
+  "size_pt": 34.06
+ },
+ {
+  "ward": 96,
+  "role": "road_name",
+  "text": "2nd Main Road",
+  "east": 415398.95,
+  "north": 1449374.39,
+  "conf": 1.0,
+  "size_pt": 44.57
+ },
+ {
+  "ward": 96,
+  "role": "road_name",
+  "text": "Constable Rd",
+  "east": 417133.85,
+  "north": 1448638.65,
+  "conf": 1.0,
+  "size_pt": 38.06
+ },
+ {
+  "ward": 96,
+  "role": "road_name",
+  "text": "Palayakara Street",
+  "east": 416979.44,
+  "north": 1448438.28,
+  "conf": 1.0,
+  "size_pt": 51.66
+ },
+ {
+  "ward": 96,
+  "role": "road_name",
+  "text": "ParasuramanEswaranKoil North Mada Street",
+  "east": 416029.19,
+  "north": 1448157.19,
+  "conf": 1.0,
+  "size_pt": 68.0
+ },
+ {
+  "ward": 96,
+  "role": "road_name",
+  "text": "Eswaran Koil Main StParasuraman",
+  "east": 416070.01,
+  "north": 1448246.59,
+  "conf": 1.0,
+  "size_pt": 62.17
+ },
+ {
+  "ward": 96,
+  "role": "road_name",
+  "text": "KariyaManicka Perumal Koil Street",
+  "east": 416176.14,
+  "north": 1448254.25,
+  "conf": 1.0,
+  "size_pt": 83.32
+ },
+ {
+  "ward": 96,
+  "role": "road_name",
+  "text": "Duraisamy Street",
+  "east": 416286.61,
+  "north": 1448261.2,
+  "conf": 1.0,
+  "size_pt": 50.17
+ },
+ {
+  "ward": 96,
+  "role": "road_name",
+  "text": "UnitedIndia Ngar2nd Main Road",
+  "east": 416364.22,
+  "north": 1448213.73,
+  "conf": 1.0,
+  "size_pt": 44.46
+ },
+ {
+  "ward": 96,
+  "role": "road_name",
+  "text": "NMK Street",
+  "east": 416649.86,
+  "north": 1448035.04,
+  "conf": 1.0,
+  "size_pt": 33.03
+ },
+ {
+  "ward": 96,
+  "role": "road_name",
+  "text": "Devar\u00e1julu Street",
+  "east": 417015.52,
+  "north": 1448072.13,
+  "conf": 1.0,
+  "size_pt": 49.94
+ },
+ {
+  "ward": 96,
+  "role": "road_name",
+  "text": "Ramanuja Nagar Road",
+  "east": 417080.33,
+  "north": 1448066.99,
+  "conf": 1.0,
+  "size_pt": 66.06
+ },
+ {
+  "ward": 96,
+  "role": "road_name",
+  "text": "Konnur High Road",
+  "east": 415604.46,
+  "north": 1448215.75,
+  "conf": 1.0,
+  "size_pt": 53.37
+ },
+ {
+  "ward": 96,
+  "role": "road_name",
+  "text": "Dr.B R Ambedkar Road",
+  "east": 414922.11,
+  "north": 1448564.57,
+  "conf": 1.0,
+  "size_pt": 67.55
+ },
+ {
+  "ward": 96,
+  "role": "road_name",
+  "text": "Constable Road",
+  "east": 415908.45,
+  "north": 1448726.33,
+  "conf": 1.0,
+  "size_pt": 45.14
+ },
+ {
+  "ward": 96,
+  "role": "road_name",
+  "text": "Sargeaunt Road",
+  "east": 416190.96,
+  "north": 1448582.01,
+  "conf": 1.0,
+  "size_pt": 46.63
+ },
+ {
+  "ward": 96,
+  "role": "road_name",
+  "text": "Market Street",
+  "east": 416591.4,
+  "north": 1448137.84,
+  "conf": 1.0,
+  "size_pt": 39.89
+ },
+ {
+  "ward": 96,
+  "role": "road_name",
+  "text": "KKNagar10th Street10th Street",
+  "east": 416716.88,
+  "north": 1448151.04,
+  "conf": 1.0,
+  "size_pt": 60.12
+ },
+ {
+  "ward": 96,
+  "role": "road_name",
+  "text": "11th StreetKK Nagar",
+  "east": 416790.96,
+  "north": 1448125.44,
+  "conf": 1.0,
+  "size_pt": 31.54
+ },
+ {
+  "ward": 96,
+  "role": "location_names",
+  "text": "Pond",
+  "east": 415181.75,
+  "north": 1448701.14,
+  "conf": 1.0,
+  "size_pt": 17.26
+ },
+ {
+  "ward": 96,
+  "role": "location_names",
+  "text": "Integral Coach Factory Carriage",
+  "east": 416204.47,
+  "north": 1449065.58,
+  "conf": 1.0,
+  "size_pt": 93.95
+ },
+ {
+  "ward": 96,
+  "role": "location_names",
+  "text": "ICF Colony East",
+  "east": 415316.71,
+  "north": 1448389.0,
+  "conf": 1.0,
+  "size_pt": 45.72
+ },
+ {
+  "ward": 96,
+  "role": "location_names",
+  "text": "AyanavaramCemetery",
+  "east": 415592.07,
+  "north": 1447961.16,
+  "conf": 1.0,
+  "size_pt": 34.06
+ },
+ {
+  "ward": 96,
+  "role": "location_names",
+  "text": "Royal Enclave",
+  "east": 415427.88,
+  "north": 1447976.78,
+  "conf": 1.0,
+  "size_pt": 39.43
+ },
+ {
+  "ward": 96,
+  "role": "location_names",
+  "text": "Park",
+  "east": 416766.17,
+  "north": 1448128.97,
+  "conf": 1.0,
+  "size_pt": 12.23
+ },
+ {
+  "ward": 96,
+  "role": "location_names",
+  "text": "Park",
+  "east": 416110.23,
+  "north": 1448607.5,
+  "conf": 1.0,
+  "size_pt": 12.23
+ },
+ {
+  "ward": 96,
+  "role": "location_names",
+  "text": "ICF playground",
+  "east": 414959.21,
+  "north": 1448255.05,
+  "conf": 1.0,
+  "size_pt": 42.86
+ },
+ {
+  "ward": 96,
+  "role": "location_names",
+  "text": "Kambar Arangam",
+  "east": 415621.5,
+  "north": 1448286.3,
+  "conf": 1.0,
+  "size_pt": 50.29
+ },
+ {
+  "ward": 96,
+  "role": "location_names",
+  "text": "AyanavaramPost office",
+  "east": 416658.83,
+  "north": 1448381.54,
+  "conf": 1.0,
+  "size_pt": 34.06
+ },
+ {
+  "ward": 96,
+  "role": "location_names",
+  "text": "JeevaRark",
+  "east": 416451.0,
+  "north": 1448166.87,
+  "conf": 1.0,
+  "size_pt": 15.09
+ },
+ {
+  "ward": 96,
+  "role": "location_names",
+  "text": "AxisBankATM",
+  "east": 414873.13,
+  "north": 1448320.26,
+  "conf": 1.0,
+  "size_pt": 16.11
+ },
+ {
+  "ward": 96,
+  "role": "location_names",
+  "text": "SriEshodhaHospital",
+  "east": 417203.9,
+  "north": 1448087.45,
+  "conf": 1.0,
+  "size_pt": 24.46
+ },
+ {
+  "ward": 96,
+  "role": "location_names",
+  "text": "GovernmentMaternity And Child",
+  "east": 416521.15,
+  "north": 1448253.44,
+  "conf": 1.0,
+  "size_pt": 57.83
+ },
+ {
+  "ward": 96,
+  "role": "location_names",
+  "text": "ICF Colony",
+  "east": 415500.15,
+  "north": 1448275.41,
+  "conf": 1.0,
+  "size_pt": 30.86
+ },
+ {
+  "ward": 96,
+  "role": "location_names",
+  "text": "Officers Colony",
+  "east": 416474.58,
+  "north": 1448409.86,
+  "conf": 1.0,
+  "size_pt": 43.66
+ },
+ {
+  "ward": 96,
+  "role": "location_names",
+  "text": "ViinayagarKoil",
+  "east": 415173.18,
+  "north": 1448334.98,
+  "conf": 1.0,
+  "size_pt": 27.89
+ },
+ {
+  "ward": 96,
+  "role": "location_names",
+  "text": "CSISt vamesChurch",
+  "east": 416499.98,
+  "north": 1448133.2,
+  "conf": 1.0,
+  "size_pt": 27.2
+ },
+ {
+  "ward": 96,
+  "role": "location_names",
+  "text": "Loco WorkRailway Station",
+  "east": 416132.2,
+  "north": 1449195.7,
+  "conf": 1.0,
+  "size_pt": 43.77
+ },
+ {
+  "ward": 96,
+  "role": "location_names",
+  "text": "AnnaC3Peripheral 7.82Hospital Stop",
+  "east": 415281.63,
+  "north": 1448083.82,
+  "conf": 1.0,
+  "size_pt": 38.63
+ },
+ {
+  "ward": 96,
+  "role": "size_label",
+  "text": "C26C287.6857.967dhinagar",
+  "east": 415308.64,
+  "north": 1448042.9,
+  "conf": 1.0,
+  "size_pt": 39.09
+ },
+ {
+  "ward": 96,
+  "role": "size_label",
+  "text": "\u2022 /7.647C65",
+  "east": 415489.66,
+  "north": 1448023.45,
+  "conf": 1.0,
+  "size_pt": 27.66
+ },
+ {
+  "ward": 96,
+  "role": "size_label",
+  "text": "10",
+  "east": 415468.2,
+  "north": 1448105.89,
+  "conf": 1.0,
+  "size_pt": 5.49
+ },
+ {
+  "ward": 96,
+  "role": "size_label",
+  "text": "017.549",
+  "east": 415583.4,
+  "north": 1448059.43,
+  "conf": 1.0,
+  "size_pt": 25.37
+ },
+ {
+  "ward": 96,
+  "role": "size_label",
+  "text": "2.659C27",
+  "east": 415215.51,
+  "north": 1448076.46,
+  "conf": 1.0,
+  "size_pt": 26.06
+ }
+]

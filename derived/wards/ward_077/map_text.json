@@ -1,0 +1,362 @@
+[
+ {
+  "ward": 77,
+  "role": "road_name",
+  "text": "Demelles Road",
+  "east": 420764.29,
+  "north": 1447557.05,
+  "conf": 1.0,
+  "size_pt": 40.44
+ },
+ {
+  "ward": 77,
+  "role": "road_name",
+  "text": "Basin Bridge Road",
+  "east": 420727.14,
+  "north": 1447770.0,
+  "conf": 1.0,
+  "size_pt": 57.96
+ },
+ {
+  "ward": 77,
+  "role": "road_name",
+  "text": "Pulianthope High Road",
+  "east": 420418.13,
+  "north": 1448185.65,
+  "conf": 1.0,
+  "size_pt": 70.44
+ },
+ {
+  "ward": 77,
+  "role": "road_name",
+  "text": "Elephant Gate Bridge Road",
+  "east": 420901.54,
+  "north": 1447482.75,
+  "conf": 1.0,
+  "size_pt": 85.32
+ },
+ {
+  "ward": 77,
+  "role": "road_name",
+  "text": "C4Sod Mpihy hospitalC51.9872.1042nd Main RdCarporat\u00edonB18B199B222.036-OxB202.0371.9962.003Bogipalayamnd.laneOlorlaneBogi Palayam21Sivad RanBogi Palayam LaneIst Main StoB100osque\u2022B1716711.694Lane1.984End MainstMarket StStMainsB1601st.stP K Colony1.528B15\u00b0B92.0462ndChinnathambi1.541LaneStSiva RooRoad Land\u20ac KanagarajaGajaThothamShahifStODIDAISB8",
+  "east": 420003.94,
+  "north": 1448139.5,
+  "conf": 0.978,
+  "size_pt": 158.28
+ },
+ {
+  "ward": 77,
+  "role": "road_name",
+  "text": "Angalaman Koil_Street",
+  "east": 420038.22,
+  "north": 1447818.59,
+  "conf": 1.0,
+  "size_pt": 69.12
+ },
+ {
+  "ward": 77,
+  "role": "road_name",
+  "text": "Near Haj CommitteeElephantGate Street",
+  "east": 420631.26,
+  "north": 1447567.21,
+  "conf": 1.0,
+  "size_pt": 82.92
+ },
+ {
+  "ward": 77,
+  "role": "road_name",
+  "text": "varajKozhandhai st7Ayyavoo StGovindhan StSait Jesvandhma\u0142ThulasiSowgar St.,28901Kottur NallamuthtStreetB316,687Arimuth3rd LaneIst Lane2nd Lane2nd LaneayalaCopr Ist Lane(82-Up:Pachaiappan StiGovindhan St Nattur NallamuthuQOld Slaughter Houseap,Old Slaughter House RoadthHutting Rdngalammaan2nd StArimuthu Street:KB30%Jangamayabather1.872LaneAngalammansrdKoil North Mada St.",
+  "east": 420222.36,
+  "north": 1447697.18,
+  "conf": 0.967,
+  "size_pt": 162.12
+ },
+ {
+  "ward": 77,
+  "role": "road_name",
+  "text": "Avadi SrinivasaStreetVARD 78Periyathambi Stree",
+  "east": 420440.46,
+  "north": 1447602.35,
+  "conf": 1.0,
+  "size_pt": 77.4
+ },
+ {
+  "ward": 77,
+  "role": "road_name",
+  "text": "104.043Demelles Road",
+  "east": 420169.87,
+  "north": 1447921.36,
+  "conf": 1.0,
+  "size_pt": 42.84
+ },
+ {
+  "ward": 77,
+  "role": "road_name",
+  "text": "Ist StB13StreetTNSCB Colony2nd StMothilaSivgrajapuram\u0103s3rd Street350824Nehru7S.2nd StSt1th2nd Stth St3rd2ndIstIstAsirvathapuram3rd Lane& SundarapuramIst StreetIst Laneo Ist Lane.h stSundarapuram2nd statht83rddristenSt2nd St4th St2nd Lane3rd StIst3rd stt6th St2nd St.y5th St4th St4th St3rd 'StB23B25Sundarapuram2.2095thIst Main Road 2.6404th LaneIst St3rd SSundarapura2nd Sti6th St4th StreetQt 18th",
+  "east": 420567.98,
+  "north": 1448004.13,
+  "conf": 1.0,
+  "size_pt": 151.56
+ },
+ {
+  "ward": 77,
+  "role": "road_name",
+  "text": "B25SundarapuramIst Main Road 2.640LaneStSundarapuramIst4th4th Street",
+  "east": 420654.97,
+  "north": 1447911.52,
+  "conf": 1.0,
+  "size_pt": 66.6
+ },
+ {
+  "ward": 77,
+  "role": "road_name",
+  "text": "Z.ZUSSt6th St5thQt 18th",
+  "east": 420488.19,
+  "north": 1447904.21,
+  "conf": 0.825,
+  "size_pt": 46.68
+ },
+ {
+  "ward": 77,
+  "role": "road_name",
+  "text": "4th St095th St",
+  "east": 420487.34,
+  "north": 1447938.51,
+  "conf": 1.0,
+  "size_pt": 24.36
+ },
+ {
+  "ward": 77,
+  "role": "road_name",
+  "text": "16thQt 15th4761WARD 7i70Qt 14thQt 13thB5Kesavgt'ScbPillai ParkIst",
+  "east": 420516.23,
+  "north": 1447805.25,
+  "conf": 1.0,
+  "size_pt": 102.72
+ },
+ {
+  "ward": 77,
+  "role": "road_name",
+  "text": "9th St10th St3rd Stl'ehru",
+  "east": 420401.1,
+  "north": 1447895.0,
+  "conf": 1.0,
+  "size_pt": 48.48
+ },
+ {
+  "ward": 77,
+  "role": "road_name",
+  "text": "Kamaruramy1st St2nd St",
+  "east": 420353.37,
+  "north": 1447863.36,
+  "conf": 0.767,
+  "size_pt": 47.64
+ },
+ {
+  "ward": 77,
+  "role": "road_name",
+  "text": "2nd St3rd St",
+  "east": 420354.75,
+  "north": 1447954.06,
+  "conf": 1.0,
+  "size_pt": 23.76
+ },
+ {
+  "ward": 77,
+  "role": "road_name",
+  "text": "StPulianthope Higt4thIst Or St5d2nPulianthope3rd Street@Pulianthope2nd CrossPulianthope 5th StStMain StreetStreetSt 2sthCross St3r06thlonyCross StAth\u2022 PinpuramPulianthope IstGurusamy NagarPinpuram6th SiRajathotham Ist Street 7th St7th StCr St2nd StDr. Ansari St8th St3rd St3rd St9th St",
+  "east": 420337.07,
+  "north": 1448063.61,
+  "conf": 1.0,
+  "size_pt": 160.68
+ },
+ {
+  "ward": 77,
+  "role": "road_name",
+  "text": "8th St",
+  "east": 420415.59,
+  "north": 1447950.78,
+  "conf": 1.0,
+  "size_pt": 19.8
+ },
+ {
+  "ward": 77,
+  "role": "road_name",
+  "text": "6th St",
+  "east": 420427.87,
+  "north": 1447997.88,
+  "conf": 1.0,
+  "size_pt": 19.56
+ },
+ {
+  "ward": 77,
+  "role": "road_name",
+  "text": "5th St",
+  "east": 420434.54,
+  "north": 1448021.17,
+  "conf": 1.0,
+  "size_pt": 19.68
+ },
+ {
+  "ward": 77,
+  "role": "road_name",
+  "text": "B243rdSt4th St",
+  "east": 420443.43,
+  "north": 1448055.36,
+  "conf": 1.0,
+  "size_pt": 21.6
+ },
+ {
+  "ward": 77,
+  "role": "road_name",
+  "text": "B12\u00b0Canal StIstSt",
+  "east": 420464.27,
+  "north": 1448122.25,
+  "conf": 1.0,
+  "size_pt": 25.56
+ },
+ {
+  "ward": 77,
+  "role": "road_name",
+  "text": "Pulianthope 5th StColonyPK Colony",
+  "east": 420223.63,
+  "north": 1448110.71,
+  "conf": 1.0,
+  "size_pt": 70.8
+ },
+ {
+  "ward": 77,
+  "role": "road_name",
+  "text": "Siva kaoRoad Lane",
+  "east": 420123.73,
+  "north": 1448163.42,
+  "conf": 1.0,
+  "size_pt": 32.52
+ },
+ {
+  "ward": 77,
+  "role": "road_name",
+  "text": "1.094Rnd Main1stMain St60P K ColonyB15B92.046",
+  "east": 420078.23,
+  "north": 1448120.45,
+  "conf": 1.0,
+  "size_pt": 75.96
+ },
+ {
+  "ward": 77,
+  "role": "road_name",
+  "text": "KanagarajaThotham",
+  "east": 420167.44,
+  "north": 1448003.07,
+  "conf": 1.0,
+  "size_pt": 31.92
+ },
+ {
+  "ward": 77,
+  "role": "road_name",
+  "text": "Road LanePullianthope\u0411\u041e\u042fpuzVuruthuHigh_schoolstreetMosqueStreet\u042duD7",
+  "east": 419849.86,
+  "north": 1448207.45,
+  "conf": 1.0,
+  "size_pt": 82.32
+ },
+ {
+  "ward": 77,
+  "role": "road_name",
+  "text": "ThottikalaiKumarappaMudali St",
+  "east": 420470.94,
+  "north": 1447703.85,
+  "conf": 1.0,
+  "size_pt": 33.84
+ },
+ {
+  "ward": 77,
+  "role": "road_name",
+  "text": "GovindharajSt",
+  "east": 420254.85,
+  "north": 1447844.94,
+  "conf": 1.0,
+  "size_pt": 34.08
+ },
+ {
+  "ward": 77,
+  "role": "road_name",
+  "text": "Oil Mill Street/",
+  "east": 420553.27,
+  "north": 1447682.47,
+  "conf": 1.0,
+  "size_pt": 41.76
+ },
+ {
+  "ward": 77,
+  "role": "road_name",
+  "text": "Arimuthu Street",
+  "east": 420315.59,
+  "north": 1447615.05,
+  "conf": 1.0,
+  "size_pt": 50.04
+ },
+ {
+  "ward": 77,
+  "role": "road_name",
+  "text": "3rd St",
+  "east": 420257.28,
+  "north": 1447576.31,
+  "conf": 1.0,
+  "size_pt": 19.8
+ },
+ {
+  "ward": 77,
+  "role": "road_name",
+  "text": "Rajamuthaiah Salai (sydennams R",
+  "east": 420917.94,
+  "north": 1447427.92,
+  "conf": 1.0,
+  "size_pt": 107.76
+ },
+ {
+  "ward": 77,
+  "role": "road_name",
+  "text": "Arimuthu Street(82-Uptolast)",
+  "east": 420363.11,
+  "north": 1447693.06,
+  "conf": 1.0,
+  "size_pt": 49.8
+ },
+ {
+  "ward": 77,
+  "role": "road_name",
+  "text": "Sattanan Street",
+  "east": 420399.93,
+  "north": 1447532.71,
+  "conf": 1.0,
+  "size_pt": 49.56
+ },
+ {
+  "ward": 77,
+  "role": "location_names",
+  "text": "TNSCB Colony",
+  "east": 420550.2,
+  "north": 1448090.71,
+  "conf": 1.0,
+  "size_pt": 39.48
+ },
+ {
+  "ward": 77,
+  "role": "location_names",
+  "text": "ARA VINDTraveler's7 Coffee",
+  "east": 420214.74,
+  "north": 1447967.72,
+  "conf": 1.0,
+  "size_pt": 25.32
+ },
+ {
+  "ward": 77,
+  "role": "location_names",
+  "text": "DeepamMuthu Hospital",
+  "east": 419928.06,
+  "north": 1448262.7,
+  "conf": 1.0,
+  "size_pt": 43.44
+ }
+]

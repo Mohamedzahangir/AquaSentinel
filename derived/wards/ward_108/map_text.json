@@ -1,0 +1,857 @@
+[
+ {
+  "ward": 108,
+  "role": "road_name",
+  "text": "Periyar Pathai Road",
+  "east": 415296.89,
+  "north": 1443622.05,
+  "conf": 1.0,
+  "size_pt": 61.8
+ },
+ {
+  "ward": 108,
+  "role": "road_name",
+  "text": "Loganatha Nagar Ist StreetL7Street7 031",
+  "east": 414651.46,
+  "north": 1443827.46,
+  "conf": 0.875,
+  "size_pt": 80.76
+ },
+ {
+  "ward": 108,
+  "role": "road_name",
+  "text": "ganacna Nagar oLoganatha Nagar 2nd Streetant Stree",
+  "east": 414639.39,
+  "north": 1443880.66,
+  "conf": 0.767,
+  "size_pt": 82.44
+ },
+ {
+  "ward": 108,
+  "role": "road_name",
+  "text": "7.669Aoganatha Nagor Jrd StreetNadar 2nd Stre",
+  "east": 414623.73,
+  "north": 1443910.32,
+  "conf": 1.0,
+  "size_pt": 82.2
+ },
+ {
+  "ward": 108,
+  "role": "road_name",
+  "text": "Kosumani Street",
+  "east": 414951.74,
+  "north": 1443772.15,
+  "conf": 1.0,
+  "size_pt": 51.48
+ },
+ {
+  "ward": 108,
+  "role": "road_name",
+  "text": "Elango Adigal Street",
+  "east": 415023.92,
+  "north": 1443828.51,
+  "conf": 1.0,
+  "size_pt": 63.96
+ },
+ {
+  "ward": 108,
+  "role": "road_name",
+  "text": "Water Tank Rd",
+  "east": 414896.59,
+  "north": 1444720.57,
+  "conf": 1.0,
+  "size_pt": 39.48
+ },
+ {
+  "ward": 108,
+  "role": "road_name",
+  "text": "Post2nd StreetStreetOffice\u2022 C5MGR Street",
+  "east": 414893.2,
+  "north": 1444488.03,
+  "conf": 1.0,
+  "size_pt": 59.88
+ },
+ {
+  "ward": 108,
+  "role": "road_name",
+  "text": "Azad NagarRoadAzad NagarIst StreetCulvertAzad Nagar2nd Street",
+  "east": 415267.36,
+  "north": 1444673.81,
+  "conf": 1.0,
+  "size_pt": 68.16
+ },
+ {
+  "ward": 108,
+  "role": "road_name",
+  "text": "Anna NedumPathai",
+  "east": 415689.56,
+  "north": 1444372.34,
+  "conf": 1.0,
+  "size_pt": 38.76
+ },
+ {
+  "ward": 108,
+  "role": "road_name",
+  "text": "Bridge",
+  "east": 414493.86,
+  "north": 1443923.62,
+  "conf": 1.0,
+  "size_pt": 18.48
+ },
+ {
+  "ward": 108,
+  "role": "road_name",
+  "text": "Culvert",
+  "east": 414989.94,
+  "north": 1443962.04,
+  "conf": 1.0,
+  "size_pt": 19.8
+ },
+ {
+  "ward": 108,
+  "role": "road_name",
+  "text": "\u2022Culvert",
+  "east": 415055.78,
+  "north": 1443944.73,
+  "conf": 1.0,
+  "size_pt": 19.8
+ },
+ {
+  "ward": 108,
+  "role": "road_name",
+  "text": "\u2022Culvert",
+  "east": 415179.4,
+  "north": 1443941.56,
+  "conf": 1.0,
+  "size_pt": 19.8
+ },
+ {
+  "ward": 108,
+  "role": "road_name",
+  "text": "Culvert",
+  "east": 415164.37,
+  "north": 1443997.3,
+  "conf": 1.0,
+  "size_pt": 19.8
+ },
+ {
+  "ward": 108,
+  "role": "road_name",
+  "text": ",Culvert",
+  "east": 415152.31,
+  "north": 1444104.54,
+  "conf": 1.0,
+  "size_pt": 19.8
+ },
+ {
+  "ward": 108,
+  "role": "road_name",
+  "text": "Culvert",
+  "east": 415080.97,
+  "north": 1444143.18,
+  "conf": 1.0,
+  "size_pt": 19.8
+ },
+ {
+  "ward": 108,
+  "role": "road_name",
+  "text": "WARD 100CulvertVeerapandia Nagar3rd Street",
+  "east": 415204.81,
+  "north": 1444185.82,
+  "conf": 1.0,
+  "size_pt": 77.64
+ },
+ {
+  "ward": 108,
+  "role": "road_name",
+  "text": "'Culvert",
+  "east": 415159.08,
+  "north": 1444224.98,
+  "conf": 1.0,
+  "size_pt": 19.8
+ },
+ {
+  "ward": 108,
+  "role": "road_name",
+  "text": "CulvertDeivasigamai22nd Streetun",
+  "east": 415137.28,
+  "north": 1444363.37,
+  "conf": 1.0,
+  "size_pt": 40.92
+ },
+ {
+  "ward": 108,
+  "role": "road_name",
+  "text": "Subbarao80Nagar, Main Rodd CulvertDeivasigamaniIst StreetCulvertDeivasi",
+  "east": 415126.16,
+  "north": 1444410.76,
+  "conf": 1.0,
+  "size_pt": 106.08
+ },
+ {
+  "ward": 108,
+  "role": "road_name",
+  "text": "NacStreet P BlockPasumponCulvert",
+  "east": 415085.94,
+  "north": 1444505.87,
+  "conf": 1.0,
+  "size_pt": 45.6
+ },
+ {
+  "ward": 108,
+  "role": "road_name",
+  "text": "Culvert",
+  "east": 415368.23,
+  "north": 1444678.77,
+  "conf": 1.0,
+  "size_pt": 19.8
+ },
+ {
+  "ward": 108,
+  "role": "road_name",
+  "text": "Culvert",
+  "east": 415456.08,
+  "north": 1444639.29,
+  "conf": 1.0,
+  "size_pt": 19.8
+ },
+ {
+  "ward": 108,
+  "role": "road_name",
+  "text": "Ayyappan Nagar Street",
+  "east": 415105.63,
+  "north": 1443657.72,
+  "conf": 1.0,
+  "size_pt": 72.24
+ },
+ {
+  "ward": 108,
+  "role": "road_name",
+  "text": "Sivagami Street",
+  "east": 414835.2,
+  "north": 1443648.22,
+  "conf": 1.0,
+  "size_pt": 48.36
+ },
+ {
+  "ward": 108,
+  "role": "road_name",
+  "text": "Voc Ist Street",
+  "east": 414792.02,
+  "north": 1443663.53,
+  "conf": 1.0,
+  "size_pt": 44.64
+ },
+ {
+  "ward": 108,
+  "role": "road_name",
+  "text": "Voc 2nd Stree",
+  "east": 414748.41,
+  "north": 1443642.73,
+  "conf": 1.0,
+  "size_pt": 46.68
+ },
+ {
+  "ward": 108,
+  "role": "road_name",
+  "text": "Mnnal Kamarajar Street",
+  "east": 414605.31,
+  "north": 1443655.4,
+  "conf": 1.0,
+  "size_pt": 73.56
+ },
+ {
+  "ward": 108,
+  "role": "road_name",
+  "text": "Vallalar 2ndGross street",
+  "east": 414721.32,
+  "north": 1443752.09,
+  "conf": 1.0,
+  "size_pt": 36.12
+ },
+ {
+  "ward": 108,
+  "role": "road_name",
+  "text": "Vallalar Street",
+  "east": 414758.47,
+  "north": 1443763.7,
+  "conf": 1.0,
+  "size_pt": 40.68
+ },
+ {
+  "ward": 108,
+  "role": "road_name",
+  "text": "Amman Streetr Stre",
+  "east": 414781.65,
+  "north": 1443775.42,
+  "conf": 1.0,
+  "size_pt": 40.32
+ },
+ {
+  "ward": 108,
+  "role": "road_name",
+  "text": "DayalammanStreet",
+  "east": 414838.7,
+  "north": 1443853.53,
+  "conf": 1.0,
+  "size_pt": 35.52
+ },
+ {
+  "ward": 108,
+  "role": "road_name",
+  "text": "Ethiraj Street",
+  "east": 414950.57,
+  "north": 1443843.08,
+  "conf": 1.0,
+  "size_pt": 41.88
+ },
+ {
+  "ward": 108,
+  "role": "road_name",
+  "text": "M G R Street",
+  "east": 414967.51,
+  "north": 1443646.64,
+  "conf": 1.0,
+  "size_pt": 42.24
+ },
+ {
+  "ward": 108,
+  "role": "road_name",
+  "text": "Samyapurathamman Koil Street18197.711pnasamy Stree\u2022 Street7\u041dIMH\u041d\u041e\u0418H\u041d\u041d\u041d\u041d\u0410\u0428\u0421\u0428\u041d\u0415\u041cPerivar Path",
+  "east": 415219.94,
+  "north": 1443675.03,
+  "conf": 0.86,
+  "size_pt": 97.92
+ },
+ {
+  "ward": 108,
+  "role": "road_name",
+  "text": "Kannaiyappan Street",
+  "east": 415249.05,
+  "north": 1443762.96,
+  "conf": 1.0,
+  "size_pt": 63.24
+ },
+ {
+  "ward": 108,
+  "role": "road_name",
+  "text": "New West Street",
+  "east": 415080.23,
+  "north": 1443857.44,
+  "conf": 1.0,
+  "size_pt": 51.24
+ },
+ {
+  "ward": 108,
+  "role": "road_name",
+  "text": "Andavar Street",
+  "east": 415134.42,
+  "north": 1443874.11,
+  "conf": 1.0,
+  "size_pt": 45.24
+ },
+ {
+  "ward": 108,
+  "role": "road_name",
+  "text": "Bharathi Street",
+  "east": 415263.44,
+  "north": 1443812.79,
+  "conf": 1.0,
+  "size_pt": 46.92
+ },
+ {
+  "ward": 108,
+  "role": "road_name",
+  "text": "SubramaiyanStreet",
+  "east": 415348.33,
+  "north": 1443790.41,
+  "conf": 1.0,
+  "size_pt": 56.4
+ },
+ {
+  "ward": 108,
+  "role": "road_name",
+  "text": "Nehru Street Lane",
+  "east": 415377.96,
+  "north": 1443790.83,
+  "conf": 1.0,
+  "size_pt": 56.64
+ },
+ {
+  "ward": 108,
+  "role": "road_name",
+  "text": "Subbarayan Street",
+  "east": 415425.59,
+  "north": 1443781.86,
+  "conf": 1.0,
+  "size_pt": 56.28
+ },
+ {
+  "ward": 108,
+  "role": "road_name",
+  "text": "Pariyar PathayCross Streeta",
+  "east": 415502.86,
+  "north": 1443772.15,
+  "conf": 1.0,
+  "size_pt": 44.28
+ },
+ {
+  "ward": 108,
+  "role": "road_name",
+  "text": "Pariyar PathaiCross Street",
+  "east": 415330.02,
+  "north": 1443685.06,
+  "conf": 1.0,
+  "size_pt": 47.28
+ },
+ {
+  "ward": 108,
+  "role": "road_name",
+  "text": "Kannagi Street",
+  "east": 415441.47,
+  "north": 1443960.46,
+  "conf": 1.0,
+  "size_pt": 46.2
+ },
+ {
+  "ward": 108,
+  "role": "road_name",
+  "text": "BharathiIst StreerBharathi StreerStreetbharath\u0131Bharathi5th Street31Kalaimagal Street",
+  "east": 415573.45,
+  "north": 1444083.64,
+  "conf": 1.0,
+  "size_pt": 73.92
+ },
+ {
+  "ward": 108,
+  "role": "road_name",
+  "text": "BharathiStreer",
+  "east": 415559.59,
+  "north": 1444117.42,
+  "conf": 1.0,
+  "size_pt": 47.16
+ },
+ {
+  "ward": 108,
+  "role": "road_name",
+  "text": "Pari",
+  "east": 415444.96,
+  "north": 1444037.2,
+  "conf": 1.0,
+  "size_pt": 12.24
+ },
+ {
+  "ward": 108,
+  "role": "road_name",
+  "text": "Veerapandia Nagar2nd Street",
+  "east": 415459.46,
+  "north": 1444106.13,
+  "conf": 1.0,
+  "size_pt": 57.0
+ },
+ {
+  "ward": 108,
+  "role": "road_name",
+  "text": "StreetVeerapandiaPari 2nd StreeNagar Street",
+  "east": 415319.96,
+  "north": 1444076.57,
+  "conf": 1.0,
+  "size_pt": 79.08
+ },
+ {
+  "ward": 108,
+  "role": "road_name",
+  "text": "India Gandhi Street",
+  "east": 415057.79,
+  "north": 1443999.73,
+  "conf": 1.0,
+  "size_pt": 59.28
+ },
+ {
+  "ward": 108,
+  "role": "road_name",
+  "text": "SIDCO Road",
+  "east": 414920.41,
+  "north": 1444077.94,
+  "conf": 1.0,
+  "size_pt": 36.24
+ },
+ {
+  "ward": 108,
+  "role": "road_name",
+  "text": "India Gandhi 3rd Street",
+  "east": 415076.95,
+  "north": 1444062.53,
+  "conf": 1.0,
+  "size_pt": 73.56
+ },
+ {
+  "ward": 108,
+  "role": "road_name",
+  "text": "Nahure Street",
+  "east": 415258.15,
+  "north": 1443896.39,
+  "conf": 1.0,
+  "size_pt": 43.2
+ },
+ {
+  "ward": 108,
+  "role": "road_name",
+  "text": "0,18943Bagath SirIst Street3rd Street2nd StraetNSKStreetStreetBagathsignSK Street4thMillath StreetMuthumilagath SinghStreetV R StreetQuaide Millath Street",
+  "east": 414906.22,
+  "north": 1444271.32,
+  "conf": 1.0,
+  "size_pt": 88.56
+ },
+ {
+  "ward": 108,
+  "role": "road_name",
+  "text": "MuthumilStreet",
+  "east": 414956.18,
+  "north": 1444250.21,
+  "conf": 1.0,
+  "size_pt": 26.88
+ },
+ {
+  "ward": 108,
+  "role": "road_name",
+  "text": "Veerapathdia Nagar4th Street",
+  "east": 415043.82,
+  "north": 1444242.82,
+  "conf": 1.0,
+  "size_pt": 60.0
+ },
+ {
+  "ward": 108,
+  "role": "road_name",
+  "text": "Kamaraj Nagar3rd Street Exten",
+  "east": 415032.92,
+  "north": 1444300.88,
+  "conf": 1.0,
+  "size_pt": 51.96
+ },
+ {
+  "ward": 108,
+  "role": "road_name",
+  "text": "StreetOL)1stPariPari",
+  "east": 415258.47,
+  "north": 1444097.68,
+  "conf": 1.0,
+  "size_pt": 42.12
+ },
+ {
+  "ward": 108,
+  "role": "road_name",
+  "text": "1st Street",
+  "east": 415463.06,
+  "north": 1444034.14,
+  "conf": 1.0,
+  "size_pt": 30.36
+ },
+ {
+  "ward": 108,
+  "role": "road_name",
+  "text": "F11Veerapandia NagarIst Street",
+  "east": 415445.81,
+  "north": 1444183.61,
+  "conf": 1.0,
+  "size_pt": 57.12
+ },
+ {
+  "ward": 108,
+  "role": "road_name",
+  "text": "Pari Street Exten",
+  "east": 415071.02,
+  "north": 1444082.9,
+  "conf": 1.0,
+  "size_pt": 54.12
+ },
+ {
+  "ward": 108,
+  "role": "road_name",
+  "text": "SK Street",
+  "east": 414878.7,
+  "north": 1444280.61,
+  "conf": 1.0,
+  "size_pt": 29.28
+ },
+ {
+  "ward": 108,
+  "role": "road_name",
+  "text": "Bagath singhgIst StreetNSKStreet",
+  "east": 414871.93,
+  "north": 1444333.6,
+  "conf": 1.0,
+  "size_pt": 40.8
+ },
+ {
+  "ward": 108,
+  "role": "road_name",
+  "text": "3rd Street",
+  "east": 414941.15,
+  "north": 1444321.25,
+  "conf": 1.0,
+  "size_pt": 31.8
+ },
+ {
+  "ward": 108,
+  "role": "road_name",
+  "text": "Kamaraj Nagar2nd Street",
+  "east": 415602.35,
+  "north": 1444247.89,
+  "conf": 1.0,
+  "size_pt": 80.04
+ },
+ {
+  "ward": 108,
+  "role": "road_name",
+  "text": "Kamaraj Nagar 1st Street",
+  "east": 415617.7,
+  "north": 1444284.52,
+  "conf": 1.0,
+  "size_pt": 81.6
+ },
+ {
+  "ward": 108,
+  "role": "road_name",
+  "text": "Sathymurthy Street",
+  "east": 415608.17,
+  "north": 1444333.6,
+  "conf": 1.0,
+  "size_pt": 60.0
+ },
+ {
+  "ward": 108,
+  "role": "road_name",
+  "text": "Gandhi Road",
+  "east": 415305.04,
+  "north": 1444493.2,
+  "conf": 1.0,
+  "size_pt": 38.16
+ },
+ {
+  "ward": 108,
+  "role": "road_name",
+  "text": "Kasthuribai Road",
+  "east": 415286.41,
+  "north": 1444531.52,
+  "conf": 1.0,
+  "size_pt": 52.32
+ },
+ {
+  "ward": 108,
+  "role": "road_name",
+  "text": "Rajagopal Road",
+  "east": 415470.36,
+  "north": 1444552.63,
+  "conf": 1.0,
+  "size_pt": 48.72
+ },
+ {
+  "ward": 108,
+  "role": "road_name",
+  "text": "Rathinammal 2nd Street",
+  "east": 415504.34,
+  "north": 1444593.06,
+  "conf": 1.0,
+  "size_pt": 76.92
+ },
+ {
+  "ward": 108,
+  "role": "road_name",
+  "text": "MH.Colony Ist Main Road",
+  "east": 415590.81,
+  "north": 1444613.64,
+  "conf": 1.0,
+  "size_pt": 84.72
+ },
+ {
+  "ward": 108,
+  "role": "road_name",
+  "text": "Sivananda Road",
+  "east": 415631.24,
+  "north": 1444525.71,
+  "conf": 1.0,
+  "size_pt": 49.44
+ },
+ {
+  "ward": 108,
+  "role": "road_name",
+  "text": "Azad Nagarznd streetLStreAsath Nagar 3rd StreetQuide Millath Street",
+  "east": 415284.19,
+  "north": 1444610.9,
+  "conf": 1.0,
+  "size_pt": 89.88
+ },
+ {
+  "ward": 108,
+  "role": "road_name",
+  "text": "Elango Street",
+  "east": 414965.81,
+  "north": 1444698.09,
+  "conf": 1.0,
+  "size_pt": 41.88
+ },
+ {
+  "ward": 108,
+  "role": "road_name",
+  "text": "0.4LUThirukuralar street",
+  "east": 414981.16,
+  "north": 1444619.87,
+  "conf": 1.0,
+  "size_pt": 56.16
+ },
+ {
+  "ward": 108,
+  "role": "road_name",
+  "text": "Tholkappiar Street",
+  "east": 414971.95,
+  "north": 1444583.35,
+  "conf": 1.0,
+  "size_pt": 54.84
+ },
+ {
+  "ward": 108,
+  "role": "road_name",
+  "text": "Kannadasan Street",
+  "east": 414967.4,
+  "north": 1444552.1,
+  "conf": 1.0,
+  "size_pt": 58.56
+ },
+ {
+  "ward": 108,
+  "role": "road_name",
+  "text": "3rd Street4th StreetMGR",
+  "east": 414963.38,
+  "north": 1444503.86,
+  "conf": 1.0,
+  "size_pt": 32.04
+ },
+ {
+  "ward": 108,
+  "role": "road_name",
+  "text": "5th Street",
+  "east": 415012.38,
+  "north": 1444492.15,
+  "conf": 1.0,
+  "size_pt": 31.68
+ },
+ {
+  "ward": 108,
+  "role": "road_name",
+  "text": "Vinobaji 3rd Street",
+  "east": 415236.56,
+  "north": 1444321.57,
+  "conf": 1.0,
+  "size_pt": 58.2
+ },
+ {
+  "ward": 108,
+  "role": "road_name",
+  "text": "Vinobaji Street",
+  "east": 415240.37,
+  "north": 1444378.36,
+  "conf": 1.0,
+  "size_pt": 44.16
+ },
+ {
+  "ward": 108,
+  "role": "road_name",
+  "text": "Vinobaji 1st Street",
+  "east": 415291.07,
+  "north": 1444383.42,
+  "conf": 1.0,
+  "size_pt": 57.12
+ },
+ {
+  "ward": 108,
+  "role": "road_name",
+  "text": "3rd Cross Street2nd Cross StreetKumaraea NanaN.G.O Colony 2nd Main RoadF136.930",
+  "east": 415406.96,
+  "north": 1444289.9,
+  "conf": 1.0,
+  "size_pt": 90.24
+ },
+ {
+  "ward": 108,
+  "role": "road_name",
+  "text": "3rd Cross Street",
+  "east": 415394.37,
+  "north": 1444339.93,
+  "conf": 1.0,
+  "size_pt": 52.32
+ },
+ {
+  "ward": 108,
+  "role": "road_name",
+  "text": "Street704JD DurairajNagar 9th",
+  "east": 415113.57,
+  "north": 1444579.76,
+  "conf": 1.0,
+  "size_pt": 53.28
+ },
+ {
+  "ward": 108,
+  "role": "road_name",
+  "text": "Mangala Nagar Street",
+  "east": 415175.17,
+  "north": 1444541.86,
+  "conf": 1.0,
+  "size_pt": 68.28
+ },
+ {
+  "ward": 108,
+  "role": "road_name",
+  "text": "Street R BlockPasumpon",
+  "east": 415029.32,
+  "north": 1444690.38,
+  "conf": 1.0,
+  "size_pt": 45.6
+ },
+ {
+  "ward": 108,
+  "role": "location_names",
+  "text": "Arumbakkam,Metro Station",
+  "east": 414591.98,
+  "north": 1443986.43,
+  "conf": 1.0,
+  "size_pt": 41.88
+ },
+ {
+  "ward": 108,
+  "role": "location_names",
+  "text": "ThirunagarBus Stop",
+  "east": 414601.4,
+  "north": 1443761.17,
+  "conf": 1.0,
+  "size_pt": 31.2
+ },
+ {
+  "ward": 108,
+  "role": "location_names",
+  "text": "AishwaryaLadiesHostel",
+  "east": 415640.24,
+  "north": 1444423.53,
+  "conf": 1.0,
+  "size_pt": 32.76
+ },
+ {
+  "ward": 108,
+  "role": "location_names",
+  "text": "Azad NagarMosque",
+  "east": 415149.66,
+  "north": 1444699.14,
+  "conf": 1.0,
+  "size_pt": 34.08
+ },
+ {
+  "ward": 108,
+  "role": "size_label",
+  "text": "vy",
+  "east": 415157.6,
+  "north": 1444652.38,
+  "conf": 1.0,
+  "size_pt": 8.88
+ }
+]

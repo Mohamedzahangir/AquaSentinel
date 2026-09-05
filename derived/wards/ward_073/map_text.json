@@ -1,0 +1,434 @@
+[
+ {
+  "ward": 73,
+  "role": "road_name",
+  "text": "Decaster Road",
+  "east": 420448.34,
+  "north": 1448551.33,
+  "conf": 1.0,
+  "size_pt": 45.6
+ },
+ {
+  "ward": 73,
+  "role": "road_name",
+  "text": "1.857Pulianthope High RoadCulvert",
+  "east": 420438.18,
+  "north": 1448151.04,
+  "conf": 1.0,
+  "size_pt": 93.84
+ },
+ {
+  "ward": 73,
+  "role": "road_name",
+  "text": "StRoadIMALARAL UK.Main RoadRoad>pro MginMain8th Cross Lanpooy sillw \u043bapmod5th CrossLaneRodlNagal3rd Gross Lane2nd Cross igze d3.260th",
+  "east": 420630.49,
+  "north": 1448187.55,
+  "conf": 0.922,
+  "size_pt": 84.96
+ },
+ {
+  "ward": 73,
+  "role": "road_name",
+  "text": "Pollu Naicken Street",
+  "east": 420221.74,
+  "north": 1448296.89,
+  "conf": 1.0,
+  "size_pt": 63.72
+ },
+ {
+  "ward": 73,
+  "role": "road_name",
+  "text": "VeeraChetty St",
+  "east": 420397.54,
+  "north": 1448503.81,
+  "conf": 1.0,
+  "size_pt": 36.24
+ },
+ {
+  "ward": 73,
+  "role": "road_name",
+  "text": "292.815\u21922.861Prakash Rao ColonyParthasarathy Naidu StreetIst StreetSteNagaraKistappaGovindao1st Cross StParthasarathyGreyStreetIst Lan3Singh Street2nd Cross StLalD28fane32ndF3rd Cross StLane2.196gh Street4th Cross StParthasarathyGrey Nagar\"Ist Cross StS end Street 85th Cross St41st Streety6th Cross StTANTIMAI \u00c1PID2Periayer Nagar1.781Cross StMainD1 (OL)",
+  "east": 420443.05,
+  "north": 1448319.75,
+  "conf": 0.977,
+  "size_pt": 165.24
+ },
+ {
+  "ward": 73,
+  "role": "road_name",
+  "text": "Otteri Bridge",
+  "east": 418822.62,
+  "north": 1448085.2,
+  "conf": 1.0,
+  "size_pt": 29.28
+ },
+ {
+  "ward": 73,
+  "role": "road_name",
+  "text": "Cooks Road",
+  "east": 418942.12,
+  "north": 1448522.86,
+  "conf": 1.0,
+  "size_pt": 35.04
+ },
+ {
+  "ward": 73,
+  "role": "road_name",
+  "text": "Stephenson Road",
+  "east": 419718.89,
+  "north": 1448630.29,
+  "conf": 1.0,
+  "size_pt": 48.0
+ },
+ {
+  "ward": 73,
+  "role": "road_name",
+  "text": "Tiruvenkataswamy Street",
+  "east": 419872.67,
+  "north": 1448426.33,
+  "conf": 1.0,
+  "size_pt": 74.64
+ },
+ {
+  "ward": 73,
+  "role": "road_name",
+  "text": "Mannar Swamy Koil Street",
+  "east": 419933.85,
+  "north": 1448458.62,
+  "conf": 1.0,
+  "size_pt": 82.2
+ },
+ {
+  "ward": 73,
+  "role": "road_name",
+  "text": "Strahans Road",
+  "east": 418976.62,
+  "north": 1448055.25,
+  "conf": 1.0,
+  "size_pt": 45.96
+ },
+ {
+  "ward": 73,
+  "role": "road_name",
+  "text": "New Farens Road",
+  "east": 419028.7,
+  "north": 1448301.55,
+  "conf": 1.0,
+  "size_pt": 54.36
+ },
+ {
+  "ward": 73,
+  "role": "road_name",
+  "text": "Jafferkhan Street",
+  "east": 420052.92,
+  "north": 1448278.58,
+  "conf": 1.0,
+  "size_pt": 53.52
+ },
+ {
+  "ward": 73,
+  "role": "road_name",
+  "text": "5thCrosspDoy7S SUDYRtSDurga St5th StreetStahans Road4th StreetValliHussain",
+  "east": 419157.51,
+  "north": 1448122.35,
+  "conf": 1.0,
+  "size_pt": 65.76
+ },
+ {
+  "ward": 73,
+  "role": "road_name",
+  "text": "\u044dUDZCross3rd Streetist Streetyfnd Street",
+  "east": 419035.68,
+  "north": 1448112.62,
+  "conf": 0.86,
+  "size_pt": 62.76
+ },
+ {
+  "ward": 73,
+  "role": "road_name",
+  "text": "Alexander Ln",
+  "east": 419282.5,
+  "north": 1448099.6,
+  "conf": 1.0,
+  "size_pt": 39.24
+ },
+ {
+  "ward": 73,
+  "role": "road_name",
+  "text": "Ambedkar College Road",
+  "east": 419759.74,
+  "north": 1448378.18,
+  "conf": 1.0,
+  "size_pt": 74.04
+ },
+ {
+  "ward": 73,
+  "role": "road_name",
+  "text": "Bridge",
+  "east": 419484.77,
+  "north": 1448750.21,
+  "conf": 1.0,
+  "size_pt": 18.48
+ },
+ {
+  "ward": 73,
+  "role": "road_name",
+  "text": "Culvert",
+  "east": 420669.44,
+  "north": 1448275.83,
+  "conf": 1.0,
+  "size_pt": 19.8
+ },
+ {
+  "ward": 73,
+  "role": "road_name",
+  "text": "Decaster Road",
+  "east": 419975.55,
+  "north": 1448604.25,
+  "conf": 1.0,
+  "size_pt": 45.72
+ },
+ {
+  "ward": 73,
+  "role": "road_name",
+  "text": "Ammaiyammal Street",
+  "east": 419672.85,
+  "north": 1448154.95,
+  "conf": 1.0,
+  "size_pt": 66.84
+ },
+ {
+  "ward": 73,
+  "role": "road_name",
+  "text": "Kutty ThambiranD312nd Lane2.8612nd StPrakash Rao ColonyIst StreetTNSCB ColonyGovinda Singh Street\"apan Street\u2022D26reetarth",
+  "east": 420280.37,
+  "north": 1448397.23,
+  "conf": 1.0,
+  "size_pt": 95.88
+ },
+ {
+  "ward": 73,
+  "role": "road_name",
+  "text": "Natchiorammal StreetRamaswamyStreetInfforthan Ct.",
+  "east": 420038.21,
+  "north": 1448314.35,
+  "conf": 1.0,
+  "size_pt": 79.32
+ },
+ {
+  "ward": 73,
+  "role": "road_name",
+  "text": "28",
+  "east": 419988.78,
+  "north": 1448453.85,
+  "conf": 1.0,
+  "size_pt": 58.56
+ },
+ {
+  "ward": 73,
+  "role": "road_name",
+  "text": "Padison Puram Lanes",
+  "east": 419905.48,
+  "north": 1448567.95,
+  "conf": 1.0,
+  "size_pt": 67.8
+ },
+ {
+  "ward": 73,
+  "role": "road_name",
+  "text": "BillvedarVillage",
+  "east": 419440.0,
+  "north": 1448147.54,
+  "conf": 1.0,
+  "size_pt": 25.08
+ },
+ {
+  "ward": 73,
+  "role": "road_name",
+  "text": "J IDurgaCross Lane",
+  "east": 419257.95,
+  "north": 1448169.03,
+  "conf": 0.767,
+  "size_pt": 33.0
+ },
+ {
+  "ward": 73,
+  "role": "road_name",
+  "text": "Subbaraya Street..",
+  "east": 418841.15,
+  "north": 1448250.95,
+  "conf": 1.0,
+  "size_pt": 50.52
+ },
+ {
+  "ward": 73,
+  "role": "road_name",
+  "text": "CooksRoad",
+  "east": 418873.85,
+  "north": 1448234.02,
+  "conf": 1.0,
+  "size_pt": 17.52
+ },
+ {
+  "ward": 73,
+  "role": "road_name",
+  "text": "Subhedar StreetShaik Moideen",
+  "east": 419378.82,
+  "north": 1448110.5,
+  "conf": 1.0,
+  "size_pt": 67.44
+ },
+ {
+  "ward": 73,
+  "role": "road_name",
+  "text": "PensionersLane",
+  "east": 419582.25,
+  "north": 1448230.63,
+  "conf": 1.0,
+  "size_pt": 51.48
+ },
+ {
+  "ward": 73,
+  "role": "road_name",
+  "text": "+M00\u2022",
+  "east": 420108.59,
+  "north": 1448460.52,
+  "conf": 1.0,
+  "size_pt": 62.52
+ },
+ {
+  "ward": 73,
+  "role": "road_name",
+  "text": "Kutty Thambiran16Ist Lane369Kutty Tr2nd LanAmmiyanmal StreetTNSCEin Street~i",
+  "east": 420181.94,
+  "north": 1448432.37,
+  "conf": 0.95,
+  "size_pt": 74.76
+ },
+ {
+  "ward": 73,
+  "role": "road_name",
+  "text": "Ni",
+  "east": 420058.74,
+  "north": 1448469.94,
+  "conf": 1.0,
+  "size_pt": 69.84
+ },
+ {
+  "ward": 73,
+  "role": "road_name",
+  "text": "Old Vazhma Nagar",
+  "east": 418946.14,
+  "north": 1448196.23,
+  "conf": 1.0,
+  "size_pt": 57.48
+ },
+ {
+  "ward": 73,
+  "role": "road_name",
+  "text": "BillvedarVillage",
+  "east": 419052.41,
+  "north": 1448240.16,
+  "conf": 1.0,
+  "size_pt": 25.08
+ },
+ {
+  "ward": 73,
+  "role": "road_name",
+  "text": "KanakammalStreet",
+  "east": 419315.1,
+  "north": 1448191.36,
+  "conf": 1.0,
+  "size_pt": 39.0
+ },
+ {
+  "ward": 73,
+  "role": "road_name",
+  "text": "New Ferrance Road1-3 Lanes (N)",
+  "east": 419448.36,
+  "north": 1448247.57,
+  "conf": 1.0,
+  "size_pt": 61.08
+ },
+ {
+  "ward": 73,
+  "role": "road_name",
+  "text": "1-4 Lanes (W)",
+  "east": 419411.63,
+  "north": 1448239.63,
+  "conf": 1.0,
+  "size_pt": 45.36
+ },
+ {
+  "ward": 73,
+  "role": "road_name",
+  "text": "2.19Singh StreetParthasarathyLane",
+  "east": 420342.08,
+  "north": 1448268.31,
+  "conf": 1.0,
+  "size_pt": 57.12
+ },
+ {
+  "ward": 73,
+  "role": "road_name",
+  "text": "Pensioners Lane M Block",
+  "east": 419590.82,
+  "north": 1448278.37,
+  "conf": 1.0,
+  "size_pt": 75.12
+ },
+ {
+  "ward": 73,
+  "role": "location_names",
+  "text": "TNSCB Colony:",
+  "east": 420246.82,
+  "north": 1448393.63,
+  "conf": 1.0,
+  "size_pt": 42.24
+ },
+ {
+  "ward": 73,
+  "role": "location_names",
+  "text": "Binny Mills",
+  "east": 419129.35,
+  "north": 1448632.09,
+  "conf": 1.0,
+  "size_pt": 31.92
+ },
+ {
+  "ward": 73,
+  "role": "location_names",
+  "text": "Binny Mills",
+  "east": 419625.32,
+  "north": 1448708.19,
+  "conf": 1.0,
+  "size_pt": 31.92
+ },
+ {
+  "ward": 73,
+  "role": "location_names",
+  "text": "ARSSuperMarket",
+  "east": 419804.3,
+  "north": 1448220.68,
+  "conf": 1.0,
+  "size_pt": 19.8
+ },
+ {
+  "ward": 73,
+  "role": "location_names",
+  "text": "OtteriPoliceStation",
+  "east": 418852.79,
+  "north": 1448362.93,
+  "conf": 1.0,
+  "size_pt": 21.24
+ },
+ {
+  "ward": 73,
+  "role": "location_names",
+  "text": "DeepamMuthu Hospital",
+  "east": 419891.83,
+  "north": 1448262.07,
+  "conf": 1.0,
+  "size_pt": 46.32
+ }
+]

@@ -1,0 +1,1550 @@
+[
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "Landons Rd",
+  "east": 417589.57,
+  "north": 1446035.21,
+  "conf": 1.0,
+  "size_pt": 34.68
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "LimitedKilpauk Garden Road",
+  "east": 417924.93,
+  "north": 1446278.57,
+  "conf": 1.0,
+  "size_pt": 64.08
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "Harleys Rd",
+  "east": 417973.18,
+  "north": 1446352.53,
+  "conf": 1.0,
+  "size_pt": 31.68
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "Balfour Rd",
+  "east": 418127.79,
+  "north": 1446459.18,
+  "conf": 1.0,
+  "size_pt": 31.68
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "Rajarathinam",
+  "east": 417736.35,
+  "north": 1445908.67,
+  "conf": 1.0,
+  "size_pt": 44.16
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "Street",
+  "east": 417802.17,
+  "north": 1445909.51,
+  "conf": 1.0,
+  "size_pt": 19.68
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "KilpaukGarden Road",
+  "east": 417504.49,
+  "north": 1446361.84,
+  "conf": 1.0,
+  "size_pt": 36.84
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "Branson Garden Street3.82",
+  "east": 417974.14,
+  "north": 1446590.06,
+  "conf": 1.0,
+  "size_pt": 63.96
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "Damodaran Street",
+  "east": 418047.68,
+  "north": 1446498.54,
+  "conf": 1.0,
+  "size_pt": 53.28
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "Vasu Street",
+  "east": 417664.6,
+  "north": 1445786.67,
+  "conf": 1.0,
+  "size_pt": 35.04
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "KilpaukGarden Road",
+  "east": 418132.77,
+  "north": 1446229.69,
+  "conf": 1.0,
+  "size_pt": 38.88
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "Barnaby Road",
+  "east": 418422.83,
+  "north": 1446063.36,
+  "conf": 1.0,
+  "size_pt": 39.96
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "Halls Road",
+  "east": 417227.97,
+  "north": 1446011.19,
+  "conf": 1.0,
+  "size_pt": 32.4
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "Halls Road",
+  "east": 416724.56,
+  "north": 1446274.55,
+  "conf": 1.0,
+  "size_pt": 32.28
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "Umayal Street",
+  "east": 417113.15,
+  "north": 1445867.09,
+  "conf": 1.0,
+  "size_pt": 43.2
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "Central Street",
+  "east": 417049.86,
+  "north": 1446510.39,
+  "conf": 1.0,
+  "size_pt": 42.6
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "Temple Street",
+  "east": 416997.16,
+  "north": 1446030.13,
+  "conf": 1.0,
+  "size_pt": 42.36
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "Lakshmi Street",
+  "east": 417004.68,
+  "north": 1445866.03,
+  "conf": 1.0,
+  "size_pt": 46.32
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "Mandapam Road",
+  "east": 417231.14,
+  "north": 1446471.45,
+  "conf": 1.0,
+  "size_pt": 51.12
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "Damodaramoorthy RdDamodarPonnappa StreetMurthy",
+  "east": 417138.55,
+  "north": 1446597.47,
+  "conf": 1.0,
+  "size_pt": 74.52
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "Valliammal street",
+  "east": 417000.87,
+  "north": 1445925.7,
+  "conf": 1.0,
+  "size_pt": 53.04
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "5.7ipoauk cofden Roa ee",
+  "east": 417516.34,
+  "north": 1446459.81,
+  "conf": 0.65,
+  "size_pt": 83.52
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "Kilpauk Garden Road",
+  "east": 417185.0,
+  "north": 1446412.41,
+  "conf": 1.0,
+  "size_pt": 65.28
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "New Avadi Road",
+  "east": 416941.61,
+  "north": 1445653.99,
+  "conf": 1.0,
+  "size_pt": 49.2
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "Taylors RoadSolai St",
+  "east": 417266.91,
+  "north": 1445880.31,
+  "conf": 1.0,
+  "size_pt": 49.32
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "Temple Lane",
+  "east": 416987.64,
+  "north": 1445976.07,
+  "conf": 1.0,
+  "size_pt": 37.68
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "New Avadi Road",
+  "east": 416937.48,
+  "north": 1446269.36,
+  "conf": 1.0,
+  "size_pt": 50.64
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "Taylors Road",
+  "east": 417462.9,
+  "north": 1446271.58,
+  "conf": 1.0,
+  "size_pt": 39.0
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "Taylors Road",
+  "east": 417365.86,
+  "north": 1446107.37,
+  "conf": 1.0,
+  "size_pt": 36.36
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "EVR Periyar Salai",
+  "east": 418009.48,
+  "north": 1445780.75,
+  "conf": 1.0,
+  "size_pt": 53.64
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "Kellys Road",
+  "east": 418234.68,
+  "north": 1446529.54,
+  "conf": 1.0,
+  "size_pt": 31.8
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "Kilpauk Garden Rd",
+  "east": 416496.08,
+  "north": 1446337.71,
+  "conf": 1.0,
+  "size_pt": 64.08
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "Periyar Evr Salai",
+  "east": 418157.42,
+  "north": 1445751.44,
+  "conf": 1.0,
+  "size_pt": 56.76
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "st Cross St3rd Cross StPurasaiwakkamHigh Rd21 Semmanpettal361 2nd Crass St",
+  "east": 418269.6,
+  "north": 1446683.91,
+  "conf": 1.0,
+  "size_pt": 67.8
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "Cross St",
+  "east": 418212.88,
+  "north": 1446707.72,
+  "conf": 1.0,
+  "size_pt": 28.92
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "14th St",
+  "east": 416782.23,
+  "north": 1446033.63,
+  "conf": 1.0,
+  "size_pt": 24.72
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "ThandavarayaRani Anna NagarePillai Chatiram6QJ5th StreetSt3rdSt7th Street5th St4th St10th St8th Street\u00e03rd Street5th StChatiramThandavaraya Pillai Chatiram12th \u22646th St10th Street13th \u22647th St1oth st8th St52th Streeto+12th StVTht StreetA1114th4thSt",
+  "east": 416706.89,
+  "north": 1446131.6,
+  "conf": 1.0,
+  "size_pt": 132.24
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "A10Thandavaraya6.l2nd st_Pillai Chatiram 1625 Kamaraj Nagar4th StreetThandavaraya3rd Street Pillai Chatiram 17\u00a7 6th StreetDID\u0428DThandavarayaKamaraj Nagar4th Street Pillai Chatiram 2ndxIst Street",
+  "east": 416727.52,
+  "north": 1445966.65,
+  "conf": 1.0,
+  "size_pt": 174.12
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "Kummalamman Koil Street",
+  "east": 417287.44,
+  "north": 1445745.09,
+  "conf": 1.0,
+  "size_pt": 91.68
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "Ist Street",
+  "east": 416605.61,
+  "north": 1446039.02,
+  "conf": 1.0,
+  "size_pt": 33.48
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "Anthony Church",
+  "east": 418360.08,
+  "north": 1446694.07,
+  "conf": 1.0,
+  "size_pt": 54.0
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "St",
+  "east": 418356.69,
+  "north": 1446757.02,
+  "conf": 1.0,
+  "size_pt": 6.36
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "Thandavaraya Pillai Chatiram20",
+  "east": 416666.36,
+  "north": 1445904.01,
+  "conf": 1.0,
+  "size_pt": 111.72
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "KilpaukGarden Rd",
+  "east": 417387.76,
+  "north": 1446356.02,
+  "conf": 1.0,
+  "size_pt": 35.52
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "4th St1OthSt12thSt2 St 13thSt",
+  "east": 416791.86,
+  "north": 1446113.72,
+  "conf": 1.0,
+  "size_pt": 44.52
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "Road:Halls",
+  "east": 416814.51,
+  "north": 1446169.27,
+  "conf": 1.0,
+  "size_pt": 24.0
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "ManonmaniammalStreet",
+  "east": 418641.36,
+  "north": 1446488.38,
+  "conf": 1.0,
+  "size_pt": 59.76
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "Colony 4th StSylvan Lodge",
+  "east": 418359.97,
+  "north": 1446280.9,
+  "conf": 1.0,
+  "size_pt": 97.08
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "7th StreetPillai8th StreetChatiram 1st10th StreetThandavaraya12th Streetst Street",
+  "east": 416635.14,
+  "north": 1446102.08,
+  "conf": 1.0,
+  "size_pt": 73.08
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "RamanathanStreet",
+  "east": 416836.2,
+  "north": 1445758.42,
+  "conf": 1.0,
+  "size_pt": 41.04
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "Halls Lane",
+  "east": 417065.53,
+  "north": 1446211.49,
+  "conf": 1.0,
+  "size_pt": 35.16
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "AppavooAvenue",
+  "east": 417034.84,
+  "north": 1446560.96,
+  "conf": 1.0,
+  "size_pt": 27.84
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "Parasu Pillai Street",
+  "east": 417291.57,
+  "north": 1446324.17,
+  "conf": 1.0,
+  "size_pt": 63.6
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "Rems Street",
+  "east": 417398.24,
+  "north": 1446280.37,
+  "conf": 1.0,
+  "size_pt": 43.08
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "Taylors Road",
+  "east": 417401.94,
+  "north": 1446328.09,
+  "conf": 1.0,
+  "size_pt": 43.2
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "RagavanVeera",
+  "east": 417171.67,
+  "north": 1445861.37,
+  "conf": 1.0,
+  "size_pt": 27.36
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "Thandavaraya Pillai ChatiramThandavaraya\u2022Pillai Chatiram 26ThandavarayaPillai Chatiram 28ThandavarayaPillai Chatiram 30",
+  "east": 416638.31,
+  "north": 1445783.5,
+  "conf": 1.0,
+  "size_pt": 106.8
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "24",
+  "east": 416748.9,
+  "north": 1445842.65,
+  "conf": 1.0,
+  "size_pt": 7.8
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "Thandavaraya Pillai Chatiram 22A12",
+  "east": 416658.1,
+  "north": 1445872.17,
+  "conf": 1.0,
+  "size_pt": 111.72
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "Thiru",
+  "east": 417195.8,
+  "north": 1445788.26,
+  "conf": 1.0,
+  "size_pt": 14.4
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "Veediamman KoilSt",
+  "east": 417280.24,
+  "north": 1445781.38,
+  "conf": 1.0,
+  "size_pt": 68.64
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "Muthu",
+  "east": 417210.19,
+  "north": 1445837.57,
+  "conf": 1.0,
+  "size_pt": 19.2
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "Prof. Subramaniam",
+  "east": 417591.47,
+  "north": 1445908.46,
+  "conf": 1.0,
+  "size_pt": 61.56
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "St",
+  "east": 417660.58,
+  "north": 1445908.14,
+  "conf": 1.0,
+  "size_pt": 6.0
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "Barnaby Rd",
+  "east": 418371.3,
+  "north": 1445978.08,
+  "conf": 1.0,
+  "size_pt": 37.8
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "Barnaby Avenue",
+  "east": 418484.63,
+  "north": 1446000.83,
+  "conf": 1.0,
+  "size_pt": 54.24
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "Ormes Rd",
+  "east": 418153.3,
+  "north": 1446131.71,
+  "conf": 1.0,
+  "size_pt": 33.72
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "Kilpauk Garden Rd",
+  "east": 417597.19,
+  "north": 1446325.44,
+  "conf": 1.0,
+  "size_pt": 63.84
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "Kilpauk Garden RdTaylors Road",
+  "east": 417452.32,
+  "north": 1446046.75,
+  "conf": 1.0,
+  "size_pt": 64.08
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "KilpaukGardenRd",
+  "east": 417703.12,
+  "north": 1446157.95,
+  "conf": 1.0,
+  "size_pt": 23.28
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "Landons Road",
+  "east": 417732.96,
+  "north": 1446057.33,
+  "conf": 1.0,
+  "size_pt": 48.48
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "Ormes Rd",
+  "east": 418542.73,
+  "north": 1446227.57,
+  "conf": 1.0,
+  "size_pt": 33.72
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "iMedawakkamTank Road",
+  "east": 418163.77,
+  "north": 1446680.53,
+  "conf": 1.0,
+  "size_pt": 36.72
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "Chatur Pujadoss Rd",
+  "east": 417108.91,
+  "north": 1445648.81,
+  "conf": 1.0,
+  "size_pt": 68.52
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "7th",
+  "east": 416600.32,
+  "north": 1446163.98,
+  "conf": 1.0,
+  "size_pt": 9.48
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "St, St, St",
+  "east": 416827.0,
+  "north": 1446119.54,
+  "conf": 1.0,
+  "size_pt": 24.72
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "ThandavarayaPillai Chatiram",
+  "east": 416587.31,
+  "north": 1445708.06,
+  "conf": 1.0,
+  "size_pt": 49.44
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "Periyar Evr Salai",
+  "east": 417138.12,
+  "north": 1445556.86,
+  "conf": 1.0,
+  "size_pt": 56.04
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "Landons Road",
+  "east": 417672.32,
+  "north": 1445967.39,
+  "conf": 1.0,
+  "size_pt": 48.72
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "476",
+  "east": 416804.03,
+  "north": 1446061.03,
+  "conf": 1.0,
+  "size_pt": 9.48
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "Kellys Rd",
+  "east": 418272.67,
+  "north": 1446427.54,
+  "conf": 1.0,
+  "size_pt": 24.6
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "Ormes Rd",
+  "east": 418200.5,
+  "north": 1446262.8,
+  "conf": 1.0,
+  "size_pt": 33.6
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "3rd St",
+  "east": 418407.17,
+  "north": 1446289.04,
+  "conf": 1.0,
+  "size_pt": 21.72
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "Ist Street",
+  "east": 418448.34,
+  "north": 1446263.54,
+  "conf": 1.0,
+  "size_pt": 33.48
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "ThambusamyStreet",
+  "east": 418445.27,
+  "north": 1446409.66,
+  "conf": 1.0,
+  "size_pt": 42.96
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "Ist Cross StOrmes Rd,",
+  "east": 418413.73,
+  "north": 1446120.7,
+  "conf": 1.0,
+  "size_pt": 42.36
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "Anusuya Avenue",
+  "east": 418308.54,
+  "north": 1446115.41,
+  "conf": 1.0,
+  "size_pt": 55.8
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "Ormes Rd,",
+  "east": 417775.08,
+  "north": 1446153.19,
+  "conf": 1.0,
+  "size_pt": 34.32
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "4th",
+  "east": 417776.88,
+  "north": 1446203.13,
+  "conf": 1.0,
+  "size_pt": 9.84
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "Cross st",
+  "east": 417779.0,
+  "north": 1446247.25,
+  "conf": 1.0,
+  "size_pt": 28.68
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "Ormes Rd,",
+  "east": 417893.82,
+  "north": 1446140.7,
+  "conf": 1.0,
+  "size_pt": 34.32
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "3rd Cross St",
+  "east": 417897.1,
+  "north": 1446220.59,
+  "conf": 1.0,
+  "size_pt": 44.28
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "Harleys Rd",
+  "east": 417886.2,
+  "north": 1446425.11,
+  "conf": 1.0,
+  "size_pt": 32.64
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "Nehata AvenueSundarlal",
+  "east": 417751.9,
+  "north": 1446400.03,
+  "conf": 1.0,
+  "size_pt": 50.28
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "St",
+  "east": 417589.68,
+  "north": 1446553.14,
+  "conf": 1.0,
+  "size_pt": 6.72
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "SivasankaranStreet",
+  "east": 417199.82,
+  "north": 1446155.51,
+  "conf": 1.0,
+  "size_pt": 33.6
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "Thiyagappa Street",
+  "east": 417186.59,
+  "north": 1446332.63,
+  "conf": 1.0,
+  "size_pt": 60.6
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "AppaGarden Street",
+  "east": 417278.76,
+  "north": 1446183.87,
+  "conf": 1.0,
+  "size_pt": 44.16
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "Ramanathan",
+  "east": 417031.13,
+  "north": 1445760.75,
+  "conf": 1.0,
+  "size_pt": 40.32
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "Street",
+  "east": 417093.57,
+  "north": 1445775.04,
+  "conf": 1.0,
+  "size_pt": 19.2
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "New Avadi Rd",
+  "east": 416991.98,
+  "north": 1446324.28,
+  "conf": 1.0,
+  "size_pt": 48.24
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "ThirunarayananAvenue",
+  "east": 417018.86,
+  "north": 1446479.6,
+  "conf": 1.0,
+  "size_pt": 48.24
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "K.G.",
+  "east": 417361.52,
+  "north": 1446404.9,
+  "conf": 1.0,
+  "size_pt": 11.64
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "Road,",
+  "east": 417366.39,
+  "north": 1446440.35,
+  "conf": 1.0,
+  "size_pt": 17.28
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "Ist Street",
+  "east": 417372.42,
+  "north": 1446497.16,
+  "conf": 1.0,
+  "size_pt": 33.48
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "Dharmaraj KollStreet And Lane",
+  "east": 416868.69,
+  "north": 1446293.49,
+  "conf": 1.0,
+  "size_pt": 57.0
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "Agasthiar Street",
+  "east": 416859.59,
+  "north": 1446143.45,
+  "conf": 1.0,
+  "size_pt": 56.64
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "lempleStreet",
+  "east": 416844.04,
+  "north": 1446029.82,
+  "conf": 1.0,
+  "size_pt": 22.32
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "12nd St",
+  "east": 416613.13,
+  "north": 1445999.87,
+  "conf": 1.0,
+  "size_pt": 23.52
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "LakshmiStreet",
+  "east": 416859.59,
+  "north": 1445846.03,
+  "conf": 1.0,
+  "size_pt": 27.0
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "31",
+  "east": 416646.25,
+  "north": 1445697.9,
+  "conf": 1.0,
+  "size_pt": 6.6
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "St",
+  "east": 417179.29,
+  "north": 1445900.42,
+  "conf": 1.0,
+  "size_pt": 6.12
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "2nd Cross St",
+  "east": 418174.25,
+  "north": 1446134.88,
+  "conf": 1.0,
+  "size_pt": 46.2
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "Murthy StDamodar",
+  "east": 417191.46,
+  "north": 1446586.46,
+  "conf": 1.0,
+  "size_pt": 33.48
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "Dr.Muniyappa Rd",
+  "east": 417969.16,
+  "north": 1446123.14,
+  "conf": 1.0,
+  "size_pt": 57.12
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "Manickeswari St",
+  "east": 418047.05,
+  "north": 1446123.24,
+  "conf": 1.0,
+  "size_pt": 54.36
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "Gajapathy St",
+  "east": 418101.44,
+  "north": 1446006.96,
+  "conf": 1.0,
+  "size_pt": 43.92
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "Waddels Road",
+  "east": 418220.18,
+  "north": 1446079.55,
+  "conf": 1.0,
+  "size_pt": 46.56
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "Thambusamy St",
+  "east": 418569.08,
+  "north": 1446444.37,
+  "conf": 1.0,
+  "size_pt": 53.4
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "Ranganathan Avenue",
+  "east": 418543.16,
+  "north": 1446364.91,
+  "conf": 1.0,
+  "size_pt": 72.0
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "Purasaiwakkam High",
+  "east": 418540.51,
+  "north": 1446627.2,
+  "conf": 1.0,
+  "size_pt": 69.24
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "Rd",
+  "east": 418618.29,
+  "north": 1446630.48,
+  "conf": 1.0,
+  "size_pt": 8.16
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "Vasu St,",
+  "east": 417724.5,
+  "north": 1445979.88,
+  "conf": 1.0,
+  "size_pt": 26.88
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "Lane",
+  "east": 417771.69,
+  "north": 1445980.41,
+  "conf": 1.0,
+  "size_pt": 15.12
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "Kilpauk",
+  "east": 417636.13,
+  "north": 1446063.78,
+  "conf": 1.0,
+  "size_pt": 23.4
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "Barnaby Rd",
+  "east": 418083.24,
+  "north": 1445853.54,
+  "conf": 1.0,
+  "size_pt": 39.84
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "Millers Rd",
+  "east": 418758.72,
+  "north": 1446693.33,
+  "conf": 1.0,
+  "size_pt": 33.48
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "New Avadi Rd",
+  "east": 416981.93,
+  "north": 1446603.71,
+  "conf": 1.0,
+  "size_pt": 48.0
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "Thandavaraya Pillai Chatiram Main",
+  "east": 416554.18,
+  "north": 1446032.04,
+  "conf": 1.0,
+  "size_pt": 117.24
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "Garden Rd",
+  "east": 417655.5,
+  "north": 1446065.58,
+  "conf": 1.0,
+  "size_pt": 35.52
+ },
+ {
+  "ward": 103,
+  "role": "road_name",
+  "text": "1st",
+  "east": 416684.35,
+  "north": 1446164.51,
+  "conf": 1.0,
+  "size_pt": 8.52
+ },
+ {
+  "ward": 103,
+  "role": "location_names",
+  "text": "Honey",
+  "east": 416685.09,
+  "north": 1446332.85,
+  "conf": 1.0,
+  "size_pt": 20.4
+ },
+ {
+  "ward": 103,
+  "role": "location_names",
+  "text": "Iravels",
+  "east": 416731.65,
+  "north": 1446334.12,
+  "conf": 1.0,
+  "size_pt": 21.36
+ },
+ {
+  "ward": 103,
+  "role": "location_names",
+  "text": "DistrictBranchLibrary, Kilpau",
+  "east": 417047.75,
+  "north": 1445970.78,
+  "conf": 1.0,
+  "size_pt": 48.36
+ },
+ {
+  "ward": 103,
+  "role": "location_names",
+  "text": "\u2022 TheGuestPharmacy",
+  "east": 417462.69,
+  "north": 1445687.96,
+  "conf": 1.0,
+  "size_pt": 33.6
+ },
+ {
+  "ward": 103,
+  "role": "location_names",
+  "text": "Chennai",
+  "east": 416983.72,
+  "north": 1445592.62,
+  "conf": 1.0,
+  "size_pt": 25.92
+ },
+ {
+  "ward": 103,
+  "role": "location_names",
+  "text": "Cancer",
+  "east": 417034.84,
+  "north": 1445592.62,
+  "conf": 1.0,
+  "size_pt": 22.68
+ },
+ {
+  "ward": 103,
+  "role": "location_names",
+  "text": "Care",
+  "east": 417075.79,
+  "north": 1445592.62,
+  "conf": 1.0,
+  "size_pt": 14.16
+ },
+ {
+  "ward": 103,
+  "role": "location_names",
+  "text": "MotsHospital",
+  "east": 416997.06,
+  "north": 1446364.38,
+  "conf": 1.0,
+  "size_pt": 26.64
+ },
+ {
+  "ward": 103,
+  "role": "location_names",
+  "text": "LifelineRigidHospital",
+  "east": 416947.85,
+  "north": 1445798.95,
+  "conf": 1.0,
+  "size_pt": 26.76
+ },
+ {
+  "ward": 103,
+  "role": "location_names",
+  "text": "M.N. OrthopaedicHospital",
+  "east": 416966.58,
+  "north": 1446142.39,
+  "conf": 1.0,
+  "size_pt": 54.24
+ },
+ {
+  "ward": 103,
+  "role": "location_names",
+  "text": "Studio",
+  "east": 417003.41,
+  "north": 1445825.4,
+  "conf": 1.0,
+  "size_pt": 20.4
+ },
+ {
+  "ward": 103,
+  "role": "location_names",
+  "text": "11",
+  "east": 417036.0,
+  "north": 1445825.4,
+  "conf": 1.0,
+  "size_pt": 4.8
+ },
+ {
+  "ward": 103,
+  "role": "location_names",
+  "text": "Spa",
+  "east": 417060.02,
+  "north": 1445824.02,
+  "conf": 1.0,
+  "size_pt": 11.64
+ },
+ {
+  "ward": 103,
+  "role": "location_names",
+  "text": "Pachaiyappa'sCollege",
+  "east": 416839.38,
+  "north": 1445710.49,
+  "conf": 1.0,
+  "size_pt": 47.28
+ },
+ {
+  "ward": 103,
+  "role": "location_names",
+  "text": "LandonTowers",
+  "east": 417727.04,
+  "north": 1446290.74,
+  "conf": 1.0,
+  "size_pt": 20.88
+ },
+ {
+  "ward": 103,
+  "role": "location_names",
+  "text": "BombayHalwaHouse",
+  "east": 418178.7,
+  "north": 1446523.4,
+  "conf": 1.0,
+  "size_pt": 24.24
+ },
+ {
+  "ward": 103,
+  "role": "location_names",
+  "text": "ThaaliCorner",
+  "east": 418113.4,
+  "north": 1446561.07,
+  "conf": 1.0,
+  "size_pt": 19.32
+ },
+ {
+  "ward": 103,
+  "role": "location_names",
+  "text": "RightHospitals",
+  "east": 417640.79,
+  "north": 1445873.44,
+  "conf": 1.0,
+  "size_pt": 27.24
+ },
+ {
+  "ward": 103,
+  "role": "location_names",
+  "text": "McDonald's",
+  "east": 417652.96,
+  "north": 1446354.96,
+  "conf": 1.0,
+  "size_pt": 33.12
+ },
+ {
+  "ward": 103,
+  "role": "location_names",
+  "text": "Cream& Fudge",
+  "east": 417837.2,
+  "north": 1446313.06,
+  "conf": 1.0,
+  "size_pt": 26.04
+ },
+ {
+  "ward": 103,
+  "role": "location_names",
+  "text": "Part Time Library,Kilpauk",
+  "east": 417720.9,
+  "north": 1446191.07,
+  "conf": 1.0,
+  "size_pt": 55.68
+ },
+ {
+  "ward": 103,
+  "role": "location_names",
+  "text": "LalithaaJewellery",
+  "east": 418382.83,
+  "north": 1446603.39,
+  "conf": 1.0,
+  "size_pt": 26.52
+ },
+ {
+  "ward": 103,
+  "role": "location_names",
+  "text": "R.K. GynaecAndMaternity Hospital",
+  "east": 418456.06,
+  "north": 1445862.54,
+  "conf": 1.0,
+  "size_pt": 56.04
+ },
+ {
+  "ward": 103,
+  "role": "location_names",
+  "text": "SatishEye Hospital",
+  "east": 418359.66,
+  "north": 1446143.14,
+  "conf": 1.0,
+  "size_pt": 38.16
+ },
+ {
+  "ward": 103,
+  "role": "location_names",
+  "text": "AyeshaHospital, Kilpauk",
+  "east": 418659.35,
+  "north": 1446527.64,
+  "conf": 1.0,
+  "size_pt": 51.12
+ },
+ {
+  "ward": 103,
+  "role": "location_names",
+  "text": "JayadevPolyclinic Hospital",
+  "east": 417850.22,
+  "north": 1445793.13,
+  "conf": 1.0,
+  "size_pt": 55.68
+ },
+ {
+  "ward": 103,
+  "role": "location_names",
+  "text": "New HopeIndianSpecilaity Hosp",
+  "east": 417728.94,
+  "north": 1445810.16,
+  "conf": 1.0,
+  "size_pt": 46.32
+ },
+ {
+  "ward": 103,
+  "role": "location_names",
+  "text": "New HopeMedical CentrePvt. Lt",
+  "east": 417731.59,
+  "north": 1445753.03,
+  "conf": 1.0,
+  "size_pt": 45.24
+ },
+ {
+  "ward": 103,
+  "role": "location_names",
+  "text": "ToshHospitalsPrivateLimited",
+  "east": 417963.77,
+  "north": 1446309.36,
+  "conf": 1.0,
+  "size_pt": 27.48
+ },
+ {
+  "ward": 103,
+  "role": "location_names",
+  "text": "Aditya",
+  "east": 418559.45,
+  "north": 1446071.5,
+  "conf": 1.0,
+  "size_pt": 18.48
+ },
+ {
+  "ward": 103,
+  "role": "location_names",
+  "text": "Hospital,",
+  "east": 418605.27,
+  "north": 1446071.5,
+  "conf": 1.0,
+  "size_pt": 24.84
+ },
+ {
+  "ward": 103,
+  "role": "location_names",
+  "text": "Chennal",
+  "east": 418657.97,
+  "north": 1446072.88,
+  "conf": 1.0,
+  "size_pt": 23.4
+ },
+ {
+  "ward": 103,
+  "role": "location_names",
+  "text": "KumaranHospitalPvt.Ltd.",
+  "east": 418608.24,
+  "north": 1445912.48,
+  "conf": 1.0,
+  "size_pt": 26.28
+ },
+ {
+  "ward": 103,
+  "role": "location_names",
+  "text": "KensingtonHospital",
+  "east": 418321.35,
+  "north": 1445870.9,
+  "conf": 1.0,
+  "size_pt": 32.64
+ },
+ {
+  "ward": 103,
+  "role": "location_names",
+  "text": "K.K.R.ENTHospital and Research",
+  "east": 418213.93,
+  "north": 1445830.9,
+  "conf": 1.0,
+  "size_pt": 69.72
+ },
+ {
+  "ward": 103,
+  "role": "location_names",
+  "text": "Govt KilpaukMedical College",
+  "east": 418012.76,
+  "north": 1445833.23,
+  "conf": 1.0,
+  "size_pt": 46.8
+ },
+ {
+  "ward": 103,
+  "role": "location_names",
+  "text": "KMC",
+  "east": 418097.1,
+  "north": 1446086.74,
+  "conf": 1.0,
+  "size_pt": 12.6
+ },
+ {
+  "ward": 103,
+  "role": "location_names",
+  "text": "Kilpauk",
+  "east": 417899.85,
+  "north": 1445966.54,
+  "conf": 1.0,
+  "size_pt": 21.0
+ },
+ {
+  "ward": 103,
+  "role": "location_names",
+  "text": "AbiramiTheatreBus Stop",
+  "east": 418377.01,
+  "north": 1446852.36,
+  "conf": 1.0,
+  "size_pt": 27.84
+ },
+ {
+  "ward": 103,
+  "role": "location_names",
+  "text": "Otteri Nala",
+  "east": 417702.17,
+  "north": 1446543.72,
+  "conf": 1.0,
+  "size_pt": 32.28
+ },
+ {
+  "ward": 103,
+  "role": "location_names",
+  "text": "Bridge",
+  "east": 417053.25,
+  "north": 1446722.64,
+  "conf": 1.0,
+  "size_pt": 20.52
+ }
+]

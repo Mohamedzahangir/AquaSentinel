@@ -1,0 +1,614 @@
+[
+ {
+  "ward": 71,
+  "role": "road_name",
+  "text": "New TanKBund Rd",
+  "east": 418396.06,
+  "north": 1448395.73,
+  "conf": 1.0,
+  "size_pt": 62.16
+ },
+ {
+  "ward": 71,
+  "role": "road_name",
+  "text": "B11TankBund Road3.811New1st LaneLane4thB124.1323rd StreetBrisly Nagar\u00e0:Street5th StreetNagarislyRo\u0103d 3.Main",
+  "east": 418565.2,
+  "north": 1448314.14,
+  "conf": 1.0,
+  "size_pt": 90.0
+ },
+ {
+  "ward": 71,
+  "role": "road_name",
+  "text": "SubbarayaStreet",
+  "east": 418745.98,
+  "north": 1448178.59,
+  "conf": 1.0,
+  "size_pt": 34.32
+ },
+ {
+  "ward": 71,
+  "role": "road_name",
+  "text": "Ayanavaram Road",
+  "east": 418604.68,
+  "north": 1448039.75,
+  "conf": 1.0,
+  "size_pt": 59.4
+ },
+ {
+  "ward": 71,
+  "role": "road_name",
+  "text": "Ayanavaram Road",
+  "east": 418055.67,
+  "north": 1447981.23,
+  "conf": 1.0,
+  "size_pt": 61.68
+ },
+ {
+  "ward": 71,
+  "role": "road_name",
+  "text": "Anderson Road",
+  "east": 417939.88,
+  "north": 1448452.77,
+  "conf": 1.0,
+  "size_pt": 52.44
+ },
+ {
+  "ward": 71,
+  "role": "road_name",
+  "text": "E7E83.965Nehru Jothi10th Cross Streef.8833.959Nagar11th crona",
+  "east": 418235.18,
+  "north": 1448636.47,
+  "conf": 0.913,
+  "size_pt": 77.52
+ },
+ {
+  "ward": 71,
+  "role": "road_name",
+  "text": "KirshnaRd\u2022 Doss",
+  "east": 419017.89,
+  "north": 1448640.92,
+  "conf": 1.0,
+  "size_pt": 29.4
+ },
+ {
+  "ward": 71,
+  "role": "road_name",
+  "text": "HyderHyder GardenIst StreetKirshna Doss RoadB6",
+  "east": 418799.32,
+  "north": 1448643.67,
+  "conf": 1.0,
+  "size_pt": 83.04
+ },
+ {
+  "ward": 71,
+  "role": "road_name",
+  "text": "Bashyam 3rd Street",
+  "east": 418684.17,
+  "north": 1448150.55,
+  "conf": 1.0,
+  "size_pt": 69.72
+ },
+ {
+  "ward": 71,
+  "role": "road_name",
+  "text": "Perambur Tank Bund RoadNew TanKBund Road",
+  "east": 418448.56,
+  "north": 1448135.94,
+  "conf": 1.0,
+  "size_pt": 84.6
+ },
+ {
+  "ward": 71,
+  "role": "road_name",
+  "text": "Otteri Bridge",
+  "east": 418883.26,
+  "north": 1448109.17,
+  "conf": 1.0,
+  "size_pt": 39.0
+ },
+ {
+  "ward": 71,
+  "role": "road_name",
+  "text": "Cooks Road",
+  "east": 418941.79,
+  "north": 1448458.59,
+  "conf": 1.0,
+  "size_pt": 35.04
+ },
+ {
+  "ward": 71,
+  "role": "road_name",
+  "text": "MalayappanStreet",
+  "east": 418456.08,
+  "north": 1448309.81,
+  "conf": 1.0,
+  "size_pt": 33.96
+ },
+ {
+  "ward": 71,
+  "role": "road_name",
+  "text": "Morasali MaranFlyover",
+  "east": 417899.87,
+  "north": 1449039.33,
+  "conf": 1.0,
+  "size_pt": 45.6
+ },
+ {
+  "ward": 71,
+  "role": "road_name",
+  "text": "\u2264\u00b0A73.94131Ist StreetStreeMain2nd Streets2723rd StreetE4th Street85th Streett",
+  "east": 418262.91,
+  "north": 1449030.44,
+  "conf": 0.955,
+  "size_pt": 94.08
+ },
+ {
+  "ward": 71,
+  "role": "road_name",
+  "text": "Pananthope RailwayD4 Colony3.62210th",
+  "east": 418242.59,
+  "north": 1448541.02,
+  "conf": 1.0,
+  "size_pt": 67.68
+ },
+ {
+  "ward": 71,
+  "role": "road_name",
+  "text": "Anderson Road",
+  "east": 417901.04,
+  "north": 1448298.06,
+  "conf": 1.0,
+  "size_pt": 51.0
+ },
+ {
+  "ward": 71,
+  "role": "road_name",
+  "text": "Perambur High Road",
+  "east": 418052.18,
+  "north": 1449127.16,
+  "conf": 1.0,
+  "size_pt": 72.6
+ },
+ {
+  "ward": 71,
+  "role": "road_name",
+  "text": "1st StMorasali MaranPeramburHigh RoadFlyoverNagarStreet1stGandhio StreetGandhiRajeev'Nagar(slum)WestRajiv",
+  "east": 417930.67,
+  "north": 1449000.6,
+  "conf": 1.0,
+  "size_pt": 107.88
+ },
+ {
+  "ward": 71,
+  "role": "road_name",
+  "text": "Street6th5thStreetRoadSemathammanIst Stree4thNagar 1stStreetColony3rd2nd StretStreetA92nd4.020A8etvandhi\u2192>3rd Street1st StreetoChandrayogiSamadhiMainain RoadA123 866",
+  "east": 418085.41,
+  "north": 1449014.04,
+  "conf": 1.0,
+  "size_pt": 108.6
+ },
+ {
+  "ward": 71,
+  "role": "road_name",
+  "text": "Ist Street",
+  "east": 418150.08,
+  "north": 1449046.0,
+  "conf": 1.0,
+  "size_pt": 33.12
+ },
+ {
+  "ward": 71,
+  "role": "road_name",
+  "text": "2nd Street",
+  "east": 418149.03,
+  "north": 1449012.66,
+  "conf": 1.0,
+  "size_pt": 36.72
+ },
+ {
+  "ward": 71,
+  "role": "road_name",
+  "text": "Yekangipuram Main StreetTikkakulanStreet UStreet,Streettreet1st",
+  "east": 417933.21,
+  "north": 1448875.63,
+  "conf": 1.0,
+  "size_pt": 125.64
+ },
+ {
+  "ward": 71,
+  "role": "road_name",
+  "text": "Bashyam 2nd Street",
+  "east": 418725.02,
+  "north": 1448289.28,
+  "conf": 1.0,
+  "size_pt": 71.04
+ },
+ {
+  "ward": 71,
+  "role": "road_name",
+  "text": "Bashyam",
+  "east": 418767.89,
+  "north": 1448326.21,
+  "conf": 1.0,
+  "size_pt": 29.4
+ },
+ {
+  "ward": 71,
+  "role": "road_name",
+  "text": "Ist Street!",
+  "east": 418767.68,
+  "north": 1448258.59,
+  "conf": 1.0,
+  "size_pt": 33.12
+ },
+ {
+  "ward": 71,
+  "role": "road_name",
+  "text": "Tenaments of ScbKrish: Sasthri Nagar5tlChandrayogi2nd StreetSamadhi LaneStreetChandrayogi Samadhit2nd Streetnuram DrainStreetaKrishnadoss 4thParkKrishnadoss 3rdM Main&Sasthri_StreetRoaganny\u044dNJ1st StQE83.821Bund RoadOSSDDN!470pStree2nd Stre75 puzIstxStreE93.959",
+  "east": 418320.39,
+  "north": 1448745.04,
+  "conf": 0.98,
+  "size_pt": 162.84
+ },
+ {
+  "ward": 71,
+  "role": "road_name",
+  "text": "ss010Krishnadoss 2nd StreetSt",
+  "east": 418449.3,
+  "north": 1448737.53,
+  "conf": 1.0,
+  "size_pt": 110.88
+ },
+ {
+  "ward": 71,
+  "role": "road_name",
+  "text": "Krishnadoss",
+  "east": 418488.67,
+  "north": 1448721.02,
+  "conf": 1.0,
+  "size_pt": 39.6
+ },
+ {
+  "ward": 71,
+  "role": "road_name",
+  "text": "Ist Street",
+  "east": 418501.59,
+  "north": 1448796.37,
+  "conf": 1.0,
+  "size_pt": 33.12
+ },
+ {
+  "ward": 71,
+  "role": "road_name",
+  "text": "Hyder Garden 4th StreetHyder Garden 3rd Street|",
+  "east": 418611.13,
+  "north": 1448739.33,
+  "conf": 1.0,
+  "size_pt": 94.2
+ },
+ {
+  "ward": 71,
+  "role": "road_name",
+  "text": "2nd St Extn",
+  "east": 418706.82,
+  "north": 1448767.69,
+  "conf": 1.0,
+  "size_pt": 41.64
+ },
+ {
+  "ward": 71,
+  "role": "road_name",
+  "text": "Tenaments Of ScbChandrayogiSamadhi Lane",
+  "east": 418315.2,
+  "north": 1448852.13,
+  "conf": 1.0,
+  "size_pt": 62.88
+ },
+ {
+  "ward": 71,
+  "role": "road_name",
+  "text": "TOL)A13.907A24th Street3.74th StreetiyD RoadE RoadEgank4th StreetC RoadSasthri Nagar Main Road4th StreetA Roadngipur4th Street",
+  "east": 418124.15,
+  "north": 1448821.76,
+  "conf": 0.959,
+  "size_pt": 87.6
+ },
+ {
+  "ward": 71,
+  "role": "road_name",
+  "text": "Colony 11th.",
+  "east": 418047.1,
+  "north": 1448607.8,
+  "conf": 1.0,
+  "size_pt": 41.4
+ },
+ {
+  "ward": 71,
+  "role": "road_name",
+  "text": "Colony 8th.",
+  "east": 418200.89,
+  "north": 1448431.18,
+  "conf": 1.0,
+  "size_pt": 37.2
+ },
+ {
+  "ward": 71,
+  "role": "road_name",
+  "text": "Colony 5th.",
+  "east": 418195.49,
+  "north": 1448373.19,
+  "conf": 1.0,
+  "size_pt": 37.08
+ },
+ {
+  "ward": 71,
+  "role": "road_name",
+  "text": "Pananthope RailwayColony 5th.",
+  "east": 418028.68,
+  "north": 1448412.13,
+  "conf": 1.0,
+  "size_pt": 67.8
+ },
+ {
+  "ward": 71,
+  "role": "road_name",
+  "text": "-Pananthope RallwayColony3rd StreetColony 3rd Street",
+  "east": 418037.36,
+  "north": 1448302.4,
+  "conf": 1.0,
+  "size_pt": 68.04
+ },
+ {
+  "ward": 71,
+  "role": "road_name",
+  "text": "Yekangipuram",
+  "east": 417926.65,
+  "north": 1448782.82,
+  "conf": 1.0,
+  "size_pt": 45.36
+ },
+ {
+  "ward": 71,
+  "role": "road_name",
+  "text": "2nd Street",
+  "east": 418000.95,
+  "north": 1448827.05,
+  "conf": 1.0,
+  "size_pt": 36.72
+ },
+ {
+  "ward": 71,
+  "role": "road_name",
+  "text": "U6thB8Streety3.52;2nd StreetStreetStreetthNagar8th Street3rd Streetth7thNew Vazhma Nagar 4th StMain RoadNew Vazhma",
+  "east": 418476.93,
+  "north": 1448579.01,
+  "conf": 1.0,
+  "size_pt": 107.04
+ },
+ {
+  "ward": 71,
+  "role": "road_name",
+  "text": "2nd Street",
+  "east": 418409.72,
+  "north": 1448621.66,
+  "conf": 1.0,
+  "size_pt": 36.6
+ },
+ {
+  "ward": 71,
+  "role": "road_name",
+  "text": "3rd Street",
+  "east": 418410.77,
+  "north": 1448590.12,
+  "conf": 1.0,
+  "size_pt": 34.68
+ },
+ {
+  "ward": 71,
+  "role": "road_name",
+  "text": "Ist Street'SomasundaramMain StreetZnd Street",
+  "east": 418722.16,
+  "north": 1448528.43,
+  "conf": 1.0,
+  "size_pt": 57.24
+ },
+ {
+  "ward": 71,
+  "role": "road_name",
+  "text": "Powden Street",
+  "east": 418933.11,
+  "north": 1448618.27,
+  "conf": 1.0,
+  "size_pt": 48.96
+ },
+ {
+  "ward": 71,
+  "role": "road_name",
+  "text": "Ist Street",
+  "east": 418709.36,
+  "north": 1448568.43,
+  "conf": 1.0,
+  "size_pt": 33.12
+ },
+ {
+  "ward": 71,
+  "role": "road_name",
+  "text": "2nd Street",
+  "east": 418650.72,
+  "north": 1448314.14,
+  "conf": 1.0,
+  "size_pt": 36.12
+ },
+ {
+  "ward": 71,
+  "role": "road_name",
+  "text": "3rd Street",
+  "east": 418625.42,
+  "north": 1448312.35,
+  "conf": 1.0,
+  "size_pt": 34.56
+ },
+ {
+  "ward": 71,
+  "role": "road_name",
+  "text": "Pt Colny EleventhCross Street",
+  "east": 418050.06,
+  "north": 1448667.27,
+  "conf": 1.0,
+  "size_pt": 60.6
+ },
+ {
+  "ward": 71,
+  "role": "road_name",
+  "text": "B Road\u00e0te St.BRoa",
+  "east": 418190.2,
+  "north": 1448744.3,
+  "conf": 0.65,
+  "size_pt": 50.28
+ },
+ {
+  "ward": 71,
+  "role": "road_name",
+  "text": "Colony 4th.",
+  "east": 418212.96,
+  "north": 1448322.61,
+  "conf": 1.0,
+  "size_pt": 36.96
+ },
+ {
+  "ward": 71,
+  "role": "road_name",
+  "text": "3rd Street",
+  "east": 418030.48,
+  "north": 1448834.25,
+  "conf": 1.0,
+  "size_pt": 34.8
+ },
+ {
+  "ward": 71,
+  "role": "road_name",
+  "text": "Cross StreetPt Colony 9th",
+  "east": 418136.11,
+  "north": 1448601.23,
+  "conf": 1.0,
+  "size_pt": 54.48
+ },
+ {
+  "ward": 71,
+  "role": "road_name",
+  "text": "Pt Colony NinthCross Street",
+  "east": 418129.23,
+  "north": 1448383.67,
+  "conf": 1.0,
+  "size_pt": 54.48
+ },
+ {
+  "ward": 71,
+  "role": "road_name",
+  "text": "1st Street",
+  "east": 418676.12,
+  "north": 1448317.64,
+  "conf": 1.0,
+  "size_pt": 32.88
+ },
+ {
+  "ward": 71,
+  "role": "road_name",
+  "text": "Hyder Garden2nd Street",
+  "east": 418704.59,
+  "north": 1448669.28,
+  "conf": 1.0,
+  "size_pt": 45.48
+ },
+ {
+  "ward": 71,
+  "role": "road_name",
+  "text": "Krishnadoss Road5thStreet",
+  "east": 418456.92,
+  "north": 1448857.0,
+  "conf": 1.0,
+  "size_pt": 61.56
+ },
+ {
+  "ward": 71,
+  "role": "road_name",
+  "text": "\" StreetPananthope RailwayColonyIst Street",
+  "east": 418018.95,
+  "north": 1448208.96,
+  "conf": 1.0,
+  "size_pt": 68.76
+ },
+ {
+  "ward": 71,
+  "role": "road_name",
+  "text": "Chandrayogi SamadhiIst Street",
+  "east": 418347.06,
+  "north": 1448964.73,
+  "conf": 1.0,
+  "size_pt": 73.8
+ },
+ {
+  "ward": 71,
+  "role": "road_name",
+  "text": "36th Street",
+  "east": 418266.62,
+  "north": 1448921.76,
+  "conf": 1.0,
+  "size_pt": 34.44
+ },
+ {
+  "ward": 71,
+  "role": "road_name",
+  "text": "Hyder GardenMain Road",
+  "east": 418913.21,
+  "north": 1448684.09,
+  "conf": 1.0,
+  "size_pt": 86.64
+ },
+ {
+  "ward": 71,
+  "role": "road_name",
+  "text": "Colony 2nd Streetanant.",
+  "east": 418027.52,
+  "north": 1448238.06,
+  "conf": 0.75,
+  "size_pt": 61.44
+ },
+ {
+  "ward": 71,
+  "role": "road_name",
+  "text": "Colony12th.",
+  "east": 418066.36,
+  "north": 1448706.84,
+  "conf": 1.0,
+  "size_pt": 41.4
+ },
+ {
+  "ward": 71,
+  "role": "road_name",
+  "text": "Colony 8th.",
+  "east": 418181.84,
+  "north": 1448467.37,
+  "conf": 1.0,
+  "size_pt": 37.2
+ },
+ {
+  "ward": 71,
+  "role": "road_name",
+  "text": "11th Cross Street",
+  "east": 418216.34,
+  "north": 1448580.49,
+  "conf": 1.0,
+  "size_pt": 60.96
+ },
+ {
+  "ward": 71,
+  "role": "location_names",
+  "text": "OtteriPoliceStation",
+  "east": 418854.47,
+  "north": 1448375.52,
+  "conf": 1.0,
+  "size_pt": 20.76
+ }
+]

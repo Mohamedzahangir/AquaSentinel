@@ -1,0 +1,1256 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#05080b">
+<meta name="description" content="The Chennai storm water drain network in 3D at surveyed dimensions — box culverts, chambers, shafts, invert levels — extracted from 107 GCC ward base map sheets, with a simulated (unskilled) SWMM run of the December 2015 event.">
+<title>Chennai SWD — subsurface</title>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@400;500;600&family=IBM+Plex+Mono:wght@300;400;500&display=swap" rel="stylesheet">
+<link href="https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.css" rel="stylesheet">
+<style>
+:root{
+  --ink:#05080b; --rule:#1b262e; --rule-hot:#31434c;
+  --txt:#c3d2da; --dim:#687b86; --bright:#ecf5f9;
+  --signal:#ffb02e; --flow:#2ee0cf; --alarm:#ff4d5e; --water:#3fa9ff;
+  --mono:'IBM Plex Mono',ui-monospace,monospace;
+  --cond:'Barlow Condensed',system-ui,sans-serif;
+  --pane:linear-gradient(175deg,rgba(11,17,22,.95),rgba(5,9,12,.98));
+  --safe-b:env(safe-area-inset-bottom,0px);
+}
+*{box-sizing:border-box;margin:0;padding:0;-webkit-tap-highlight-color:transparent}
+html,body{height:100%;background:var(--ink);color:var(--txt);
+  font-family:var(--mono);font-size:13px;overflow:hidden;overscroll-behavior:none}
+#map{position:absolute;inset:0}
+canvas{outline:none}
+.panel{background:var(--pane);border:1px solid var(--rule);
+  backdrop-filter:blur(16px) saturate(1.3);
+  box-shadow:0 24px 64px -24px #000, inset 0 1px 0 rgba(255,255,255,.045)}
+
+#hud{position:fixed;left:0;right:0;bottom:0;z-index:6;
+  max-height:calc(146px + var(--safe-b));overflow:hidden;
+  border-left:0;border-right:0;border-bottom:0;padding-bottom:var(--safe-b);
+  transition:max-height .32s cubic-bezier(.2,.85,.3,1)}
+#hud.open{max-height:min(76vh,680px);overflow-y:auto;-webkit-overflow-scrolling:touch}
+#hud::-webkit-scrollbar{width:4px}#hud::-webkit-scrollbar-thumb{background:var(--rule-hot)}
+#grab{display:flex;flex-direction:column;align-items:center;gap:9px;padding:9px 16px 0;cursor:pointer;user-select:none}
+#grab i{display:block;width:36px;height:3px;border-radius:2px;background:var(--rule-hot)}
+#grab .row{display:flex;justify-content:space-between;align-items:baseline;width:100%;gap:12px}
+h1{font-family:var(--cond);font-weight:600;font-size:17px;letter-spacing:.14em;text-transform:uppercase;color:var(--bright);line-height:1;white-space:nowrap}
+#counts{font-size:10.5px;color:var(--dim);letter-spacing:.04em;white-space:nowrap;font-variant-numeric:tabular-nums}
+#counts b{color:var(--signal);font-weight:400}
+#chev{color:var(--signal);font-size:10px;transition:transform .3s;flex:none}
+#hud.open #chev{transform:rotate(180deg)}
+.grp{padding:13px 16px;border-top:1px solid var(--rule)}
+.grp.lead{border-top:0;padding-top:11px}
+.lbl{font-family:var(--cond);font-size:12px;letter-spacing:.16em;text-transform:uppercase;color:var(--dim);margin-bottom:9px;display:flex;justify-content:space-between;align-items:baseline;gap:10px}
+.lbl b{font-family:var(--mono);font-weight:400;font-size:11px;color:var(--signal);letter-spacing:0}
+.hint{font-size:10.5px;color:#5b6b74;line-height:1.55;margin-top:9px}
+.hint em{color:var(--signal);font-style:normal}
+.seg{display:grid;grid-auto-flow:column;grid-auto-columns:1fr;border:1px solid var(--rule)}
+.seg button,.btn{appearance:none;background:transparent;border:0;border-right:1px solid var(--rule);
+  color:var(--dim);font-family:var(--cond);font-size:13px;letter-spacing:.1em;text-transform:uppercase;
+  padding:11px 4px;cursor:pointer;min-height:44px;transition:background .16s,color .16s}
+.seg button:last-child{border-right:0}
+.seg button[aria-pressed=true]{background:var(--signal);color:#160d00;font-weight:600}
+.btn{border:1px solid var(--rule-hot);min-height:36px;padding:7px 12px;color:var(--txt)}
+.btn.on{background:var(--signal);color:#160d00;border-color:var(--signal)}
+@media (hover:hover){.seg button:hover,.btn:hover{color:var(--txt);background:rgba(255,255,255,.045)}
+  .seg button[aria-pressed=true]:hover,.btn.on:hover{color:#160d00;background:var(--signal)}}
+input[type=range]{width:100%;appearance:none;height:2px;background:var(--rule-hot);outline:0;margin:14px 0}
+input[type=range]::-webkit-slider-thumb{appearance:none;width:14px;height:22px;background:var(--signal);cursor:ew-resize;border-radius:2px;box-shadow:0 0 12px rgba(255,176,46,.55)}
+input[type=range]::-moz-range-thumb{width:14px;height:22px;background:var(--signal);border:0;border-radius:2px}
+.chk{display:flex;align-items:center;gap:11px;padding:8px 0;cursor:pointer;font-size:12.5px;color:var(--dim);min-height:36px;transition:color .15s}
+.chk input{appearance:none;width:13px;height:13px;border:1px solid var(--rule-hot);background:transparent;cursor:pointer;flex:none}
+.chk input:checked{background:var(--flow);border-color:var(--flow);box-shadow:0 0 9px rgba(46,224,207,.5)}
+.chk input:checked+span{color:var(--txt)}
+@media (hover:hover){.chk:hover{color:var(--txt)}}
+#legend{display:flex;flex-direction:column;gap:4px;margin-top:11px}
+.lrow{display:flex;align-items:center;gap:9px;font-size:10.5px;color:var(--dim);line-height:1.35}
+.sw{width:17px;height:8px;flex:none;border:1px solid rgba(255,255,255,.13)}
+.sw.ghost{background:repeating-linear-gradient(45deg,#465660 0 2px,transparent 2px 4px)}
+.sw.stripe{background:repeating-linear-gradient(90deg,#ff3b4f 0 3px,#2b3b3f 3px 6px)}
+.row2{display:flex;gap:8px;align-items:center}
+.row2 input[type=range]{margin:8px 0}
+
+#read{position:fixed;left:8px;right:8px;bottom:calc(154px + var(--safe-b));z-index:7;display:none;max-height:44vh;overflow-y:auto}
+#read.on{display:block;animation:rise .22s cubic-bezier(.2,.9,.3,1)}
+@keyframes rise{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+#read h2{font-family:var(--cond);font-size:18px;letter-spacing:.11em;color:var(--signal);padding:12px 16px 10px;border-bottom:1px solid var(--rule);display:flex;justify-content:space-between;align-items:baseline;gap:10px;position:sticky;top:0;background:var(--pane)}
+#read h2 em{font-style:normal;font-family:var(--mono);font-size:10px;color:var(--dim)}
+#rclose{margin-left:auto;color:var(--dim);font-size:15px;cursor:pointer;padding:0 2px;line-height:1}
+.kv{display:grid;grid-template-columns:1fr auto;gap:3px 14px;padding:11px 16px;font-size:11.5px}
+.kv dt{color:var(--dim)}
+.kv dd{text-align:right;color:var(--bright);font-variant-numeric:tabular-nums}
+.kv dd.warn{color:var(--alarm)}.kv dd.ok{color:var(--flow)}.kv dd.ghost{color:var(--dim);font-style:italic}
+.note{padding:0 16px 13px;font-size:10.5px;color:var(--dim);line-height:1.5}
+#hud:not(.open)::after{content:'';position:absolute;left:0;right:0;bottom:0;height:38px;background:linear-gradient(rgba(6,10,13,0),rgba(6,10,13,.97));pointer-events:none}
+#toast{position:fixed;left:50%;transform:translateX(-50%) translateY(-8px);top:14px;z-index:12;max-width:min(420px,calc(100vw - 32px));padding:10px 14px;font-size:11.5px;line-height:1.5;color:var(--txt);background:var(--pane);border:1px solid var(--rule-hot);opacity:0;pointer-events:none;transition:opacity .25s,transform .25s}
+#toast.on{opacity:1;transform:translateX(-50%)}
+#boot{position:fixed;inset:0;z-index:20;background:var(--ink);display:grid;place-items:center;transition:opacity .8s ease;font-family:var(--cond);letter-spacing:.26em;text-transform:uppercase;color:var(--dim);font-size:11px;text-align:center;padding:24px}
+#boot.gone{opacity:0;pointer-events:none}
+#boot .bar{width:min(190px,60vw);height:1px;background:var(--rule);margin:16px auto 0;overflow:hidden}
+#boot .bar i{display:block;height:100%;width:32%;background:var(--signal);animation:sweep 1.2s cubic-bezier(.6,0,.4,1) infinite}
+@keyframes sweep{0%{transform:translateX(-100%)}100%{transform:translateX(410%)}}
+.wardchip{font-family:var(--cond);font-size:11px;letter-spacing:.1em;color:#ffd48a;background:rgba(5,9,12,.62);border:1px solid rgba(255,176,46,.35);padding:1px 5px;border-radius:2px;pointer-events:none;white-space:nowrap;text-shadow:0 1px 3px #000}
+.wardchip.no{color:#93a4ad;border-color:rgba(147,164,173,.3)}
+.maplibregl-ctrl-attrib{font-size:9px!important;background:rgba(5,8,11,.72)!important}
+.maplibregl-ctrl-attrib,.maplibregl-ctrl-attrib a{color:var(--dim)!important}
+.maplibregl-ctrl-group{background:rgba(11,17,22,.92)!important;border:1px solid var(--rule)!important;box-shadow:none!important;border-radius:0!important}
+.maplibregl-ctrl-group button{width:34px!important;height:34px!important}
+.maplibregl-ctrl-group button+button{border-top:1px solid var(--rule)!important}
+.maplibregl-ctrl-icon{filter:invert(.78) sepia(.15)}
+.maplibregl-ctrl-group button.swd-3d{font-family:var(--cond);font-weight:600;font-size:14px;letter-spacing:.08em;color:var(--signal)}
+.maplibregl-ctrl-bottom-left{display:none}
+.maplibregl-ctrl-bottom-right{margin-bottom:calc(150px + var(--safe-b))}
+#status{display:none}
+
+/* simulated-event bar */
+#sim{position:fixed;left:8px;right:8px;bottom:calc(154px + var(--safe-b));z-index:6;display:none;padding:9px 12px 8px}
+#sim.on{display:block}
+#simhead{display:flex;justify-content:space-between;align-items:center;gap:10px;flex-wrap:wrap}
+#simtag{font-family:var(--cond);font-size:12px;letter-spacing:.18em;text-transform:uppercase;color:#ffb02e;border:1px solid #ffb02e;padding:2px 7px}
+#simtime{font-size:11px;color:var(--bright);font-variant-numeric:tabular-nums}
+#simctl{display:flex;gap:6px;align-items:center}
+#simctl .btn{min-height:30px;padding:4px 10px;font-size:12px}
+#simctl select{background:transparent;color:var(--txt);border:1px solid var(--rule-hot);font-family:var(--mono);font-size:11px;padding:5px 6px}
+#hyeto{display:block;width:100%;height:46px;margin-top:6px}
+#simt{margin:2px 0 0}
+#simwarn{font-size:10px;color:#ffb02e;line-height:1.45;margin-top:5px}
+
+@media (min-width:760px){
+  #hud{top:16px;left:16px;right:auto;bottom:auto;width:304px;max-height:calc(100vh - 32px);overflow-y:auto;border:1px solid var(--rule);padding-bottom:0}
+  #hud.open{max-height:calc(100vh - 32px)}
+  #grab i,#chev{display:none}
+  #grab{padding:15px 16px 0;cursor:default}
+  #grab .row{flex-direction:column;align-items:flex-start;gap:7px}
+  h1{font-size:20px;letter-spacing:.15em}
+  .grp.lead{padding-top:13px;border-top:1px solid var(--rule)}
+  #read{left:auto;right:16px;bottom:58px;width:300px;max-height:calc(100vh - 120px)}
+  #rclose{display:none}
+  #status{display:flex;position:fixed;bottom:16px;right:16px;z-index:5;padding:9px 15px;font-size:10.5px;letter-spacing:.06em;color:var(--dim);gap:15px;align-items:center}
+  #status b{color:var(--signal);font-weight:400}
+  .dot{width:5px;height:5px;background:var(--flow);border-radius:50%;box-shadow:0 0 9px var(--flow);animation:pulse 2.6s ease-in-out infinite}
+  @keyframes pulse{0%,100%{opacity:.3}50%{opacity:1}}
+  .maplibregl-ctrl-bottom-right{margin-bottom:0}
+  .maplibregl-ctrl-bottom-left{display:block}
+  #sim{left:340px;right:auto;width:min(560px,calc(100vw - 700px));bottom:16px}
+}
+@media (min-width:760px) and (max-height:700px){#read{bottom:16px;max-height:52vh}}
+</style>
+</head>
+<body>
+<div id="map"></div>
+
+<section class="panel" id="hud">
+  <div id="grab" role="button" tabindex="0" aria-expanded="false" aria-controls="hudbody">
+    <i aria-hidden="true"></i>
+    <div class="row"><h1>Chennai SWD</h1><span id="counts"></span><span id="chev" aria-hidden="true">▲</span></div>
+  </div>
+  <div id="hudbody">
+    <div class="grp lead">
+      <div class="lbl">Network</div>
+      <div class="seg" id="network">
+        <button data-n="drawn" aria-pressed="true">As drawn</button>
+        <button data-n="conn">Connected</button>
+      </div>
+      <div class="hint" id="nhint"></div>
+    </div>
+
+    <div class="grp">
+      <div class="lbl">Vertical exaggeration <b id="zval">6×</b></div>
+      <div class="row2">
+        <input type="range" id="zex" min="1" max="40" value="6" aria-label="Vertical exaggeration">
+        <button class="btn" id="oneToOne" title="Set exaggeration to 1 so every proportion is true">1:1</button>
+      </div>
+      <div class="hint">One factor for everything — levels <em>and</em> cross-sections — so a drain is always drawn
+        at its true proportions. <em>1:1</em> is true scale. Depth is read through the roof: culvert lids fade
+        when you look down into them and solidify from the side.</div>
+    </div>
+
+    <div class="grp">
+      <div class="lbl">Datum</div>
+      <div class="seg" id="datum">
+        <button data-d="street" aria-pressed="true">Below street</button>
+        <button data-d="msl">Sea level</button>
+      </div>
+      <div class="hint" id="dhint">Each drain is drawn under its own surveyed road level, so the ground plane is the pavement and depth reads directly.</div>
+    </div>
+
+    <div class="grp">
+      <div class="lbl">Colour by</div>
+      <div class="seg" id="mode">
+        <button data-m="invert" aria-pressed="true">Level</button>
+        <button data-m="slope">Gradient</button>
+        <button data-m="flood">Flooding</button>
+      </div>
+      <div id="legend"></div>
+    </div>
+
+    <div class="grp">
+      <div class="lbl">Simulated event <b>SWMM · Dec 2015</b></div>
+      <button class="btn" id="simBtn" style="width:100%">Load the simulated run</button>
+      <div class="hint">A dynamic-wave SWMM run of 30 Nov – 8 Dec 2015 on this network, drawn as water inside the
+        culverts. <em>It has no predictive skill</em> — scored against the flooded-street record it is no better than
+        chance (lift ×0.97). It shows where this drawing of the network backs up, not where Chennai floods.</div>
+    </div>
+
+    <div class="grp">
+      <div class="lbl">Show</div>
+      <label class="chk"><input type="checkbox" id="tConduits" checked><span>Culverts</span></label>
+      <label class="chk"><input type="checkbox" id="tChambers" checked><span>Manhole chambers</span></label>
+      <label class="chk"><input type="checkbox" id="tShafts" checked><span>Shafts &amp; covers</span></label>
+      <label class="chk"><input type="checkbox" id="tGhost" checked><span>Elements with no surveyed section</span></label>
+      <label class="chk"><input type="checkbox" id="tUp" checked><span>Mark runs that fall uphill</span></label>
+      <label class="chk"><input type="checkbox" id="tFlow" checked><span>Flow direction pulse</span></label>
+      <label class="chk"><input type="checkbox" id="tVeil" checked><span id="veilLbl">Ground surface</span></label>
+      <label class="chk"><input type="checkbox" id="tWards" checked><span>Ward boundaries</span></label>
+    </div>
+
+    <div class="grp">
+      <div class="lbl">Base imagery</div>
+      <div class="seg" id="base">
+        <button data-b="google" aria-pressed="true">Earth</button>
+        <button data-b="streets">Streets</button>
+      </div>
+      <label class="chk" style="margin-top:9px"><input type="checkbox" id="tLabels" checked><span>Street &amp; place labels</span></label>
+    </div>
+
+    <div class="grp">
+      <div class="lbl">What is surveyed, what is assumed</div>
+      <div class="hint" id="assume"></div>
+    </div>
+  </div>
+</section>
+
+<section class="panel" id="read" aria-live="polite">
+  <h2><span id="rid">—</span><em id="rward"></em><span id="rclose" role="button" aria-label="Close">✕</span></h2>
+  <dl class="kv" id="rkv"></dl>
+  <div class="note" id="rnote"></div>
+</section>
+
+<section class="panel" id="sim">
+  <div id="simhead">
+    <span id="simtag">Simulated · not observed</span>
+    <span id="simtime">—</span>
+    <span id="simctl">
+      <button class="btn" id="simPlay">▶ Play</button>
+      <select id="simSpeed" aria-label="Playback speed">
+        <option value="0.5">½ h/s</option><option value="2" selected>2 h/s</option><option value="6">6 h/s</option><option value="24">24 h/s</option>
+      </select>
+      <button class="btn" id="simClose" title="Hide the simulation">✕</button>
+    </span>
+  </div>
+  <canvas id="hyeto"></canvas>
+  <input type="range" id="simt" min="0" max="191" value="0" step="0.25" aria-label="Simulation time">
+  <div id="simwarn">SWMM dynamic wave on this extracted network, default catchment parameters. <b>No predictive skill</b> (lift ×0.97 vs the flooded-street record). Water levels are what the model computes, not what happened.</div>
+</section>
+
+<div class="panel" id="status">
+  <span class="dot"></span>
+  <span><b id="sN">0</b> manholes</span>
+  <span><b id="sC">0</b> conduits</span>
+  <span id="sFps"></span>
+  <span>drag · ctrl-drag to tilt · click a manhole</span>
+</div>
+
+<div id="toast" role="status"></div>
+<div id="boot"><div>Reading network<div class="bar"><i></i></div></div></div>
+
+<script src="https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.js"></script>
+<script type="importmap">{"imports":{"three":"https://unpkg.com/three@0.160.0/build/three.module.js"}}</script>
+<script type="module">
+import * as THREE from 'three';
+const T0 = performance.now();
+
+/* ====================================================================
+   Assumptions. Every number here is NOT on the sheets. They are the only
+   dimensions the viewer invents, and each is named in the panel.
+   ==================================================================== */
+const ASSUME = {
+  CH_LEN:  1.2,   // m: how far a chamber's drain section is extruded along the run
+  SHAFT_R: 0.30,  // m: access shaft radius (a 600 mm opening)
+  COVER_R: 0.32,  // m: cover disc radius
+  COVER_T: 0.05,  // m: cover thickness
+  PH_W:    0.60,  // m: placeholder width for an element with no surveyed width  (ghosted)
+  PH_D:    0.60,  // m: placeholder depth for an element with no surveyed depth  (ghosted)
+  MISSING_INV_BELOW_TOP: 0.6, // m: a chamber with no invert is hung this far under its drain_top (ghosted)
+  CHUNK: 800,     // m: spatial chunk size for frustum culling
+};
+
+/* ---- basemaps -------------------------------------------------------- */
+const BASES = {
+  google:{tiles: l => [`https://mt1.google.com/vt/lyrs=${l ? 'y' : 's'}&x={x}&y={y}&z={z}`],
+    labels:null, maxzoom:20, attribution:'Imagery &copy; Google'},
+  streets:{tiles: l => [`https://mt1.google.com/vt/lyrs=m&x={x}&y={y}&z={z}`],
+    labels:null, maxzoom:20, attribution:'Map data &copy; Google'}
+};
+/* Never map.setStyle(): it diffs and silently drops layers the new style does
+   not declare. Sources are swapped in place; order stays base → swd → wards → labels. */
+function applyBase(){
+  const B = BASES[state.base];
+  for(const id of ['labels','base']){ if(map.getLayer(id)) map.removeLayer(id); if(map.getSource(id)) map.removeSource(id); }
+  map.addSource('base', {type:'raster', tiles:B.tiles(state.labels), tileSize:256, maxzoom:B.maxzoom, attribution:B.attribution});
+  const first = map.getStyle().layers[0];
+  map.addLayer({id:'base', type:'raster', source:'base'}, map.getLayer('swd') ? 'swd' : (first && first.id));
+  if(state.labels && B.labels){
+    map.addSource('labels', {type:'raster', tiles:[B.labels], tileSize:256, maxzoom:B.maxzoom});
+    map.addLayer({id:'labels', type:'raster', source:'labels'});
+  }
+}
+
+const Q = new URLSearchParams(location.search);
+const HAD_HASH = !!location.hash;    // MapLibre writes its own hash once loaded, so remember the user's
+const [net, wardsFC, groundJ] = await Promise.all([
+  fetch(`data/${/^[\w.-]+\.json$/.test(Q.get('net_file') || '') ? Q.get('net_file') : 'network.json'}`).then(r => r.json()),
+  fetch('data/wards.json').then(r => r.json()).catch(() => null),
+  fetch('data/ground.json').then(r => r.json()).catch(() => null),
+]);
+const {meta, nodes, conduits} = net;
+const HAS_SWMM = nodes.some(n => n.ag);
+
+const state = {mode:Q.get('mode') || 'invert', flow:true, datum:Q.get('datum') === 'msl' ? 'msl' : 'street',
+  network:Q.get('net') === 'conn' ? 'conn' : 'drawn', base:(Q.get('base') === 'streets' ? 'streets' : 'google'), labels:true, wards:true,
+  ghost:true, up:true, sim:false};
+let zEx = Math.max(1, Math.min(40, +(Q.get('ex') || 6)));
+
+const isDrawn = c => !(c.fg || '').includes('geometry_inferred') && !(c.fg || '').includes('junction_link') && !c.x;
+const isRouted = c => (c.fg || '').includes('road_routed');
+const N_DRAWN = conduits.filter(isDrawn).length;
+const N_ROUTED = conduits.filter(isRouted).length;
+const isOutfall = n => state.network === 'drawn' ? (n.out && !n.sy) : n.out;
+
+const map = new maplibregl.Map({container:'map', style:{version:8, sources:{}, layers:[]},
+  center:meta.centre, zoom: window.innerWidth < 760 ? 13.4 : 15.2, pitch:66, bearing:-22,
+  antialias:true, maxPitch:85, hash:true, attributionControl:{compact:true}});
+const isTouch = matchMedia('(hover:none)').matches;
+// On touch you pinch to zoom, so no +/- pair; no compass either — the 2D/3D button below is the only view control.
+if(!isTouch) map.addControl(new maplibregl.NavigationControl({showZoom:true, showCompass:false}), 'top-right');
+/* 2D ⇄ 3D. The compass button flattens the view but nothing brings the tilt
+   back on a phone (ctrl-drag has no touch equivalent), so this is explicit. */
+class ViewToggle {
+  onAdd(m){
+    this._m = m;
+    const d = document.createElement('div'); d.className = 'maplibregl-ctrl maplibregl-ctrl-group';
+    const b = document.createElement('button'); b.type = 'button'; b.className = 'swd-3d'; this._b = b; d.appendChild(b);
+    b.addEventListener('click', () => m.easeTo({pitch: m.getPitch() < 5 ? 62 : 0, duration:600}));
+    m.on('pitch', () => this.sync()); this.sync();
+    return d;
+  }
+  sync(){ const flat = this._m.getPitch() < 5; this._b.textContent = flat ? '3D' : '2D';
+    this._b.title = this._b.ariaLabel = flat ? 'Tilt into 3D' : 'Flatten to 2D plan'; }
+  onRemove(){}
+}
+map.addControl(new ViewToggle(), 'top-right');
+let toastT;
+function toast(msg, ms = 5200){
+  const el = document.getElementById('toast'); el.textContent = msg; el.classList.add('on');
+  clearTimeout(toastT); toastT = setTimeout(() => el.classList.remove('on'), ms);
+}
+const geo = new maplibregl.GeolocateControl({positionOptions:{enableHighAccuracy:true}, trackUserLocation:true, showUserHeading:true, showAccuracyCircle:true});
+map.addControl(geo, 'top-right');
+geo.on('error', e => toast(!window.isSecureContext
+  ? 'Locate needs a secure connection. Open this page over HTTPS and the button will work.'
+  : e && e.code === 1 ? 'Location permission is blocked for this site. Allow it in your browser’s site settings, then tap again.'
+  : 'Could not get a location fix. Try again outdoors or with Wi-Fi on.'));
+map.addControl(new maplibregl.ScaleControl({maxWidth:90, unit:'metric'}), 'bottom-left');
+new ResizeObserver(() => map.resize()).observe(document.getElementById('map'));
+
+/* ---------------------------------------------------------------------
+   Frames. MapLibre mercator: x east, y SOUTH, z up. Scene: x east, y UP,
+   z south. MODEL is a permutation, not a scale; det < 0, so DoubleSide.
+--------------------------------------------------------------------- */
+const ORIGIN = maplibregl.MercatorCoordinate.fromLngLat(meta.centre, 0);
+const MPU = ORIGIN.meterInMercatorCoordinateUnits();
+const MODEL = new THREE.Matrix4().set(MPU,0,0,ORIGIN.x, 0,0,MPU,ORIGIN.y, 0,MPU,0,ORIGIN.z, 0,0,0,1);
+function proj(lon, lat){
+  const m = maplibregl.MercatorCoordinate.fromLngLat([lon, lat], 0);
+  return [(m.x - ORIGIN.x)/MPU, (m.y - ORIGIN.y)/MPU];
+}
+nodes.forEach((n, i) => { const p = proj(n.lon, n.lat); n._x = p[0]; n._z = p[1]; n._i = i; });
+const byId = new Map(nodes.map(n => [n.id, n]));
+conduits.forEach((c, i) => { c._i = i; c._p = c.g.map(p => proj(p[0], p[1])); });
+
+const grounds = nodes.map(n => n.road ?? n.top ?? n.inv).filter(v => v != null);
+const Z0 = grounds.reduce((a,b) => a+b, 0) / grounds.length;
+const invSorted = nodes.map(n => n.inv).filter(v => v != null).sort((a,b) => a-b);
+const iLo = invSorted[Math.floor(invSorted.length * 0.02)], iHi = invSorted[Math.floor(invSorted.length * 0.98)];
+
+/* ---- per-node derived geometry -----------------------------------------
+   _w/_d: section (surveyed, or the ghost placeholder). _inv0: invert used
+   for placement. _ref: the level everything is measured down from under the
+   "street" datum. _brg: bearing of the drain through this chamber.        */
+for(const n of nodes){
+  n._surv = n.wd != null && n.dp != null;
+  n._w = n.wd ?? ASSUME.PH_W; n._d = n.dp ?? ASSUME.PH_D;
+  n._lvl = n.inv != null;
+  n._inv0 = n.inv ?? (n.top != null ? n.top - ASSUME.MISSING_INV_BELOW_TOP
+                     : n.road != null ? n.road - ASSUME.MISSING_INV_BELOW_TOP - n._d : Z0 - 1.5);
+  n._ref = n.road ?? n.top ?? (n._inv0 + n._d + ASSUME.MISSING_INV_BELOW_TOP);
+  n._topMSL = n._inv0 + n._d;                       // soffit of the drain section
+  n._cover = n.road != null ? n.road - n._topMSL : null;  // shaft height; negative = drain proud of kerb
+  n._bx = 0; n._bz = 0; n._deg = 0;
+}
+// bearing: average the doubled angle so opposite directions reinforce
+for(const c of conduits){
+  const P = c._p; if(P.length < 2) continue;
+  const acc = (n, dx, dz) => { if(!n) return; const a = 2*Math.atan2(dz, dx); n._bx += Math.cos(a); n._bz += Math.sin(a); n._deg++; };
+  acc(byId.get(c.f), P[1][0]-P[0][0], P[1][1]-P[0][1]);
+  acc(byId.get(c.t), P[P.length-1][0]-P[P.length-2][0], P[P.length-1][1]-P[P.length-2][1]);
+}
+for(const n of nodes) n._brg = n._deg ? 0.5*Math.atan2(n._bz, n._bx) : 0;
+const refOf = n => state.datum === 'msl' ? Z0 : n._ref;
+const nodeY = (n, lvl) => (lvl - refOf(n)) * zEx;
+
+/* ---- colour ---------------------------------------------------------- */
+const RAMP_LEVEL = ['#0a2f6b','#1665b0','#0fa3b1','#3fbf7f','#b8cf3c','#f0a02a','#d9451f'];
+const RAMP_SLOPE = ['#13342a','#276b48','#4fb277','#a9ecbd'];
+const GREY = new THREE.Color('#465660');
+function ramp(stops, t){
+  t = Math.max(0, Math.min(1, t));
+  const s = t*(stops.length-1), i = Math.min(stops.length-2, Math.floor(s)), f = s-i;
+  const hex = h => [parseInt(h.slice(1,3),16), parseInt(h.slice(3,5),16), parseInt(h.slice(5,7),16)];
+  const A = hex(stops[i]), B = hex(stops[i+1]);
+  return new THREE.Color((A[0]+(B[0]-A[0])*f)/255,(A[1]+(B[1]-A[1])*f)/255,(A[2]+(B[2]-A[2])*f)/255);
+}
+const level = z => ramp(RAMP_LEVEL, (z-iLo)/(iHi-iLo));
+function colourNode(n){
+  if(state.mode === 'flood'){
+    if(n.ag === 'hit') return new THREE.Color('#ff3b4f');
+    if(n.ag === 'false_alarm') return new THREE.Color('#ffb02e');
+    if(n.ag === 'miss') return new THREE.Color('#2f7fd0');
+    if(n.ag === 'correct_dry') return GREY;
+    if(n.fl == null) return GREY;
+    return ramp(['#ff3b4f','#c4564f','#7d5a52','#4b5a63'], Math.min(1, n.fl/60));
+  }
+  if(state.mode === 'slope') return isOutfall(n) ? new THREE.Color('#2ee0cf') : GREY;
+  return n.inv == null ? GREY : level(n.inv);
+}
+function colourCond(c){
+  if(state.mode === 'slope'){
+    if(c.s == null) return GREY;
+    if(c.s < 0) return new THREE.Color('#ff3b4f');
+    return ramp(RAMP_SLOPE, Math.min(1, c.s/0.008));
+  }
+  if(state.mode === 'flood') return isDrawn(c) ? new THREE.Color('#25c8bd') : isRouted(c) ? new THREE.Color('#e0b84a') : new THREE.Color('#d05ae0');
+  const z = c.ui ?? c.di;
+  return z == null ? GREY : level(z);
+}
+const N_GHOST_C = conduits.filter(c => c.wd == null || c.dp == null).length;
+const N_GHOST_N = nodes.filter(n => !n._surv).length;
+const N_UP = conduits.filter(c => c.s != null && c.s < 0).length;
+const N_OPEN = conduits.filter(c => c.ty === 'O').length;
+const LEGENDS = () => ({
+  invert:[[`linear-gradient(90deg,${RAMP_LEVEL.join(',')})`,`invert level, ${iLo.toFixed(1)} m MSL near the coast → ${iHi.toFixed(1)} m MSL inland`],
+          ['#465660','no surveyed level']],
+  slope: [['#ff3b4f','runs uphill — silted sump or survey noise'],['#276b48','0.1 %'],['#4fb277','0.4 %'],['#a9ecbd','0.8 % or steeper'],['#2ee0cf','outfall']],
+  flood: HAS_SWMM
+    ? [['#ff3b4f','model floods, street flooded — hit'],['#ffb02e','model floods only — false alarm'],['#2f7fd0','street flooded, model dry — miss'],['#465660','neither'],
+       ['#25c8bd','conduit traced from the drawing'],['#e0b84a','connection routed along the road'],['#d05ae0','connection inferred, straight chord']]
+    : [['#ff3b4f','manhole on a street recorded as flooded'],['#c4564f','within 20 m'],['#7d5a52','within 40 m'],['#4b5a63','no flood record nearby'],
+       ['#25c8bd','conduit traced from the drawing'],['#e0b84a','connection routed along the road'],['#d05ae0','connection inferred, straight chord']]
+}[state.mode]);
+const drawLegend = () => document.getElementById('legend').innerHTML =
+  LEGENDS().map(([c,t]) => `<div class="lrow"><i class="sw" style="background:${c}${c.startsWith('linear') ? ';width:64px' : ''}"></i><span>${t}</span></div>`).join('')
+  + `<div class="lrow"><i class="sw ghost"></i><span>no surveyed section — ghosted at a ${ASSUME.PH_W} × ${ASSUME.PH_D} m placeholder: <b>${N_GHOST_C.toLocaleString()}</b> conduits, <b>${N_GHOST_N.toLocaleString()}</b> chambers</span></div>`
+  + `<div class="lrow"><i class="sw stripe"></i><span>striped: falls uphill (ds invert above us) — <b>${N_UP.toLocaleString()}</b> conduits</span></div>`
+  + `<div class="lrow"><i class="sw" style="background:#2a3338;border-top:2px solid #8fa;height:6px"></i><span>no lid: open channel (type O) — <b>${N_OPEN.toLocaleString()}</b> conduits</span></div>`;
+
+/* ---- shared GLSL ------------------------------------------------------
+   One fragment routine for culverts and chambers: lambert + a cheap
+   specular so damp concrete reads, depth cue below ground, the roof
+   cutaway, the ghost stipple, uphill stripes, and the direction pulse.  */
+const FRAG_COMMON = `
+  out vec4 fragColor;
+  uniform vec3 uCam; uniform float uTime, uFlow, uDrawnOnly, uUpMark, uGhost, uPass, uZEx, uHi;
+  varying vec3 vP, vN, vC; varying vec4 vF; varying float vAlong, vDepth, vEnd, vCond;
+  float stip(){ return mod(floor(gl_FragCoord.x) + floor(gl_FragCoord.y), 4.0); }
+  vec4 shade(){
+    float kind = vF.x;                       // 0 floor, 1 wall, 2 roof
+    if(uDrawnOnly > 0.5 && vF.y < 0.5) discard;
+    bool surv = vF.w >= 0.5, ghost = !surv;
+    if(ghost && uGhost < 0.5) discard;
+    bool isRoof = kind > 1.5;
+    if(uPass < 0.5 && isRoof) discard;       // opaque pass: floor + walls
+    if(uPass > 0.5 && !isRoof) discard;      // lid pass: transparent
+    vec3 N = normalize(vN), V = normalize(uCam - vP);
+    vec3 L1 = normalize(vec3(-0.55, 1.0, 0.35)), L2 = normalize(vec3(0.7, 0.25, -0.6));
+    float d = 0.38 + 0.62 * abs(dot(N, L1)) + 0.18 * abs(dot(N, L2));
+    vec3 H = normalize(L1 + V);
+    float spec = pow(abs(dot(N, H)), 24.0) * 0.18;         // damp concrete sheen
+    vec3 col = vC * d + spec;
+    // concrete grain: a hash on world position so surfaces are not flat colour
+    float g = fract(sin(dot(floor(vP.xz * 3.0), vec2(12.9898, 78.233))) * 43758.5453);
+    col *= 0.93 + 0.07 * g;
+    // corners where chamber meets conduit: contact darkening within 0.8 m
+    col *= 1.0 - 0.35 * (1.0 - smoothstep(0.0, 0.8, vEnd));
+    // depth cue: darker and greyer the deeper below ground (real metres)
+    float dc = clamp(vDepth / 4.0, 0.0, 1.0);
+    col = mix(col, vec3(dot(col, vec3(0.33))) * 0.55, dc * 0.45);
+    float alpha = 1.0;
+    if(isRoof){
+      float ndv = abs(dot(N, V));
+      alpha = mix(0.10, 0.72, 1.0 - ndv);   // looking down: see in; from the side: a lid
+      col *= 1.08;
+    }
+    if(ghost){
+      col = mix(col, vec3(0.42, 0.47, 0.52), 0.75);
+      if(stip() < 2.0) discard;
+      alpha *= 0.55;
+    }
+    // uphill runs: a thin red band every 3 m, so the run is findable without shouting
+    if(vF.z > 0.5 && uUpMark > 0.5 && !isRoof && fract(vAlong / 3.0) < 0.15) col = mix(col, vec3(1.0, 0.22, 0.32), 0.85);
+    if(uFlow > 0.5 && !isRoof){
+      float p = fract(vAlong / 6.0 - uTime * 0.6);
+      float pulse = smoothstep(0.80, 0.98, p) * (1.0 - smoothstep(0.98, 1.0, p));
+      col += vec3(0.30, 0.85, 0.78) * pulse * 0.8;
+    }
+    if(uHi >= 0.0 && abs(vCond - uHi) < 0.5){       // the tapped conduit, end to end
+      col = mix(col, vec3(1.0, 0.82, 0.25), 0.55 + 0.2 * sin(uTime * 5.0));
+      alpha = max(alpha, 0.9);
+    }
+    return vec4(col, alpha);
+  }`;
+const SHARED_UNIFORMS = () => ({uCam:{value:new THREE.Vector3()}, uTime:{value:0}, uFlow:{value:1}, uDrawnOnly:{value:state.network === 'drawn' ? 1 : 0},
+  uUpMark:{value:1}, uGhost:{value:1}, uPass:{value:0}, uZEx:{value:zEx}, uHi:{value:-1}, uMsl:{value:state.datum === 'msl' ? 1 : 0}, uZ0:{value:Z0},
+  uColTex:{value:null}, uColW:{value:4096}});
+
+/* ---- conduit colour texture: one texel per conduit, recoloured in place --- */
+const COLW = 4096, COLH = Math.ceil(conduits.length / COLW);
+const colData = new Uint8Array(COLW * COLH * 4);
+const colTex = new THREE.DataTexture(colData, COLW, COLH, THREE.RGBAFormat, THREE.UnsignedByteType);
+colTex.minFilter = colTex.magFilter = THREE.NearestFilter;
+function colourConduits(){
+  const c = new THREE.Color();
+  for(let i = 0; i < conduits.length; i++){
+    c.copy(colourCond(conduits[i]));
+    colData[i*4] = c.r*255; colData[i*4+1] = c.g*255; colData[i*4+2] = c.b*255; colData[i*4+3] = 255;
+  }
+  colTex.needsUpdate = true;
+}
+
+/* ---- conduits: closed box culverts, chunked ------------------------------
+   Each polyline segment becomes floor + two walls + roof (roof omitted for
+   type O). Vertical placement happens in the vertex shader from surveyed
+   levels, so exaggeration and datum changes touch no buffers.           */
+const chunks = new Map();
+const chunkKey = (x, z) => `${Math.floor(x/ASSUME.CHUNK)},${Math.floor(z/ASSUME.CHUNK)}`;
+function chunkOf(x, z){
+  const k = chunkKey(x, z);
+  let ch = chunks.get(k);
+  if(!ch){ ch = {conds:[], nodes:[], key:k}; chunks.set(k, ch); }
+  return ch;
+}
+for(const c of conduits) chunkOf(c._p[0][0], c._p[0][1]).conds.push(c);
+for(const n of nodes) chunkOf(n._x, n._z).nodes.push(n);
+
+// invert profile along the run: (0, us) ... breakpoints at intermediate manholes ... (1, ds)
+function profileOf(c){
+  const nf = byId.get(c.f), nt = byId.get(c.t);
+  const z0 = c.ui ?? nf?._inv0 ?? Z0, z1 = c.di ?? nt?._inv0 ?? Z0;
+  const pts = [[0, z0], ...(c.bp || []), [1, z1]];
+  return t => {
+    for(let i = 1; i < pts.length; i++) if(t <= pts[i][0]){
+      const [ta, za] = pts[i-1], [tb, zb] = pts[i];
+      return tb > ta ? za + (zb-za)*(t-ta)/(tb-ta) : za;
+    }
+    return z1;
+  };
+}
+
+const condVS = `
+  attribute float aInv, aRise, aGrnd, aAlong, aCond, aEnd, aDepthG; attribute vec3 aNrm; attribute vec4 aFlag;
+  uniform float uZEx, uMsl, uZ0, uColW; uniform sampler2D uColTex;
+  varying vec3 vP, vN, vC; varying vec4 vF; varying float vAlong, vDepth, vEnd, vCond;
+  void main(){
+    float y = (aInv - mix(aGrnd, uZ0, uMsl)) * uZEx + aRise * uZEx;
+    vec3 p = vec3(position.x, y, position.z);
+    vP = p; vN = aNrm; vF = aFlag; vAlong = aAlong; vEnd = aEnd; vCond = aCond;
+    vDepth = aDepthG - (aInv + aRise);
+    int ci = int(aCond + 0.5); int W = int(uColW);
+    vC = texelFetch(uColTex, ivec2(ci - (ci / W) * W, ci / W), 0).rgb;
+    gl_Position = projectionMatrix * modelViewMatrix * vec4(p, 1.0);
+  }`;
+const condFS = FRAG_COMMON + ` void main(){ fragColor = shade(); }`;
+const uni = SHARED_UNIFORMS(); uni.uColTex.value = colTex;
+const condMatOpaque = new THREE.ShaderMaterial({glslVersion:THREE.GLSL3, uniforms:uni, vertexShader:condVS, fragmentShader:condFS, side:THREE.DoubleSide});
+const condMatLid = new THREE.ShaderMaterial({glslVersion:THREE.GLSL3, uniforms:{...uni, uPass:{value:1}}, vertexShader:condVS, fragmentShader:condFS,
+  side:THREE.DoubleSide, transparent:true, depthWrite:false});
+
+function buildConduitChunk(ch){
+  let nV = 0, nI = 0;
+  for(const c of ch.conds){
+    const seg = c._p.length - 1, open = c.ty === 'O';
+    nV += seg * (open ? 12 : 16); nI += seg * (open ? 18 : 24);
+  }
+  if(!nV) return null;
+  const pos = new Float32Array(nV*3), inv = new Float32Array(nV), rise = new Float32Array(nV), grnd = new Float32Array(nV);
+  const along = new Float32Array(nV), cidx = new Float32Array(nV), endd = new Float32Array(nV), depg = new Float32Array(nV);
+  const nrm = new Int8Array(nV*3), flag = new Uint8Array(nV*4), idx = new Uint32Array(nI);
+  let vi = 0, ii = 0;
+  for(const c of ch.conds){
+    const P = c._p, n = P.length, open = c.ty === 'O';
+    const nf = byId.get(c.f), nt = byId.get(c.t);
+    const surv = c.wd != null && c.dp != null;
+    const hw = (c.wd ?? ASSUME.PH_W) / 2, dep = c.dp ?? ASSUME.PH_D;
+    const g0 = nf?._ref ?? Z0, g1 = nt?._ref ?? Z0;
+    const drawn = isDrawn(c) ? 1 : 0, up = (c.s != null && c.s < 0) ? 1 : 0;
+    const prof = profileOf(c);
+    const segL = []; let run = 0;
+    for(let i = 0; i < n-1; i++){ const L = Math.hypot(P[i+1][0]-P[i][0], P[i+1][1]-P[i][1]); segL.push(L); run += L; }
+    if(run <= 0) run = 1;
+    const trim = ASSUME.CH_LEN / 2;   // butt against the chamber faces instead of running through them
+    const emit = (x, z, zi, h, t, m, nx, ny, nz, kind, dist) => {
+      pos[vi*3] = x; pos[vi*3+2] = z; inv[vi] = zi; rise[vi] = h; grnd[vi] = g0 + (g1-g0)*t;
+      along[vi] = m; cidx[vi] = c._i; endd[vi] = dist; depg[vi] = g0 + (g1-g0)*t;
+      nrm[vi*3] = nx*127; nrm[vi*3+1] = ny*127; nrm[vi*3+2] = nz*127;
+      flag[vi*4] = kind; flag[vi*4+1] = drawn; flag[vi*4+2] = up; flag[vi*4+3] = surv ? 1 : 0;
+      return vi++;
+    };
+    const quad = (a, b, c2, d) => { idx[ii++] = a; idx[ii++] = b; idx[ii++] = c2; idx[ii++] = a; idx[ii++] = c2; idx[ii++] = d; };
+    let acc = 0;
+    for(let i = 0; i < n-1; i++){
+      let a = P[i], b = P[i+1]; const L = segL[i] || 1;
+      const ux = (b[0]-a[0])/L, uz = (b[1]-a[1])/L;
+      let m0 = acc, m1 = acc + L; acc += L;
+      if(i === 0 && L > trim*2){ a = [a[0]+ux*trim, a[1]+uz*trim]; m0 += trim; }
+      if(i === n-2 && L > trim*2){ b = [b[0]-ux*trim, b[1]-uz*trim]; m1 -= trim; }
+      const t0 = m0/run, t1 = m1/run, zA = prof(t0), zB = prof(t1);
+      const px = -uz*hw, pz = ux*hw;      // left offset
+      const dA = Math.min(m0, run-m0), dB = Math.min(m1, run-m1);
+      const aL = [a[0]-px, a[1]-pz], aR = [a[0]+px, a[1]+pz], bL = [b[0]-px, b[1]-pz], bR = [b[0]+px, b[1]+pz];
+      // floor
+      let v0 = emit(aL[0],aL[1],zA,0,t0,m0,0,1,0,0,dA), v1 = emit(aR[0],aR[1],zA,0,t0,m0,0,1,0,0,dA),
+          v2 = emit(bR[0],bR[1],zB,0,t1,m1,0,1,0,0,dB), v3 = emit(bL[0],bL[1],zB,0,t1,m1,0,1,0,0,dB);
+      quad(v0,v1,v2,v3);
+      // left wall (normal points into the channel)
+      v0 = emit(aL[0],aL[1],zA,0,t0,m0,uz,0,-ux,1,dA); v1 = emit(bL[0],bL[1],zB,0,t1,m1,uz,0,-ux,1,dB);
+      v2 = emit(bL[0],bL[1],zB,dep,t1,m1,uz,0,-ux,1,dB); v3 = emit(aL[0],aL[1],zA,dep,t0,m0,uz,0,-ux,1,dA);
+      quad(v0,v1,v2,v3);
+      // right wall
+      v0 = emit(aR[0],aR[1],zA,0,t0,m0,-uz,0,ux,1,dA); v1 = emit(bR[0],bR[1],zB,0,t1,m1,-uz,0,ux,1,dB);
+      v2 = emit(bR[0],bR[1],zB,dep,t1,m1,-uz,0,ux,1,dB); v3 = emit(aR[0],aR[1],zA,dep,t0,m0,-uz,0,ux,1,dA);
+      quad(v0,v1,v2,v3);
+      if(!open){  // roof / soffit at invert + depth
+        v0 = emit(aL[0],aL[1],zA,dep,t0,m0,0,1,0,2,dA); v1 = emit(aR[0],aR[1],zA,dep,t0,m0,0,1,0,2,dA);
+        v2 = emit(bR[0],bR[1],zB,dep,t1,m1,0,1,0,2,dB); v3 = emit(bL[0],bL[1],zB,dep,t1,m1,0,1,0,2,dB);
+        quad(v0,v1,v2,v3);
+      }
+    }
+  }
+  const g = new THREE.BufferGeometry();
+  g.setAttribute('position', new THREE.BufferAttribute(pos, 3));
+  g.setAttribute('aInv', new THREE.BufferAttribute(inv, 1));
+  g.setAttribute('aRise', new THREE.BufferAttribute(rise, 1));
+  g.setAttribute('aGrnd', new THREE.BufferAttribute(grnd, 1));
+  g.setAttribute('aDepthG', new THREE.BufferAttribute(depg, 1));
+  g.setAttribute('aAlong', new THREE.BufferAttribute(along, 1));
+  g.setAttribute('aCond', new THREE.BufferAttribute(cidx, 1));
+  g.setAttribute('aEnd', new THREE.BufferAttribute(endd, 1));
+  g.setAttribute('aNrm', new THREE.BufferAttribute(nrm, 3, true));
+  g.setAttribute('aFlag', new THREE.BufferAttribute(flag, 4));
+  g.setIndex(new THREE.BufferAttribute(idx, 1));
+  // bounding sphere for frustum culling: y is exaggerated at runtime, so give it generous vertical room
+  g.computeBoundingSphere(); g.boundingSphere.radius += 400;
+  return g;
+}
+
+/* ---- chambers: the drain section extruded CH_LEN along the bearing, instanced ---
+   A unit box minus its two end faces (the run passes straight through). */
+function sectionBoxGeometry(){
+  const b = new THREE.BoxGeometry(1, 1, 1);
+  const g = new THREE.BufferGeometry();
+  g.setAttribute('position', b.attributes.position); g.setAttribute('normal', b.attributes.normal);
+  g.setIndex(new THREE.BufferAttribute(b.index.array.slice(0, 24), 1));   // ±x, ±y faces only
+  return g;
+}
+const chamVS = `
+  attribute vec3 aCol; attribute vec4 aFlagI; attribute float aDepthI;
+  varying vec3 vP, vN, vC; varying vec4 vF; varying float vAlong, vDepth, vEnd, vCond;
+  void main(){
+    vec4 wp = instanceMatrix * vec4(position, 1.0); vCond = -2.0;
+    vP = wp.xyz; vN = normalize(mat3(instanceMatrix) * normal);
+    vC = aCol * 1.18 + 0.04;                 // chambers read a shade lighter than the run they sit in
+    float kind = normal.y > 0.5 ? 2.0 : (normal.y < -0.5 ? 0.0 : 1.0);
+    // seams: the contact darkening runs in from both open ends of the chamber
+    vF = vec4(kind, aFlagI.y, 0.0, aFlagI.w); vAlong = 1000.0; vEnd = (0.5 - abs(position.z)) * ${ASSUME.CH_LEN};
+    vDepth = aDepthI * (1.0 - position.y - 0.5);
+    gl_Position = projectionMatrix * modelViewMatrix * wp;
+  }`;
+const chamMatOpaque = new THREE.ShaderMaterial({glslVersion:THREE.GLSL3, uniforms:uni, vertexShader:chamVS, fragmentShader:condFS, side:THREE.DoubleSide});
+const chamMatLid = new THREE.ShaderMaterial({glslVersion:THREE.GLSL3, uniforms:{...uni, uPass:{value:1}}, vertexShader:chamVS, fragmentShader:condFS, side:THREE.DoubleSide, transparent:true, depthWrite:false});
+const SECTION_GEO = sectionBoxGeometry();
+const SHAFT_GEO = new THREE.CylinderGeometry(1, 1, 1, 10, 1, true); SHAFT_GEO.translate(0, 0.5, 0);
+const COVER_GEO = new THREE.CylinderGeometry(1, 1, 1, 16);
+const shaftMat = new THREE.MeshStandardMaterial({color:0x8d9498, roughness:0.92, metalness:0.02, side:THREE.DoubleSide});
+const coverMat = new THREE.MeshStandardMaterial({color:0x2a2e33, roughness:0.48, metalness:0.85, side:THREE.DoubleSide});
+
+function buildChamberChunk(ch){
+  const N = ch.nodes.length; if(!N) return null;
+  const meshA = new THREE.InstancedMesh(SECTION_GEO, chamMatOpaque, N);
+  const meshB = new THREE.InstancedMesh(SECTION_GEO, chamMatLid, N);
+  meshB.instanceMatrix = meshA.instanceMatrix;
+  const col = new Float32Array(N*3), fl = new Uint8Array(N*4), dep = new Float32Array(N);
+  for(let i = 0; i < N; i++){ const n = ch.nodes[i]; fl[i*4] = 0; fl[i*4+1] = 1; fl[i*4+2] = 0; fl[i*4+3] = (n._surv && n._lvl) ? 1 : 0; dep[i] = n._d; }
+  const colA = new THREE.InstancedBufferAttribute(col, 3), flA = new THREE.InstancedBufferAttribute(fl, 4), dA = new THREE.InstancedBufferAttribute(dep, 1);
+  for(const m of [meshA, meshB]){ m.geometry = SECTION_GEO.clone(); m.geometry.setAttribute('aCol', colA); m.geometry.setAttribute('aFlagI', flA); m.geometry.setAttribute('aDepthI', dA); }
+  const shafts = new THREE.InstancedMesh(SHAFT_GEO, shaftMat, N);
+  const covers = new THREE.InstancedMesh(COVER_GEO, coverMat, N);
+  ch.cham = meshA; ch.chamLid = meshB; ch.shafts = shafts; ch.covers = covers; ch.colA = colA;
+  return ch;
+}
+const _m = new THREE.Matrix4(), _q = new THREE.Quaternion(), _s = new THREE.Vector3(), _p = new THREE.Vector3(), _up = new THREE.Vector3(0,1,0);
+const _c = new THREE.Color();
+function placeChamberChunk(ch){
+  const N = ch.nodes.length; if(!N) return;
+  const msl = state.datum === 'msl';
+  for(let i = 0; i < N; i++){
+    const n = ch.nodes[i];
+    const ref = msl ? Z0 : n._ref;
+    const y0 = (n._inv0 - ref) * zEx, h = n._d * zEx;
+    _q.setFromAxisAngle(_up, -n._brg);        // scene z is south: negate to keep the bearing right-handed
+    _s.set(n._w, h, ASSUME.CH_LEN); _p.set(n._x, y0 + h/2, n._z);
+    _m.compose(_p, _q, _s); ch.cham.setMatrixAt(i, _m);
+    // shaft: from the soffit up to road level; skipped where the drain stands proud of the kerb
+    const cover = n._cover;
+    if(cover != null && cover > 0){
+      _s.set(ASSUME.SHAFT_R, cover * zEx, ASSUME.SHAFT_R); _p.set(n._x, y0 + h, n._z);
+      _m.compose(_p, _q, _s);
+    } else _m.makeScale(0,0,0);
+    ch.shafts.setMatrixAt(i, _m);
+    if(n.road != null){
+      const t = Math.max(ASSUME.COVER_T * zEx, 0.05);
+      _s.set(ASSUME.COVER_R, t, ASSUME.COVER_R); _p.set(n._x, (n.road - ref) * zEx + t/2, n._z);
+      _m.compose(_p, _q, _s);
+    } else _m.makeScale(0,0,0);
+    ch.covers.setMatrixAt(i, _m);
+  }
+  ch.cham.instanceMatrix.needsUpdate = true; ch.shafts.instanceMatrix.needsUpdate = true; ch.covers.instanceMatrix.needsUpdate = true;
+  for(const m of [ch.cham, ch.chamLid, ch.shafts, ch.covers]){ m.computeBoundingSphere(); m.boundingSphere.radius += 50; }
+}
+function colourChamberChunk(ch){
+  const a = ch.colA.array;
+  for(let i = 0; i < ch.nodes.length; i++){ _c.copy(colourNode(ch.nodes[i])); a[i*3] = _c.r; a[i*3+1] = _c.g; a[i*3+2] = _c.b; }
+  ch.colA.needsUpdate = true;
+}
+
+/* ---- ground: a TIN over the surveyed road-edge levels ----------------------
+   Under "street" every manhole's own road level is the reference, so the
+   surface is flat at y = 0 by construction — the veil plane. Under "sea
+   level" the TIN carries real relief.                                        */
+let veil, tin;
+function buildVeil(){
+  const [w, s] = proj(meta.bbox[0], meta.bbox[3]); const [e, n] = proj(meta.bbox[2], meta.bbox[1]); const pad = 3000;
+  const m = new THREE.Mesh(new THREE.PlaneGeometry(Math.abs(e-w)+pad*2, Math.abs(n-s)+pad*2),
+    new THREE.MeshBasicMaterial({color:0x040a0e, transparent:true, opacity:.46, depthWrite:false, side:THREE.DoubleSide}));
+  m.rotation.x = -Math.PI/2; m.position.set((e+w)/2, 0, (n+s)/2); m.renderOrder = 10; m.frustumCulled = false;
+  return m;
+}
+function buildTIN(){
+  if(!groundJ) return null;
+  const nv = groundJ.v.length, pos = new Float32Array(nv*3), z = new Float32Array(nv);
+  for(let i = 0; i < nv; i++){ const [lon, lat, zz] = groundJ.v[i]; const p = proj(lon, lat); pos[i*3] = p[0]; pos[i*3+2] = p[1]; z[i] = zz; }
+  const idx = new Uint32Array(groundJ.t.length*3); groundJ.t.forEach((t, i) => { idx[i*3] = t[0]; idx[i*3+1] = t[1]; idx[i*3+2] = t[2]; });
+  const g = new THREE.BufferGeometry();
+  g.setAttribute('position', new THREE.BufferAttribute(pos, 3)); g.setAttribute('aZ', new THREE.BufferAttribute(z, 1)); g.setIndex(new THREE.BufferAttribute(idx, 1));
+  const mat = new THREE.ShaderMaterial({glslVersion:THREE.GLSL3, transparent:true, depthWrite:false, side:THREE.DoubleSide,
+    uniforms:{uZEx:uni.uZEx, uZ0:uni.uZ0},
+    vertexShader:`attribute float aZ; uniform float uZEx, uZ0; varying vec3 vP; varying float vZ;
+      void main(){ vec3 p = vec3(position.x, (aZ - uZ0) * uZEx, position.z); vP = p; vZ = aZ; gl_Position = projectionMatrix * modelViewMatrix * vec4(p, 1.0); }`,
+    fragmentShader:`out vec4 fragColor; varying vec3 vP; varying float vZ;
+      void main(){
+        vec3 N = normalize(cross(dFdx(vP), dFdy(vP))); if(N.y < 0.0) N = -N;
+        float sh = 0.55 + 0.45 * dot(N, normalize(vec3(-0.55, 1.0, 0.35)));
+        float ct = 1.0 - smoothstep(0.0, 0.08, abs(fract(vZ) - 0.5) );   // a contour every metre of road level
+        vec3 col = mix(vec3(0.05, 0.10, 0.13), vec3(0.16, 0.30, 0.34), sh);
+        col = mix(col, vec3(0.55, 0.75, 0.75), ct * 0.35);
+        fragColor = vec4(col, 0.55);
+      }`});
+  const m = new THREE.Mesh(g, mat); m.renderOrder = 10; m.frustumCulled = false;
+  return m;
+}
+
+/* ---- SWMM water --------------------------------------------------------- */
+const SIM = {loaded:false, steps:0, t:0, playing:false, speed:2, nodeIdx:new Int32Array(nodes.length).fill(-1),
+  linkIdx:new Int32Array(conduits.length).fill(-1), texW:2048, perRow:0, meta:null, lastFrame:0};
+const simUni = {uSimT:{value:0}, uSteps:{value:1}, uPerRow:{value:1}, uTexW:{value:2048}, uLinkDep:{value:null}, uLinkVel:{value:null},
+  uNodeDep:{value:null}, uNodeFld:{value:null}, uZEx:uni.uZEx, uMsl:uni.uMsl, uZ0:uni.uZ0, uAnim:{value:0}, uCam:uni.uCam};
+const SIM_SAMPLE = `
+  uniform float uSimT, uSteps, uPerRow, uTexW;
+  float samp(sampler2D tex, float slot, float t){
+    int s = int(slot + 0.5); int per = int(uPerRow + 0.5); int steps = int(uSteps + 0.5);
+    int row = s / per; int col0 = (s - row * per) * steps;
+    float tf = clamp(t, 0.0, uSteps - 1.001); int ti = int(floor(tf)); float f = tf - float(ti);
+    float a = texelFetch(tex, ivec2(col0 + ti, row), 0).r;
+    float b = texelFetch(tex, ivec2(col0 + min(ti + 1, steps - 1), row), 0).r;
+    return mix(a, b, f);
+  }`;
+const waterMat = new THREE.ShaderMaterial({glslVersion:THREE.GLSL3, transparent:true, depthWrite:false, side:THREE.DoubleSide,
+  uniforms:simUni,
+  vertexShader:`attribute float aInv, aGrnd, aLink, aDp, aAlong; uniform sampler2D uLinkDep, uLinkVel; uniform float uZEx, uMsl, uZ0;
+    ${SIM_SAMPLE}
+    varying float vD, vFull, vAlong, vVel; varying vec3 vP;
+    void main(){
+      float d = aLink < 0.0 ? 0.0 : samp(uLinkDep, aLink, uSimT);
+      float dd = min(d, aDp); vD = d; vFull = d >= aDp - 0.005 ? 1.0 : 0.0;
+      vVel = aLink < 0.0 ? 0.0 : samp(uLinkVel, aLink, uSimT); vAlong = aAlong;
+      float y = (aInv - mix(aGrnd, uZ0, uMsl)) * uZEx + dd * uZEx + 0.01;
+      vec3 p = vec3(position.x, y, position.z); vP = p;
+      gl_Position = projectionMatrix * modelViewMatrix * vec4(p, 1.0);
+    }`,
+  fragmentShader:`out vec4 fragColor; uniform float uAnim; varying float vD, vFull, vAlong, vVel; varying vec3 vP;
+    void main(){
+      if(vD < 0.01) discard;
+      vec3 col = mix(vec3(0.16, 0.55, 0.95), vec3(0.35, 0.85, 1.0), vFull);
+      float ph = fract(vAlong / 2.5 - uAnim * vVel / 2.5);      // ripples travel at the simulated velocity
+      col += 0.18 * smoothstep(0.7, 1.0, ph);
+      fragColor = vec4(col, 0.78);
+    }`});
+const columnMat = new THREE.ShaderMaterial({glslVersion:THREE.GLSL3, transparent:true, depthWrite:false, side:THREE.DoubleSide,
+  uniforms:simUni,
+  vertexShader:`attribute float aNode, aTopMSL, aRef, aCoverH; uniform sampler2D uNodeDep, uNodeFld; uniform float uZEx, uMsl, uZ0;
+    ${SIM_SAMPLE}
+    varying float vH, vFld;
+    void main(){
+      // water above the soffit rises up the shaft: node depth is measured from the invert
+      float dep = aNode < 0.0 ? 0.0 : samp(uNodeDep, aNode, uSimT);
+      float above = dep - aTopMSL;                 // aTopMSL holds the section depth (soffit above invert)
+      float h = clamp(above, 0.0, aCoverH);        // capped at the street
+      vH = h; vFld = aNode < 0.0 ? 0.0 : samp(uNodeFld, aNode, uSimT);
+      vec3 p = position;                           // unit column: y in [0,1], radius 1
+      float r = 0.85 * ${ASSUME.SHAFT_R.toFixed(2)};
+      // instanceMatrix carries xz and the soffit level; y is scaled by the live height
+      vec4 wp = instanceMatrix * vec4(p.x * r, 0.0, p.z * r, 1.0);
+      wp.y += p.y * h * uZEx;
+      gl_Position = projectionMatrix * modelViewMatrix * wp;
+    }`,
+  fragmentShader:`out vec4 fragColor; varying float vH, vFld; void main(){ if(vH < 0.02) discard; fragColor = vec4(0.35, 0.8, 1.0, 0.85); }`});
+const pondMat = new THREE.ShaderMaterial({glslVersion:THREE.GLSL3, transparent:true, depthWrite:false, side:THREE.DoubleSide,
+  uniforms:simUni,
+  vertexShader:`attribute float aNode; uniform sampler2D uNodeFld; uniform float uZEx;
+    ${SIM_SAMPLE}
+    varying float vF; varying vec2 vUv;
+    void main(){
+      float f = aNode < 0.0 ? 0.0 : samp(uNodeFld, aNode, uSimT);    // L/s leaving the node at the street
+      vF = f; vUv = position.xz;
+      float r = f <= 0.0 ? 0.0 : clamp(1.5 + 2.0 * log(1.0 + f / 20.0), 0.0, 14.0);   // radius in m, log so 1 L/s and 2000 L/s both read
+      vec4 wp = instanceMatrix * vec4(position.x * r, 0.0, position.z * r, 1.0);
+      wp.y += 0.03 * uZEx;
+      gl_Position = projectionMatrix * modelViewMatrix * wp;
+    }`,
+  fragmentShader:`out vec4 fragColor; varying float vF; varying vec2 vUv; void main(){ if(vF <= 0.0) discard; float e = 1.0 - smoothstep(0.6, 1.0, length(vUv)); fragColor = vec4(0.3, 0.75, 1.0, 0.55 * e); }`});
+
+function buildWaterChunk(ch){
+  let nV = 0, nI = 0;
+  for(const c of ch.conds){ nV += (c._p.length-1)*4; nI += (c._p.length-1)*6; }
+  if(!nV) return null;
+  const pos = new Float32Array(nV*3), inv = new Float32Array(nV), grnd = new Float32Array(nV), link = new Float32Array(nV), dp = new Float32Array(nV), along = new Float32Array(nV);
+  const idx = new Uint32Array(nI); let vi = 0, ii = 0;
+  for(const c of ch.conds){
+    const P = c._p, n = P.length, nf = byId.get(c.f), nt = byId.get(c.t);
+    const g0 = nf?._ref ?? Z0, g1 = nt?._ref ?? Z0, hw = (c.wd ?? ASSUME.PH_W)/2 * 0.97, depv = c.dp ?? ASSUME.PH_D;
+    const prof = profileOf(c); let run = 0; const segL = [];
+    for(let i = 0; i < n-1; i++){ const L = Math.hypot(P[i+1][0]-P[i][0], P[i+1][1]-P[i][1]); segL.push(L); run += L; }
+    if(run <= 0) run = 1; let acc = 0;
+    const emit = (x, z, t, m) => { pos[vi*3] = x; pos[vi*3+2] = z; inv[vi] = prof(t); grnd[vi] = g0 + (g1-g0)*t; link[vi] = SIM.linkIdx[c._i]; dp[vi] = depv; along[vi] = m; return vi++; };
+    for(let i = 0; i < n-1; i++){
+      const a = P[i], b = P[i+1], L = segL[i] || 1, ux = (b[0]-a[0])/L, uz = (b[1]-a[1])/L, px = -uz*hw, pz = ux*hw;
+      const m0 = acc, m1 = acc+L; acc += L; const t0 = m0/run, t1 = m1/run;
+      const v0 = emit(a[0]-px, a[1]-pz, t0, m0), v1 = emit(a[0]+px, a[1]+pz, t0, m0), v2 = emit(b[0]+px, b[1]+pz, t1, m1), v3 = emit(b[0]-px, b[1]-pz, t1, m1);
+      idx[ii++] = v0; idx[ii++] = v1; idx[ii++] = v2; idx[ii++] = v0; idx[ii++] = v2; idx[ii++] = v3;
+    }
+  }
+  const g = new THREE.BufferGeometry();
+  g.setAttribute('position', new THREE.BufferAttribute(pos, 3)); g.setAttribute('aInv', new THREE.BufferAttribute(inv, 1));
+  g.setAttribute('aGrnd', new THREE.BufferAttribute(grnd, 1)); g.setAttribute('aLink', new THREE.BufferAttribute(link, 1));
+  g.setAttribute('aDp', new THREE.BufferAttribute(dp, 1)); g.setAttribute('aAlong', new THREE.BufferAttribute(along, 1));
+  g.setIndex(new THREE.BufferAttribute(idx, 1)); g.computeBoundingSphere(); g.boundingSphere.radius += 400;
+  const m = new THREE.Mesh(g, waterMat); m.renderOrder = 5; return m;
+}
+const COL_GEO = new THREE.CylinderGeometry(1, 1, 1, 8, 1, true); COL_GEO.translate(0, 0.5, 0);
+const POND_GEO = new THREE.CircleGeometry(1, 20); POND_GEO.rotateX(-Math.PI/2);
+function buildColumnChunk(ch){
+  const N = ch.nodes.length; if(!N) return null;
+  const node = new Float32Array(N), top = new Float32Array(N), ref = new Float32Array(N), cov = new Float32Array(N);
+  for(let i = 0; i < N; i++){ const n = ch.nodes[i]; node[i] = SIM.nodeIdx[n._i]; top[i] = n._d; ref[i] = n._ref; cov[i] = Math.max(0, n._cover ?? 0); }
+  const gC = COL_GEO.clone(), gP = POND_GEO.clone();
+  for(const g of [gC, gP]){ g.setAttribute('aNode', new THREE.InstancedBufferAttribute(node, 1)); g.setAttribute('aTopMSL', new THREE.InstancedBufferAttribute(top, 1)); g.setAttribute('aRef', new THREE.InstancedBufferAttribute(ref, 1)); g.setAttribute('aCoverH', new THREE.InstancedBufferAttribute(cov, 1)); }
+  ch.cols = new THREE.InstancedMesh(gC, columnMat, N); ch.ponds = new THREE.InstancedMesh(gP, pondMat, N);
+  ch.cols.renderOrder = 6; ch.ponds.renderOrder = 11;
+  return ch;
+}
+function placeColumnChunk(ch){
+  if(!ch.cols) return;
+  const msl = state.datum === 'msl';
+  for(let i = 0; i < ch.nodes.length; i++){
+    const n = ch.nodes[i], ref = msl ? Z0 : n._ref;
+    _m.makeTranslation(n._x, (n._topMSL - ref) * zEx, n._z); ch.cols.setMatrixAt(i, _m);
+    _m.makeTranslation(n._x, ((n.road ?? n._ref) - ref) * zEx, n._z); ch.ponds.setMatrixAt(i, _m);
+  }
+  ch.cols.instanceMatrix.needsUpdate = true; ch.ponds.instanceMatrix.needsUpdate = true;
+  for(const m of [ch.cols, ch.ponds]){ m.computeBoundingSphere(); m.boundingSphere.radius += 80; }
+}
+
+async function loadSim(){
+  if(SIM.loaded) return;
+  const btn = document.getElementById('simBtn'); btn.textContent = 'Loading simulated run…'; btn.disabled = true;
+  const [meta, buf] = await Promise.all([fetch('data/swmm.json').then(r => r.json()), fetch('data/swmm.bin').then(r => r.arrayBuffer())]);
+  const u16 = new Uint16Array(buf), S = meta.steps, NN = meta.nodes.length, NL = meta.links.length;
+  SIM.meta = meta; SIM.steps = S; SIM.u16 = u16;
+  const nodePos = new Map(meta.nodes.map((n, i) => [n, i])), linkPos = new Map(meta.links.map((n, i) => [n, i]));
+  nodes.forEach((n, i) => { SIM.nodeIdx[i] = nodePos.get(n.id) ?? -1; });
+  conduits.forEach((c, i) => { SIM.linkIdx[i] = linkPos.get(`${c.f}__${c.t}`) ?? linkPos.get(`${c.t}__${c.f}`) ?? -1; });
+  const perRow = Math.floor(SIM.texW / S); SIM.perRow = perRow;
+  const mk = (off, count, scale) => {
+    const H = Math.ceil(count / perRow), data = new Float32Array(SIM.texW * H);
+    for(let e = 0; e < count; e++){ const row = Math.floor(e/perRow), c0 = (e - row*perRow) * S;
+      for(let t = 0; t < S; t++) data[row*SIM.texW + c0 + t] = u16[off + e*S + t] * scale; }
+    const tex = new THREE.DataTexture(data, SIM.texW, H, THREE.RedFormat, THREE.FloatType);
+    tex.minFilter = tex.magFilter = THREE.NearestFilter; tex.needsUpdate = true; return tex;
+  };
+  simUni.uNodeDep.value = mk(0, NN, 0.001); simUni.uNodeFld.value = mk(NN*S, NN, 1);
+  simUni.uLinkDep.value = mk(2*NN*S, NL, 0.001); simUni.uLinkVel.value = mk(2*NN*S + NL*S, NL, 0.001);
+  simUni.uSteps.value = S; simUni.uPerRow.value = perRow; simUni.uTexW.value = SIM.texW;
+  for(const ch of chunks.values()){
+    ch.water = buildWaterChunk(ch); if(ch.water) scene.add(ch.water);
+    buildColumnChunk(ch); if(ch.cols){ placeColumnChunk(ch); scene.add(ch.cols); scene.add(ch.ponds); }
+  }
+  SIM.loaded = true; state.sim = true;
+  btn.textContent = 'Simulated run loaded';
+  document.getElementById('simt').max = S - 1;
+  document.getElementById('sim').classList.add('on');
+  document.getElementById('tFlow').checked = false; state.flow = false; uni.uFlow.value = 0;
+  drawHyeto(); setSimT(+(Q.get('t') || 0)); map.triggerRepaint();
+  toast('Simulated water levels loaded. This SWMM run has no predictive skill — treat it as a diagnostic of the extracted network, not a forecast.', 9000);
+}
+let hyetoBars = null;
+function drawHyeto(){
+  const cv = document.getElementById('hyeto'); const W = cv.clientWidth, H = cv.clientHeight; if(!W) return;
+  cv.width = W * devicePixelRatio; cv.height = H * devicePixelRatio;
+  const g = cv.getContext('2d'); g.scale(devicePixelRatio, devicePixelRatio); g.clearRect(0, 0, W, H);
+  if(!hyetoBars){
+    hyetoBars = new Float32Array(SIM.steps);
+    fetch('data/rainfall.json').then(r => r.json()).then(r => {
+      const t0 = Date.parse('2015-11-30T00:00:00+05:30');
+      for(const [ts, mm] of (r.hourly_mm || [])){ const [d, t] = ts.split(' '); const [M, D, Y] = d.split('/');
+        const h = Math.round((Date.parse(`${Y}-${M}-${D}T${t}:00+05:30`) - t0) / 3.6e6); if(h >= 0 && h < SIM.steps) hyetoBars[h] = mm; }
+      drawHyeto();
+    }); return;
+  }
+  const mx = Math.max(1, ...hyetoBars); const bw = W / SIM.steps;
+  g.fillStyle = '#1b262e'; g.fillRect(0, H-1, W, 1);
+  for(let i = 0; i < SIM.steps; i++){ const h = hyetoBars[i]/mx * (H-12); g.fillStyle = '#3fa9ff'; g.fillRect(i*bw, H-1-h, Math.max(1, bw-0.5), h); }
+  g.fillStyle = '#687b86'; g.font = '9px IBM Plex Mono, monospace';
+  for(let d = 0; d < 8; d++){ g.fillRect(d*24*bw, 0, 1, H); g.fillText(['30 Nov','1 Dec','2 Dec','3','4','5','6','7'][d], d*24*bw + 3, 9); }
+  g.fillText(`${mx.toFixed(0)} mm/h peak`, W - 74, 9);
+  const x = SIM.t * bw; g.fillStyle = '#ffb02e'; g.fillRect(x-1, 0, 2, H);
+}
+function setSimT(t){
+  SIM.t = Math.max(0, Math.min(SIM.steps-1, t)); simUni.uSimT.value = SIM.t;
+  document.getElementById('simt').value = SIM.t;
+  const d = new Date(Date.parse('2015-11-30T00:00:00+05:30') + SIM.t * 3.6e6);
+  document.getElementById('simtime').textContent = d.toLocaleString('en-IN', {timeZone:'Asia/Kolkata', day:'numeric', month:'short', hour:'2-digit', minute:'2-digit', hour12:false}) + ' IST';
+  drawHyeto(); map.triggerRepaint();
+}
+document.getElementById('simBtn').addEventListener('click', loadSim);
+document.getElementById('simt').addEventListener('input', e => setSimT(+e.target.value));
+document.getElementById('simSpeed').addEventListener('change', e => SIM.speed = +e.target.value);
+document.getElementById('simPlay').addEventListener('click', () => { SIM.playing = !SIM.playing; SIM.lastFrame = performance.now();
+  document.getElementById('simPlay').textContent = SIM.playing ? '❚❚ Pause' : '▶ Play'; map.triggerRepaint(); });
+document.getElementById('simClose').addEventListener('click', () => { state.sim = false; SIM.playing = false; document.getElementById('sim').classList.remove('on');
+  for(const ch of chunks.values()){ if(ch.water) ch.water.visible = false; if(ch.cols){ ch.cols.visible = false; ch.ponds.visible = false; } }
+  document.getElementById('simBtn').textContent = 'Show the simulated run'; document.getElementById('simBtn').disabled = false; map.triggerRepaint(); });
+document.getElementById('simBtn').addEventListener('click', () => { if(SIM.loaded && !state.sim){ state.sim = true; document.getElementById('sim').classList.add('on');
+  for(const ch of chunks.values()){ if(ch.water) ch.water.visible = true; if(ch.cols){ ch.cols.visible = true; ch.ponds.visible = true; } } map.triggerRepaint(); } });
+
+/* ---- scene assembly ----------------------------------------------------- */
+let scene, camera, renderer, built = false;
+const stats = {verts:0, tris:0, chunks:0};
+function buildAll(){
+  for(const ch of chunks.values()){
+    const g = buildConduitChunk(ch);
+    if(g){
+      ch.cond = new THREE.Mesh(g, condMatOpaque); ch.condLid = new THREE.Mesh(g, condMatLid); ch.condLid.renderOrder = 4;
+      scene.add(ch.cond); scene.add(ch.condLid); stats.verts += g.attributes.position.count; stats.tris += g.index.count/3;
+    }
+    if(buildChamberChunk(ch)){ placeChamberChunk(ch); colourChamberChunk(ch); scene.add(ch.cham); scene.add(ch.chamLid); scene.add(ch.shafts); scene.add(ch.covers); }
+    stats.chunks++;
+  }
+  colourConduits();
+  veil = buildVeil(); scene.add(veil);
+  tin = buildTIN(); if(tin){ scene.add(tin); }
+  syncDatumSurfaces();
+}
+function syncDatumSurfaces(){
+  const on = document.getElementById('tVeil').checked;
+  if(veil) veil.visible = on && state.datum === 'street';
+  if(tin) tin.visible = on && state.datum === 'msl';
+}
+function replaceAll(){ for(const ch of chunks.values()){ placeChamberChunk(ch); placeColumnChunk(ch); } uni.uZEx.value = zEx; uni.uMsl.value = state.datum === 'msl' ? 1 : 0; }
+function recolourAll(){ colourConduits(); for(const ch of chunks.values()) if(ch.cham) colourChamberChunk(ch); }
+
+const camPos = new THREE.Vector3(), camInv = new THREE.Matrix4(), camV = new THREE.Vector4();
+let fpsN = 0, fpsT = performance.now();
+const layer = {
+  id:'swd', type:'custom', renderingMode:'3d',
+  onAdd(m, gl){
+    renderer = new THREE.WebGLRenderer({canvas:m.getCanvas(), context:gl, antialias:true});
+    renderer.autoClear = false;
+    if(built) return;
+    scene = new THREE.Scene(); camera = new THREE.Camera();
+    scene.add(new THREE.AmbientLight(0x9fbecd, 1.1));
+    const key = new THREE.DirectionalLight(0xfff2dc, 1.6); key.position.set(-0.55, 1, 0.35); scene.add(key);
+    const rim = new THREE.DirectionalLight(0x2fe0d0, 0.5); rim.position.set(0.7, -0.35, -0.6); scene.add(rim);
+    buildAll(); built = true;
+    const ms = Math.round(performance.now() - T0);
+    console.log(`swd: built ${stats.verts.toLocaleString()} vertices / ${stats.tris.toLocaleString()} triangles in ${stats.chunks} chunks; ready in ${ms} ms`);
+    window.__swdReady = ms;
+    setTimeout(() => document.getElementById('boot').classList.add('gone'), 120);
+    applyLOD(); applyQuery();
+  },
+  render(gl, matrix){
+    const M = new THREE.Matrix4().fromArray(matrix);
+    /* MapLibre puts its far plane 1% beyond the ground it can see, so at low
+       pitch everything buried is clipped away. The matrix is P·X with P a
+       standard perspective (near n, far f) and X affine, so the clip-z row is
+       A·row2(X) + B·row3(X) and the clip-w row is −row2(X). Rebuild the z row
+       for a far plane 40× further; the buried network survives at any pitch. */
+    const tr = map.transform, n = tr.nearZ, f = tr.farZ;
+    if(n > 0 && f > n){
+      const F = f * 40, A2 = -(F + n)/(F - n), B2 = -2*F*n/(F - n), e = M.elements;
+      for(let c = 0; c < 4; c++) e[c*4+2] = -A2 * e[c*4+3] + (c === 3 ? B2 : 0);
+    }
+    camera.projectionMatrix = M.multiply(MODEL);
+    // Camera centre in scene space: the matrix sends it to (0,0,c,0), so it is
+    // the inverse image of the clip-space direction (0,0,-1,0). No MapLibre
+    // internals needed (getFreeCameraOptions is Mapbox-only).
+    camInv.copy(camera.projectionMatrix).invert();
+    camV.set(0, 0, -1, 0).applyMatrix4(camInv);
+    camPos.set(camV.x/camV.w, camV.y/camV.w, camV.z/camV.w); uni.uCam.value.copy(camPos);
+    const now = performance.now();
+    uni.uTime.value = now / 1000;
+    if(SIM.playing){ setSimT((SIM.t + SIM.speed * (now - SIM.lastFrame) / 1000) % SIM.steps); SIM.lastFrame = now; }
+    simUni.uAnim.value = now / 1000;
+    renderer.resetState(); renderer.render(scene, camera);
+    fpsN++; if(now - fpsT > 1000){ const f = fpsN * 1000 / (now - fpsT); window.__swdFps = f; document.getElementById('sFps').textContent = `${f.toFixed(0)} fps`; fpsN = 0; fpsT = now; }
+    if(state.flow || SIM.playing || state.sim) map.triggerRepaint();
+  }
+};
+/* LOD: sub-metre shafts and covers are invisible at city scale and cost
+   draw calls; chambers go at the next step out. */
+function applyLOD(){
+  if(!built) return;
+  const z = map.getZoom(), sh = document.getElementById('tShafts').checked && z >= 14.5, chm = document.getElementById('tChambers').checked && z >= 13.2;
+  for(const ch of chunks.values()){ if(ch.shafts){ ch.shafts.visible = sh; ch.covers.visible = sh; } if(ch.cham){ ch.cham.visible = chm; ch.chamLid.visible = chm; } }
+}
+map.on('zoom', applyLOD);
+
+/* ---- ward boundaries ---------------------------------------------------- */
+const wardChips = [];
+function addOverlays(){
+  if(!map.getLayer('swd')) map.addLayer(layer);
+  if(wardsFC && !map.getSource('wards')){
+    map.addSource('wards', {type:'geojson', data:wardsFC});
+    map.addLayer({id:'wards', type:'line', source:'wards', layout:{'line-join':'round', visibility: state.wards ? 'visible' : 'none'},
+      paint:{'line-color':['case', ['==', ['get','have'], 1], '#ffb454', '#7f909a'], 'line-width':['interpolate',['linear'],['zoom'], 10,0.7, 14,1.3, 18,2.2],
+        'line-dasharray':[2, 2.5], 'line-opacity':['case', ['==', ['get','have'], 1], 0.9, 0.5]}});
+  }
+  applyBase();
+}
+function buildWardChips(){
+  if(!wardsFC) return;
+  for(const f of wardsFC.features){
+    const g = f.geometry, rings = g.type === 'Polygon' ? g.coordinates : g.coordinates.flat();
+    let bx = -Infinity, by = -Infinity, sx = Infinity, sy = Infinity;
+    for(const r of rings) for(const [x,y] of r){ if(x<sx) sx=x; if(x>bx) bx=x; if(y<sy) sy=y; if(y>by) by=y; }
+    const el = document.createElement('div'); el.className = 'wardchip' + (f.properties.have ? '' : ' no'); el.textContent = f.properties.ward;
+    wardChips.push(new maplibregl.Marker({element:el}).setLngLat([(sx+bx)/2, (sy+by)/2]));
+  }
+}
+function syncWardChips(){
+  const show = state.wards && map.getZoom() >= 14, b = show ? map.getBounds() : null;
+  for(const mk of wardChips){ const want = show && b.contains(mk.getLngLat()); if(want && !mk._map) mk.addTo(map); else if(!want && mk._map) mk.remove(); }
+}
+map.on('style.load', addOverlays);
+map.on('moveend', syncWardChips);
+
+/* ---- picking: project every chamber to the screen, take the nearest ------ */
+const v4 = new THREE.Vector4();
+function pick(px, py, tol){
+  const cv = map.getCanvas(), W = cv.clientWidth, H = cv.clientHeight, M = camera.projectionMatrix;
+  let best = -1, bestD = Infinity;
+  for(let i = 0; i < nodes.length; i++){
+    const n = nodes[i];
+    v4.set(n._x, nodeY(n, n._inv0 + n._d/2), n._z, 1).applyMatrix4(M);
+    if(v4.w <= 0) continue;
+    const sx = (v4.x/v4.w*0.5+0.5)*W, sy = (-v4.y/v4.w*0.5+0.5)*H;
+    if(sx < 0 || sy < 0 || sx > W || sy > H) continue;
+    const d = Math.hypot(sx-px, sy-py); if(d < bestD){ bestD = d; best = i; }
+  }
+  return bestD < tol ? best : -1;
+}
+const rd = document.getElementById('read'), hud = document.getElementById('hud');
+const fmt = (v, d = 3, u = '') => v == null ? '—' : (+v).toFixed(d) + u;
+function showNode(n){
+  document.getElementById('rid').textContent = n.id; document.getElementById('rward').textContent = 'ward ' + n.w;
+  const drop = (n.top != null && n.inv != null) ? n.top - n.inv : null;
+  const cover = (n.road != null && n.top != null) ? n.road - n.top : null;
+  const links = conduits.filter(c => (c.f === n.id || c.t === n.id) && (state.network === 'conn' || isDrawn(c)));
+  const outs = links.filter(c => c.f === n.id).length;
+  const rows = [
+    ['Invert level', fmt(n.inv, 3, ' m MSL')], ['Drain top', fmt(n.top, 3, ' m MSL')], ['Road edge', fmt(n.road, 3, ' m MSL')],
+    ['Drain top − invert', fmt(drop, 2, ' m')],
+    ['Cover below street', cover == null ? '—' : cover < 0 ? `${(-cover).toFixed(2)} m proud` : `${cover.toFixed(2)} m`],
+    ['Section w × d', n._surv ? `${(+n.wd).toFixed(3)} × ${(+n.dp).toFixed(3)} m` : `not surveyed · ghost ${ASSUME.PH_W} × ${ASSUME.PH_D}`],
+    ['Drawn as', `${n._w.toFixed(2)} w × ${n._d.toFixed(2)} h × ${ASSUME.CH_LEN} long, bearing ${((n._brg*180/Math.PI+360)%180).toFixed(0)}°`],
+    ['Drain type', n.t === 'C' ? 'closed conduit' : n.t === 'O' ? 'open channel' : '—'],
+    ['Connections', `${links.length - outs} in · ${outs} out`],
+    ['Outfall', isOutfall(n) ? (n.sy ? 'yes (assumed)' : 'yes, marked (OL)') : 'no'],
+    ['Flooded street', n.fl == null ? 'none within 200 m' : fmt(n.fl, 0, ' m away')],
+  ];
+  if(HAS_SWMM && state.network === 'conn') rows.push(['SWMM flooding (simulated)', n.fh == null ? 'not modelled' : fmt(n.fh, 2, ' h')]);
+  if(SIM.loaded && state.sim){
+    const k = SIM.nodeIdx[n._i];
+    if(k >= 0){
+      const S = SIM.steps, t = Math.round(SIM.t), d = SIM.u16[k*S + t] / 1000, f = SIM.u16[(SIM.meta.nodes.length + k)*S + t];
+      rows.push(['Simulated depth now', `${d.toFixed(2)} m above invert${d > n._d ? ' — surcharged' : ''}`]);
+      if(f > 0) rows.push(['Simulated street flooding', `${f} L/s`]);
+    } else rows.push(['Simulated depth now', 'node not in the model']);
+  }
+  document.getElementById('rkv').innerHTML = rows.map(([k,v]) => {
+    const cls = (k === 'Flooded street' && v !== 'none within 200 m') ? 'warn' : (k === 'Outfall' && v.startsWith('yes')) ? 'ok' : (v.startsWith('not surveyed') ? 'ghost' : '');
+    return `<dt>${k}</dt><dd class="${cls}">${v}</dd>`; }).join('');
+  document.getElementById('rnote').textContent =
+      n.ag === 'hit' && state.network === 'conn' ? 'Simulated model floods here and this street is on record as having flooded.'
+    : n.ag === 'miss' && state.network === 'conn' ? 'Street flooded historically; the simulated model keeps this node dry.'
+    : n.ag === 'false_alarm' && state.network === 'conn' ? 'Simulated model floods here but no flooding is on record.'
+    : n.fl != null && n.fl < 15 ? 'Sits on a street recorded as flooded in 2015.'
+    : n.fl != null ? `Nearest street on the 2015 flood record is ${n.fl.toFixed(0)} m away.` : '';
+  rd.classList.add('on'); if(isTouch) hud.classList.remove('open');
+}
+/* Conduit picking: distance from the tap to every visible run's segments in
+   screen space, along the floor line. Whole-run highlight, not one segment. */
+function pickConduit(px, py, tol){
+  const cv = map.getCanvas(), W = cv.clientWidth, H = cv.clientHeight, M = camera.projectionMatrix;
+  const msl = state.datum === 'msl';
+  let best = -1, bestD = tol;
+  for(const c of conduits){
+    if(state.network === 'drawn' && !isDrawn(c)) continue;
+    const nf = byId.get(c.f), nt = byId.get(c.t), P = c._p, n = P.length;
+    const z0 = c.ui ?? nf?._inv0 ?? Z0, z1 = c.di ?? nt?._inv0 ?? Z0, g0 = nf?._ref ?? Z0, g1 = nt?._ref ?? Z0;
+    let lx = 0, ly = 0, lok = false;
+    for(let i = 0; i < n; i++){
+      const t = i/(n-1), y = ((z0 + (z1-z0)*t) - (msl ? Z0 : g0 + (g1-g0)*t)) * zEx;
+      v4.set(P[i][0], y, P[i][1], 1).applyMatrix4(M);
+      const ok = v4.w > 0, sx = (v4.x/v4.w*0.5+0.5)*W, sy = (-v4.y/v4.w*0.5+0.5)*H;
+      if(ok && lok){
+        const dx = sx-lx, dy = sy-ly, L2 = dx*dx+dy*dy;
+        const u = L2 ? Math.max(0, Math.min(1, ((px-lx)*dx + (py-ly)*dy)/L2)) : 0;
+        const d = Math.hypot(lx + u*dx - px, ly + u*dy - py);
+        if(d < bestD){ bestD = d; best = c._i; }
+      }
+      lx = sx; ly = sy; lok = ok;
+    }
+  }
+  return best;
+}
+function setHighlight(i){ uni.uHi.value = i; map.triggerRepaint(); }
+function showConduit(c){
+  const nf = byId.get(c.f), nt = byId.get(c.t);
+  document.getElementById('rid').textContent = `${c.f} → ${c.t}`; document.getElementById('rward').textContent = 'conduit · ward ' + (nf?.w ?? '');
+  const surv = c.wd != null && c.dp != null, fall = (c.ui != null && c.di != null) ? c.ui - c.di : null;
+  const prov = isDrawn(c) ? 'traced from the sheet' : isRouted(c) ? 'schedule link, routed along OSM roads' : c.x ? 'cross-ward join' : (c.fg||'').includes('junction_link') ? 'junction link (runs touch)' : 'schedule link, straight chord';
+  const rows = [
+    ['Length', fmt(c.L, 1, ' m')], ['Upstream invert', fmt(c.ui, 3, ' m MSL')], ['Downstream invert', fmt(c.di, 3, ' m MSL')],
+    ['Fall', fall == null ? '—' : (fall < 0 ? `${(-fall).toFixed(3)} m UPHILL` : `${fall.toFixed(3)} m`)],
+    ['Gradient', c.s == null ? '—' : `${(c.s*100).toFixed(3)} %`],
+    ['Section w × d', surv ? `${(+c.wd).toFixed(3)} × ${(+c.dp).toFixed(3)} m` : `not surveyed · ghost ${ASSUME.PH_W} × ${ASSUME.PH_D}`],
+    ['Type', c.ty === 'C' ? 'closed box culvert' : c.ty === 'O' ? 'open channel' : '—'],
+    ['Direction from', c.src === 'invert' ? 'surveyed fall' : c.src === 'arrow' ? 'flow arrow on sheet' : c.src || '—'],
+    ['Geometry', prov], ['Vertices', `${c._p.length}${c.bp ? ` · ${c.bp.length} intermediate inverts` : ''}`],
+  ];
+  document.getElementById('rkv').innerHTML = rows.map(([k,v]) => `<dt>${k}</dt><dd class="${v.includes('UPHILL') ? 'warn' : v.startsWith('not surveyed') ? 'ghost' : ''}">${v}</dd>`).join('');
+  document.getElementById('rnote').textContent = (c.fg||'').includes('reversed_against_invert')
+    ? 'Direction was reversed by the network build to point at the component outlet, against the surveyed inverts.' : '';
+  rd.classList.add('on'); if(isTouch) hud.classList.remove('open');
+}
+map.on('click', e => {
+  if(!built) return;
+  const i = pick(e.point.x, e.point.y, isTouch ? 30 : 22);
+  if(i >= 0){ setHighlight(-1); showNode(nodes[i]); return; }
+  const ci = pickConduit(e.point.x, e.point.y, isTouch ? 24 : 14);
+  if(ci >= 0){ setHighlight(ci); showConduit(conduits[ci]); return; }
+  setHighlight(-1); rd.classList.remove('on');
+});
+document.getElementById('rclose').addEventListener('click', () => { rd.classList.remove('on'); setHighlight(-1); });
+
+/* ---- controls -------------------------------------------------------- */
+function setCounts(){
+  const nc = state.network === 'drawn' ? N_DRAWN : conduits.length;
+  document.getElementById('counts').innerHTML = `<b>${meta.n_nodes.toLocaleString()}</b> manholes · <b>${nc.toLocaleString()}</b> conduits`;
+  document.getElementById('sN').textContent = meta.n_nodes.toLocaleString(); document.getElementById('sC').textContent = nc.toLocaleString();
+  document.getElementById('nhint').textContent = state.network === 'drawn'
+    ? `Only the ${N_DRAWN.toLocaleString()} conduits traced off a sheet — what the survey actually drew. Runs stop at ward boundaries and wherever the drawing was too broken to follow.`
+    : `All ${conduits.length.toLocaleString()} conduits, including ${(conduits.length - N_DRAWN).toLocaleString()} the pipeline inferred so water can route. ${N_ROUTED.toLocaleString()} of the schedule links now follow the OSM street network (flag road_routed); chords whose road route ran much longer than the straight line were dropped rather than invented.`;
+}
+const segment = (id, key, after) => document.getElementById(id).addEventListener('click', ev => {
+  const b = ev.target.closest('button'); if(!b) return;
+  [...ev.currentTarget.children].forEach(x => x.setAttribute('aria-pressed', String(x === b)));
+  state[key] = b.dataset[Object.keys(b.dataset)[0]]; after();
+});
+const pressSeg = (id, val) => [...document.getElementById(id).children].forEach(x => x.setAttribute('aria-pressed', String(Object.values(x.dataset)[0] === val)));
+segment('network', 'network', () => { setCounts(); if(built){ uni.uDrawnOnly.value = state.network === 'drawn' ? 1 : 0; recolourAll(); map.triggerRepaint(); } });
+function datumHint(){
+  document.getElementById('dhint').textContent = state.datum === 'street'
+    ? 'Each drain is drawn under its own surveyed road level, so the ground plane is the pavement and depth reads directly.'
+    : `Everything is drawn against one city-wide mean of ${Z0.toFixed(1)} m MSL, under a terrain surface triangulated from the ${groundJ ? groundJ.n.toLocaleString() : '—'} surveyed road-edge levels. The network keeps its true fall toward the coast.`;
+  document.getElementById('veilLbl').textContent = state.datum === 'street' ? 'Ground surface · street plane' : `Ground surface · road-edge TIN`;
+}
+segment('datum', 'datum', () => { datumHint(); if(built){ replaceAll(); syncDatumSurfaces(); map.triggerRepaint(); } });
+segment('mode', 'mode', () => { drawLegend(); if(built){ recolourAll(); map.triggerRepaint(); } });
+segment('base', 'base', applyBase);
+const zexEl = document.getElementById('zex');
+function setZEx(v){ zEx = v; zexEl.value = v; document.getElementById('zval').textContent = v + '×';
+  document.getElementById('oneToOne').classList.toggle('on', v === 1); if(built){ replaceAll(); map.triggerRepaint(); } }
+zexEl.addEventListener('input', ev => setZEx(+ev.target.value));
+document.getElementById('oneToOne').addEventListener('click', () => setZEx(zEx === 1 ? 6 : 1));
+const each = fn => { for(const ch of chunks.values()) fn(ch); map.triggerRepaint(); };
+document.getElementById('tConduits').addEventListener('change', e => each(ch => { if(ch.cond){ ch.cond.visible = e.target.checked; ch.condLid.visible = e.target.checked; } }));
+document.getElementById('tChambers').addEventListener('change', applyLOD);
+document.getElementById('tShafts').addEventListener('change', applyLOD);
+document.getElementById('tGhost').addEventListener('change', e => { uni.uGhost.value = e.target.checked ? 1 : 0; map.triggerRepaint(); });
+document.getElementById('tUp').addEventListener('change', e => { uni.uUpMark.value = e.target.checked ? 1 : 0; map.triggerRepaint(); });
+document.getElementById('tVeil').addEventListener('change', () => { syncDatumSurfaces(); map.triggerRepaint(); });
+document.getElementById('tFlow').addEventListener('change', ev => { state.flow = ev.target.checked; uni.uFlow.value = state.flow ? 1 : 0; map.triggerRepaint(); });
+document.getElementById('tWards').addEventListener('change', ev => { state.wards = ev.target.checked; if(map.getLayer('wards')) map.setLayoutProperty('wards', 'visibility', state.wards ? 'visible' : 'none'); syncWardChips(); });
+document.getElementById('tLabels').addEventListener('change', ev => { state.labels = ev.target.checked; applyBase(); });
+const grab = document.getElementById('grab');
+const toggleSheet = () => { hud.classList.toggle('open'); grab.setAttribute('aria-expanded', String(hud.classList.contains('open'))); };
+grab.addEventListener('click', toggleSheet);
+grab.addEventListener('keydown', e => { if(e.key === 'Enter' || e.key === ' '){ e.preventDefault(); toggleSheet(); } });
+window.addEventListener('resize', () => { if(SIM.loaded) drawHyeto(); });
+
+function applyQuery(){
+  if(Q.get('sim') === '1') loadSim();
+  const id = Q.get('node'); if(!id) return;
+  const n = byId.get(id); if(!n) return;
+  showNode(n);
+  if(!HAD_HASH) map.jumpTo({center:[n.lon, n.lat], zoom:+(Q.get('z') || 19.5), pitch:+(Q.get('pitch') || 75), bearing:+(Q.get('bearing') || (n._brg*180/Math.PI))});
+}
+
+document.getElementById('assume').innerHTML =
+  `<b>Surveyed</b> (drawn exactly): invert, drain top and road-edge levels; conduit and chamber width × depth; drain type; run centrelines traced from the sheets.<br>` +
+  `<b>Assumed</b> (constants, nowhere on the sheets): chamber extruded <em>${ASSUME.CH_LEN} m</em> along the run · shaft radius <em>${ASSUME.SHAFT_R} m</em> · cover Ø <em>${(ASSUME.COVER_R*2).toFixed(2)} m</em> × <em>${ASSUME.COVER_T} m</em> · placeholder section <em>${ASSUME.PH_W} × ${ASSUME.PH_D} m</em> for the ${N_GHOST_C.toLocaleString()} conduits and ${N_GHOST_N.toLocaleString()} chambers without one (ghosted) · a chamber with no invert hangs <em>${ASSUME.MISSING_INV_BELOW_TOP} m</em> under its drain top (ghosted) · wall thickness <em>0</em> (not surveyed, so not drawn).`;
+drawLegend(); setCounts(); datumHint(); pressSeg('network', state.network); pressSeg('datum', state.datum); pressSeg('mode', state.mode); pressSeg('base', state.base);
+setZEx(zEx); buildWardChips();
+map.once('load', () => { syncWardChips(); if(!window.isSecureContext){ const b = document.querySelector('.maplibregl-ctrl-geolocate'); if(b) b.title = 'Locate needs HTTPS — unavailable over plain HTTP'; } });
+
+Object.assign(window, {map, nodes, conduits, meta, Z0, pick, state, isDrawn, chunks, stats, SIM, ASSUME, setZEx, loadSim, setSimT, THREE,
+  dbg:{get renderer(){ return renderer; }, chamMatOpaque, chamMatLid, condMatOpaque, shaftMat, uni},
+  screenOf(i){ const n = nodes[i], cv = map.getCanvas();
+    const v = new THREE.Vector4(n._x, nodeY(n, n._inv0 + n._d/2), n._z, 1).applyMatrix4(camera.projectionMatrix);
+    return v.w <= 0 ? null : [(v.x/v.w*0.5+0.5)*cv.clientWidth, (-v.y/v.w*0.5+0.5)*cv.clientHeight]; }});
+</script>
+</body>
+</html>

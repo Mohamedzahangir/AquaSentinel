@@ -1,0 +1,30 @@
+[
+ {
+  "cond_id": "A13->A7",
+  "from_node": "A13",
+  "to_node": "A7",
+  "ward": 39,
+  "length_m": 287.876,
+  "us_invert": 5.105,
+  "ds_invert": 4.553,
+  "width_m": 0.72,
+  "depth_m": 0.46,
+  "type": "C",
+  "slope": 0.001917,
+  "dir_src": "invert"
+ },
+ {
+  "cond_id": "A5->A6",
+  "from_node": "A5",
+  "to_node": "A6",
+  "ward": 39,
+  "length_m": 303.866,
+  "us_invert": 4.597,
+  "ds_invert": 4.247,
+  "width_m": 0.78,
+  "depth_m": 0.85,
+  "type": "C",
+  "slope": 0.001152,
+  "dir_src": "invert"
+ }
+]

@@ -1,0 +1,623 @@
+[
+ {
+  "ward": 115,
+  "role": "road_name",
+  "text": "Theertharapp Mudali St.",
+  "east": 421204.8,
+  "north": 1443716.04,
+  "conf": 1.0,
+  "size_pt": 71.04
+ },
+ {
+  "ward": 115,
+  "role": "road_name",
+  "text": "\u0424\u0424|HH190|\u0441\u0431Bharathi Salai(pycrafs Road)Vaaniar Street4.261Theertharapp Mudali St.MaqdoomGeneral Samynaicken StreetlRR MultispecialityThanappa ChettyChinnappa Rowther StreetAshraf StreetHospitalHakkimDhevaraj Mudali StreetThangavelun LaneVaithiyarStreetChetty StreetMuniappaMudali Street.SurappaThambu*Naicken StreetneMudali StreetVaithiyar StreetMallan PonnappaSubramaniyaArumuhaGarden StreetonnappaNesavalarStreeChetty LaneArumugaIrusappan StreetreaSonni) StDr.NayamadullahShahib StreChetty stThirunavukarasuJani Jhan Khan RoadAyyasamyLaneArumuga (achari) Street$Surappa Mudali StreetMallan Ponnappa+ThirunavukarasuMudali StreetStreetSubbarayaRChetty StreetthimAgStreetRamasamy Maistry StreetiekKova",
+  "east": 421096.31,
+  "north": 1443571.31,
+  "conf": 0.949,
+  "size_pt": 251.76
+ },
+ {
+  "ward": 115,
+  "role": "road_name",
+  "text": "West Cott Road",
+  "east": 420239.32,
+  "north": 1443450.38,
+  "conf": 1.0,
+  "size_pt": 49.08
+ },
+ {
+  "ward": 115,
+  "role": "road_name",
+  "text": "Nair Varatha Street",
+  "east": 420789.8,
+  "north": 1443272.85,
+  "conf": 1.0,
+  "size_pt": 60.12
+ },
+ {
+  "ward": 115,
+  "role": "road_name",
+  "text": "Mohamed Hussian",
+  "east": 420827.79,
+  "north": 1443491.32,
+  "conf": 1.0,
+  "size_pt": 54.72
+ },
+ {
+  "ward": 115,
+  "role": "road_name",
+  "text": "Street",
+  "east": 420840.07,
+  "north": 1443570.04,
+  "conf": 1.0,
+  "size_pt": 18.24
+ },
+ {
+  "ward": 115,
+  "role": "road_name",
+  "text": "Peters Road",
+  "east": 420304.41,
+  "north": 1443217.73,
+  "conf": 1.0,
+  "size_pt": 38.64
+ },
+ {
+  "ward": 115,
+  "role": "road_name",
+  "text": "Perumal (M) Street and Lane",
+  "east": 420546.57,
+  "north": 1443638.49,
+  "conf": 1.0,
+  "size_pt": 92.4
+ },
+ {
+  "ward": 115,
+  "role": "road_name",
+  "text": "Pallapan Street",
+  "east": 421168.5,
+  "north": 1443291.05,
+  "conf": 1.0,
+  "size_pt": 47.28
+ },
+ {
+  "ward": 115,
+  "role": "road_name",
+  "text": "Manickam (M)",
+  "east": 420790.33,
+  "north": 1443353.05,
+  "conf": 1.0,
+  "size_pt": 41.88
+ },
+ {
+  "ward": 115,
+  "role": "road_name",
+  "text": "Sh5th StreetStreet3rd LaneSuerfudin4th StreetGarden/stLaneQJ2nd LaneKoya ArunagiriIst LaneGaffar Sahib Street2th StreetKoya ArunagiriIst StreetAngamuthu Naicken StChoilh Domad Stra-Koya Arunagiri3rdStreetBesant LanePeters RoadA1A2",
+  "east": 420939.46,
+  "north": 1443248.31,
+  "conf": 1.0,
+  "size_pt": 140.64
+ },
+ {
+  "ward": 115,
+  "role": "road_name",
+  "text": "ohQmQQQJStreetMir Bakshi Ali Street =Ill LaneHussianIV Lane",
+  "east": 420857.53,
+  "north": 1443568.56,
+  "conf": 1.0,
+  "size_pt": 85.68
+ },
+ {
+  "ward": 115,
+  "role": "road_name",
+  "text": "Shiek",
+  "east": 421054.19,
+  "north": 1443346.06,
+  "conf": 1.0,
+  "size_pt": 15.0
+ },
+ {
+  "ward": 115,
+  "role": "road_name",
+  "text": "Thalayari StreetPerumal (m)St And Lane",
+  "east": 420680.14,
+  "north": 1443639.65,
+  "conf": 1.0,
+  "size_pt": 70.56
+ },
+ {
+  "ward": 115,
+  "role": "road_name",
+  "text": "Hajishiek HussainIst LaneBegum StSheikh Dawood StreetKareem-SubedhareHajishiek HussainLaneHaji Sheikh Hussain StUHajishiekHussain Stree",
+  "east": 421150.93,
+  "north": 1443196.78,
+  "conf": 1.0,
+  "size_pt": 121.44
+ },
+ {
+  "ward": 115,
+  "role": "road_name",
+  "text": "Bharathi Salai",
+  "east": 420454.49,
+  "north": 1443716.67,
+  "conf": 1.0,
+  "size_pt": 43.68
+ },
+ {
+  "ward": 115,
+  "role": "road_name",
+  "text": "Peters ColonySt)To",
+  "east": 419685.98,
+  "north": 1443332.52,
+  "conf": 0.767,
+  "size_pt": 50.76
+ },
+ {
+  "ward": 115,
+  "role": "road_name",
+  "text": "Whites Road(osrLand)",
+  "east": 419670.32,
+  "north": 1443472.18,
+  "conf": 1.0,
+  "size_pt": 38.52
+ },
+ {
+  "ward": 115,
+  "role": "road_name",
+  "text": "WhitesLane",
+  "east": 419732.76,
+  "north": 1443505.4,
+  "conf": 1.0,
+  "size_pt": 18.84
+ },
+ {
+  "ward": 115,
+  "role": "road_name",
+  "text": "R.o.b/ StreetVIl StreeStreet &MainPetersColony.o.b V Street| Tox Street)R.o.bony",
+  "east": 419775.42,
+  "north": 1443394.41,
+  "conf": 0.962,
+  "size_pt": 79.2
+ },
+ {
+  "ward": 115,
+  "role": "road_name",
+  "text": "V Street",
+  "east": 419726.09,
+  "north": 1443385.32,
+  "conf": 1.0,
+  "size_pt": 24.24
+ },
+ {
+  "ward": 115,
+  "role": "road_name",
+  "text": "R.o.b",
+  "east": 419785.15,
+  "north": 1443530.26,
+  "conf": 1.0,
+  "size_pt": 14.4
+ },
+ {
+  "ward": 115,
+  "role": "road_name",
+  "text": "R.o.bI|| Street",
+  "east": 419800.5,
+  "north": 1443480.32,
+  "conf": 1.0,
+  "size_pt": 26.28
+ },
+ {
+  "ward": 115,
+  "role": "road_name",
+  "text": "VIl Street",
+  "east": 419795.53,
+  "north": 1443434.41,
+  "conf": 1.0,
+  "size_pt": 27.36
+ },
+ {
+  "ward": 115,
+  "role": "road_name",
+  "text": "R.o.b",
+  "east": 419789.81,
+  "north": 1443281.95,
+  "conf": 1.0,
+  "size_pt": 14.52
+ },
+ {
+  "ward": 115,
+  "role": "road_name",
+  "text": "VI Street",
+  "east": 419792.14,
+  "north": 1443327.97,
+  "conf": 1.0,
+  "size_pt": 25.92
+ },
+ {
+  "ward": 115,
+  "role": "road_name",
+  "text": "Peters Road",
+  "east": 419855.11,
+  "north": 1443321.84,
+  "conf": 1.0,
+  "size_pt": 38.28
+ },
+ {
+  "ward": 115,
+  "role": "road_name",
+  "text": "Amir Mahal Road",
+  "east": 420747.25,
+  "north": 1443609.82,
+  "conf": 1.0,
+  "size_pt": 53.28
+ },
+ {
+  "ward": 115,
+  "role": "road_name",
+  "text": "Perumal (m}St And Lane",
+  "east": 420442.32,
+  "north": 1443664.73,
+  "conf": 1.0,
+  "size_pt": 41.4
+ },
+ {
+  "ward": 115,
+  "role": "road_name",
+  "text": "Csd Colony St",
+  "east": 420471.32,
+  "north": 1443593.42,
+  "conf": 1.0,
+  "size_pt": 43.8
+ },
+ {
+  "ward": 115,
+  "role": "road_name",
+  "text": "RamasamyGarden Street",
+  "east": 420594.31,
+  "north": 1443590.03,
+  "conf": 1.0,
+  "size_pt": 42.84
+ },
+ {
+  "ward": 115,
+  "role": "road_name",
+  "text": "Mathi HussaStreAlikhan Street\u00fcsHussian Nagar 1 StAlikhan St|| StreetI|l StreetIV StreetGulamMathi Hussain Alikhan StreetSarthar JungSarthar JungGardenStreetGarden StreetHussain AlikhanSomu|/ StreetStreetlustHussianAlikhan StreetSartharGardenA43.762",
+  "east": 420518.1,
+  "north": 1443291.26,
+  "conf": 0.973,
+  "size_pt": 155.88
+ },
+ {
+  "ward": 115,
+  "role": "road_name",
+  "text": "Nair Iyya Street",
+  "east": 420741.11,
+  "north": 1443263.65,
+  "conf": 1.0,
+  "size_pt": 49.2
+ },
+ {
+  "ward": 115,
+  "role": "road_name",
+  "text": "Feroz Sahib Street",
+  "east": 420877.01,
+  "north": 1443689.8,
+  "conf": 1.0,
+  "size_pt": 58.8
+ },
+ {
+  "ward": 115,
+  "role": "road_name",
+  "text": "4th Street",
+  "east": 420964.43,
+  "north": 1443308.51,
+  "conf": 1.0,
+  "size_pt": 31.68
+ },
+ {
+  "ward": 115,
+  "role": "road_name",
+  "text": "Ist Lane",
+  "east": 420873.3,
+  "north": 1443249.47,
+  "conf": 1.0,
+  "size_pt": 25.56
+ },
+ {
+  "ward": 115,
+  "role": "road_name",
+  "text": "Dr.Besant Lane",
+  "east": 421022.54,
+  "north": 1443180.7,
+  "conf": 1.0,
+  "size_pt": 45.6
+ },
+ {
+  "ward": 115,
+  "role": "road_name",
+  "text": "HajishiekHussain Street",
+  "east": 421226.71,
+  "north": 1443151.61,
+  "conf": 1.0,
+  "size_pt": 45.12
+ },
+ {
+  "ward": 115,
+  "role": "road_name",
+  "text": "Muzafar Jung Bahadur Street",
+  "east": 421171.46,
+  "north": 1443333.05,
+  "conf": 1.0,
+  "size_pt": 92.64
+ },
+ {
+  "ward": 115,
+  "role": "road_name",
+  "text": "Vaaniar Street",
+  "east": 421076.73,
+  "north": 1443753.28,
+  "conf": 1.0,
+  "size_pt": 43.2
+ },
+ {
+  "ward": 115,
+  "role": "road_name",
+  "text": "Chinnappa Rowther StreetChetty StreetMuniappa",
+  "east": 421242.9,
+  "north": 1443660.39,
+  "conf": 1.0,
+  "size_pt": 119.52
+ },
+ {
+  "ward": 115,
+  "role": "road_name",
+  "text": "Perumal (m) Street",
+  "east": 420369.61,
+  "north": 1443625.26,
+  "conf": 1.0,
+  "size_pt": 61.44
+ },
+ {
+  "ward": 115,
+  "role": "road_name",
+  "text": "Street",
+  "east": 419817.54,
+  "north": 1443431.97,
+  "conf": 1.0,
+  "size_pt": 23.16
+ },
+ {
+  "ward": 115,
+  "role": "road_name",
+  "text": "Garden Tank StreetSarthar Jung",
+  "east": 420684.7,
+  "north": 1443226.62,
+  "conf": 1.0,
+  "size_pt": 60.48
+ },
+ {
+  "ward": 115,
+  "role": "road_name",
+  "text": "Koya Arunagiri5th Street",
+  "east": 420950.46,
+  "north": 1443340.67,
+  "conf": 1.0,
+  "size_pt": 45.6
+ },
+ {
+  "ward": 115,
+  "role": "road_name",
+  "text": "NV Lane",
+  "east": 420886.53,
+  "north": 1443509.42,
+  "conf": 1.0,
+  "size_pt": 22.8
+ },
+ {
+  "ward": 115,
+  "role": "road_name",
+  "text": "I|l Lane",
+  "east": 420889.92,
+  "north": 1443561.47,
+  "conf": 1.0,
+  "size_pt": 22.08
+ },
+ {
+  "ward": 115,
+  "role": "road_name",
+  "text": "JaniJohankhanRoad\u00ae",
+  "east": 420859.76,
+  "north": 1443377.49,
+  "conf": 1.0,
+  "size_pt": 30.6
+ },
+ {
+  "ward": 115,
+  "role": "road_name",
+  "text": "Thiru.vi.ka Road",
+  "east": 419536.85,
+  "north": 1443369.13,
+  "conf": 1.0,
+  "size_pt": 47.4
+ },
+ {
+  "ward": 115,
+  "role": "road_name",
+  "text": "/ Street",
+  "east": 419795.0,
+  "north": 1443511.85,
+  "conf": 1.0,
+  "size_pt": 23.16
+ },
+ {
+  "ward": 115,
+  "role": "location_names",
+  "text": "Royapettah",
+  "east": 420170.94,
+  "north": 1443395.37,
+  "conf": 1.0,
+  "size_pt": 37.32
+ },
+ {
+  "ward": 115,
+  "role": "location_names",
+  "text": "Wesley HigherSecondary School",
+  "east": 420187.77,
+  "north": 1443556.28,
+  "conf": 1.0,
+  "size_pt": 60.48
+ },
+ {
+  "ward": 115,
+  "role": "location_names",
+  "text": "PN Dawan Adarsh VidyalayaMatric Higher Secondary School",
+  "east": 419900.84,
+  "north": 1443299.94,
+  "conf": 1.0,
+  "size_pt": 111.0
+ },
+ {
+  "ward": 115,
+  "role": "location_names",
+  "text": "\u2022 Hobart HigherSecondary School",
+  "east": 419932.27,
+  "north": 1443581.15,
+  "conf": 1.0,
+  "size_pt": 60.48
+ },
+ {
+  "ward": 115,
+  "role": "location_names",
+  "text": "RoyapettahGeneralHospital",
+  "east": 420288.43,
+  "north": 1443283.11,
+  "conf": 1.0,
+  "size_pt": 37.32
+ },
+ {
+  "ward": 115,
+  "role": "location_names",
+  "text": "Faizat",
+  "east": 420690.09,
+  "north": 1443488.57,
+  "conf": 1.0,
+  "size_pt": 17.52
+ },
+ {
+  "ward": 115,
+  "role": "location_names",
+  "text": "Mahal",
+  "east": 420728.73,
+  "north": 1443488.57,
+  "conf": 1.0,
+  "size_pt": 16.92
+ },
+ {
+  "ward": 115,
+  "role": "location_names",
+  "text": "Park",
+  "east": 419700.27,
+  "north": 1443393.14,
+  "conf": 1.0,
+  "size_pt": 12.96
+ },
+ {
+  "ward": 115,
+  "role": "location_names",
+  "text": "Park",
+  "east": 420546.68,
+  "north": 1443448.58,
+  "conf": 1.0,
+  "size_pt": 13.08
+ },
+ {
+  "ward": 115,
+  "role": "location_names",
+  "text": "Barathi Hostel",
+  "east": 420107.76,
+  "north": 1443622.73,
+  "conf": 1.0,
+  "size_pt": 44.4
+ },
+ {
+  "ward": 115,
+  "role": "location_names",
+  "text": "AmirMahal",
+  "east": 420725.66,
+  "north": 1443685.36,
+  "conf": 1.0,
+  "size_pt": 17.04
+ },
+ {
+  "ward": 115,
+  "role": "location_names",
+  "text": "Sathyam",
+  "east": 419573.26,
+  "north": 1443432.08,
+  "conf": 1.0,
+  "size_pt": 25.44
+ },
+ {
+  "ward": 115,
+  "role": "location_names",
+  "text": "Cinema",
+  "east": 419623.64,
+  "north": 1443433.35,
+  "conf": 1.0,
+  "size_pt": 21.36
+ },
+ {
+  "ward": 115,
+  "role": "location_names",
+  "text": "District BranchLibrary, Peter'",
+  "east": 419641.21,
+  "north": 1443288.3,
+  "conf": 1.0,
+  "size_pt": 45.84
+ },
+ {
+  "ward": 115,
+  "role": "location_names",
+  "text": "Kotak Mahindra BankUnion Bank of India",
+  "east": 419601.84,
+  "north": 1443399.49,
+  "conf": 1.0,
+  "size_pt": 67.92
+ },
+ {
+  "ward": 115,
+  "role": "location_names",
+  "text": "streetRR MultispecialityHospital",
+  "east": 421268.09,
+  "north": 1443712.23,
+  "conf": 1.0,
+  "size_pt": 55.2
+ },
+ {
+  "ward": 115,
+  "role": "location_names",
+  "text": "WesleyChurch",
+  "east": 420269.59,
+  "north": 1443614.16,
+  "conf": 1.0,
+  "size_pt": 20.52
+ },
+ {
+  "ward": 115,
+  "role": "location_names",
+  "text": "RoyapettahHospital",
+  "east": 420218.89,
+  "north": 1443515.76,
+  "conf": 1.0,
+  "size_pt": 33.6
+ },
+ {
+  "ward": 115,
+  "role": "location_names",
+  "text": "RoyapettahHigh RoadPolice Station",
+  "east": 420173.27,
+  "north": 1443276.34,
+  "conf": 1.0,
+  "size_pt": 42.6
+ }
+]

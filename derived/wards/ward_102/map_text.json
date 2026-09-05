@@ -1,0 +1,1118 @@
+[
+ {
+  "ward": 102,
+  "role": "road_name",
+  "text": "1st Cross Street",
+  "east": 415894.59,
+  "north": 1447021.06,
+  "conf": 1.0,
+  "size_pt": 49.92
+ },
+ {
+  "ward": 102,
+  "role": "road_name",
+  "text": "Gajapathy Street",
+  "east": 416374.9,
+  "north": 1445940.41,
+  "conf": 1.0,
+  "size_pt": 51.72
+ },
+ {
+  "ward": 102,
+  "role": "road_name",
+  "text": "Kilpauk Garden Road",
+  "east": 416514.18,
+  "north": 1446469.73,
+  "conf": 1.0,
+  "size_pt": 64.8
+ },
+ {
+  "ward": 102,
+  "role": "road_name",
+  "text": "Shenoy NagarIst Main RoadNadhamuni St",
+  "east": 416208.2,
+  "north": 1445879.87,
+  "conf": 1.0,
+  "size_pt": 57.96
+ },
+ {
+  "ward": 102,
+  "role": "road_name",
+  "text": "EVR Periyar Salai (Poonamallee",
+  "east": 415836.69,
+  "north": 1445484.55,
+  "conf": 1.0,
+  "size_pt": 98.04
+ },
+ {
+  "ward": 102,
+  "role": "road_name",
+  "text": "Mosque Street",
+  "east": 416064.78,
+  "north": 1445501.8,
+  "conf": 1.0,
+  "size_pt": 44.28
+ },
+ {
+  "ward": 102,
+  "role": "road_name",
+  "text": "Pulla Avenue",
+  "east": 416042.34,
+  "north": 1446332.03,
+  "conf": 1.0,
+  "size_pt": 39.48
+ },
+ {
+  "ward": 102,
+  "role": "road_name",
+  "text": "1st Avenue",
+  "east": 415864.0,
+  "north": 1446733.17,
+  "conf": 1.0,
+  "size_pt": 27.48
+ },
+ {
+  "ward": 102,
+  "role": "road_name",
+  "text": "2nd Cross Street",
+  "east": 415908.56,
+  "north": 1447069.01,
+  "conf": 1.0,
+  "size_pt": 52.8
+ },
+ {
+  "ward": 102,
+  "role": "road_name",
+  "text": "L Block 18th Street4th Cross St",
+  "east": 415929.83,
+  "north": 1447151.14,
+  "conf": 1.0,
+  "size_pt": 106.92
+ },
+ {
+  "ward": 102,
+  "role": "road_name",
+  "text": "3rd Cross Street",
+  "east": 415952.17,
+  "north": 1447104.57,
+  "conf": 1.0,
+  "size_pt": 51.36
+ },
+ {
+  "ward": 102,
+  "role": "road_name",
+  "text": "Ist Avenue",
+  "east": 415815.53,
+  "north": 1447297.42,
+  "conf": 1.0,
+  "size_pt": 33.12
+ },
+ {
+  "ward": 102,
+  "role": "road_name",
+  "text": "L Block19th Street",
+  "east": 415940.95,
+  "north": 1447273.5,
+  "conf": 1.0,
+  "size_pt": 34.56
+ },
+ {
+  "ward": 102,
+  "role": "road_name",
+  "text": "L Block17th Street",
+  "east": 415883.16,
+  "north": 1447274.56,
+  "conf": 1.0,
+  "size_pt": 34.56
+ },
+ {
+  "ward": 102,
+  "role": "road_name",
+  "text": "L Block20th Street",
+  "east": 416003.29,
+  "north": 1447233.59,
+  "conf": 1.0,
+  "size_pt": 36.36
+ },
+ {
+  "ward": 102,
+  "role": "road_name",
+  "text": "-New Avadi Road",
+  "east": 416377.33,
+  "north": 1447270.0,
+  "conf": 1.0,
+  "size_pt": 39.96
+ },
+ {
+  "ward": 102,
+  "role": "road_name",
+  "text": "24tL Block 26th Street",
+  "east": 416052.61,
+  "north": 1447390.14,
+  "conf": 1.0,
+  "size_pt": 47.04
+ },
+ {
+  "ward": 102,
+  "role": "road_name",
+  "text": "VO C Colony Street",
+  "east": 416209.89,
+  "north": 1446924.85,
+  "conf": 1.0,
+  "size_pt": 63.6
+ },
+ {
+  "ward": 102,
+  "role": "road_name",
+  "text": "Devaki Ammal Street7.404",
+  "east": 416459.89,
+  "north": 1445756.77,
+  "conf": 1.0,
+  "size_pt": 65.88
+ },
+ {
+  "ward": 102,
+  "role": "road_name",
+  "text": "L Block23th Street",
+  "east": 416058.96,
+  "north": 1447482.22,
+  "conf": 1.0,
+  "size_pt": 32.52
+ },
+ {
+  "ward": 102,
+  "role": "road_name",
+  "text": "Ist Street",
+  "east": 415790.65,
+  "north": 1445543.71,
+  "conf": 1.0,
+  "size_pt": 29.76
+ },
+ {
+  "ward": 102,
+  "role": "road_name",
+  "text": "Manjakollai Street",
+  "east": 415821.35,
+  "north": 1445663.1,
+  "conf": 1.0,
+  "size_pt": 54.96
+ },
+ {
+  "ward": 102,
+  "role": "road_name",
+  "text": "ThiruveethiAmman Koil Street",
+  "east": 415895.44,
+  "north": 1445629.45,
+  "conf": 1.0,
+  "size_pt": 58.44
+ },
+ {
+  "ward": 102,
+  "role": "road_name",
+  "text": "jakollai StreetShenoy Nagar Ist Cross Street WestGovernmentBirth HospitalChilda AvenueJeyammai Street",
+  "east": 415982.54,
+  "north": 1445726.71,
+  "conf": 1.0,
+  "size_pt": 123.72
+ },
+ {
+  "ward": 102,
+  "role": "road_name",
+  "text": "Kathuravan Colony 2ndStreet",
+  "east": 415737.73,
+  "north": 1445743.23,
+  "conf": 1.0,
+  "size_pt": 94.56
+ },
+ {
+  "ward": 102,
+  "role": "road_name",
+  "text": "Gajalakshmi Colony 4thStreet",
+  "east": 415710.0,
+  "north": 1445791.28,
+  "conf": 1.0,
+  "size_pt": 94.8
+ },
+ {
+  "ward": 102,
+  "role": "road_name",
+  "text": "Gajalakshmi Colony 3rd Street...",
+  "east": 415711.7,
+  "north": 1445821.23,
+  "conf": 1.0,
+  "size_pt": 94.56
+ },
+ {
+  "ward": 102,
+  "role": "road_name",
+  "text": "Gajalakshmi Colony 2nd Street",
+  "east": 415721.43,
+  "north": 1445848.43,
+  "conf": 1.0,
+  "size_pt": 95.76
+ },
+ {
+  "ward": 102,
+  "role": "road_name",
+  "text": ")38.318JeyamnAyyavoo StreetSengnudhar Road",
+  "east": 416107.12,
+  "north": 1445654.95,
+  "conf": 1.0,
+  "size_pt": 65.04
+ },
+ {
+  "ward": 102,
+  "role": "road_name",
+  "text": "Lakshmi Talkies Road",
+  "east": 416240.37,
+  "north": 1445528.15,
+  "conf": 1.0,
+  "size_pt": 67.44
+ },
+ {
+  "ward": 102,
+  "role": "road_name",
+  "text": "KanniyammanKoil StreetChengalvarayan StreetDr. SeshiahResearchDiabetes",
+  "east": 416423.16,
+  "north": 1445525.08,
+  "conf": 1.0,
+  "size_pt": 86.4
+ },
+ {
+  "ward": 102,
+  "role": "road_name",
+  "text": "RajammalStreet",
+  "east": 416398.08,
+  "north": 1445631.03,
+  "conf": 1.0,
+  "size_pt": 52.44
+ },
+ {
+  "ward": 102,
+  "role": "road_name",
+  "text": "Chellammal Street",
+  "east": 416456.18,
+  "north": 1445700.99,
+  "conf": 1.0,
+  "size_pt": 56.16
+ },
+ {
+  "ward": 102,
+  "role": "road_name",
+  "text": "Ramaiah Road",
+  "east": 416189.89,
+  "north": 1445677.18,
+  "conf": 1.0,
+  "size_pt": 45.12
+ },
+ {
+  "ward": 102,
+  "role": "road_name",
+  "text": "Pulla Avenue",
+  "east": 415987.94,
+  "north": 1445691.68,
+  "conf": 1.0,
+  "size_pt": 39.48
+ },
+ {
+  "ward": 102,
+  "role": "road_name",
+  "text": "Manjakollai Street",
+  "east": 415898.08,
+  "north": 1445701.42,
+  "conf": 1.0,
+  "size_pt": 54.84
+ },
+ {
+  "ward": 102,
+  "role": "road_name",
+  "text": "Pulla Avenue",
+  "east": 415882.52,
+  "north": 1445957.03,
+  "conf": 1.0,
+  "size_pt": 39.6
+ },
+ {
+  "ward": 102,
+  "role": "road_name",
+  "text": "4815L Block 27th Street",
+  "east": 416151.89,
+  "north": 1447349.17,
+  "conf": 1.0,
+  "size_pt": 49.56
+ },
+ {
+  "ward": 102,
+  "role": "road_name",
+  "text": "Cart TrackRoad",
+  "east": 416210.21,
+  "north": 1447310.44,
+  "conf": 1.0,
+  "size_pt": 48.36
+ },
+ {
+  "ward": 102,
+  "role": "road_name",
+  "text": "Gujji Main Road",
+  "east": 416334.89,
+  "north": 1447231.48,
+  "conf": 1.0,
+  "size_pt": 37.2
+ },
+ {
+  "ward": 102,
+  "role": "road_name",
+  "text": "Gujji IstRoad",
+  "east": 416301.34,
+  "north": 1447165.64,
+  "conf": 1.0,
+  "size_pt": 42.36
+ },
+ {
+  "ward": 102,
+  "role": "road_name",
+  "text": "Gujji 2nd Road",
+  "east": 416248.95,
+  "north": 1447211.79,
+  "conf": 1.0,
+  "size_pt": 44.88
+ },
+ {
+  "ward": 102,
+  "role": "road_name",
+  "text": "L Block 21th Street<4tn",
+  "east": 416002.76,
+  "north": 1447312.87,
+  "conf": 1.0,
+  "size_pt": 48.0
+ },
+ {
+  "ward": 102,
+  "role": "road_name",
+  "text": "V O C Nagar Ist Street",
+  "east": 416095.69,
+  "north": 1447096.95,
+  "conf": 1.0,
+  "size_pt": 73.68
+ },
+ {
+  "ward": 102,
+  "role": "road_name",
+  "text": "Palli Arasan Street",
+  "east": 416648.71,
+  "north": 1446941.15,
+  "conf": 1.0,
+  "size_pt": 58.8
+ },
+ {
+  "ward": 102,
+  "role": "road_name",
+  "text": "Mandapam 3rd StNew Mandapam RoadMandapam 2nd StHandapam Ist",
+  "east": 416877.75,
+  "north": 1446911.52,
+  "conf": 1.0,
+  "size_pt": 73.68
+ },
+ {
+  "ward": 102,
+  "role": "road_name",
+  "text": "Mandapam 6th StMand\u00e4pam LandMandapam4th",
+  "east": 416758.57,
+  "north": 1446900.83,
+  "conf": 1.0,
+  "size_pt": 64.68
+ },
+ {
+  "ward": 102,
+  "role": "road_name",
+  "text": "Mandapam 3rd St",
+  "east": 416840.81,
+  "north": 1446900.83,
+  "conf": 1.0,
+  "size_pt": 56.04
+ },
+ {
+  "ward": 102,
+  "role": "road_name",
+  "text": "Mandapam Ist St",
+  "east": 416933.63,
+  "north": 1446888.55,
+  "conf": 1.0,
+  "size_pt": 55.08
+ },
+ {
+  "ward": 102,
+  "role": "road_name",
+  "text": "Mandapam Road",
+  "east": 416968.56,
+  "north": 1446888.02,
+  "conf": 1.0,
+  "size_pt": 51.6
+ },
+ {
+  "ward": 102,
+  "role": "road_name",
+  "text": "Mandapam 6th St",
+  "east": 416719.94,
+  "north": 1446887.91,
+  "conf": 1.0,
+  "size_pt": 56.28
+ },
+ {
+  "ward": 102,
+  "role": "road_name",
+  "text": "Mandapam 5th StMandapam Cross St",
+  "east": 416833.82,
+  "north": 1446825.57,
+  "conf": 1.0,
+  "size_pt": 120.96
+ },
+ {
+  "ward": 102,
+  "role": "road_name",
+  "text": "OuterCirculerRoadInnerCirculerRoad",
+  "east": 416536.73,
+  "north": 1446784.08,
+  "conf": 1.0,
+  "size_pt": 47.76
+ },
+ {
+  "ward": 102,
+  "role": "road_name",
+  "text": "WestrtersStreet",
+  "east": 416607.53,
+  "north": 1446717.61,
+  "conf": 1.0,
+  "size_pt": 32.4
+ },
+ {
+  "ward": 102,
+  "role": "road_name",
+  "text": "Cross Street3rd",
+  "east": 416672.2,
+  "north": 1446741.64,
+  "conf": 1.0,
+  "size_pt": 38.04
+ },
+ {
+  "ward": 102,
+  "role": "road_name",
+  "text": "Play Ground StreetN Street",
+  "east": 416743.75,
+  "north": 1446733.28,
+  "conf": 1.0,
+  "size_pt": 68.64
+ },
+ {
+  "ward": 102,
+  "role": "road_name",
+  "text": "Center Street",
+  "east": 416638.23,
+  "north": 1446616.96,
+  "conf": 1.0,
+  "size_pt": 41.28
+ },
+ {
+  "ward": 102,
+  "role": "road_name",
+  "text": "etCenter StreetStreetKG Colony 2nd Cross",
+  "east": 416801.22,
+  "north": 1446700.68,
+  "conf": 1.0,
+  "size_pt": 100.8
+ },
+ {
+  "ward": 102,
+  "role": "road_name",
+  "text": "Park Street",
+  "east": 416802.92,
+  "north": 1446558.21,
+  "conf": 1.0,
+  "size_pt": 35.28
+ },
+ {
+  "ward": 102,
+  "role": "road_name",
+  "text": "Big Street",
+  "east": 416695.28,
+  "north": 1446537.04,
+  "conf": 1.0,
+  "size_pt": 30.96
+ },
+ {
+  "ward": 102,
+  "role": "road_name",
+  "text": "East Street",
+  "east": 416926.22,
+  "north": 1446577.69,
+  "conf": 1.0,
+  "size_pt": 35.28
+ },
+ {
+  "ward": 102,
+  "role": "road_name",
+  "text": "Cross Street1st",
+  "east": 416888.54,
+  "north": 1446661.09,
+  "conf": 1.0,
+  "size_pt": 38.04
+ },
+ {
+  "ward": 102,
+  "role": "road_name",
+  "text": "/ Street",
+  "east": 416879.86,
+  "north": 1446708.83,
+  "conf": 1.0,
+  "size_pt": 23.16
+ },
+ {
+  "ward": 102,
+  "role": "road_name",
+  "text": "KG ColonyAst Cross Street",
+  "east": 416950.67,
+  "north": 1446709.67,
+  "conf": 1.0,
+  "size_pt": 47.4
+ },
+ {
+  "ward": 102,
+  "role": "road_name",
+  "text": "Canal Road",
+  "east": 416665.85,
+  "north": 1446827.69,
+  "conf": 1.0,
+  "size_pt": 32.52
+ },
+ {
+  "ward": 102,
+  "role": "road_name",
+  "text": "Gujji Mani Road",
+  "east": 416600.44,
+  "north": 1446981.69,
+  "conf": 1.0,
+  "size_pt": 46.68
+ },
+ {
+  "ward": 102,
+  "role": "road_name",
+  "text": "RV Nagar MainRoad",
+  "east": 416334.78,
+  "north": 1446969.41,
+  "conf": 1.0,
+  "size_pt": 62.76
+ },
+ {
+  "ward": 102,
+  "role": "road_name",
+  "text": "RV Nagar 4th Cross Street",
+  "east": 416419.35,
+  "north": 1446915.86,
+  "conf": 1.0,
+  "size_pt": 85.68
+ },
+ {
+  "ward": 102,
+  "role": "road_name",
+  "text": "Arumugam Road",
+  "east": 416367.8,
+  "north": 1446825.15,
+  "conf": 1.0,
+  "size_pt": 52.2
+ },
+ {
+  "ward": 102,
+  "role": "road_name",
+  "text": "Thiruvaluvar Nagar Ist Street",
+  "east": 416369.71,
+  "north": 1446802.18,
+  "conf": 1.0,
+  "size_pt": 91.32
+ },
+ {
+  "ward": 102,
+  "role": "road_name",
+  "text": "VOC Colony Street",
+  "east": 416121.3,
+  "north": 1446964.75,
+  "conf": 1.0,
+  "size_pt": 56.16
+ },
+ {
+  "ward": 102,
+  "role": "road_name",
+  "text": "G Block 10th St",
+  "east": 415983.71,
+  "north": 1446843.88,
+  "conf": 1.0,
+  "size_pt": 47.64
+ },
+ {
+  "ward": 102,
+  "role": "road_name",
+  "text": "5.909G Block 7th StG Block 8th StSt",
+  "east": 416072.83,
+  "north": 1446727.24,
+  "conf": 1.0,
+  "size_pt": 60.0
+ },
+ {
+  "ward": 102,
+  "role": "road_name",
+  "text": "G Block 4th St",
+  "east": 416155.06,
+  "north": 1446604.89,
+  "conf": 1.0,
+  "size_pt": 47.16
+ },
+ {
+  "ward": 102,
+  "role": "road_name",
+  "text": "G Block 3th St",
+  "east": 416132.52,
+  "north": 1446557.79,
+  "conf": 1.0,
+  "size_pt": 47.04
+ },
+ {
+  "ward": 102,
+  "role": "road_name",
+  "text": "G Block6th StG BIOCK ,G Block 5th St",
+  "east": 416040.23,
+  "north": 1446668.82,
+  "conf": 1.0,
+  "size_pt": 73.92
+ },
+ {
+  "ward": 102,
+  "role": "road_name",
+  "text": "G Block 12th St",
+  "east": 415897.45,
+  "north": 1446934.27,
+  "conf": 1.0,
+  "size_pt": 50.28
+ },
+ {
+  "ward": 102,
+  "role": "road_name",
+  "text": "Beriwary Road",
+  "east": 416139.19,
+  "north": 1446383.57,
+  "conf": 1.0,
+  "size_pt": 40.44
+ },
+ {
+  "ward": 102,
+  "role": "road_name",
+  "text": "Mosque Street",
+  "east": 416230.32,
+  "north": 1446398.29,
+  "conf": 1.0,
+  "size_pt": 43.8
+ },
+ {
+  "ward": 102,
+  "role": "road_name",
+  "text": "Cementry Road",
+  "east": 416198.88,
+  "north": 1446354.25,
+  "conf": 1.0,
+  "size_pt": 46.92
+ },
+ {
+  "ward": 102,
+  "role": "road_name",
+  "text": "M G R Street",
+  "east": 416253.5,
+  "north": 1446396.59,
+  "conf": 1.0,
+  "size_pt": 41.88
+ },
+ {
+  "ward": 102,
+  "role": "road_name",
+  "text": "Rajiv Gandhi Street",
+  "east": 416292.45,
+  "north": 1446394.37,
+  "conf": 1.0,
+  "size_pt": 60.24
+ },
+ {
+  "ward": 102,
+  "role": "road_name",
+  "text": "Annai IndhiraGandhai Street",
+  "east": 416334.89,
+  "north": 1446393.31,
+  "conf": 1.0,
+  "size_pt": 45.36
+ },
+ {
+  "ward": 102,
+  "role": "road_name",
+  "text": "D Block R V Nagar 2nd St",
+  "east": 416262.7,
+  "north": 1446589.44,
+  "conf": 1.0,
+  "size_pt": 85.32
+ },
+ {
+  "ward": 102,
+  "role": "road_name",
+  "text": "K V N Puram Ist Street",
+  "east": 416502.54,
+  "north": 1446411.94,
+  "conf": 1.0,
+  "size_pt": 77.76
+ },
+ {
+  "ward": 102,
+  "role": "road_name",
+  "text": "K VN Puram 2nd Street",
+  "east": 416495.77,
+  "north": 1446384.1,
+  "conf": 1.0,
+  "size_pt": 79.92
+ },
+ {
+  "ward": 102,
+  "role": "road_name",
+  "text": "ARD 102ajhJothi Ammal Nagar 3rd StreetDIJothi Ammal Nagar Stree9thuramCrossJothi Ammal Nagar3rd6th Cross StreetStreeStreetTP Chathiram Main Road",
+  "east": 416436.92,
+  "north": 1446271.91,
+  "conf": 0.95,
+  "size_pt": 157.92
+ },
+ {
+  "ward": 102,
+  "role": "road_name",
+  "text": "Jothi Ammal Nagar 13thStreet",
+  "east": 416511.54,
+  "north": 1446163.42,
+  "conf": 1.0,
+  "size_pt": 99.96
+ },
+ {
+  "ward": 102,
+  "role": "road_name",
+  "text": "East Club Road15th Cross Street,TP Chathiram",
+  "east": 416456.18,
+  "north": 1446126.59,
+  "conf": 1.0,
+  "size_pt": 109.44
+ },
+ {
+  "ward": 102,
+  "role": "road_name",
+  "text": "Shenoy Nagar East Park Road",
+  "east": 416289.59,
+  "north": 1446082.35,
+  "conf": 1.0,
+  "size_pt": 96.0
+ },
+ {
+  "ward": 102,
+  "role": "road_name",
+  "text": "Shenoy Nagar 4th Cross Street",
+  "east": 416294.88,
+  "north": 1446012.6,
+  "conf": 1.0,
+  "size_pt": 99.36
+ },
+ {
+  "ward": 102,
+  "role": "road_name",
+  "text": "18th Cross StreetTP Chathiram",
+  "east": 416510.37,
+  "north": 1446071.34,
+  "conf": 1.0,
+  "size_pt": 54.96
+ },
+ {
+  "ward": 102,
+  "role": "road_name",
+  "text": "19th Cross Stre2t",
+  "east": 416496.4,
+  "north": 1446025.61,
+  "conf": 1.0,
+  "size_pt": 55.2
+ },
+ {
+  "ward": 102,
+  "role": "road_name",
+  "text": "Cross Street24th 6.446",
+  "east": 416510.16,
+  "north": 1445952.9,
+  "conf": 1.0,
+  "size_pt": 38.16
+ },
+ {
+  "ward": 102,
+  "role": "road_name",
+  "text": "25th Cross Street",
+  "east": 416493.12,
+  "north": 1445919.24,
+  "conf": 1.0,
+  "size_pt": 56.76
+ },
+ {
+  "ward": 102,
+  "role": "road_name",
+  "text": "27th Cross Street",
+  "east": 416489.2,
+  "north": 1445887.81,
+  "conf": 1.0,
+  "size_pt": 56.88
+ },
+ {
+  "ward": 102,
+  "role": "road_name",
+  "text": "32th Cross Street",
+  "east": 416434.7,
+  "north": 1445853.73,
+  "conf": 1.0,
+  "size_pt": 56.52
+ },
+ {
+  "ward": 102,
+  "role": "road_name",
+  "text": "Shenoy Nagar 3rd Cross Street",
+  "east": 416268.74,
+  "north": 1445943.16,
+  "conf": 1.0,
+  "size_pt": 99.24
+ },
+ {
+  "ward": 102,
+  "role": "road_name",
+  "text": "Shenoy Nagar Ist Main Road East,",
+  "east": 416165.54,
+  "north": 1446045.09,
+  "conf": 1.0,
+  "size_pt": 108.48
+ },
+ {
+  "ward": 102,
+  "role": "road_name",
+  "text": "Dr Kalaingar Street",
+  "east": 416375.11,
+  "north": 1446407.39,
+  "conf": 1.0,
+  "size_pt": 60.12
+ },
+ {
+  "ward": 102,
+  "role": "location_names",
+  "text": "Bridge",
+  "east": 415661.21,
+  "north": 1445449.41,
+  "conf": 1.0,
+  "size_pt": 20.52
+ },
+ {
+  "ward": 102,
+  "role": "location_names",
+  "text": "Park",
+  "east": 415985.61,
+  "north": 1445959.14,
+  "conf": 1.0,
+  "size_pt": 14.4
+ },
+ {
+  "ward": 102,
+  "role": "location_names",
+  "text": "Park",
+  "east": 416039.38,
+  "north": 1446861.77,
+  "conf": 1.0,
+  "size_pt": 14.4
+ },
+ {
+  "ward": 102,
+  "role": "location_names",
+  "text": "QuartersPolice",
+  "east": 416588.48,
+  "north": 1446746.08,
+  "conf": 1.0,
+  "size_pt": 28.08
+ },
+ {
+  "ward": 102,
+  "role": "location_names",
+  "text": "Honey",
+  "east": 416688.82,
+  "north": 1446438.29,
+  "conf": 1.0,
+  "size_pt": 20.4
+ },
+ {
+  "ward": 102,
+  "role": "location_names",
+  "text": "Iravels",
+  "east": 416735.39,
+  "north": 1446439.67,
+  "conf": 1.0,
+  "size_pt": 21.36
+ },
+ {
+  "ward": 102,
+  "role": "location_names",
+  "text": "Zaitoon",
+  "east": 416062.77,
+  "north": 1446520.64,
+  "conf": 1.0,
+  "size_pt": 24.36
+ },
+ {
+  "ward": 102,
+  "role": "location_names",
+  "text": "Sandwich",
+  "east": 416072.51,
+  "north": 1446416.38,
+  "conf": 1.0,
+  "size_pt": 29.88
+ },
+ {
+  "ward": 102,
+  "role": "location_names",
+  "text": "Square",
+  "east": 416128.18,
+  "north": 1446415.01,
+  "conf": 1.0,
+  "size_pt": 22.44
+ },
+ {
+  "ward": 102,
+  "role": "location_names",
+  "text": "BhavanAnandaAdyar",
+  "east": 415970.79,
+  "north": 1446629.76,
+  "conf": 1.0,
+  "size_pt": 25.68
+ },
+ {
+  "ward": 102,
+  "role": "location_names",
+  "text": "HospitalsBillroth d",
+  "east": 416223.12,
+  "north": 1445641.09,
+  "conf": 1.0,
+  "size_pt": 30.24
+ },
+ {
+  "ward": 102,
+  "role": "location_names",
+  "text": "HospitalHande",
+  "east": 416232.33,
+  "north": 1445716.02,
+  "conf": 1.0,
+  "size_pt": 26.76
+ },
+ {
+  "ward": 102,
+  "role": "location_names",
+  "text": "Dr. SeshiahResearchDiabetes",
+  "east": 416465.28,
+  "north": 1445529.11,
+  "conf": 1.0,
+  "size_pt": 38.4
+ },
+ {
+  "ward": 102,
+  "role": "location_names",
+  "text": "Dr.Mu. Va.Hospital",
+  "east": 416307.9,
+  "north": 1445482.32,
+  "conf": 1.0,
+  "size_pt": 29.88
+ },
+ {
+  "ward": 102,
+  "role": "location_names",
+  "text": "Selvarangam\\ Hospital",
+  "east": 415931.74,
+  "north": 1446680.88,
+  "conf": 1.0,
+  "size_pt": 41.88
+ },
+ {
+  "ward": 102,
+  "role": "location_names",
+  "text": "Pvt. Ltd.HospitalsU.K",
+  "east": 416028.16,
+  "north": 1446558.85,
+  "conf": 1.0,
+  "size_pt": 30.24
+ },
+ {
+  "ward": 102,
+  "role": "location_names",
+  "text": "GovernmentBirth HospitalChild",
+  "east": 415920.52,
+  "north": 1445732.85,
+  "conf": 1.0,
+  "size_pt": 48.36
+ },
+ {
+  "ward": 102,
+  "role": "location_names",
+  "text": "Shenoy Nagar",
+  "east": 416268.84,
+  "north": 1445965.71,
+  "conf": 1.0,
+  "size_pt": 47.52
+ },
+ {
+  "ward": 102,
+  "role": "location_names",
+  "text": "GovernmentPark",
+  "east": 416008.9,
+  "north": 1447524.66,
+  "conf": 1.0,
+  "size_pt": 35.04
+ },
+ {
+  "ward": 102,
+  "role": "location_names",
+  "text": "SwimmingPool",
+  "east": 416100.77,
+  "north": 1446231.27,
+  "conf": 1.0,
+  "size_pt": 32.88
+ },
+ {
+  "ward": 102,
+  "role": "location_names",
+  "text": "Brdge",
+  "east": 415992.39,
+  "north": 1447382.3,
+  "conf": 1.0,
+  "size_pt": 20.4
+ },
+ {
+  "ward": 102,
+  "role": "location_names",
+  "text": "Bridge",
+  "east": 416139.61,
+  "north": 1447225.13,
+  "conf": 1.0,
+  "size_pt": 20.52
+ },
+ {
+  "ward": 102,
+  "role": "location_names",
+  "text": "Bridge",
+  "east": 416668.71,
+  "north": 1446863.25,
+  "conf": 1.0,
+  "size_pt": 20.4
+ },
+ {
+  "ward": 102,
+  "role": "location_names",
+  "text": "Bridge",
+  "east": 417047.62,
+  "north": 1446801.86,
+  "conf": 1.0,
+  "size_pt": 20.4
+ }
+]

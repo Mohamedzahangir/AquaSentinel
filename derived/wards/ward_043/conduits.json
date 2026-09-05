@@ -1,0 +1,72 @@
+[
+ {
+  "cond_id": "A13->A12",
+  "from_node": "A13",
+  "to_node": "A12",
+  "ward": 43,
+  "length_m": 90.85,
+  "us_invert": 5.799,
+  "ds_invert": 5.405,
+  "width_m": 0.901,
+  "depth_m": 0.4,
+  "type": "C",
+  "slope": 0.004337,
+  "dir_src": "invert"
+ },
+ {
+  "cond_id": "A12->A11",
+  "from_node": "A12",
+  "to_node": "A11",
+  "ward": 43,
+  "length_m": 71.027,
+  "us_invert": 5.405,
+  "ds_invert": 5.08,
+  "width_m": 0.756,
+  "depth_m": 0.4,
+  "type": "C",
+  "slope": 0.004576,
+  "dir_src": "invert"
+ },
+ {
+  "cond_id": "A11->A8",
+  "from_node": "A11",
+  "to_node": "A8",
+  "ward": 43,
+  "length_m": 32.606,
+  "us_invert": 5.08,
+  "ds_invert": 4.32,
+  "width_m": 0.602,
+  "depth_m": 0.623,
+  "type": "C",
+  "slope": 0.023308,
+  "dir_src": "invert"
+ },
+ {
+  "cond_id": "A22->PA22",
+  "from_node": "A22",
+  "to_node": "PA22",
+  "ward": 43,
+  "length_m": 27.886,
+  "us_invert": 4.412,
+  "ds_invert": null,
+  "width_m": 0.651,
+  "depth_m": 0.907,
+  "type": "C",
+  "slope": null,
+  "dir_src": "assumed"
+ },
+ {
+  "cond_id": "A22->A17",
+  "from_node": "A22",
+  "to_node": "A17",
+  "ward": 43,
+  "length_m": 86.266,
+  "us_invert": 4.412,
+  "ds_invert": 4.152,
+  "width_m": 0.651,
+  "depth_m": 0.907,
+  "type": "C",
+  "slope": 0.003014,
+  "dir_src": "invert"
+ }
+]

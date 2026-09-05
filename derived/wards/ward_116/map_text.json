@@ -1,0 +1,578 @@
+[
+ {
+  "ward": 116,
+  "role": "road_name",
+  "text": "Bharathi Salai",
+  "east": 421926.94,
+  "north": 1443654.67,
+  "conf": 1.0,
+  "size_pt": 43.8
+ },
+ {
+  "ward": 116,
+  "role": "road_name",
+  "text": "Sivaraman Street",
+  "east": 421325.11,
+  "north": 1443560.28,
+  "conf": 1.0,
+  "size_pt": 53.4
+ },
+ {
+  "ward": 116,
+  "role": "road_name",
+  "text": "Car StArumuhChetty LaVenkatarangam* Pillai Stre\u011btNorth Tank SquareKoilTankEast TankNorth TankSqure StSquare StSouthTankStSquare St",
+  "east": 421761.75,
+  "north": 1443231.9,
+  "conf": 1.0,
+  "size_pt": 108.24
+ },
+ {
+  "ward": 116,
+  "role": "road_name",
+  "text": "3.594Namasivayam StVenkatachalaThopeMudali StreetStreetThanikachalaVeeraperumal StreetSingaperumal Koil StreetVeeraragava Street(Big Street)i Pillai Streetraman Street",
+  "east": 421379.61,
+  "north": 1443645.47,
+  "conf": 1.0,
+  "size_pt": 120.72
+ },
+ {
+  "ward": 116,
+  "role": "road_name",
+  "text": "Singarachari Street",
+  "east": 421636.66,
+  "north": 1443407.57,
+  "conf": 1.0,
+  "size_pt": 59.04
+ },
+ {
+  "ward": 116,
+  "role": "road_name",
+  "text": "Alangatha Street",
+  "east": 421523.64,
+  "north": 1443623.45,
+  "conf": 1.0,
+  "size_pt": 49.68
+ },
+ {
+  "ward": 116,
+  "role": "road_name",
+  "text": "Car Street",
+  "east": 421713.38,
+  "north": 1443324.71,
+  "conf": 1.0,
+  "size_pt": 30.84
+ },
+ {
+  "ward": 116,
+  "role": "road_name",
+  "text": "StationKoadStreet",
+  "east": 421944.82,
+  "north": 1443454.24,
+  "conf": 1.0,
+  "size_pt": 33.12
+ },
+ {
+  "ward": 116,
+  "role": "road_name",
+  "text": "Sungachan Street",
+  "east": 421375.91,
+  "north": 1443479.32,
+  "conf": 1.0,
+  "size_pt": 54.72
+ },
+ {
+  "ward": 116,
+  "role": "road_name",
+  "text": "South Mada Street",
+  "east": 421557.08,
+  "north": 1443177.83,
+  "conf": 1.0,
+  "size_pt": 59.04
+ },
+ {
+  "ward": 116,
+  "role": "road_name",
+  "text": "NarayakrishnaRajap\u00faram Street\u2022SivarajapuramSlum AreaArimuthuOKINGAMAchari Street",
+  "east": 421860.9,
+  "north": 1443122.06,
+  "conf": 1.0,
+  "size_pt": 74.28
+ },
+ {
+  "ward": 116,
+  "role": "road_name",
+  "text": "BandhiVenkatesan Street3.776Chengalvarayan Mudali StreetUlagappaChetty StreetVinayagar Koil StreetSundaramurthy.Koil Street- EllammanSundaramurthyludali StreetKandappaVinayagarJT3.158Koil Street",
+  "east": 421364.38,
+  "north": 1443350.0,
+  "conf": 1.0,
+  "size_pt": 126.0
+ },
+ {
+  "ward": 116,
+  "role": "road_name",
+  "text": "urthyKandappa,Mudali StreetGanapathi MudaliStreet",
+  "east": 421406.49,
+  "north": 1443252.43,
+  "conf": 1.0,
+  "size_pt": 58.08
+ },
+ {
+  "ward": 116,
+  "role": "road_name",
+  "text": "AlangathaStreetB43.014B32.737Alangatha StreetVenkatachala Chetty StreetMuthu Kalathy StreetyNeeli VeerasamyRajaHanumanthaChetty StreetLalaStreet3.784Mudali St:SakthiNallathambi MudaliHospitalUst Lane&ReasearchCenter2nd LaneVenkatachalaParthasarathyAlangathaSamy LanestStreetLarVeeraragava3rd LanesStreet2nd Lanebiq Street) Parthasarathvswamy St\u0131tachalaStreetB91.458",
+  "east": 421645.76,
+  "north": 1443586.95,
+  "conf": 1.0,
+  "size_pt": 211.44
+ },
+ {
+  "ward": 116,
+  "role": "road_name",
+  "text": "-uneKarpaga KanniVenkatachalaAmman Koll Cross1st Lane2nd Street Palani AmmNorth 1stIst StreetNaicken 3rd LanesVenkatachalaCar StreetStationStreRogtreet2ndVenkatarangam 2nd LaneVenkatachala3rd LaneNaickenStSouth 4th LaneSouth 5th StoUD.Palani AmmanTDKoil 6th StreetNew Fire Wood StreetArumuhaChetty LaneyVenkatarangamPillai Streetank squar\u00e9Old Fire Wood Streetst Tankth Tanklare Sture St",
+  "east": 421861.12,
+  "north": 1443367.99,
+  "conf": 1.0,
+  "size_pt": 197.28
+ },
+ {
+  "ward": 116,
+  "role": "road_name",
+  "text": "Marina Beach Road",
+  "east": 422153.3,
+  "north": 1443514.14,
+  "conf": 1.0,
+  "size_pt": 60.36
+ },
+ {
+  "ward": 116,
+  "role": "road_name",
+  "text": "Nagoji SWASPeyalwar Koil StreetMada Street",
+  "east": 421568.19,
+  "north": 1443303.02,
+  "conf": 1.0,
+  "size_pt": 72.96
+ },
+ {
+  "ward": 116,
+  "role": "road_name",
+  "text": "South TankSouth iSquare StNarayakrishrRajapuram StrVenkatarangamPillai StreetArimuthuAchari StreetThusalasinga Perumal Koil 2naHanumantharoyarVenkatarangamPillai Ist Lane(OL)ParkVenugopal Street022VenkatarangamPillai StreetSivarajapuram",
+  "east": 421761.11,
+  "north": 1443053.17,
+  "conf": 1.0,
+  "size_pt": 130.8
+ },
+ {
+  "ward": 116,
+  "role": "road_name",
+  "text": "Kamarajar Salai",
+  "east": 422025.36,
+  "north": 1442953.06,
+  "conf": 1.0,
+  "size_pt": 49.8
+ },
+ {
+  "ward": 116,
+  "role": "road_name",
+  "text": "Thulasinga Perumal Koil Street",
+  "east": 421468.29,
+  "north": 1443321.33,
+  "conf": 1.0,
+  "size_pt": 95.88
+ },
+ {
+  "ward": 116,
+  "role": "road_name",
+  "text": "Sunguwar Street",
+  "east": 421895.4,
+  "north": 1443188.94,
+  "conf": 1.0,
+  "size_pt": 46.2
+ },
+ {
+  "ward": 116,
+  "role": "road_name",
+  "text": "ThandavarayanMudali StreetStreeNarasimhan5617",
+  "east": 421409.46,
+  "north": 1443111.26,
+  "conf": 0.86,
+  "size_pt": 77.28
+ },
+ {
+  "ward": 116,
+  "role": "road_name",
+  "text": "Dr. Besant Road",
+  "east": 421495.6,
+  "north": 1443021.63,
+  "conf": 1.0,
+  "size_pt": 50.28
+ },
+ {
+  "ward": 116,
+  "role": "road_name",
+  "text": "MRTS",
+  "east": 422009.8,
+  "north": 1443308.94,
+  "conf": 1.0,
+  "size_pt": 19.68
+ },
+ {
+  "ward": 116,
+  "role": "road_name",
+  "text": "Road (Triplicane)Quaide Millath",
+  "east": 421239.71,
+  "north": 1443198.04,
+  "conf": 1.0,
+  "size_pt": 52.56
+ },
+ {
+  "ward": 116,
+  "role": "road_name",
+  "text": "Kasim AliIst St",
+  "east": 421302.68,
+  "north": 1443134.44,
+  "conf": 1.0,
+  "size_pt": 29.76
+ },
+ {
+  "ward": 116,
+  "role": "road_name",
+  "text": "NeeChet11st Lane2ndLane",
+  "east": 421603.01,
+  "north": 1443559.75,
+  "conf": 1.0,
+  "size_pt": 36.24
+ },
+ {
+  "ward": 116,
+  "role": "road_name",
+  "text": "Nagoji Street",
+  "east": 421612.53,
+  "north": 1443361.86,
+  "conf": 1.0,
+  "size_pt": 41.04
+ },
+ {
+  "ward": 116,
+  "role": "road_name",
+  "text": "5th Lane B1 (OL)4th Lane1.6663th Lane 3th LaneKarpaga KanniAmman Koil 2nd LaneKarpaga KanniAmman Koil Cross2nd Street Palani Amman KoilNorth 1st. StreetIst StreetKamarajarStationSalaiRogaIne",
+  "east": 421968.32,
+  "north": 1443540.59,
+  "conf": 0.969,
+  "size_pt": 140.4
+ },
+ {
+  "ward": 116,
+  "role": "road_name",
+  "text": "Sunguvar Lane",
+  "east": 421887.57,
+  "north": 1443240.05,
+  "conf": 1.0,
+  "size_pt": 40.92
+ },
+ {
+  "ward": 116,
+  "role": "road_name",
+  "text": "ThulasingaPerumal Koil Ist Street",
+  "east": 421582.37,
+  "north": 1443128.94,
+  "conf": 1.0,
+  "size_pt": 74.04
+ },
+ {
+  "ward": 116,
+  "role": "road_name",
+  "text": "KUSLBandalu VenugopalNaidu Street",
+  "east": 421614.65,
+  "north": 1443032.11,
+  "conf": 1.0,
+  "size_pt": 58.56
+ },
+ {
+  "ward": 116,
+  "role": "road_name",
+  "text": "RoadVasuPst Bstreet",
+  "east": 421586.4,
+  "north": 1443050.41,
+  "conf": 1.0,
+  "size_pt": 50.52
+ },
+ {
+  "ward": 116,
+  "role": "road_name",
+  "text": "'AredSivara apuramSlum",
+  "east": 421849.69,
+  "north": 1442972.1,
+  "conf": 1.0,
+  "size_pt": 38.04
+ },
+ {
+  "ward": 116,
+  "role": "road_name",
+  "text": "Service Road",
+  "east": 422130.86,
+  "north": 1443201.21,
+  "conf": 1.0,
+  "size_pt": 40.32
+ },
+ {
+  "ward": 116,
+  "role": "road_name",
+  "text": "Kamarajar Salai",
+  "east": 422094.14,
+  "north": 1443217.09,
+  "conf": 1.0,
+  "size_pt": 49.68
+ },
+ {
+  "ward": 116,
+  "role": "road_name",
+  "text": "Swami Pillai Street",
+  "east": 421366.39,
+  "north": 1443555.52,
+  "conf": 1.0,
+  "size_pt": 58.56
+ },
+ {
+  "ward": 116,
+  "role": "road_name",
+  "text": "Kamarajar Salai",
+  "east": 422021.23,
+  "north": 1442833.05,
+  "conf": 1.0,
+  "size_pt": 49.56
+ },
+ {
+  "ward": 116,
+  "role": "road_name",
+  "text": "d bbas",
+  "east": 422072.02,
+  "north": 1442841.2,
+  "conf": 0.3,
+  "size_pt": 40.32
+ },
+ {
+  "ward": 116,
+  "role": "road_name",
+  "text": "Quide -Millath Salai",
+  "east": 421278.23,
+  "north": 1443624.94,
+  "conf": 1.0,
+  "size_pt": 66.24
+ },
+ {
+  "ward": 116,
+  "role": "road_name",
+  "text": "Kasim Ali2nd Street",
+  "east": 421303.84,
+  "north": 1443183.44,
+  "conf": 1.0,
+  "size_pt": 33.24
+ },
+ {
+  "ward": 116,
+  "role": "road_name",
+  "text": "Chetty LaneArumuha",
+  "east": 421759.74,
+  "north": 1443311.27,
+  "conf": 1.0,
+  "size_pt": 35.76
+ },
+ {
+  "ward": 116,
+  "role": "road_name",
+  "text": "AyothiyaNagar",
+  "east": 421960.91,
+  "north": 1442966.18,
+  "conf": 1.0,
+  "size_pt": 25.44
+ },
+ {
+  "ward": 116,
+  "role": "road_name",
+  "text": "KamarajarSalai",
+  "east": 422043.77,
+  "north": 1443195.08,
+  "conf": 1.0,
+  "size_pt": 31.56
+ },
+ {
+  "ward": 116,
+  "role": "road_name",
+  "text": "Dr.BesantRoad",
+  "east": 421527.13,
+  "north": 1443057.72,
+  "conf": 1.0,
+  "size_pt": 29.16
+ },
+ {
+  "ward": 116,
+  "role": "road_name",
+  "text": "Chetty StreetUlagappa",
+  "east": 421371.89,
+  "north": 1443356.67,
+  "conf": 1.0,
+  "size_pt": 41.16
+ },
+ {
+  "ward": 116,
+  "role": "road_name",
+  "text": "Neeli VeerasamyChetty Street",
+  "east": 421621.74,
+  "north": 1443613.3,
+  "conf": 1.0,
+  "size_pt": 53.04
+ },
+ {
+  "ward": 116,
+  "role": "location_names",
+  "text": "To Ward 120",
+  "east": 421463.43,
+  "north": 1442962.05,
+  "conf": 1.0,
+  "size_pt": 33.24
+ },
+ {
+  "ward": 116,
+  "role": "location_names",
+  "text": "Ward",
+  "east": 421254.95,
+  "north": 1443762.19,
+  "conf": 1.0,
+  "size_pt": 15.24
+ },
+ {
+  "ward": 116,
+  "role": "location_names",
+  "text": "115",
+  "east": 421285.96,
+  "north": 1443758.28,
+  "conf": 1.0,
+  "size_pt": 10.08
+ },
+ {
+  "ward": 116,
+  "role": "location_names",
+  "text": "Tamil NaduInstitute of Labour.Studies",
+  "east": 421953.82,
+  "north": 1442920.36,
+  "conf": 1.0,
+  "size_pt": 65.88
+ },
+ {
+  "ward": 116,
+  "role": "location_names",
+  "text": "Park",
+  "east": 422043.98,
+  "north": 1442805.43,
+  "conf": 1.0,
+  "size_pt": 13.08
+ },
+ {
+  "ward": 116,
+  "role": "location_names",
+  "text": "SakthilHospital&ReasearchCenter",
+  "east": 421489.57,
+  "north": 1443559.22,
+  "conf": 1.0,
+  "size_pt": 35.28
+ },
+ {
+  "ward": 116,
+  "role": "location_names",
+  "text": "Sri ParthasarathyTemple",
+  "east": 421588.93,
+  "north": 1443203.75,
+  "conf": 1.0,
+  "size_pt": 54.84
+ },
+ {
+  "ward": 116,
+  "role": "location_names",
+  "text": "RailwayStation",
+  "east": 422025.14,
+  "north": 1443430.64,
+  "conf": 1.0,
+  "size_pt": 22.2
+ },
+ {
+  "ward": 116,
+  "role": "location_names",
+  "text": "DistrictLibrary,",
+  "east": 421429.88,
+  "north": 1443772.77,
+  "conf": 1.0,
+  "size_pt": 21.36
+ },
+ {
+  "ward": 116,
+  "role": "location_names",
+  "text": "BranchTripli",
+  "east": 421474.64,
+  "north": 1443772.77,
+  "conf": 1.0,
+  "size_pt": 20.28
+ },
+ {
+  "ward": 116,
+  "role": "location_names",
+  "text": "AdyarAnandaBhavan",
+  "east": 421618.67,
+  "north": 1443724.94,
+  "conf": 1.0,
+  "size_pt": 22.56
+ },
+ {
+  "ward": 116,
+  "role": "location_names",
+  "text": "AnnieBesantStatue",
+  "east": 421985.14,
+  "north": 1442825.33,
+  "conf": 1.0,
+  "size_pt": 20.76
+ },
+ {
+  "ward": 116,
+  "role": "location_names",
+  "text": "Park",
+  "east": 422106.63,
+  "north": 1443158.67,
+  "conf": 1.0,
+  "size_pt": 13.08
+ },
+ {
+  "ward": 116,
+  "role": "location_names",
+  "text": "Park",
+  "east": 421732.01,
+  "north": 1442991.47,
+  "conf": 1.0,
+  "size_pt": 13.08
+ },
+ {
+  "ward": 116,
+  "role": "location_names",
+  "text": "parking",
+  "east": 422057.53,
+  "north": 1442841.94,
+  "conf": 1.0,
+  "size_pt": 22.44
+ },
+ {
+  "ward": 116,
+  "role": "location_names",
+  "text": "Thiruvallikeni",
+  "east": 422049.27,
+  "north": 1443662.4,
+  "conf": 1.0,
+  "size_pt": 37.08
+ },
+ {
+  "ward": 116,
+  "role": "location_names",
+  "text": "Koil:Tank",
+  "east": 421714.34,
+  "north": 1443223.76,
+  "conf": 1.0,
+  "size_pt": 12.24
+ }
+]

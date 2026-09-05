@@ -1,0 +1,524 @@
+[
+ {
+  "ward": 44,
+  "role": "road_name",
+  "text": "* 2nd Stree17th St16th:arunan\u0131Sanaryarani snuilnu s1Panneer Selvanh'Nedunchezhian, StTWeilselsareetIst StreetKoil St3rd StreetaneNethaji StreetAmmanSubramaniam StUdayakumar StSzbazhaganTamilselvan StAnbazhagan St LaneChandrasekaran Kamarajar StMain RdM.G.R. StreetRani AmmaiyarMarimuthu StSathygnStrfhyVannaiGangadharan StreetPandianAlagirisamyStreeGandhiji Ist Street5th StreetKamatchi Stt4th StreetlanKamalammal StKoil StreetG3rd StreetRamasamy St*2nd StreetrVIISathyabama StreetarybankararStreetStMRajangamGandhiji VI Ambedkar Street!\"Nagavalli AmmanSakthivel StreetStreetAsiriyar Velayudham StreeStreet P'Anna StreetMunivel StreetThilagar StreetPadasalai StreetA19Kakkanji Street4.763\u2022 StreetStreet8th StreetPeriyar StreetNagavalli Amman7th StreetKamaraj Nagar 2ndA2U14.484Asiriyar StreetKoil StreetWARD 456th Street5th StreetKamaraj Nagar!!\u041e\u0425 \u041b\u041e\u0411\u041e\u041b\u0414\u0418.4th StreetKamaraj Nagar3rd StreetMelpatti Ponappa St",
+  "east": 418851.93,
+  "north": 1450322.71,
+  "conf": 0.976,
+  "size_pt": 329.64
+ },
+ {
+  "ward": 44,
+  "role": "road_name",
+  "text": "Gopal Street",
+  "east": 418601.08,
+  "north": 1450238.04,
+  "conf": 1.0,
+  "size_pt": 38.04
+ },
+ {
+  "ward": 44,
+  "role": "road_name",
+  "text": "MainV.O.C 1 LaneRd@l1th Street12th Street13th Street14th Street15th Street16th Street\u00aeKarunanidhi Salai17th Streetyu vtreetLane742Udhaya Suriyan Rdu3rd StreetB7Kosumani stl4.975///Streetninnne",
+  "east": 418660.88,
+  "north": 1450596.32,
+  "conf": 0.979,
+  "size_pt": 127.2
+ },
+ {
+  "ward": 44,
+  "role": "road_name",
+  "text": "Rajaji Street",
+  "east": 418643.73,
+  "north": 1450129.02,
+  "conf": 1.0,
+  "size_pt": 39.0
+ },
+ {
+  "ward": 44,
+  "role": "road_name",
+  "text": "Asiriyar Street",
+  "east": 418705.76,
+  "north": 1450130.19,
+  "conf": 1.0,
+  "size_pt": 44.64
+ },
+ {
+  "ward": 44,
+  "role": "road_name",
+  "text": "Thiruvalluvar StreetJeevanandamThiruvalluvarStreetLaneChandra Bose StreetNethaji SubashAmbedkar SA104.954",
+  "east": 418165.43,
+  "north": 1450145.32,
+  "conf": 1.0,
+  "size_pt": 85.8
+ },
+ {
+  "ward": 44,
+  "role": "road_name",
+  "text": "Palani Andavar Kovil Street",
+  "east": 418486.35,
+  "north": 1449900.4,
+  "conf": 1.0,
+  "size_pt": 86.04
+ },
+ {
+  "ward": 44,
+  "role": "road_name",
+  "text": "Manikka Vinayagar Kovil Street",
+  "east": 418506.77,
+  "north": 1450223.43,
+  "conf": 1.0,
+  "size_pt": 96.36
+ },
+ {
+  "ward": 44,
+  "role": "road_name",
+  "text": "Kattapomman StreetGopinath Cross Streety ulreetK.V.K. Samy StreetA0 \u00bb",
+  "east": 418470.47,
+  "north": 1450640.88,
+  "conf": 0.86,
+  "size_pt": 114.6
+ },
+ {
+  "ward": 44,
+  "role": "road_name",
+  "text": "Tiru Vi Ka Street",
+  "east": 418537.26,
+  "north": 1450245.03,
+  "conf": 1.0,
+  "size_pt": 52.44
+ },
+ {
+  "ward": 44,
+  "role": "road_name",
+  "text": "Veerapandiyan Street",
+  "east": 418442.74,
+  "north": 1450200.47,
+  "conf": 1.0,
+  "size_pt": 64.08
+ },
+ {
+  "ward": 44,
+  "role": "road_name",
+  "text": "GopinathnajangamB\u00df Kattapomr\u2192N KattapomMohammed IsmaBharathidasan StrPanner Selvam StretN.V. Natarajan StreetMa.Po.Si StreetwottRani Ammaiyar StreetThiruchy Chinnasamy StAlagirisamy Streegsalai SteK.V.K. Samy Street=. Thiruvalluvar St WAmbedkar StreetPattinathar St \u0103Alagirisamy - II LaneBharathamatha RamalingamNehurjiI// StreetNehruji - / StreetC3oStreet4.732|/ StreetNehurji CrossA24Streett4.786StreetBharathamathaIII StreetStreet// StreetA251 7A6",
+  "east": 418393.52,
+  "north": 1450545.62,
+  "conf": 1.0,
+  "size_pt": 206.4
+ },
+ {
+  "ward": 44,
+  "role": "road_name",
+  "text": "Nehurji CrossStreet-",
+  "east": 418260.37,
+  "north": 1450458.83,
+  "conf": 1.0,
+  "size_pt": 41.28
+ },
+ {
+  "ward": 44,
+  "role": "road_name",
+  "text": "Panner Selvam StreeN.V. Natarajan StreetRani Ammaiyar Street\u2022u.r.o streetThiruch, nAmbedkar Street",
+  "east": 418362.62,
+  "north": 1450601.93,
+  "conf": 0.883,
+  "size_pt": 86.04
+ },
+ {
+  "ward": 44,
+  "role": "road_name",
+  "text": "V.O.C. Street",
+  "east": 418342.51,
+  "north": 1450374.58,
+  "conf": 1.0,
+  "size_pt": 38.64
+ },
+ {
+  "ward": 44,
+  "role": "road_name",
+  "text": "Subramania KoilStreet",
+  "east": 418243.76,
+  "north": 1450343.78,
+  "conf": 1.0,
+  "size_pt": 49.8
+ },
+ {
+  "ward": 44,
+  "role": "road_name",
+  "text": "Avvai Street",
+  "east": 418336.79,
+  "north": 1450337.21,
+  "conf": 1.0,
+  "size_pt": 37.92
+ },
+ {
+  "ward": 44,
+  "role": "road_name",
+  "text": "Subramanya Bharathi Street",
+  "east": 418189.99,
+  "north": 1450402.31,
+  "conf": 1.0,
+  "size_pt": 87.48
+ },
+ {
+  "ward": 44,
+  "role": "road_name",
+  "text": "StSivasakthi Vinayagar Koil",
+  "east": 418932.58,
+  "north": 1450038.0,
+  "conf": 1.0,
+  "size_pt": 82.2
+ },
+ {
+  "ward": 44,
+  "role": "road_name",
+  "text": "-OLHTh\u00fclasingam Street",
+  "east": 418300.91,
+  "north": 1449744.39,
+  "conf": 0.65,
+  "size_pt": 58.68
+ },
+ {
+  "ward": 44,
+  "role": "road_name",
+  "text": "MathiazhaganStreet",
+  "east": 418290.86,
+  "north": 1450743.65,
+  "conf": 1.0,
+  "size_pt": 40.8
+ },
+ {
+  "ward": 44,
+  "role": "road_name",
+  "text": "N.S.K.Street",
+  "east": 418308.85,
+  "north": 1450775.3,
+  "conf": 1.0,
+  "size_pt": 39.84
+ },
+ {
+  "ward": 44,
+  "role": "road_name",
+  "text": "K.V.K.SamySt",
+  "east": 418438.51,
+  "north": 1450758.89,
+  "conf": 1.0,
+  "size_pt": 20.28
+ },
+ {
+  "ward": 44,
+  "role": "road_name",
+  "text": "Thulasingam",
+  "east": 418212.85,
+  "north": 1449861.35,
+  "conf": 1.0,
+  "size_pt": 35.64
+ },
+ {
+  "ward": 44,
+  "role": "road_name",
+  "text": "|| Lane",
+  "east": 418276.78,
+  "north": 1449857.75,
+  "conf": 1.0,
+  "size_pt": 20.52
+ },
+ {
+  "ward": 44,
+  "role": "road_name",
+  "text": "Nattal GardenSlum Area",
+  "east": 418331.5,
+  "north": 1450008.78,
+  "conf": 1.0,
+  "size_pt": 42.48
+ },
+ {
+  "ward": 44,
+  "role": "road_name",
+  "text": "Veerasawakar StreetVeerasowkkarStreetLaneAzan",
+  "east": 418204.28,
+  "north": 1450274.13,
+  "conf": 0.9,
+  "size_pt": 79.68
+ },
+ {
+  "ward": 44,
+  "role": "road_name",
+  "text": "Gandhi Street",
+  "east": 418335.73,
+  "north": 1450300.8,
+  "conf": 1.0,
+  "size_pt": 41.76
+ },
+ {
+  "ward": 44,
+  "role": "road_name",
+  "text": ",Kattapomman Lane",
+  "east": 418527.52,
+  "north": 1450675.8,
+  "conf": 1.0,
+  "size_pt": 52.68
+ },
+ {
+  "ward": 44,
+  "role": "road_name",
+  "text": "\u2022Anna StreetMunivel StreetIThilagar StreetVII StreetPeriyar Street",
+  "east": 418974.7,
+  "north": 1450236.88,
+  "conf": 1.0,
+  "size_pt": 73.2
+ },
+ {
+  "ward": 44,
+  "role": "road_name",
+  "text": "///LaneV.O.C.",
+  "east": 418602.98,
+  "north": 1450487.93,
+  "conf": 1.0,
+  "size_pt": 24.96
+ },
+ {
+  "ward": 44,
+  "role": "road_name",
+  "text": "Kandan StreetThulasingam1 Lane",
+  "east": 418193.16,
+  "north": 1449804.93,
+  "conf": 1.0,
+  "size_pt": 46.44
+ },
+ {
+  "ward": 44,
+  "role": "road_name",
+  "text": "Padasalai Street",
+  "east": 418796.46,
+  "north": 1450277.52,
+  "conf": 1.0,
+  "size_pt": 51.0
+ },
+ {
+  "ward": 44,
+  "role": "road_name",
+  "text": "Gandhiji Ist Street",
+  "east": 419015.35,
+  "north": 1450369.39,
+  "conf": 1.0,
+  "size_pt": 56.64
+ },
+ {
+  "ward": 44,
+  "role": "road_name",
+  "text": "et2ndStreetStreetCar Nagar Main StreetSubramania Nagar Main RoadThiruvalluvarLaneCar Nagar 1stStreetA104.954",
+  "east": 418280.38,
+  "north": 1450158.55,
+  "conf": 1.0,
+  "size_pt": 103.92
+ },
+ {
+  "ward": 44,
+  "role": "road_name",
+  "text": "Car Nagar3rdStreetThiruppur Kumaran StreetCar Nagar Main Street2ndstreet",
+  "east": 418341.98,
+  "north": 1450202.69,
+  "conf": 1.0,
+  "size_pt": 93.48
+ },
+ {
+  "ward": 44,
+  "role": "road_name",
+  "text": "Nattal Garden II Street",
+  "east": 418300.59,
+  "north": 1449945.81,
+  "conf": 1.0,
+  "size_pt": 72.0
+ },
+ {
+  "ward": 44,
+  "role": "road_name",
+  "text": "Nattal Garden/ Street",
+  "east": 418222.59,
+  "north": 1450009.74,
+  "conf": 1.0,
+  "size_pt": 42.48
+ },
+ {
+  "ward": 44,
+  "role": "road_name",
+  "text": "Azad Street",
+  "east": 418187.87,
+  "north": 1450234.65,
+  "conf": 1.0,
+  "size_pt": 36.84
+ },
+ {
+  "ward": 44,
+  "role": "road_name",
+  "text": "LAnna Street",
+  "east": 418938.4,
+  "north": 1450272.33,
+  "conf": 1.0,
+  "size_pt": 36.6
+ },
+ {
+  "ward": 44,
+  "role": "road_name",
+  "text": "Kakkanji Street",
+  "east": 418822.18,
+  "north": 1450252.01,
+  "conf": 1.0,
+  "size_pt": 47.28
+ },
+ {
+  "ward": 44,
+  "role": "road_name",
+  "text": "ul/tEPanneer SelvamIst Street",
+  "east": 418781.54,
+  "north": 1450570.7,
+  "conf": 0.767,
+  "size_pt": 48.24
+ },
+ {
+  "ward": 44,
+  "role": "road_name",
+  "text": "V.O.C. St",
+  "east": 418584.99,
+  "north": 1450420.62,
+  "conf": 1.0,
+  "size_pt": 26.4
+ },
+ {
+  "ward": 44,
+  "role": "road_name",
+  "text": "Thiruchy Chinnasamy Street",
+  "east": 418417.23,
+  "north": 1450623.84,
+  "conf": 1.0,
+  "size_pt": 84.96
+ },
+ {
+  "ward": 44,
+  "role": "road_name",
+  "text": "Panner Selvam StreetMa.Po.Si Street",
+  "east": 418329.06,
+  "north": 1450627.75,
+  "conf": 1.0,
+  "size_pt": 67.8
+ },
+ {
+  "ward": 44,
+  "role": "road_name",
+  "text": "Mohammed Ismail StreetRL",
+  "east": 418262.17,
+  "north": 1450654.21,
+  "conf": 0.75,
+  "size_pt": 76.92
+ },
+ {
+  "ward": 44,
+  "role": "road_name",
+  "text": "Bharathidasan Street",
+  "east": 418292.23,
+  "north": 1450639.71,
+  "conf": 1.0,
+  "size_pt": 65.04
+ },
+ {
+  "ward": 44,
+  "role": "road_name",
+  "text": "Rajangam Street",
+  "east": 418215.07,
+  "north": 1450668.61,
+  "conf": 1.0,
+  "size_pt": 51.96
+ },
+ {
+  "ward": 44,
+  "role": "road_name",
+  "text": "Subram\u0105niaBharathiCross Street",
+  "east": 418253.49,
+  "north": 1450389.18,
+  "conf": 1.0,
+  "size_pt": 44.04
+ },
+ {
+  "ward": 44,
+  "role": "road_name",
+  "text": "7th Street",
+  "east": 418830.65,
+  "north": 1450179.3,
+  "conf": 1.0,
+  "size_pt": 31.68
+ },
+ {
+  "ward": 44,
+  "role": "road_name",
+  "text": "8th Street",
+  "east": 418835.31,
+  "north": 1450210.94,
+  "conf": 1.0,
+  "size_pt": 32.16
+ },
+ {
+  "ward": 44,
+  "role": "road_name",
+  "text": "2nd Street",
+  "east": 418759.53,
+  "north": 1450592.4,
+  "conf": 1.0,
+  "size_pt": 33.0
+ },
+ {
+  "ward": 44,
+  "role": "road_name",
+  "text": "3rd Street",
+  "east": 418723.43,
+  "north": 1450538.0,
+  "conf": 1.0,
+  "size_pt": 31.8
+ },
+ {
+  "ward": 44,
+  "role": "road_name",
+  "text": "Ill lane",
+  "east": 418622.14,
+  "north": 1450415.22,
+  "conf": 1.0,
+  "size_pt": 20.28
+ },
+ {
+  "ward": 44,
+  "role": "road_name",
+  "text": "lane",
+  "east": 418547.42,
+  "north": 1450435.75,
+  "conf": 1.0,
+  "size_pt": 17.16
+ },
+ {
+  "ward": 44,
+  "role": "road_name",
+  "text": "| Street",
+  "east": 418437.45,
+  "north": 1450437.55,
+  "conf": 1.0,
+  "size_pt": 25.2
+ },
+ {
+  "ward": 44,
+  "role": "road_name",
+  "text": "Jawahar Street",
+  "east": 418157.07,
+  "north": 1450409.93,
+  "conf": 1.0,
+  "size_pt": 45.96
+ },
+ {
+  "ward": 44,
+  "role": "location_names",
+  "text": ";Park",
+  "east": 418744.81,
+  "north": 1450553.77,
+  "conf": 1.0,
+  "size_pt": 13.08
+ }
+]

@@ -1,0 +1,875 @@
+[
+ {
+  "ward": 173,
+  "role": "road_name",
+  "text": "(R.A.Puram)Kamarajar Salai",
+  "east": 419626.0,
+  "north": 1439801.5,
+  "conf": 1.0,
+  "size_pt": 45.6
+ },
+ {
+  "ward": 173,
+  "role": "road_name",
+  "text": "J1Sringiri Mutt2.02.",
+  "east": 419592.56,
+  "north": 1439969.66,
+  "conf": 1.0,
+  "size_pt": 47.4
+ },
+ {
+  "ward": 173,
+  "role": "road_name",
+  "text": "Kandasamy Street",
+  "east": 420231.37,
+  "north": 1439740.22,
+  "conf": 1.0,
+  "size_pt": 45.72
+ },
+ {
+  "ward": 173,
+  "role": "road_name",
+  "text": "3rd Street",
+  "east": 420565.7,
+  "north": 1439691.22,
+  "conf": 1.0,
+  "size_pt": 25.44
+ },
+ {
+  "ward": 173,
+  "role": "road_name",
+  "text": "Ist Street",
+  "east": 420626.76,
+  "north": 1439625.08,
+  "conf": 1.0,
+  "size_pt": 24.36
+ },
+ {
+  "ward": 173,
+  "role": "road_name",
+  "text": "2nd Street",
+  "east": 420594.69,
+  "north": 1439656.72,
+  "conf": 1.0,
+  "size_pt": 26.16
+ },
+ {
+  "ward": 173,
+  "role": "road_name",
+  "text": "Karpagam Avenue RoadF1.759",
+  "east": 420732.17,
+  "north": 1439631.64,
+  "conf": 1.0,
+  "size_pt": 55.08
+ },
+ {
+  "ward": 173,
+  "role": "road_name",
+  "text": "SrinivasaAvenue Road",
+  "east": 419878.94,
+  "north": 1439718.31,
+  "conf": 1.0,
+  "size_pt": 40.2
+ },
+ {
+  "ward": 173,
+  "role": "road_name",
+  "text": "School View Road19288",
+  "east": 419955.36,
+  "north": 1439663.92,
+  "conf": 1.0,
+  "size_pt": 53.52
+ },
+ {
+  "ward": 173,
+  "role": "road_name",
+  "text": "Kutti Street",
+  "east": 419856.93,
+  "north": 1439535.34,
+  "conf": 1.0,
+  "size_pt": 36.84
+ },
+ {
+  "ward": 173,
+  "role": "road_name",
+  "text": "ChurchSoodSt.LukesG",
+  "east": 420188.82,
+  "north": 1439843.93,
+  "conf": 1.0,
+  "size_pt": 58.2
+ },
+ {
+  "ward": 173,
+  "role": "road_name",
+  "text": "RohiniGarden RoadCross StreetRohini Ga",
+  "east": 420798.11,
+  "north": 1439809.96,
+  "conf": 1.0,
+  "size_pt": 63.84
+ },
+ {
+  "ward": 173,
+  "role": "road_name",
+  "text": "Salaiyar StreetNarayana LaneSlumlayudralatreetThottamxG92.520 ;0",
+  "east": 420376.25,
+  "north": 1439927.22,
+  "conf": 1.0,
+  "size_pt": 85.68
+ },
+ {
+  "ward": 173,
+  "role": "road_name",
+  "text": "South CanalStreetBank 2ndLooPRobertson LanLane",
+  "east": 420461.87,
+  "north": 1440044.8,
+  "conf": 1.0,
+  "size_pt": 65.64
+ },
+ {
+  "ward": 173,
+  "role": "road_name",
+  "text": "Raja Street",
+  "east": 420282.7,
+  "north": 1439806.36,
+  "conf": 1.0,
+  "size_pt": 32.4
+ },
+ {
+  "ward": 173,
+  "role": "road_name",
+  "text": "South Canal Bank Road",
+  "east": 420839.91,
+  "north": 1440045.86,
+  "conf": 1.0,
+  "size_pt": 75.24
+ },
+ {
+  "ward": 173,
+  "role": "road_name",
+  "text": "Kamaral Road",
+  "east": 419839.79,
+  "north": 1439967.86,
+  "conf": 1.0,
+  "size_pt": 43.68
+ },
+ {
+  "ward": 173,
+  "role": "road_name",
+  "text": "H152.449R.K.Nagar 2nd Cross RoadRKNodar z-",
+  "east": 419923.39,
+  "north": 1439881.82,
+  "conf": 1.0,
+  "size_pt": 81.72
+ },
+ {
+  "ward": 173,
+  "role": "road_name",
+  "text": "H172.490|| Str\u00e9etI|/ StreetoStreetaranthottamMain Re2nd",
+  "east": 419780.73,
+  "north": 1439874.41,
+  "conf": 1.0,
+  "size_pt": 61.08
+ },
+ {
+  "ward": 173,
+  "role": "road_name",
+  "text": "4th Cross Street",
+  "east": 419904.77,
+  "north": 1439796.52,
+  "conf": 1.0,
+  "size_pt": 51.24
+ },
+ {
+  "ward": 173,
+  "role": "road_name",
+  "text": "\u2022 uross roadR.K.Nagar 3rd Cross Street55R.K.Naaar",
+  "east": 419923.08,
+  "north": 1439848.48,
+  "conf": 1.0,
+  "size_pt": 83.52
+ },
+ {
+  "ward": 173,
+  "role": "road_name",
+  "text": "Park View Road",
+  "east": 419611.61,
+  "north": 1439728.47,
+  "conf": 1.0,
+  "size_pt": 49.08
+ },
+ {
+  "ward": 173,
+  "role": "road_name",
+  "text": "Visvanathan Street",
+  "east": 419609.7,
+  "north": 1439668.36,
+  "conf": 1.0,
+  "size_pt": 57.48
+ },
+ {
+  "ward": 173,
+  "role": "road_name",
+  "text": "2.865Krishnapuri AvenueCard.",
+  "east": 419459.95,
+  "north": 1439700.75,
+  "conf": 1.0,
+  "size_pt": 56.88
+ },
+ {
+  "ward": 173,
+  "role": "road_name",
+  "text": "Kesvaperumal Puram Street",
+  "east": 419227.01,
+  "north": 1439567.83,
+  "conf": 1.0,
+  "size_pt": 85.44
+ },
+ {
+  "ward": 173,
+  "role": "road_name",
+  "text": "Bishop Garden Street",
+  "east": 419332.53,
+  "north": 1439618.84,
+  "conf": 1.0,
+  "size_pt": 66.96
+ },
+ {
+  "ward": 173,
+  "role": "road_name",
+  "text": "Crescent Avenue",
+  "east": 419124.46,
+  "north": 1439554.07,
+  "conf": 1.0,
+  "size_pt": 49.2
+ },
+ {
+  "ward": 173,
+  "role": "road_name",
+  "text": "Central Avenue",
+  "east": 419178.33,
+  "north": 1439624.44,
+  "conf": 1.0,
+  "size_pt": 45.24
+ },
+ {
+  "ward": 173,
+  "role": "road_name",
+  "text": "Venkatraman Street",
+  "east": 419614.36,
+  "north": 1439624.66,
+  "conf": 1.0,
+  "size_pt": 60.6
+ },
+ {
+  "ward": 173,
+  "role": "road_name",
+  "text": "\u2022upar ABishop Garden Extn.",
+  "east": 419422.48,
+  "north": 1439680.85,
+  "conf": 0.65,
+  "size_pt": 60.0
+ },
+ {
+  "ward": 173,
+  "role": "road_name",
+  "text": "Kesavaperumal PuramNorth Avenue",
+  "east": 419210.61,
+  "north": 1439712.28,
+  "conf": 1.0,
+  "size_pt": 68.16
+ },
+ {
+  "ward": 173,
+  "role": "road_name",
+  "text": "Ist Cross Street",
+  "east": 419775.54,
+  "north": 1440012.1,
+  "conf": 1.0,
+  "size_pt": 49.44
+ },
+ {
+  "ward": 173,
+  "role": "road_name",
+  "text": "'S S4(OL)Madavan Nagaroa2.538Ist And 2nd Street2OL)2nd Kross Street2.5441579H172.490agar|| Str\u00e9et3rd Cross StreetK.171822.4582.511",
+  "east": 419715.01,
+  "north": 1439946.38,
+  "conf": 0.968,
+  "size_pt": 85.92
+ },
+ {
+  "ward": 173,
+  "role": "road_name",
+  "text": "Santhome High Road",
+  "east": 420717.46,
+  "north": 1439492.48,
+  "conf": 1.0,
+  "size_pt": 51.84
+ },
+ {
+  "ward": 173,
+  "role": "road_name",
+  "text": "Green Ways Road",
+  "east": 419987.42,
+  "north": 1439351.83,
+  "conf": 1.0,
+  "size_pt": 53.28
+ },
+ {
+  "ward": 173,
+  "role": "road_name",
+  "text": "Thandavaraya StreetrB16\u00ae1 780",
+  "east": 420739.16,
+  "north": 1439269.07,
+  "conf": 1.0,
+  "size_pt": 59.88
+ },
+ {
+  "ward": 173,
+  "role": "road_name",
+  "text": "Brodies Castle Road",
+  "east": 420115.9,
+  "north": 1439517.87,
+  "conf": 1.0,
+  "size_pt": 55.68
+ },
+ {
+  "ward": 173,
+  "role": "road_name",
+  "text": "Vasantha Avenue",
+  "east": 420988.5,
+  "north": 1439312.88,
+  "conf": 1.0,
+  "size_pt": 46.44
+ },
+ {
+  "ward": 173,
+  "role": "road_name",
+  "text": "Kasthuri Avenue",
+  "east": 420969.03,
+  "north": 1439271.93,
+  "conf": 1.0,
+  "size_pt": 46.44
+ },
+ {
+  "ward": 173,
+  "role": "road_name",
+  "text": "Main RoadSrinivasapuram Ist Main Road2ndStreetSrinivasapuram Znd 10.--",
+  "east": 421631.86,
+  "north": 1439351.62,
+  "conf": 0.883,
+  "size_pt": 97.8
+ },
+ {
+  "ward": 173,
+  "role": "road_name",
+  "text": "S Beach AvenueIst Street",
+  "east": 420792.92,
+  "north": 1439471.2,
+  "conf": 1.0,
+  "size_pt": 40.2
+ },
+ {
+  "ward": 173,
+  "role": "road_name",
+  "text": "2nd StreetS Beach AvenueS Beach Avenue",
+  "east": 420839.7,
+  "north": 1439433.11,
+  "conf": 1.0,
+  "size_pt": 42.6
+ },
+ {
+  "ward": 173,
+  "role": "road_name",
+  "text": "South",
+  "east": 418933.85,
+  "north": 1439432.47,
+  "conf": 1.0,
+  "size_pt": 15.24
+ },
+ {
+  "ward": 173,
+  "role": "road_name",
+  "text": "Sardar Patel Road",
+  "east": 419669.39,
+  "north": 1438764.05,
+  "conf": 1.0,
+  "size_pt": 57.96
+ },
+ {
+  "ward": 173,
+  "role": "road_name",
+  "text": "Bishop Garden Road",
+  "east": 419577.64,
+  "north": 1439381.88,
+  "conf": 1.0,
+  "size_pt": 63.0
+ },
+ {
+  "ward": 173,
+  "role": "road_name",
+  "text": "MRTS88000",
+  "east": 419304.27,
+  "north": 1439875.79,
+  "conf": 0.65,
+  "size_pt": 17.88
+ },
+ {
+  "ward": 173,
+  "role": "road_name",
+  "text": "OL)Ist cross streetAnnaitherass6th streetC 2nd cross street4th crossstreetAnnaistreetAnnai Sathya Nagar 5th StreetStzathiya Nagar 6thAnnai Sathya Nagar 5th StreetStreetAnnai sathya nagar 6th street",
+  "east": 419007.83,
+  "north": 1439143.03,
+  "conf": 0.953,
+  "size_pt": 165.36
+ },
+ {
+  "ward": 173,
+  "role": "road_name",
+  "text": "AryapuramRailway\u2022 Station",
+  "east": 418939.46,
+  "north": 1439503.48,
+  "conf": 1.0,
+  "size_pt": 28.08
+ },
+ {
+  "ward": 173,
+  "role": "road_name",
+  "text": "Ist Street",
+  "east": 419397.08,
+  "north": 1439743.08,
+  "conf": 1.0,
+  "size_pt": 29.76
+ },
+ {
+  "ward": 173,
+  "role": "road_name",
+  "text": "2nd Street,",
+  "east": 419413.07,
+  "north": 1439787.1,
+  "conf": 1.0,
+  "size_pt": 32.76
+ },
+ {
+  "ward": 173,
+  "role": "road_name",
+  "text": "Green Ways Road Extension Street",
+  "east": 419614.47,
+  "north": 1439447.6,
+  "conf": 1.0,
+  "size_pt": 107.28
+ },
+ {
+  "ward": 173,
+  "role": "road_name",
+  "text": "Raja Street Extn",
+  "east": 420315.29,
+  "north": 1439744.35,
+  "conf": 1.0,
+  "size_pt": 34.8
+ },
+ {
+  "ward": 173,
+  "role": "road_name",
+  "text": "Karpagam Avenue2nd Main Road",
+  "east": 420532.99,
+  "north": 1439616.3,
+  "conf": 1.0,
+  "size_pt": 38.16
+ },
+ {
+  "ward": 173,
+  "role": "road_name",
+  "text": "Ist Cross StreetIst Street",
+  "east": 420605.7,
+  "north": 1439518.51,
+  "conf": 1.0,
+  "size_pt": 45.84
+ },
+ {
+  "ward": 173,
+  "role": "road_name",
+  "text": "2nd Street",
+  "east": 420246.71,
+  "north": 1439841.82,
+  "conf": 1.0,
+  "size_pt": 26.4
+ },
+ {
+  "ward": 173,
+  "role": "road_name",
+  "text": "3rd Street",
+  "east": 420226.82,
+  "north": 1439806.05,
+  "conf": 1.0,
+  "size_pt": 25.2
+ },
+ {
+  "ward": 173,
+  "role": "road_name",
+  "text": "Sai Nagar Colony",
+  "east": 420664.33,
+  "north": 1439818.22,
+  "conf": 1.0,
+  "size_pt": 45.84
+ },
+ {
+  "ward": 173,
+  "role": "road_name",
+  "text": "Thiruvengadam St Ext$t.",
+  "east": 420136.33,
+  "north": 1439870.6,
+  "conf": 1.0,
+  "size_pt": 54.6
+ },
+ {
+  "ward": 173,
+  "role": "road_name",
+  "text": "Appavoo1stStreet",
+  "east": 420271.37,
+  "north": 1439882.77,
+  "conf": 1.0,
+  "size_pt": 29.16
+ },
+ {
+  "ward": 173,
+  "role": "road_name",
+  "text": "Govindaswamy Nagar Slum",
+  "east": 419185.74,
+  "north": 1439773.24,
+  "conf": 1.0,
+  "size_pt": 69.0
+ },
+ {
+  "ward": 173,
+  "role": "road_name",
+  "text": "Satyadev Avenue",
+  "east": 421072.85,
+  "north": 1439251.82,
+  "conf": 1.0,
+  "size_pt": 40.8
+ },
+ {
+  "ward": 173,
+  "role": "road_name",
+  "text": "\u21922867COSouthchiQuatersL4RoadKesavaperumal Puram66MainAnnai Sathya Nagar Ist StreetInnai Satbur Nocarlo",
+  "east": 418991.64,
+  "north": 1439377.12,
+  "conf": 1.0,
+  "size_pt": 92.28
+ },
+ {
+  "ward": 173,
+  "role": "road_name",
+  "text": "J371.889,J382.011Ramakrishna Mutt Road3963",
+  "east": 420016.74,
+  "north": 1439454.8,
+  "conf": 1.0,
+  "size_pt": 55.56
+ },
+ {
+  "ward": 173,
+  "role": "road_name",
+  "text": "Greenways Road Lane",
+  "east": 420539.34,
+  "north": 1439191.07,
+  "conf": 1.0,
+  "size_pt": 66.0
+ },
+ {
+  "ward": 173,
+  "role": "road_name",
+  "text": "Sathyadev Avenue",
+  "east": 420852.19,
+  "north": 1439150.65,
+  "conf": 1.0,
+  "size_pt": 55.68
+ },
+ {
+  "ward": 173,
+  "role": "road_name",
+  "text": "nalcalpuram!Annai Sathya Nagar 2nd StreetSfAnnai Sathya Nagar 3rd StreetAnnai Sathya Nagar 4th StreetAnnai sattye crstreettreetrass",
+  "east": 418948.88,
+  "north": 1439270.34,
+  "conf": 1.0,
+  "size_pt": 115.56
+ },
+ {
+  "ward": 173,
+  "role": "road_name",
+  "text": "3rd Cross2nd Cross",
+  "east": 418758.38,
+  "north": 1439329.29,
+  "conf": 1.0,
+  "size_pt": 30.72
+ },
+ {
+  "ward": 173,
+  "role": "road_name",
+  "text": "\u2022South KesavaperumalpuramIstIst Street2.Cioss2ndStreet",
+  "east": 418827.6,
+  "north": 1439340.82,
+  "conf": 0.9,
+  "size_pt": 74.52
+ },
+ {
+  "ward": 173,
+  "role": "road_name",
+  "text": "ThottamIst StreetNarayanasamy",
+  "east": 419684.32,
+  "north": 1439388.45,
+  "conf": 1.0,
+  "size_pt": 62.52
+ },
+ {
+  "ward": 173,
+  "role": "road_name",
+  "text": "K.V.B. Garden Slum",
+  "east": 419814.17,
+  "north": 1439404.53,
+  "conf": 1.0,
+  "size_pt": 52.92
+ },
+ {
+  "ward": 173,
+  "role": "road_name",
+  "text": "Narayanasamy Thottam 3rd Street",
+  "east": 419494.66,
+  "north": 1439438.93,
+  "conf": 1.0,
+  "size_pt": 92.16
+ },
+ {
+  "ward": 173,
+  "role": "road_name",
+  "text": "Shanmugapuram SlumMuthiahpuraJ1OKutti 2nd Street2.281",
+  "east": 419815.02,
+  "north": 1439567.3,
+  "conf": 1.0,
+  "size_pt": 118.44
+ },
+ {
+  "ward": 173,
+  "role": "road_name",
+  "text": "RajaMuthiahpuram",
+  "east": 419895.45,
+  "north": 1439584.34,
+  "conf": 1.0,
+  "size_pt": 42.12
+ },
+ {
+  "ward": 173,
+  "role": "road_name",
+  "text": "1.0School ViewRoad 1,2And 3 Lane",
+  "east": 420017.27,
+  "north": 1439576.4,
+  "conf": 1.0,
+  "size_pt": 44.64
+ },
+ {
+  "ward": 173,
+  "role": "road_name",
+  "text": "May Flower Garden",
+  "east": 419816.82,
+  "north": 1439636.4,
+  "conf": 1.0,
+  "size_pt": 57.84
+ },
+ {
+  "ward": 173,
+  "role": "road_name",
+  "text": "Valleeswaran Thottam(Tnscb)",
+  "east": 419731.52,
+  "north": 1439783.29,
+  "conf": 1.0,
+  "size_pt": 64.56
+ },
+ {
+  "ward": 173,
+  "role": "road_name",
+  "text": "Rohini Garden Cross Street",
+  "east": 420816.73,
+  "north": 1439866.69,
+  "conf": 1.0,
+  "size_pt": 85.44
+ },
+ {
+  "ward": 173,
+  "role": "road_name",
+  "text": "3rd Street",
+  "east": 418791.82,
+  "north": 1439268.54,
+  "conf": 1.0,
+  "size_pt": 26.52
+ },
+ {
+  "ward": 173,
+  "role": "road_name",
+  "text": "005/67.ANALGovindaswamy Nagar SlumGovindaswamy Nagar Slum328",
+  "east": 419425.24,
+  "north": 1439858.54,
+  "conf": 0.86,
+  "size_pt": 68.16
+ },
+ {
+  "ward": 173,
+  "role": "road_name",
+  "text": "K.V.B. Garden Slum",
+  "east": 419787.08,
+  "north": 1439459.77,
+  "conf": 1.0,
+  "size_pt": 52.92
+ },
+ {
+  "ward": 173,
+  "role": "road_name",
+  "text": "K.V.B. Garden Slum",
+  "east": 419919.27,
+  "north": 1439493.53,
+  "conf": 1.0,
+  "size_pt": 52.08
+ },
+ {
+  "ward": 173,
+  "role": "road_name",
+  "text": "1st Street",
+  "east": 420576.39,
+  "north": 1439468.03,
+  "conf": 1.0,
+  "size_pt": 28.92
+ },
+ {
+  "ward": 173,
+  "role": "road_name",
+  "text": "CrossStreet",
+  "east": 420684.34,
+  "north": 1439736.31,
+  "conf": 1.0,
+  "size_pt": 31.2
+ },
+ {
+  "ward": 173,
+  "role": "road_name",
+  "text": "1st Main Road",
+  "east": 421652.82,
+  "north": 1439642.12,
+  "conf": 1.0,
+  "size_pt": 44.4
+ },
+ {
+  "ward": 173,
+  "role": "road_name",
+  "text": "Street1st",
+  "east": 421618.42,
+  "north": 1439586.88,
+  "conf": 1.0,
+  "size_pt": 18.24
+ },
+ {
+  "ward": 173,
+  "role": "road_name",
+  "text": "/IstStreet",
+  "east": 421664.67,
+  "north": 1439554.07,
+  "conf": 0.75,
+  "size_pt": 18.24
+ },
+ {
+  "ward": 173,
+  "role": "road_name",
+  "text": "3rdStreet",
+  "east": 421611.75,
+  "north": 1439218.8,
+  "conf": 1.0,
+  "size_pt": 18.24
+ },
+ {
+  "ward": 173,
+  "role": "road_name",
+  "text": "4thStreet",
+  "east": 421581.8,
+  "north": 1439065.67,
+  "conf": 1.0,
+  "size_pt": 18.36
+ },
+ {
+  "ward": 173,
+  "role": "location_names",
+  "text": "TamilnaduMusic",
+  "east": 419969.22,
+  "north": 1439097.2,
+  "conf": 1.0,
+  "size_pt": 31.92
+ },
+ {
+  "ward": 173,
+  "role": "location_names",
+  "text": "GovernmentCollege",
+  "east": 420040.87,
+  "north": 1439095.93,
+  "conf": 1.0,
+  "size_pt": 39.24
+ },
+ {
+  "ward": 173,
+  "role": "location_names",
+  "text": "St.Lukes,Church &",
+  "east": 420177.61,
+  "north": 1439876.63,
+  "conf": 1.0,
+  "size_pt": 27.72
+ },
+ {
+  "ward": 173,
+  "role": "location_names",
+  "text": "ChennaiSkinFoundation",
+  "east": 419675.0,
+  "north": 1439522.21,
+  "conf": 1.0,
+  "size_pt": 28.56
+ },
+ {
+  "ward": 173,
+  "role": "location_names",
+  "text": "ChettinadVidyashram",
+  "east": 420767.84,
+  "north": 1439129.38,
+  "conf": 1.0,
+  "size_pt": 36.48
+ },
+ {
+  "ward": 173,
+  "role": "location_names",
+  "text": "AyappanKoil",
+  "east": 420640.63,
+  "north": 1439362.62,
+  "conf": 1.0,
+  "size_pt": 27.6
+ },
+ {
+  "ward": 173,
+  "role": "location_names",
+  "text": "AmbedkarMemorial",
+  "east": 420547.49,
+  "north": 1439387.49,
+  "conf": 1.0,
+  "size_pt": 33.6
+ },
+ {
+  "ward": 173,
+  "role": "location_names",
+  "text": "ImageAuditorium",
+  "east": 420828.37,
+  "north": 1439277.22,
+  "conf": 1.0,
+  "size_pt": 35.76
+ },
+ {
+  "ward": 173,
+  "role": "size_label",
+  "text": "1ap1D9 !",
+  "east": 420851.23,
+  "north": 1439701.7,
+  "conf": 1.0,
+  "size_pt": 14.4
+ }
+]

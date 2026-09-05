@@ -1,0 +1,677 @@
+[
+ {
+  "ward": 109,
+  "role": "road_name",
+  "text": "treet6thCrossLink3rdCross5thCross2ndCross334thCrossLink RoadIstCrossB2East Namasivayapuram5.429East4th StreetNamasivayapuramPA2vapuram1stStreeC3 5.8994thCross5thCrossD2n Z",
+  "east": 416721.11,
+  "north": 1444675.06,
+  "conf": 1.0,
+  "size_pt": 118.56
+ },
+ {
+  "ward": 109,
+  "role": "road_name",
+  "text": "VirugambakkamHAHHHDrain",
+  "east": 415971.52,
+  "north": 1444724.06,
+  "conf": 0.767,
+  "size_pt": 61.92
+ },
+ {
+  "ward": 109,
+  "role": "road_name",
+  "text": "Bridge",
+  "east": 416341.02,
+  "north": 1444687.44,
+  "conf": 1.0,
+  "size_pt": 18.48
+ },
+ {
+  "ward": 109,
+  "role": "road_name",
+  "text": "ChoolaimeduBridge",
+  "east": 416759.41,
+  "north": 1444833.59,
+  "conf": 1.0,
+  "size_pt": 37.44
+ },
+ {
+  "ward": 109,
+  "role": "road_name",
+  "text": "Vanniyar Street",
+  "east": 415828.67,
+  "north": 1443741.76,
+  "conf": 1.0,
+  "size_pt": 46.08
+ },
+ {
+  "ward": 109,
+  "role": "road_name",
+  "text": "Choolaimedu High Road",
+  "east": 416531.7,
+  "north": 1443798.59,
+  "conf": 1.0,
+  "size_pt": 73.2
+ },
+ {
+  "ward": 109,
+  "role": "road_name",
+  "text": "vjaveeini Street521.524'enkateswara 28LaneBajanai KoN St (south)8.094Periyar Pathi Road",
+  "east": 415708.26,
+  "north": 1443932.88,
+  "conf": 1.0,
+  "size_pt": 94.32
+ },
+ {
+  "ward": 109,
+  "role": "road_name",
+  "text": "AmeerjaanStreet",
+  "east": 416487.47,
+  "north": 1444368.9,
+  "conf": 1.0,
+  "size_pt": 54.0
+ },
+ {
+  "ward": 109,
+  "role": "road_name",
+  "text": "1st Cross StGill Nagar 2nd Street",
+  "east": 415794.92,
+  "north": 1444472.29,
+  "conf": 1.0,
+  "size_pt": 80.04
+ },
+ {
+  "ward": 109,
+  "role": "road_name",
+  "text": "7.2967.8Bajanai Koil St(East)KoilBajanai1st StreetBai",
+  "east": 415997.45,
+  "north": 1443990.24,
+  "conf": 0.9,
+  "size_pt": 86.04
+ },
+ {
+  "ward": 109,
+  "role": "road_name",
+  "text": "3rd Cross StGill Nagar",
+  "east": 415839.68,
+  "north": 1444306.04,
+  "conf": 1.0,
+  "size_pt": 40.2
+ },
+ {
+  "ward": 109,
+  "role": "road_name",
+  "text": "Bajanai Koil 2nd StreetCanal Road",
+  "east": 416029.72,
+  "north": 1443915.74,
+  "conf": 1.0,
+  "size_pt": 85.68
+ },
+ {
+  "ward": 109,
+  "role": "road_name",
+  "text": "Gill Nagar 3rd Street",
+  "east": 415786.66,
+  "north": 1444381.49,
+  "conf": 1.0,
+  "size_pt": 64.68
+ },
+ {
+  "ward": 109,
+  "role": "road_name",
+  "text": "Middle School Road",
+  "east": 415911.95,
+  "north": 1444326.78,
+  "conf": 1.0,
+  "size_pt": 61.08
+ },
+ {
+  "ward": 109,
+  "role": "road_name",
+  "text": "Neelakandan Street",
+  "east": 416510.85,
+  "north": 1444491.34,
+  "conf": 1.0,
+  "size_pt": 59.16
+ },
+ {
+  "ward": 109,
+  "role": "road_name",
+  "text": "Sherfudeen Road",
+  "east": 416460.27,
+  "north": 1444298.63,
+  "conf": 1.0,
+  "size_pt": 52.44
+ },
+ {
+  "ward": 109,
+  "role": "road_name",
+  "text": "F10Sankarapuram Main RoadRadhakrishnandhNagarQrishQQ1st StreetF186.366ArunachalamF17Znd Street7,220",
+  "east": 416315.1,
+  "north": 1444253.44,
+  "conf": 1.0,
+  "size_pt": 102.48
+ },
+ {
+  "ward": 109,
+  "role": "road_name",
+  "text": "Gill Nagar 1st Street",
+  "east": 415802.85,
+  "north": 1444545.85,
+  "conf": 1.0,
+  "size_pt": 63.84
+ },
+ {
+  "ward": 109,
+  "role": "road_name",
+  "text": "4.6t\u0444\u043d\u0438\u043d\u043ddHtWest Namasivayapuram Ist Street6th2nd Link1st Link3rd LinkCros5th(4th Link2nd Cross3rd LinkPark3rdB34th5.5335.4C1 (OL)C2West Namasivayapuram,6.600",
+  "east": 416525.67,
+  "north": 1444704.06,
+  "conf": 0.968,
+  "size_pt": 146.28
+ },
+ {
+  "ward": 109,
+  "role": "road_name",
+  "text": "TNelsonManickam Road 190Vada Agaram Ist StreetThiruvengadapuram2nd StreetfSrnI",
+  "east": 416305.05,
+  "north": 1444622.36,
+  "conf": 0.9,
+  "size_pt": 86.16
+ },
+ {
+  "ward": 109,
+  "role": "road_name",
+  "text": "Vanniyar2nd St",
+  "east": 415975.01,
+  "north": 1443817.85,
+  "conf": 1.0,
+  "size_pt": 29.4
+ },
+ {
+  "ward": 109,
+  "role": "road_name",
+  "text": "StreetAtherayapuram_LaneAtherayapuram Main RoPerumalF15F14",
+  "east": 416285.58,
+  "north": 1444071.1,
+  "conf": 1.0,
+  "size_pt": 104.04
+ },
+ {
+  "ward": 109,
+  "role": "road_name",
+  "text": "Anna High Road",
+  "east": 415634.08,
+  "north": 1444159.25,
+  "conf": 1.0,
+  "size_pt": 50.16
+ },
+ {
+  "ward": 109,
+  "role": "road_name",
+  "text": "Sakthi Nagar 3rd Street",
+  "east": 416093.21,
+  "north": 1444526.16,
+  "conf": 1.0,
+  "size_pt": 73.92
+ },
+ {
+  "ward": 109,
+  "role": "road_name",
+  "text": "Thiruvengadapuram-",
+  "east": 416308.54,
+  "north": 1444542.35,
+  "conf": 1.0,
+  "size_pt": 57.24
+ },
+ {
+  "ward": 109,
+  "role": "road_name",
+  "text": "J156.601State Bank6.638MiddleShanmi3rd Crioffigers Oplony4J7.01 Bajanai Koil15705Cross981Thiru. ViThiru.Vi.Ka ColonyIst Street\u041a\u0430.Cln3rd StBajanai Koil 4th StreetBajanai Koil 5h StreetBajanai Koil 6th Street2nd StBajanai Koil 7th StreetBajanai Koil 3rd StreetBajanai Koil Street (north)baraiaburan",
+  "east": 415955.97,
+  "north": 1444180.95,
+  "conf": 1.0,
+  "size_pt": 138.36
+ },
+ {
+  "ward": 109,
+  "role": "road_name",
+  "text": "Private Road",
+  "east": 415843.06,
+  "north": 1443955.42,
+  "conf": 1.0,
+  "size_pt": 39.84
+ },
+ {
+  "ward": 109,
+  "role": "road_name",
+  "text": "Bajanai KoilSt Lane",
+  "east": 415737.14,
+  "north": 1444074.69,
+  "conf": 1.0,
+  "size_pt": 39.72
+ },
+ {
+  "ward": 109,
+  "role": "road_name",
+  "text": "3rd Street",
+  "east": 416762.06,
+  "north": 1444751.58,
+  "conf": 1.0,
+  "size_pt": 31.8
+ },
+ {
+  "ward": 109,
+  "role": "road_name",
+  "text": "Khan Street",
+  "east": 416580.8,
+  "north": 1444520.55,
+  "conf": 1.0,
+  "size_pt": 36.72
+ },
+ {
+  "ward": 109,
+  "role": "road_name",
+  "text": "Street4th",
+  "east": 416194.58,
+  "north": 1444380.43,
+  "conf": 1.0,
+  "size_pt": 18.24
+ },
+ {
+  "ward": 109,
+  "role": "road_name",
+  "text": "ALBeSriramaburamBirio2nd StJ87.545Lane2nd LaneIstSriramaburamIst StreetVanniyar Lane",
+  "east": 415773.01,
+  "north": 1443819.33,
+  "conf": 1.0,
+  "size_pt": 85.68
+ },
+ {
+  "ward": 109,
+  "role": "road_name",
+  "text": "Noth Ramalingam StPriua-",
+  "east": 415846.13,
+  "north": 1443925.05,
+  "conf": 1.0,
+  "size_pt": 61.8
+ },
+ {
+  "ward": 109,
+  "role": "road_name",
+  "text": "Sivan Koil Street",
+  "east": 415677.78,
+  "north": 1443798.59,
+  "conf": 1.0,
+  "size_pt": 51.84
+ },
+ {
+  "ward": 109,
+  "role": "road_name",
+  "text": "Private Road",
+  "east": 415843.38,
+  "north": 1443897.85,
+  "conf": 1.0,
+  "size_pt": 39.48
+ },
+ {
+  "ward": 109,
+  "role": "road_name",
+  "text": "4th Link",
+  "east": 416447.37,
+  "north": 1444709.77,
+  "conf": 1.0,
+  "size_pt": 24.6
+ },
+ {
+  "ward": 109,
+  "role": "road_name",
+  "text": "6thCross",
+  "east": 416666.82,
+  "north": 1444740.57,
+  "conf": 1.0,
+  "size_pt": 26.28
+ },
+ {
+  "ward": 109,
+  "role": "road_name",
+  "text": "94Thiruvengadapuram2nd Street5.4-",
+  "east": 416455.83,
+  "north": 1444597.7,
+  "conf": 1.0,
+  "size_pt": 56.28
+ },
+ {
+  "ward": 109,
+  "role": "road_name",
+  "text": "Sakthi Nagar2nd Street",
+  "east": 416080.83,
+  "north": 1444465.94,
+  "conf": 1.0,
+  "size_pt": 43.32
+ },
+ {
+  "ward": 109,
+  "role": "road_name",
+  "text": "Sakthi Nagar1st Street",
+  "east": 416069.72,
+  "north": 1444415.78,
+  "conf": 1.0,
+  "size_pt": 45.84
+ },
+ {
+  "ward": 109,
+  "role": "road_name",
+  "text": "4th Street",
+  "east": 416163.89,
+  "north": 1444438.01,
+  "conf": 1.0,
+  "size_pt": 31.68
+ },
+ {
+  "ward": 109,
+  "role": "road_name",
+  "text": "JayalakshmiNagar",
+  "east": 416107.81,
+  "north": 1444279.05,
+  "conf": 1.0,
+  "size_pt": 36.24
+ },
+ {
+  "ward": 109,
+  "role": "road_name",
+  "text": "Kandappan Colony",
+  "east": 415764.23,
+  "north": 1444232.06,
+  "conf": 1.0,
+  "size_pt": 54.84
+ },
+ {
+  "ward": 109,
+  "role": "road_name",
+  "text": "Bajanai Koil 3rd Lane",
+  "east": 415728.04,
+  "north": 1444206.98,
+  "conf": 1.0,
+  "size_pt": 66.12
+ },
+ {
+  "ward": 109,
+  "role": "road_name",
+  "text": "SelvainayagamKoil Street",
+  "east": 415698.2,
+  "north": 1444167.72,
+  "conf": 1.0,
+  "size_pt": 42.6
+ },
+ {
+  "ward": 109,
+  "role": "road_name",
+  "text": "Bajanai Koil1st LaneBajanai Koil2nd Lane",
+  "east": 415795.55,
+  "north": 1444125.92,
+  "conf": 1.0,
+  "size_pt": 53.16
+ },
+ {
+  "ward": 109,
+  "role": "road_name",
+  "text": "Inbarajaburam 2nd Street",
+  "east": 416079.45,
+  "north": 1444116.71,
+  "conf": 1.0,
+  "size_pt": 80.16
+ },
+ {
+  "ward": 109,
+  "role": "road_name",
+  "text": "Inbarajaburam Ist Street",
+  "east": 416119.13,
+  "north": 1444133.11,
+  "conf": 1.0,
+  "size_pt": 78.12
+ },
+ {
+  "ward": 109,
+  "role": "road_name",
+  "text": "Atherayapuram1st Street",
+  "east": 416184.84,
+  "north": 1444074.16,
+  "conf": 1.0,
+  "size_pt": 45.36
+ },
+ {
+  "ward": 109,
+  "role": "road_name",
+  "text": "5./1Sankarapuram2nd Street",
+  "east": 416205.79,
+  "north": 1444291.75,
+  "conf": 1.0,
+  "size_pt": 42.48
+ },
+ {
+  "ward": 109,
+  "role": "road_name",
+  "text": "Atherayapuram2nd Street",
+  "east": 416187.06,
+  "north": 1444122.11,
+  "conf": 1.0,
+  "size_pt": 45.48
+ },
+ {
+  "ward": 109,
+  "role": "road_name",
+  "text": "Vanniyar 2nd Street",
+  "east": 416024.53,
+  "north": 1443823.35,
+  "conf": 1.0,
+  "size_pt": 61.2
+ },
+ {
+  "ward": 109,
+  "role": "road_name",
+  "text": "J267Venkateswara,Lane",
+  "east": 415651.54,
+  "north": 1443955.95,
+  "conf": 1.0,
+  "size_pt": 38.16
+ },
+ {
+  "ward": 109,
+  "role": "road_name",
+  "text": "Anna High Road",
+  "east": 415741.59,
+  "north": 1444642.04,
+  "conf": 1.0,
+  "size_pt": 50.4
+ },
+ {
+  "ward": 109,
+  "role": "road_name",
+  "text": "Choolaimedu High Road",
+  "east": 416639.52,
+  "north": 1444471.13,
+  "conf": 1.0,
+  "size_pt": 72.12
+ },
+ {
+  "ward": 109,
+  "role": "road_name",
+  "text": "0.1426.133Thiruvalluvar PurThiruvalluvar Puram 3rd StreetGill M1-",
+  "east": 415842.64,
+  "north": 1444625.01,
+  "conf": 1.0,
+  "size_pt": 89.28
+ },
+ {
+  "ward": 109,
+  "role": "road_name",
+  "text": "2nd Street",
+  "east": 416042.63,
+  "north": 1444634.11,
+  "conf": 1.0,
+  "size_pt": 33.48
+ },
+ {
+  "ward": 109,
+  "role": "road_name",
+  "text": "1.210South Gangai.AmmanNarayanapuram1st StreetRoadKoil LaneNarayanapuramMain2nd Street12405Narayanapuramniyar Ist Street3",
+  "east": 416311.18,
+  "north": 1443855.73,
+  "conf": 1.0,
+  "size_pt": 99.12
+ },
+ {
+  "ward": 109,
+  "role": "road_name",
+  "text": "Krishnapuram Street",
+  "east": 416437.63,
+  "north": 1443966.54,
+  "conf": 1.0,
+  "size_pt": 63.72
+ },
+ {
+  "ward": 109,
+  "role": "road_name",
+  "text": "Annai indra St",
+  "east": 416377.0,
+  "north": 1443751.49,
+  "conf": 1.0,
+  "size_pt": 34.68
+ },
+ {
+  "ward": 109,
+  "role": "road_name",
+  "text": "Tank Bund Road",
+  "east": 416748.19,
+  "north": 1444573.57,
+  "conf": 1.0,
+  "size_pt": 49.2
+ },
+ {
+  "ward": 109,
+  "role": "road_name",
+  "text": "Gill Nagar Extension",
+  "east": 415844.23,
+  "north": 1444576.01,
+  "conf": 1.0,
+  "size_pt": 59.88
+ },
+ {
+  "ward": 109,
+  "role": "road_name",
+  "text": "RamaniyaKoodam Street",
+  "east": 416470.54,
+  "north": 1444100.52,
+  "conf": 1.0,
+  "size_pt": 46.32
+ },
+ {
+  "ward": 109,
+  "role": "road_name",
+  "text": "Vanniyar Ist Street",
+  "east": 416337.0,
+  "north": 1443804.83,
+  "conf": 1.0,
+  "size_pt": 57.24
+ },
+ {
+  "ward": 109,
+  "role": "road_name",
+  "text": "Choolaimedulane",
+  "east": 416479.64,
+  "north": 1443876.9,
+  "conf": 1.0,
+  "size_pt": 37.44
+ },
+ {
+  "ward": 109,
+  "role": "road_name",
+  "text": "Amman Koil 2nd StreetSouth Gangai",
+  "east": 416153.94,
+  "north": 1443903.99,
+  "conf": 1.0,
+  "size_pt": 74.64
+ },
+ {
+  "ward": 109,
+  "role": "road_name",
+  "text": "1st Street",
+  "east": 416324.73,
+  "north": 1444518.86,
+  "conf": 1.0,
+  "size_pt": 30.0
+ },
+ {
+  "ward": 109,
+  "role": "road_name",
+  "text": "Ist Cross",
+  "east": 416380.17,
+  "north": 1444698.56,
+  "conf": 1.0,
+  "size_pt": 28.32
+ },
+ {
+  "ward": 109,
+  "role": "location_names",
+  "text": "NehruPark",
+  "east": 415944.22,
+  "north": 1444348.37,
+  "conf": 1.0,
+  "size_pt": 20.64
+ },
+ {
+  "ward": 109,
+  "role": "location_names",
+  "text": "ChoolaimeduPost Office",
+  "east": 415771.85,
+  "north": 1444340.54,
+  "conf": 1.0,
+  "size_pt": 41.64
+ },
+ {
+  "ward": 109,
+  "role": "location_names",
+  "text": "AL TharikBeefBiriyani Hotel",
+  "east": 415874.28,
+  "north": 1443866.0,
+  "conf": 1.0,
+  "size_pt": 45.24
+ },
+ {
+  "ward": 109,
+  "role": "location_names",
+  "text": "Park",
+  "east": 416547.78,
+  "north": 1444700.04,
+  "conf": 1.0,
+  "size_pt": 14.4
+ },
+ {
+  "ward": 109,
+  "role": "location_names",
+  "text": "SangeetharHostel 6.0",
+  "east": 416580.27,
+  "north": 1444603.2,
+  "conf": 1.0,
+  "size_pt": 34.68
+ },
+ {
+  "ward": 109,
+  "role": "location_names",
+  "text": "Trustpuram",
+  "east": 416150.66,
+  "north": 1444328.79,
+  "conf": 1.0,
+  "size_pt": 32.88
+ },
+ {
+  "ward": 109,
+  "role": "location_names",
+  "text": "Canal",
+  "east": 416157.65,
+  "north": 1444380.75,
+  "conf": 1.0,
+  "size_pt": 16.2
+ }
+]

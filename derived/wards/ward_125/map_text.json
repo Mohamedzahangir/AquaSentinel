@@ -1,0 +1,839 @@
+[
+ {
+  "ward": 125,
+  "role": "road_name",
+  "text": "Dr.Radhakrishnan Salai",
+  "east": 421805.03,
+  "north": 1442055.96,
+  "conf": 1.0,
+  "size_pt": 70.92
+ },
+ {
+  "ward": 125,
+  "role": "road_name",
+  "text": "Appu Street Ist Lane",
+  "east": 421392.21,
+  "north": 1440571.77,
+  "conf": 1.0,
+  "size_pt": 68.16
+ },
+ {
+  "ward": 125,
+  "role": "road_name",
+  "text": "BazzarParipurana Vinayagar Koil StreetPowder Mill StreetIst Street2nd Streetstreet",
+  "east": 421112.62,
+  "north": 1441251.9,
+  "conf": 1.0,
+  "size_pt": 164.88
+ },
+ {
+  "ward": 125,
+  "role": "road_name",
+  "text": "Bazaar Road",
+  "east": 421265.22,
+  "north": 1441141.95,
+  "conf": 1.0,
+  "size_pt": 39.84
+ },
+ {
+  "ward": 125,
+  "role": "road_name",
+  "text": "Lein Perira StreetCustainBeachStreetRoadArulanandamStreetCustain Beach",
+  "east": 421656.98,
+  "north": 1440522.99,
+  "conf": 1.0,
+  "size_pt": 84.12
+ },
+ {
+  "ward": 125,
+  "role": "road_name",
+  "text": "Karaneeswarar Koil Street",
+  "east": 421343.95,
+  "north": 1441458.69,
+  "conf": 1.0,
+  "size_pt": 80.64
+ },
+ {
+  "ward": 125,
+  "role": "road_name",
+  "text": "NochikuppamSlumNochi KuppamNochikuppamSlum",
+  "east": 421878.58,
+  "north": 1441467.15,
+  "conf": 1.0,
+  "size_pt": 66.6
+ },
+ {
+  "ward": 125,
+  "role": "road_name",
+  "text": "Muthu Street",
+  "east": 421558.77,
+  "north": 1440632.2,
+  "conf": 1.0,
+  "size_pt": 40.56
+ },
+ {
+  "ward": 125,
+  "role": "road_name",
+  "text": "Syed Ahmed Hussain StPPStreetHussain Streettaalo naatSyed Wahab",
+  "east": 421368.08,
+  "north": 1440685.64,
+  "conf": 0.883,
+  "size_pt": 75.6
+ },
+ {
+  "ward": 125,
+  "role": "road_name",
+  "text": "Chitrakulam North St",
+  "east": 421115.48,
+  "north": 1440761.73,
+  "conf": 1.0,
+  "size_pt": 65.88
+ },
+ {
+  "ward": 125,
+  "role": "road_name",
+  "text": "Mathala Narayanan StreetMangollaiVenkaStre",
+  "east": 421025.52,
+  "north": 1441009.46,
+  "conf": 1.0,
+  "size_pt": 79.44
+ },
+ {
+  "ward": 125,
+  "role": "road_name",
+  "text": "Pro3rd LaneParipoona:Vinyagar Koil:Tank3rd LanVirupatcheeswararKoil Street",
+  "east": 421336.44,
+  "north": 1441540.59,
+  "conf": 1.0,
+  "size_pt": 64.2
+ },
+ {
+  "ward": 125,
+  "role": "road_name",
+  "text": "Kamarajar Promenade",
+  "east": 421896.78,
+  "north": 1441911.93,
+  "conf": 1.0,
+  "size_pt": 68.4
+ },
+ {
+  "ward": 125,
+  "role": "road_name",
+  "text": "KaraneeswararPakoda Street no",
+  "east": 421657.51,
+  "north": 1441471.28,
+  "conf": 1.0,
+  "size_pt": 38.64
+ },
+ {
+  "ward": 125,
+  "role": "road_name",
+  "text": "Nainar Salai Ganesapuram Streete",
+  "east": 421222.25,
+  "north": 1441923.26,
+  "conf": 1.0,
+  "size_pt": 101.76
+ },
+ {
+  "ward": 125,
+  "role": "road_name",
+  "text": "Kailasapuram7515th3rd LaneNew Burial Ground Road4th LaneLaneKallaya Puram",
+  "east": 421573.8,
+  "north": 1441968.76,
+  "conf": 1.0,
+  "size_pt": 83.52
+ },
+ {
+  "ward": 125,
+  "role": "road_name",
+  "text": "uleeswarar Koll StreetKaraneeswarar Koil StreetKaraneeswararKoil 2nd LaneaneKollesweetGomathi Narayana StreetGomathiWarayanaStreetStreetKaraneeswarar Koil Ist LanePidariyarKoilDOaneKaraneeswarar KoillJustice C.Ramakrishnan2nd LaneStreetLalitha NagarIst StreetLalitha NagarKannilal Street2nd StreetKan",
+  "east": 421427.66,
+  "north": 1441330.74,
+  "conf": 0.981,
+  "size_pt": 170.28
+ },
+ {
+  "ward": 125,
+  "role": "road_name",
+  "text": "Bazzar Road",
+  "east": 421251.46,
+  "north": 1441314.24,
+  "conf": 1.0,
+  "size_pt": 39.36
+ },
+ {
+  "ward": 125,
+  "role": "road_name",
+  "text": "Kutchery Salai",
+  "east": 421191.14,
+  "north": 1441065.44,
+  "conf": 1.0,
+  "size_pt": 44.4
+ },
+ {
+  "ward": 125,
+  "role": "road_name",
+  "text": "Arundare Street",
+  "east": 421146.27,
+  "north": 1441175.29,
+  "conf": 1.0,
+  "size_pt": 49.56
+ },
+ {
+  "ward": 125,
+  "role": "road_name",
+  "text": "Salai StreetSalai Lane",
+  "east": 421230.3,
+  "north": 1440814.11,
+  "conf": 1.0,
+  "size_pt": 41.28
+ },
+ {
+  "ward": 125,
+  "role": "road_name",
+  "text": "SullivanStreet",
+  "east": 421518.14,
+  "north": 1440867.34,
+  "conf": 1.0,
+  "size_pt": 44.4
+ },
+ {
+  "ward": 125,
+  "role": "road_name",
+  "text": "RosaryAppu StreetChurch StreetApp\u0438StreetMuthu Krishnan Street",
+  "east": 421346.49,
+  "north": 1440820.35,
+  "conf": 1.0,
+  "size_pt": 78.24
+ },
+ {
+  "ward": 125,
+  "role": "road_name",
+  "text": "Demonde Street",
+  "east": 421667.03,
+  "north": 1440394.41,
+  "conf": 1.0,
+  "size_pt": 49.8
+ },
+ {
+  "ward": 125,
+  "role": "road_name",
+  "text": "Santh\u1ed3mRoadHigh",
+  "east": 421578.14,
+  "north": 1440469.44,
+  "conf": 1.0,
+  "size_pt": 31.8
+ },
+ {
+  "ward": 125,
+  "role": "road_name",
+  "text": "reProf.San jeevi StreetKaraneeswarar Pagoda StreetKaraneeswararPagodaPakoda Street",
+  "east": 421497.71,
+  "north": 1441549.8,
+  "conf": 1.0,
+  "size_pt": 94.44
+ },
+ {
+  "ward": 125,
+  "role": "road_name",
+  "text": "Kamarajar Salai",
+  "east": 421792.01,
+  "north": 1441476.15,
+  "conf": 1.0,
+  "size_pt": 48.96
+ },
+ {
+  "ward": 125,
+  "role": "road_name",
+  "text": "> AppuStreetStreet",
+  "east": 421317.92,
+  "north": 1440677.49,
+  "conf": 1.0,
+  "size_pt": 38.52
+ },
+ {
+  "ward": 125,
+  "role": "road_name",
+  "text": "Appu 2nd Street",
+  "east": 421408.93,
+  "north": 1440538.22,
+  "conf": 1.0,
+  "size_pt": 51.84
+ },
+ {
+  "ward": 125,
+  "role": "road_name",
+  "text": "Rosary Church Street",
+  "east": 421383.32,
+  "north": 1440929.46,
+  "conf": 1.0,
+  "size_pt": 66.48
+ },
+ {
+  "ward": 125,
+  "role": "road_name",
+  "text": "Ekambaram Street",
+  "east": 421429.99,
+  "north": 1441787.38,
+  "conf": 1.0,
+  "size_pt": 54.12
+ },
+ {
+  "ward": 125,
+  "role": "road_name",
+  "text": "Rosari CharchRoad",
+  "east": 421514.33,
+  "north": 1440958.14,
+  "conf": 1.0,
+  "size_pt": 62.16
+ },
+ {
+  "ward": 125,
+  "role": "road_name",
+  "text": "MeenambalapuramOutletDr. Natesan Salai1D1 (OL) Meenamb2.037",
+  "east": 421383.74,
+  "north": 1441862.51,
+  "conf": 1.0,
+  "size_pt": 72.0
+ },
+ {
+  "ward": 125,
+  "role": "road_name",
+  "text": "Service Road",
+  "east": 421930.75,
+  "north": 1441910.03,
+  "conf": 1.0,
+  "size_pt": 40.32
+ },
+ {
+  "ward": 125,
+  "role": "road_name",
+  "text": "Loop Road",
+  "east": 421933.29,
+  "north": 1441587.47,
+  "conf": 1.0,
+  "size_pt": 33.24
+ },
+ {
+  "ward": 125,
+  "role": "road_name",
+  "text": "umparam2608StreetGround RoadPPrasanna Vinayagar Koil StreetD3@2.088Prasanna Vinayaga\u0131Old BurialKoil Ist LaneD402.070Prof. San jeevini St11//0Koil 2nd Lane\u2022 StreetKarane3rd Lane",
+  "east": 421410.94,
+  "north": 1441686.84,
+  "conf": 0.963,
+  "size_pt": 151.8
+ },
+ {
+  "ward": 125,
+  "role": "road_name",
+  "text": "Santhome High Road",
+  "east": 421660.26,
+  "north": 1440827.02,
+  "conf": 1.0,
+  "size_pt": 65.76
+ },
+ {
+  "ward": 125,
+  "role": "road_name",
+  "text": "Devadi Street",
+  "east": 421249.45,
+  "north": 1440946.5,
+  "conf": 1.0,
+  "size_pt": 40.2
+ },
+ {
+  "ward": 125,
+  "role": "road_name",
+  "text": "Nadu Street",
+  "east": 421111.24,
+  "north": 1440908.72,
+  "conf": 1.0,
+  "size_pt": 37.32
+ },
+ {
+  "ward": 125,
+  "role": "road_name",
+  "text": "Tamilnadu Police Housing Corporation",
+  "east": 421476.97,
+  "north": 1441114.97,
+  "conf": 1.0,
+  "size_pt": 117.0
+ },
+ {
+  "ward": 125,
+  "role": "road_name",
+  "text": "Madha Church Hoad",
+  "east": 421402.68,
+  "north": 1440436.1,
+  "conf": 1.0,
+  "size_pt": 62.04
+ },
+ {
+  "ward": 125,
+  "role": "road_name",
+  "text": "Venkatasamy StG7\u00b0-Street G6\u00ae.777Hotel",
+  "east": 421523.64,
+  "north": 1440588.7,
+  "conf": 0.9,
+  "size_pt": 48.48
+ },
+ {
+  "ward": 125,
+  "role": "road_name",
+  "text": "MRTSRutharFord Puram",
+  "east": 421439.19,
+  "north": 1441943.36,
+  "conf": 1.0,
+  "size_pt": 36.0
+ },
+ {
+  "ward": 125,
+  "role": "road_name",
+  "text": "Loop Road",
+  "east": 421898.15,
+  "north": 1441109.99,
+  "conf": 1.0,
+  "size_pt": 33.36
+ },
+ {
+  "ward": 125,
+  "role": "road_name",
+  "text": "Dooming Street",
+  "east": 421725.45,
+  "north": 1440487.0,
+  "conf": 1.0,
+  "size_pt": 48.36
+ },
+ {
+  "ward": 125,
+  "role": "road_name",
+  "text": "Sreey",
+  "east": 421700.79,
+  "north": 1440638.97,
+  "conf": 0.3,
+  "size_pt": 19.44
+ },
+ {
+  "ward": 125,
+  "role": "road_name",
+  "text": "MuthuStreet",
+  "east": 421430.83,
+  "north": 1440607.86,
+  "conf": 1.0,
+  "size_pt": 18.6
+ },
+ {
+  "ward": 125,
+  "role": "road_name",
+  "text": "NimmoStreet",
+  "east": 421528.51,
+  "north": 1440906.28,
+  "conf": 1.0,
+  "size_pt": 24.12
+ },
+ {
+  "ward": 125,
+  "role": "road_name",
+  "text": "SanthomeChurch Lane",
+  "east": 421689.79,
+  "north": 1440951.79,
+  "conf": 1.0,
+  "size_pt": 37.92
+ },
+ {
+  "ward": 125,
+  "role": "road_name",
+  "text": "Kabaleeswarar Koil East Mada StreetH",
+  "east": 420953.56,
+  "north": 1440897.5,
+  "conf": 1.0,
+  "size_pt": 115.2
+ },
+ {
+  "ward": 125,
+  "role": "road_name",
+  "text": "NaduStreet",
+  "east": 421242.36,
+  "north": 1440864.16,
+  "conf": 1.0,
+  "size_pt": 17.76
+ },
+ {
+  "ward": 125,
+  "role": "road_name",
+  "text": "Devadi Street",
+  "east": 421192.52,
+  "north": 1441014.75,
+  "conf": 1.0,
+  "size_pt": 41.4
+ },
+ {
+  "ward": 125,
+  "role": "road_name",
+  "text": "Nochikuppam Slum",
+  "east": 421806.62,
+  "north": 1441371.91,
+  "conf": 1.0,
+  "size_pt": 56.16
+ },
+ {
+  "ward": 125,
+  "role": "road_name",
+  "text": "MuthupandiyanAvenue",
+  "east": 421761.53,
+  "north": 1441238.47,
+  "conf": 1.0,
+  "size_pt": 44.4
+ },
+ {
+  "ward": 125,
+  "role": "road_name",
+  "text": "Service Road",
+  "east": 421931.7,
+  "north": 1441759.23,
+  "conf": 1.0,
+  "size_pt": 40.2
+ },
+ {
+  "ward": 125,
+  "role": "road_name",
+  "text": "2nd LaneKannilal Street",
+  "east": 421319.82,
+  "north": 1441255.82,
+  "conf": 1.0,
+  "size_pt": 44.88
+ },
+ {
+  "ward": 125,
+  "role": "road_name",
+  "text": "Rosary Church LaneIst Lane",
+  "east": 421489.99,
+  "north": 1440750.3,
+  "conf": 1.0,
+  "size_pt": 62.64
+ },
+ {
+  "ward": 125,
+  "role": "road_name",
+  "text": "DoomingKuppam",
+  "east": 421798.68,
+  "north": 1440422.66,
+  "conf": 1.0,
+  "size_pt": 26.76
+ },
+ {
+  "ward": 125,
+  "role": "road_name",
+  "text": "DoomingKuppam",
+  "east": 421807.36,
+  "north": 1440490.18,
+  "conf": 1.0,
+  "size_pt": 25.8
+ },
+ {
+  "ward": 125,
+  "role": "road_name",
+  "text": "SullivanStreet",
+  "east": 421472.63,
+  "north": 1440828.39,
+  "conf": 1.0,
+  "size_pt": 22.92
+ },
+ {
+  "ward": 125,
+  "role": "road_name",
+  "text": "RosaryChurch2nd Lane",
+  "east": 421457.71,
+  "north": 1440679.29,
+  "conf": 1.0,
+  "size_pt": 28.68
+ },
+ {
+  "ward": 125,
+  "role": "road_name",
+  "text": "Kuyil ThottamS.C.B. Tenement",
+  "east": 421577.4,
+  "north": 1440681.83,
+  "conf": 1.0,
+  "size_pt": 50.88
+ },
+ {
+  "ward": 125,
+  "role": "road_name",
+  "text": "TamilnaduPolice Housing Corpor",
+  "east": 421597.3,
+  "north": 1441070.31,
+  "conf": 1.0,
+  "size_pt": 68.4
+ },
+ {
+  "ward": 125,
+  "role": "road_name",
+  "text": "GomathiNarayanaStreetBazarLan",
+  "east": 421300.88,
+  "north": 1441340.37,
+  "conf": 1.0,
+  "size_pt": 42.36
+ },
+ {
+  "ward": 125,
+  "role": "road_name",
+  "text": "VenkatachalamStreet",
+  "east": 421073.25,
+  "north": 1440943.21,
+  "conf": 1.0,
+  "size_pt": 43.68
+ },
+ {
+  "ward": 125,
+  "role": "road_name",
+  "text": "LoopRoad",
+  "east": 421905.56,
+  "north": 1441274.55,
+  "conf": 1.0,
+  "size_pt": 15.0
+ },
+ {
+  "ward": 125,
+  "role": "road_name",
+  "text": "Santhome High Road",
+  "east": 421711.8,
+  "north": 1441319.95,
+  "conf": 1.0,
+  "size_pt": 62.88
+ },
+ {
+  "ward": 125,
+  "role": "road_name",
+  "text": "Kutchery Road",
+  "east": 420972.93,
+  "north": 1441114.76,
+  "conf": 1.0,
+  "size_pt": 44.16
+ },
+ {
+  "ward": 125,
+  "role": "road_name",
+  "text": "Bazar Road",
+  "east": 421253.79,
+  "north": 1441447.15,
+  "conf": 1.0,
+  "size_pt": 36.24
+ },
+ {
+  "ward": 125,
+  "role": "road_name",
+  "text": "PoliceQuarters",
+  "east": 421411.57,
+  "north": 1441999.56,
+  "conf": 1.0,
+  "size_pt": 27.48
+ },
+ {
+  "ward": 125,
+  "role": "road_name",
+  "text": "Meenambalpuram",
+  "east": 421444.91,
+  "north": 1441831.82,
+  "conf": 1.0,
+  "size_pt": 52.32
+ },
+ {
+  "ward": 125,
+  "role": "road_name",
+  "text": "Kangeyarpuram",
+  "east": 421406.28,
+  "north": 1441193.38,
+  "conf": 1.0,
+  "size_pt": 45.96
+ },
+ {
+  "ward": 125,
+  "role": "road_name",
+  "text": "RosaryChurch Street",
+  "east": 421347.44,
+  "north": 1440838.87,
+  "conf": 1.0,
+  "size_pt": 42.36
+ },
+ {
+  "ward": 125,
+  "role": "road_name",
+  "text": "ThandavarayanStteet",
+  "east": 421467.98,
+  "north": 1440490.18,
+  "conf": 1.0,
+  "size_pt": 41.88
+ },
+ {
+  "ward": 125,
+  "role": "location_names",
+  "text": "St. ThomasEnglish School",
+  "east": 421728.84,
+  "north": 1440717.38,
+  "conf": 1.0,
+  "size_pt": 49.32
+ },
+ {
+  "ward": 125,
+  "role": "location_names",
+  "text": "St. Bede's Anglo IndianlHigher Secondary School",
+  "east": 421807.78,
+  "north": 1441277.09,
+  "conf": 1.0,
+  "size_pt": 86.04
+ },
+ {
+  "ward": 125,
+  "role": "location_names",
+  "text": "NewLighthouse",
+  "east": 421861.96,
+  "north": 1441630.44,
+  "conf": 1.0,
+  "size_pt": 32.28
+ },
+ {
+  "ward": 125,
+  "role": "location_names",
+  "text": "Outlet",
+  "east": 421379.93,
+  "north": 1441865.79,
+  "conf": 1.0,
+  "size_pt": 18.96
+ },
+ {
+  "ward": 125,
+  "role": "location_names",
+  "text": "ShivajiGanesanStatueGandhi\u2022 Statue",
+  "east": 421950.75,
+  "north": 1442054.37,
+  "conf": 1.0,
+  "size_pt": 31.2
+ },
+ {
+  "ward": 125,
+  "role": "location_names",
+  "text": "IG Office",
+  "east": 421834.24,
+  "north": 1442020.19,
+  "conf": 1.0,
+  "size_pt": 26.28
+ },
+ {
+  "ward": 125,
+  "role": "location_names",
+  "text": "PonnambalamVathiyar Street",
+  "east": 421203.52,
+  "north": 1441167.56,
+  "conf": 1.0,
+  "size_pt": 46.44
+ },
+ {
+  "ward": 125,
+  "role": "location_names",
+  "text": "St Bedes Cricket Ground",
+  "east": 421669.47,
+  "north": 1441834.05,
+  "conf": 1.0,
+  "size_pt": 78.0
+ },
+ {
+  "ward": 125,
+  "role": "location_names",
+  "text": "recreation_ground",
+  "east": 421627.98,
+  "north": 1441610.97,
+  "conf": 1.0,
+  "size_pt": 56.4
+ },
+ {
+  "ward": 125,
+  "role": "location_names",
+  "text": "PostalColony",
+  "east": 421096.85,
+  "north": 1441166.19,
+  "conf": 1.0,
+  "size_pt": 20.04
+ },
+ {
+  "ward": 125,
+  "role": "location_names",
+  "text": "park",
+  "east": 421872.97,
+  "north": 1441686.53,
+  "conf": 1.0,
+  "size_pt": 13.08
+ },
+ {
+  "ward": 125,
+  "role": "location_names",
+  "text": "KamarajarStatue",
+  "east": 421881.43,
+  "north": 1441734.89,
+  "conf": 1.0,
+  "size_pt": 31.56
+ },
+ {
+  "ward": 125,
+  "role": "location_names",
+  "text": "MayilaiSri Karpagambal Mess",
+  "east": 421080.55,
+  "north": 1440878.98,
+  "conf": 1.0,
+  "size_pt": 69.48
+ },
+ {
+  "ward": 125,
+  "role": "location_names",
+  "text": "Rayer Mess",
+  "east": 421211.78,
+  "north": 1441136.87,
+  "conf": 1.0,
+  "size_pt": 34.92
+ },
+ {
+  "ward": 125,
+  "role": "location_names",
+  "text": "HotBreads",
+  "east": 421531.37,
+  "north": 1440465.31,
+  "conf": 1.0,
+  "size_pt": 20.28
+ },
+ {
+  "ward": 125,
+  "role": "location_names",
+  "text": "vreet G2.777HotelSanthome2.48MeenakshireetBhavan G4.",
+  "east": 421496.76,
+  "north": 1440547.75,
+  "conf": 0.913,
+  "size_pt": 65.76
+ },
+ {
+  "ward": 125,
+  "role": "location_names",
+  "text": "SBI ATM",
+  "east": 421642.91,
+  "north": 1440617.7,
+  "conf": 1.0,
+  "size_pt": 25.08
+ },
+ {
+  "ward": 125,
+  "role": "location_names",
+  "text": "SinusAndNoseHospital",
+  "east": 421729.89,
+  "north": 1441087.35,
+  "conf": 1.0,
+  "size_pt": 29.52
+ },
+ {
+  "ward": 125,
+  "role": "location_names",
+  "text": "Mylap",
+  "east": 421787.78,
+  "north": 1441066.61,
+  "conf": 1.0,
+  "size_pt": 15.84
+ }
+]

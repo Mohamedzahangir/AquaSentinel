@@ -1,0 +1,524 @@
+[
+ {
+  "ward": 72,
+  "role": "road_name",
+  "text": "rowder MillsDecaster KoadIst StrIst LaneA132.147end zane Satniavani Muthu3rd LaneNagar (Powder)Veera Chetty St StreetVeerasamyA9A12\u00b02.487",
+  "east": 420489.76,
+  "north": 1448496.86,
+  "conf": 1.0,
+  "size_pt": 123.6
+ },
+ {
+  "ward": 72,
+  "role": "road_name",
+  "text": "Basin Bridge Road",
+  "east": 420851.9,
+  "north": 1448389.45,
+  "conf": 1.0,
+  "size_pt": 51.12
+ },
+ {
+  "ward": 72,
+  "role": "road_name",
+  "text": "Powder Mills Road",
+  "east": 420633.05,
+  "north": 1448283.63,
+  "conf": 1.0,
+  "size_pt": 51.6
+ },
+ {
+  "ward": 72,
+  "role": "road_name",
+  "text": "5th Street6th StreetVenkatesapuramJosE2nd5th Street2ndStreetNagar4thCross StVasugi Nagar4th StreetH.b. TstKasthuribai Colony3rd StreettreetRdQDossBlock 2ndJoseph Street~3rd StreetVenkatesapurambedkar CollegeNew Tvk Nagar Main RoadVenkatesapuram3rd3rd St.ablouStreeQ2nd StreetVenkatesapuramVenkatesapuramNewColony 3rdDoss NagarGross1st StreetKasthuribai Colonye:2nd St.ablocBlock 6tBrightons RoadKasthuribai ColonyIst St.abloc1stBrightons2ndvenkstesasunam NEw, Gotony aleRoadVasugi Nagar H.B. Ist stNewlicolonyo Sathyavanimuthu_Nagar3rd StreetRecreation GroundNew Colony Ist CIst StreetVenkatesapuramVenkatesapuram2nd StreeStNew Colony-New ColonyNew ColonyKasthuribai Colony3rd2nd StreetStreet3rd Stree2nNagararNew Colony 5th4th St.Bblock4th StreeStreetNag3rd Street Ist St.BblockVenkatesapuramIst Cross 2nd St.Bblock5th StreeEnd Cross 3rd St.Bblock1st StreetthuNew Colony Ist Streetlasugi NagarM.S.Muthu8th Street11th Lane10th Lane6th StreeCross, StS.Mu12th LaneCrossIst Lane 8VaSug7th Street9th Lane13th Lane2nQM.Cr8th Lane14th Lane2nd Lane1stIst Streetm6th Street9th StreetMain2naA1(OL)3rd Lane5th Street2.191Culvert4th Street4th LanearCulvert EGAI518th Lane54th Lane -Thiru Vika Nagar4th StreetNagHarnessSaddle A16Narasima Nago3rd Lane o7th StreetA2Factory Road 2.3721stCrossSt3rd StreetEand Lane25th LaneA17tree6th StreetVika2.0463rd StreetNagarCro8Ist Lane 86th Lane2nd Street6th StreetnaaA185th StreetsiruNarasimhaIst5thR2nd Street Zth Lane2.558A34th Street?A19Nagar5th StreetNarasima Nagar1st Cross St2.3032.341SSagar3rd Street\u2022Thiru VI Ka NagarandVOC Nagar Ist Street2nd StreetCro(F\u00fcllam Bth Tanies2nd Street_A202ndIst StreetIst Street2.080g0A4IruaneMosque StreetLane2.599ge RaSwamy DesiganandaEnd stThirt:Vika Nagar ExtensionAmbedkar Nagar2ndMain Road2A5Street5th Street6th StreetIth StreetStreet8th StreetLnd Street &6th St6th3rd Street2nd Cross5th StNagar Ith4th3rd CrossStreetS Norasiinn\u0103 Nagar MainAmbedkar Nagar4th Cross3rd StStMain RdNehru Nagar4th2nd Stree\u0103srduNehruDecaster RoadA8NagathaDecastor Road2.427",
+  "east": 420240.86,
+  "north": 1448920.04,
+  "conf": 0.983,
+  "size_pt": 417.12
+ },
+ {
+  "ward": 72,
+  "role": "road_name",
+  "text": "Ist Street",
+  "east": 420429.65,
+  "north": 1448778.77,
+  "conf": 1.0,
+  "size_pt": 30.24
+ },
+ {
+  "ward": 72,
+  "role": "road_name",
+  "text": "\u2022 L.1914th StreetHarnessSaddle A16FactoryRoad 2.372A173rd Street2.046",
+  "east": 420438.54,
+  "north": 1448897.39,
+  "conf": 1.0,
+  "size_pt": 57.84
+ },
+ {
+  "ward": 72,
+  "role": "road_name",
+  "text": "2nd Street",
+  "east": 420435.47,
+  "north": 1448806.81,
+  "conf": 1.0,
+  "size_pt": 33.0
+ },
+ {
+  "ward": 72,
+  "role": "road_name",
+  "text": "Parthasarathy Naidu St",
+  "east": 420382.14,
+  "north": 1448402.57,
+  "conf": 1.0,
+  "size_pt": 67.92
+ },
+ {
+  "ward": 72,
+  "role": "road_name",
+  "text": "BrightonsRoad",
+  "east": 420504.79,
+  "north": 1449123.74,
+  "conf": 1.0,
+  "size_pt": 28.56
+ },
+ {
+  "ward": 72,
+  "role": "road_name",
+  "text": "BasinBridge",
+  "east": 420997.74,
+  "north": 1448892.2,
+  "conf": 1.0,
+  "size_pt": 35.16
+ },
+ {
+  "ward": 72,
+  "role": "road_name",
+  "text": "Basin| Bridge",
+  "east": 421179.76,
+  "north": 1448757.5,
+  "conf": 1.0,
+  "size_pt": 37.68
+ },
+ {
+  "ward": 72,
+  "role": "road_name",
+  "text": "Ambedkar College Rd",
+  "east": 419891.73,
+  "north": 1448715.27,
+  "conf": 1.0,
+  "size_pt": 65.88
+ },
+ {
+  "ward": 72,
+  "role": "road_name",
+  "text": "Brightons Road",
+  "east": 419957.34,
+  "north": 1449158.45,
+  "conf": 1.0,
+  "size_pt": 47.88
+ },
+ {
+  "ward": 72,
+  "role": "road_name",
+  "text": "Ambedkar College Rd",
+  "east": 419831.09,
+  "north": 1449135.8,
+  "conf": 1.0,
+  "size_pt": 63.24
+ },
+ {
+  "ward": 72,
+  "role": "road_name",
+  "text": "6th Street",
+  "east": 419934.27,
+  "north": 1448951.78,
+  "conf": 1.0,
+  "size_pt": 32.04
+ },
+ {
+  "ward": 72,
+  "role": "road_name",
+  "text": "7th Street",
+  "east": 419935.23,
+  "north": 1448977.28,
+  "conf": 1.0,
+  "size_pt": 31.2
+ },
+ {
+  "ward": 72,
+  "role": "road_name",
+  "text": "8th Street",
+  "east": 419939.46,
+  "north": 1449001.2,
+  "conf": 1.0,
+  "size_pt": 32.16
+ },
+ {
+  "ward": 72,
+  "role": "road_name",
+  "text": ",Culvert",
+  "east": 420793.17,
+  "north": 1448931.46,
+  "conf": 1.0,
+  "size_pt": 19.8
+ },
+ {
+  "ward": 72,
+  "role": "road_name",
+  "text": "Culvert EGANKINarasima NagarIst Cross St100rasima NagarZnd Cross :st Cross St",
+  "east": 420550.72,
+  "north": 1448865.11,
+  "conf": 1.0,
+  "size_pt": 66.6
+ },
+ {
+  "ward": 72,
+  "role": "road_name",
+  "text": "Culvert",
+  "east": 420346.79,
+  "north": 1448925.96,
+  "conf": 1.0,
+  "size_pt": 19.8
+ },
+ {
+  "ward": 72,
+  "role": "road_name",
+  "text": "Bridge",
+  "east": 419831.62,
+  "north": 1449049.56,
+  "conf": 1.0,
+  "size_pt": 18.36
+ },
+ {
+  "ward": 72,
+  "role": "road_name",
+  "text": "Decaster Road",
+  "east": 420033.33,
+  "north": 1448568.4,
+  "conf": 1.0,
+  "size_pt": 45.72
+ },
+ {
+  "ward": 72,
+  "role": "road_name",
+  "text": "private road",
+  "east": 420619.19,
+  "north": 1449058.66,
+  "conf": 1.0,
+  "size_pt": 38.28
+ },
+ {
+  "ward": 72,
+  "role": "road_name",
+  "text": "StreetZthst Cross St\u00abVenkatesapuram,ruseph Street6th Street2nd Cross StIst5th Street2ndStreet4thCross StStreet3rdVenkatesapuramVenkatesapuram2nd Street\u2039atesapuramvColony 3rdVenkatesapuramIst Street",
+  "east": 420141.8,
+  "north": 1449266.07,
+  "conf": 1.0,
+  "size_pt": 117.12
+ },
+ {
+  "ward": 72,
+  "role": "road_name",
+  "text": "Narasima NagarCross St1st",
+  "east": 420543.1,
+  "north": 1448832.31,
+  "conf": 1.0,
+  "size_pt": 50.04
+ },
+ {
+  "ward": 72,
+  "role": "road_name",
+  "text": "Znd St",
+  "east": 420653.48,
+  "north": 1448501.41,
+  "conf": 1.0,
+  "size_pt": 21.12
+ },
+ {
+  "ward": 72,
+  "role": "road_name",
+  "text": "Nagathamman Koil StreetPowder Mills RoadIst Street",
+  "east": 420608.5,
+  "north": 1448541.2,
+  "conf": 1.0,
+  "size_pt": 80.88
+ },
+ {
+  "ward": 72,
+  "role": "road_name",
+  "text": "VeerasamyStGrey Nagar Veerasamy St2nd LanePonnappan",
+  "east": 420456.11,
+  "north": 1448340.25,
+  "conf": 1.0,
+  "size_pt": 78.36
+ },
+ {
+  "ward": 72,
+  "role": "road_name",
+  "text": "Decastor RoadIst Street",
+  "east": 420307.0,
+  "north": 1448494.85,
+  "conf": 1.0,
+  "size_pt": 45.84
+ },
+ {
+  "ward": 72,
+  "role": "road_name",
+  "text": "Decastor Road2nd StreetDecastor Road",
+  "east": 420217.36,
+  "north": 1448516.12,
+  "conf": 1.0,
+  "size_pt": 59.64
+ },
+ {
+  "ward": 72,
+  "role": "road_name",
+  "text": "private road",
+  "east": 420690.62,
+  "north": 1448779.08,
+  "conf": 1.0,
+  "size_pt": 38.4
+ },
+ {
+  "ward": 72,
+  "role": "road_name",
+  "text": "Dr. Ambedkar College Rd",
+  "east": 419909.72,
+  "north": 1449289.45,
+  "conf": 1.0,
+  "size_pt": 77.88
+ },
+ {
+  "ward": 72,
+  "role": "road_name",
+  "text": "private road",
+  "east": 420694.65,
+  "north": 1448699.29,
+  "conf": 1.0,
+  "size_pt": 38.4
+ },
+ {
+  "ward": 72,
+  "role": "road_name",
+  "text": "4th Street",
+  "east": 420350.18,
+  "north": 1449244.9,
+  "conf": 1.0,
+  "size_pt": 31.56
+ },
+ {
+  "ward": 72,
+  "role": "road_name",
+  "text": "6th Street5th Street",
+  "east": 420352.5,
+  "north": 1449276.12,
+  "conf": 1.0,
+  "size_pt": 32.76
+ },
+ {
+  "ward": 72,
+  "role": "road_name",
+  "text": "6th Street",
+  "east": 420209.21,
+  "north": 1449305.96,
+  "conf": 1.0,
+  "size_pt": 31.8
+ },
+ {
+  "ward": 72,
+  "role": "road_name",
+  "text": "8th Street",
+  "east": 420335.57,
+  "north": 1449339.61,
+  "conf": 1.0,
+  "size_pt": 31.8
+ },
+ {
+  "ward": 72,
+  "role": "road_name",
+  "text": "Joseph StreetJoseph Streetnkatesan,",
+  "east": 420035.13,
+  "north": 1449266.28,
+  "conf": 1.0,
+  "size_pt": 87.6
+ },
+ {
+  "ward": 72,
+  "role": "road_name",
+  "text": "Ambedkar College RdDr.",
+  "east": 419927.71,
+  "north": 1449212.73,
+  "conf": 1.0,
+  "size_pt": 73.8
+ },
+ {
+  "ward": 72,
+  "role": "road_name",
+  "text": "9th Street",
+  "east": 420236.2,
+  "north": 1448944.06,
+  "conf": 1.0,
+  "size_pt": 31.68
+ },
+ {
+  "ward": 72,
+  "role": "road_name",
+  "text": "Dr. Ambedkar College Rd",
+  "east": 419918.51,
+  "north": 1449339.19,
+  "conf": 1.0,
+  "size_pt": 78.24
+ },
+ {
+  "ward": 72,
+  "role": "road_name",
+  "text": "Veera StreetIst Lane",
+  "east": 420346.9,
+  "north": 1448479.72,
+  "conf": 1.0,
+  "size_pt": 37.56
+ },
+ {
+  "ward": 72,
+  "role": "road_name",
+  "text": "6th Street",
+  "east": 420332.82,
+  "north": 1448862.26,
+  "conf": 1.0,
+  "size_pt": 31.56
+ },
+ {
+  "ward": 72,
+  "role": "road_name",
+  "text": "New Colony Ist CVenkatesapuram",
+  "east": 420036.72,
+  "north": 1449095.38,
+  "conf": 1.0,
+  "size_pt": 55.56
+ },
+ {
+  "ward": 72,
+  "role": "road_name",
+  "text": "RoadMainDoss Nagar",
+  "east": 420272.18,
+  "north": 1449283.1,
+  "conf": 1.0,
+  "size_pt": 71.88
+ },
+ {
+  "ward": 72,
+  "role": "road_name",
+  "text": "NIst Cross,St",
+  "east": 420591.89,
+  "north": 1448976.01,
+  "conf": 1.0,
+  "size_pt": 42.84
+ },
+ {
+  "ward": 72,
+  "role": "road_name",
+  "text": "Zth Street",
+  "east": 420326.58,
+  "north": 1449317.6,
+  "conf": 1.0,
+  "size_pt": 31.44
+ },
+ {
+  "ward": 72,
+  "role": "road_name",
+  "text": "StreetZth",
+  "east": 420209.95,
+  "north": 1449327.97,
+  "conf": 1.0,
+  "size_pt": 30.96
+ },
+ {
+  "ward": 72,
+  "role": "location_names",
+  "text": "Pulianthope",
+  "east": 420707.56,
+  "north": 1448345.54,
+  "conf": 1.0,
+  "size_pt": 35.04
+ },
+ {
+  "ward": 72,
+  "role": "location_names",
+  "text": "NarasimhaNagar 1",
+  "east": 420443.83,
+  "north": 1448841.09,
+  "conf": 1.0,
+  "size_pt": 31.68
+ },
+ {
+  "ward": 72,
+  "role": "location_names",
+  "text": "Gas",
+  "east": 420873.28,
+  "north": 1448324.48,
+  "conf": 1.0,
+  "size_pt": 10.08
+ },
+ {
+  "ward": 72,
+  "role": "location_names",
+  "text": "Turbine Power",
+  "east": 420929.48,
+  "north": 1448324.48,
+  "conf": 1.0,
+  "size_pt": 42.36
+ },
+ {
+  "ward": 72,
+  "role": "location_names",
+  "text": "Recreation",
+  "east": 419936.81,
+  "north": 1449097.39,
+  "conf": 1.0,
+  "size_pt": 31.56
+ },
+ {
+  "ward": 72,
+  "role": "location_names",
+  "text": "Ground",
+  "east": 419991.95,
+  "north": 1449097.39,
+  "conf": 1.0,
+  "size_pt": 20.88
+ },
+ {
+  "ward": 72,
+  "role": "location_names",
+  "text": "Besin BridgeJunctionRailway Station",
+  "east": 420951.17,
+  "north": 1448445.43,
+  "conf": 1.0,
+  "size_pt": 46.56
+ },
+ {
+  "ward": 72,
+  "role": "location_names",
+  "text": "ChennaiSuburbanTerminal",
+  "east": 421217.22,
+  "north": 1447882.57,
+  "conf": 1.0,
+  "size_pt": 27.36
+ },
+ {
+  "ward": 72,
+  "role": "location_names",
+  "text": "Pond",
+  "east": 420779.1,
+  "north": 1448325.22,
+  "conf": 1.0,
+  "size_pt": 15.36
+ },
+ {
+  "ward": 72,
+  "role": "location_names",
+  "text": "Doss Nagar Pallam",
+  "east": 420328.27,
+  "north": 1449298.45,
+  "conf": 1.0,
+  "size_pt": 59.04
+ }
+]

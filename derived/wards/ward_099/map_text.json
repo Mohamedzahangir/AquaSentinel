@@ -1,0 +1,2720 @@
+[
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "-11th",
+  "east": 413944.22,
+  "north": 1446838.91,
+  "conf": 1.0,
+  "size_pt": 10.68
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "Main Road",
+  "east": 413990.47,
+  "north": 1446838.91,
+  "conf": 1.0,
+  "size_pt": 32.4
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "H Block,",
+  "east": 413471.0,
+  "north": 1446804.83,
+  "conf": 1.0,
+  "size_pt": 24.48
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "5th",
+  "east": 413510.27,
+  "north": 1446804.19,
+  "conf": 1.0,
+  "size_pt": 9.24
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "Street",
+  "east": 413542.44,
+  "north": 1446803.13,
+  "conf": 1.0,
+  "size_pt": 17.88
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "12th Main Road",
+  "east": 413583.93,
+  "north": 1446763.87,
+  "conf": 1.0,
+  "size_pt": 48.6
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "Koyambedu",
+  "east": 413148.39,
+  "north": 1446100.34,
+  "conf": 1.0,
+  "size_pt": 33.84
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "PerumalKoil Street\u044db\u0440\u0443g \u0440\u044d\u0438",
+  "east": 413170.09,
+  "north": 1446064.25,
+  "conf": 0.767,
+  "size_pt": 38.76
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "15th Main Road",
+  "east": 413639.18,
+  "north": 1446900.93,
+  "conf": 1.0,
+  "size_pt": 48.6
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "12th",
+  "east": 413601.4,
+  "north": 1446548.9,
+  "conf": 1.0,
+  "size_pt": 11.52
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "Main",
+  "east": 413602.24,
+  "north": 1446578.43,
+  "conf": 1.0,
+  "size_pt": 12.6
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "Road",
+  "east": 413603.2,
+  "north": 1446611.13,
+  "conf": 1.0,
+  "size_pt": 15.12
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "2nds13th Main Rd:26.460Street",
+  "east": 413284.72,
+  "north": 1446822.82,
+  "conf": 1.0,
+  "size_pt": 43.2
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "Central Revenue",
+  "east": 413692.95,
+  "north": 1447008.04,
+  "conf": 1.0,
+  "size_pt": 49.32
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "Quarters Road",
+  "east": 413784.08,
+  "north": 1447000.42,
+  "conf": 1.0,
+  "size_pt": 44.64
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "Brd StreetH Block,",
+  "east": 413768.2,
+  "north": 1446781.65,
+  "conf": 1.0,
+  "size_pt": 31.56
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "13th Main Road!",
+  "east": 413316.47,
+  "north": 1446520.64,
+  "conf": 1.0,
+  "size_pt": 48.6
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "Anna Nagar 2nd Avenue",
+  "east": 413453.01,
+  "north": 1446724.7,
+  "conf": 1.0,
+  "size_pt": 76.8
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "10th Street\u00c9 Nvn NagarJawaharlal Nehru Road (100 FeetgaQooo eMQdhi Main ReadA4th StreetT.V.Nagar",
+  "east": 413087.53,
+  "north": 1446698.98,
+  "conf": 0.942,
+  "size_pt": 105.12
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "15th",
+  "east": 413168.4,
+  "north": 1446916.17,
+  "conf": 1.0,
+  "size_pt": 11.4
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "Main",
+  "east": 413197.82,
+  "north": 1446915.86,
+  "conf": 1.0,
+  "size_pt": 12.6
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "Road",
+  "east": 413230.52,
+  "north": 1446915.64,
+  "conf": 1.0,
+  "size_pt": 15.12
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "4th",
+  "east": 413668.08,
+  "north": 1446403.89,
+  "conf": 1.0,
+  "size_pt": 8.88
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "Ave (Santhi Colony Rd.)",
+  "east": 413750.85,
+  "north": 1446399.77,
+  "conf": 1.0,
+  "size_pt": 75.6
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "11th Main Road",
+  "east": 413856.05,
+  "north": 1446490.05,
+  "conf": 1.0,
+  "size_pt": 47.76
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "12th Main Road",
+  "east": 413591.13,
+  "north": 1446300.06,
+  "conf": 1.0,
+  "size_pt": 48.6
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "Zth StreetH Block,",
+  "east": 413700.25,
+  "north": 1446846.42,
+  "conf": 1.0,
+  "size_pt": 31.56
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "V-Block12th StPark",
+  "east": 413235.5,
+  "north": 1447229.04,
+  "conf": 1.0,
+  "size_pt": 26.04
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "School Road",
+  "east": 412912.15,
+  "north": 1447577.58,
+  "conf": 1.0,
+  "size_pt": 38.64
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "21st Main Rd",
+  "east": 413921.89,
+  "north": 1447110.08,
+  "conf": 1.0,
+  "size_pt": 41.76
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "16th Main Road",
+  "east": 413475.23,
+  "north": 1447123.84,
+  "conf": 1.0,
+  "size_pt": 48.48
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "17th",
+  "east": 413408.34,
+  "north": 1447317.42,
+  "conf": 1.0,
+  "size_pt": 12.72
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "Main",
+  "east": 413441.05,
+  "north": 1447316.15,
+  "conf": 1.0,
+  "size_pt": 14.04
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "Road",
+  "east": 413477.35,
+  "north": 1447314.99,
+  "conf": 1.0,
+  "size_pt": 16.8
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "E Gate Rd",
+  "east": 412811.6,
+  "north": 1447449.72,
+  "conf": 1.0,
+  "size_pt": 32.76
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "13th Main Road",
+  "east": 413318.37,
+  "north": 1447222.38,
+  "conf": 1.0,
+  "size_pt": 48.6
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "Anna Nagar 6th Ave",
+  "east": 413594.94,
+  "north": 1447560.44,
+  "conf": 1.0,
+  "size_pt": 64.92
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "Central Revenue",
+  "east": 413633.89,
+  "north": 1447155.17,
+  "conf": 1.0,
+  "size_pt": 49.44
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "Quarters Road",
+  "east": 413639.5,
+  "north": 1447246.4,
+  "conf": 1.0,
+  "size_pt": 44.64
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "Z Block",
+  "east": 414252.33,
+  "north": 1447368.97,
+  "conf": 1.0,
+  "size_pt": 25.68
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "12th",
+  "east": 414296.46,
+  "north": 1447369.39,
+  "conf": 1.0,
+  "size_pt": 12.84
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "St",
+  "east": 414322.61,
+  "north": 1447369.71,
+  "conf": 1.0,
+  "size_pt": 6.0
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "28th",
+  "east": 413803.34,
+  "north": 1447402.1,
+  "conf": 1.0,
+  "size_pt": 14.76
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "75",
+  "east": 413804.51,
+  "north": 1447429.93,
+  "conf": 1.0,
+  "size_pt": 6.24
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "27th",
+  "east": 413855.31,
+  "north": 1447400.19,
+  "conf": 1.0,
+  "size_pt": 14.76
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "St",
+  "east": 413856.9,
+  "north": 1447428.34,
+  "conf": 1.0,
+  "size_pt": 6.6
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "BSNL",
+  "east": 413929.4,
+  "north": 1446919.77,
+  "conf": 1.0,
+  "size_pt": 16.08
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "QUARTERS.",
+  "east": 413931.73,
+  "north": 1446975.02,
+  "conf": 1.0,
+  "size_pt": 35.04
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "Thangam ColonyPillaiyar Koil St",
+  "east": 413609.23,
+  "north": 1447490.9,
+  "conf": 1.0,
+  "size_pt": 55.68
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "PeriarStreet",
+  "east": 413311.39,
+  "north": 1446094.31,
+  "conf": 1.0,
+  "size_pt": 23.16
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "KamarajarStreet",
+  "east": 413440.73,
+  "north": 1446071.13,
+  "conf": 1.0,
+  "size_pt": 35.04
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "KamarajarStreet",
+  "east": 413242.49,
+  "north": 1446074.83,
+  "conf": 1.0,
+  "size_pt": 35.16
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "- 2nd Street",
+  "east": 413646.06,
+  "north": 1446534.29,
+  "conf": 1.0,
+  "size_pt": 36.96
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "L-Block",
+  "east": 413359.55,
+  "north": 1446500.95,
+  "conf": 1.0,
+  "size_pt": 26.52
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "2nd Street",
+  "east": 413361.24,
+  "north": 1446564.88,
+  "conf": 1.0,
+  "size_pt": 36.6
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "L-Block 1Ist Street",
+  "east": 413451.21,
+  "north": 1446496.08,
+  "conf": 1.0,
+  "size_pt": 33.48
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "H-Block",
+  "east": 413464.97,
+  "north": 1446777.73,
+  "conf": 1.0,
+  "size_pt": 27.72
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "Ist",
+  "east": 413506.67,
+  "north": 1446776.25,
+  "conf": 1.0,
+  "size_pt": 8.04
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "Street",
+  "east": 413540.54,
+  "north": 1446774.87,
+  "conf": 1.0,
+  "size_pt": 19.8
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "E278.700J-Block3rd Street",
+  "east": 413209.25,
+  "north": 1446829.38,
+  "conf": 1.0,
+  "size_pt": 35.4
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "J-BlockSt9th",
+  "east": 413234.44,
+  "north": 1447062.87,
+  "conf": 1.0,
+  "size_pt": 26.04
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "5th",
+  "east": 413214.65,
+  "north": 1446960.84,
+  "conf": 1.0,
+  "size_pt": 10.08
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "St",
+  "east": 413238.36,
+  "north": 1446960.84,
+  "conf": 1.0,
+  "size_pt": 6.0
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "20th Street19th StreetH-Block",
+  "east": 413505.93,
+  "north": 1447216.13,
+  "conf": 1.0,
+  "size_pt": 39.84
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "11th",
+  "east": 413237.93,
+  "north": 1447171.36,
+  "conf": 1.0,
+  "size_pt": 12.0
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "St",
+  "east": 413263.34,
+  "north": 1447171.36,
+  "conf": 1.0,
+  "size_pt": 6.0
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "-Block",
+  "east": 413276.67,
+  "north": 1447234.34,
+  "conf": 1.0,
+  "size_pt": 17.28
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "14th",
+  "east": 413277.41,
+  "north": 1447270.96,
+  "conf": 1.0,
+  "size_pt": 12.72
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "Street",
+  "east": 413278.05,
+  "north": 1447309.06,
+  "conf": 1.0,
+  "size_pt": 19.68
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "colonythangam colonyCross StH-Block 24th Streetv=13th Main Roadv=042966WestThirumoolar07ThirumoolarH-Block23rd Street1138.206",
+  "east": 413408.13,
+  "north": 1447437.87,
+  "conf": 1.0,
+  "size_pt": 120.12
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "J-Block15th St",
+  "east": 413252.65,
+  "north": 1447388.55,
+  "conf": 1.0,
+  "size_pt": 26.04
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "Thangam ColonyChurch Street",
+  "east": 413679.3,
+  "north": 1447475.13,
+  "conf": 1.0,
+  "size_pt": 55.68
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "G-Block",
+  "east": 414283.55,
+  "north": 1447442.42,
+  "conf": 1.0,
+  "size_pt": 27.0
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "13th",
+  "east": 414328.75,
+  "north": 1447440.52,
+  "conf": 1.0,
+  "size_pt": 12.72
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "Street",
+  "east": 414366.96,
+  "north": 1447438.82,
+  "conf": 1.0,
+  "size_pt": 19.8
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "Belly AreaMain Road",
+  "east": 414100.13,
+  "north": 1447328.01,
+  "conf": 1.0,
+  "size_pt": 36.48
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "21st",
+  "east": 413387.7,
+  "north": 1447198.14,
+  "conf": 1.0,
+  "size_pt": 13.44
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "Street",
+  "east": 413388.44,
+  "north": 1447236.88,
+  "conf": 1.0,
+  "size_pt": 19.68
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "13th10th",
+  "east": 413414.9,
+  "north": 1446981.58,
+  "conf": 1.0,
+  "size_pt": 18.48
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "Street",
+  "east": 413453.11,
+  "north": 1446969.31,
+  "conf": 1.0,
+  "size_pt": 19.56
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "14th",
+  "east": 413380.93,
+  "north": 1446989.1,
+  "conf": 1.0,
+  "size_pt": 12.84
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "Street",
+  "east": 413381.46,
+  "north": 1447027.2,
+  "conf": 1.0,
+  "size_pt": 19.56
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "13th",
+  "east": 413313.4,
+  "north": 1446972.69,
+  "conf": 1.0,
+  "size_pt": 12.72
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "Main",
+  "east": 413313.82,
+  "north": 1447005.4,
+  "conf": 1.0,
+  "size_pt": 14.04
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "Road",
+  "east": 413314.25,
+  "north": 1447041.7,
+  "conf": 1.0,
+  "size_pt": 16.56
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "13th",
+  "east": 413354.68,
+  "north": 1447433.64,
+  "conf": 1.0,
+  "size_pt": 12.84
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "Main",
+  "east": 413355.84,
+  "north": 1447466.45,
+  "conf": 1.0,
+  "size_pt": 14.04
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "ppoy",
+  "east": 413357.22,
+  "north": 1447502.65,
+  "conf": 0.3,
+  "size_pt": 16.68
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "T.V.NagarVoc Street",
+  "east": 413002.54,
+  "north": 1446519.37,
+  "conf": 1.0,
+  "size_pt": 35.28
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "T.V.NagarPeriyar St",
+  "east": 413008.68,
+  "north": 1446680.88,
+  "conf": 1.0,
+  "size_pt": 33.6
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "13thStStreetNagarSt",
+  "east": 413064.35,
+  "north": 1446785.14,
+  "conf": 1.0,
+  "size_pt": 27.84
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "12th St.11th",
+  "east": 413062.24,
+  "north": 1446841.02,
+  "conf": 1.0,
+  "size_pt": 24.24
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "Nvn NagarStreetIst",
+  "east": 413011.75,
+  "north": 1446884.0,
+  "conf": 1.0,
+  "size_pt": 36.6
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "J-Block16th St",
+  "east": 413242.7,
+  "north": 1447437.13,
+  "conf": 1.0,
+  "size_pt": 26.28
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "J-Block7th St",
+  "east": 413232.75,
+  "north": 1447018.95,
+  "conf": 1.0,
+  "size_pt": 26.04
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "Ponni Colony Lane",
+  "east": 414160.67,
+  "north": 1447281.33,
+  "conf": 1.0,
+  "size_pt": 63.84
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "UStT.V.NagarTTV.NaganillaGandhi MainVinayagar Koi1.V.NagarThiru. Vi.Ka stBharathidasanCanarI.V.NagarBankAmbedkar StATM",
+  "east": 413011.75,
+  "north": 1446596.42,
+  "conf": 0.967,
+  "size_pt": 73.56
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "2nd St",
+  "east": 412969.31,
+  "north": 1446853.09,
+  "conf": 1.0,
+  "size_pt": 22.8
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "3rd St",
+  "east": 413031.86,
+  "north": 1446853.3,
+  "conf": 1.0,
+  "size_pt": 21.24
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "4th",
+  "east": 413024.45,
+  "north": 1446828.54,
+  "conf": 1.0,
+  "size_pt": 9.96
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "9th sttsNvn NagarsC08th St",
+  "east": 412969.2,
+  "north": 1446817.63,
+  "conf": 0.875,
+  "size_pt": 41.4
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "5th",
+  "east": 413026.46,
+  "north": 1446802.92,
+  "conf": 1.0,
+  "size_pt": 10.08
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "L-Block4th Street",
+  "east": 413448.56,
+  "north": 1446549.64,
+  "conf": 1.0,
+  "size_pt": 35.04
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "Af-Block4th Street",
+  "east": 413725.76,
+  "north": 1446515.35,
+  "conf": 1.0,
+  "size_pt": 34.92
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "GandhiStreet",
+  "east": 413410.67,
+  "north": 1446092.51,
+  "conf": 1.0,
+  "size_pt": 23.28
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "StreetAnnaBajanaikoilStreet",
+  "east": 413351.19,
+  "north": 1446040.11,
+  "conf": 1.0,
+  "size_pt": 35.88
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "Central Revenue",
+  "east": 413740.58,
+  "north": 1447133.78,
+  "conf": 1.0,
+  "size_pt": 54.96
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "Quarters",
+  "east": 413745.24,
+  "north": 1447216.24,
+  "conf": 1.0,
+  "size_pt": 27.96
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "J-Block:18th St",
+  "east": 413293.18,
+  "north": 1447428.77,
+  "conf": 1.0,
+  "size_pt": 26.04
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "NehruNehru Nagar4thSt5thCrossNehru5th",
+  "east": 413227.35,
+  "north": 1446530.27,
+  "conf": 1.0,
+  "size_pt": 55.92
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "IhirumoolarVivekanandarThirumoolarQisJQQIhirumoolarVallalar StreetThirumoolar CAmman K-Road",
+  "east": 413520.85,
+  "north": 1447375.42,
+  "conf": 1.0,
+  "size_pt": 78.6
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "15th StreetG-Block",
+  "east": 414169.24,
+  "north": 1447392.15,
+  "conf": 1.0,
+  "size_pt": 37.8
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "Thangam Colony2nd Street",
+  "east": 413529.64,
+  "north": 1447491.11,
+  "conf": 1.0,
+  "size_pt": 55.92
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "H-Block",
+  "east": 413399.13,
+  "north": 1447433.21,
+  "conf": 1.0,
+  "size_pt": 27.72
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "24th",
+  "east": 413400.61,
+  "north": 1447478.83,
+  "conf": 1.0,
+  "size_pt": 14.64
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "Street",
+  "east": 413401.88,
+  "north": 1447519.05,
+  "conf": 1.0,
+  "size_pt": 20.16
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "13th",
+  "east": 413203.01,
+  "north": 1447279.64,
+  "conf": 1.0,
+  "size_pt": 12.72
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "St&",
+  "east": 413229.25,
+  "north": 1447279.64,
+  "conf": 1.0,
+  "size_pt": 6.0
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "Y-Block5th StY-Block",
+  "east": 413398.5,
+  "north": 1446226.93,
+  "conf": 1.0,
+  "size_pt": 35.04
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "6th",
+  "east": 413436.6,
+  "north": 1446252.75,
+  "conf": 1.0,
+  "size_pt": 9.96
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "Street",
+  "east": 413472.69,
+  "north": 1446252.12,
+  "conf": 1.0,
+  "size_pt": 20.16
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "<-Block4th Street",
+  "east": 413242.59,
+  "north": 1446193.27,
+  "conf": 1.0,
+  "size_pt": 35.04
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "y-Block8th St",
+  "east": 413418.5,
+  "north": 1446332.13,
+  "conf": 1.0,
+  "size_pt": 25.92
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "AmbedkarStreet",
+  "east": 413266.62,
+  "north": 1445992.38,
+  "conf": 1.0,
+  "size_pt": 33.72
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "12th",
+  "east": 413439.67,
+  "north": 1446997.35,
+  "conf": 1.0,
+  "size_pt": 12.72
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "St",
+  "east": 413465.92,
+  "north": 1446997.35,
+  "conf": 1.0,
+  "size_pt": 6.0
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "16th",
+  "east": 413460.41,
+  "north": 1447168.82,
+  "conf": 1.0,
+  "size_pt": 12.72
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "Street",
+  "east": 413498.52,
+  "north": 1447168.82,
+  "conf": 1.0,
+  "size_pt": 19.68
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "2nd Avenue",
+  "east": 414048.69,
+  "north": 1446655.38,
+  "conf": 1.0,
+  "size_pt": 40.08
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "(Highways)",
+  "east": 414124.58,
+  "north": 1446651.14,
+  "conf": 1.0,
+  "size_pt": 35.64
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "East",
+  "east": 413005.08,
+  "north": 1447442.21,
+  "conf": 1.0,
+  "size_pt": 13.92
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "Main",
+  "east": 413005.93,
+  "north": 1447475.97,
+  "conf": 1.0,
+  "size_pt": 14.04
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "Road",
+  "east": 413006.88,
+  "north": 1447512.17,
+  "conf": 1.0,
+  "size_pt": 16.68
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "J13thMain Road",
+  "east": 413347.16,
+  "north": 1446628.07,
+  "conf": 1.0,
+  "size_pt": 36.0
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "NagarSt",
+  "east": 413275.61,
+  "north": 1446490.26,
+  "conf": 1.0,
+  "size_pt": 19.68
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "NagarSt",
+  "east": 413275.61,
+  "north": 1446566.68,
+  "conf": 1.0,
+  "size_pt": 19.68
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "3rd Street",
+  "east": 413256.88,
+  "north": 1446607.22,
+  "conf": 1.0,
+  "size_pt": 34.92
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "2nd Street",
+  "east": 413261.64,
+  "north": 1446639.5,
+  "conf": 1.0,
+  "size_pt": 36.96
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "1st",
+  "east": 413223.43,
+  "north": 1446663.42,
+  "conf": 1.0,
+  "size_pt": 8.52
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "Street",
+  "east": 413257.2,
+  "north": 1446662.26,
+  "conf": 1.0,
+  "size_pt": 20.16
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "Nehru",
+  "east": 413188.72,
+  "north": 1446541.17,
+  "conf": 1.0,
+  "size_pt": 18.84
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "Nagar Main",
+  "east": 413190.94,
+  "north": 1446599.92,
+  "conf": 1.0,
+  "size_pt": 37.92
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "Road:",
+  "east": 413191.36,
+  "north": 1446657.28,
+  "conf": 1.0,
+  "size_pt": 16.56
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "y-Block4th St",
+  "east": 413358.17,
+  "north": 1446219.09,
+  "conf": 1.0,
+  "size_pt": 25.92
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "1.00<-Block2nd Street",
+  "east": 413243.23,
+  "north": 1446307.05,
+  "conf": 1.0,
+  "size_pt": 36.96
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "Z-Block",
+  "east": 413183.21,
+  "north": 1446245.66,
+  "conf": 1.0,
+  "size_pt": 27.24
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "5th",
+  "east": 413184.8,
+  "north": 1446287.26,
+  "conf": 1.0,
+  "size_pt": 10.08
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "Street",
+  "east": 413186.18,
+  "north": 1446323.45,
+  "conf": 1.0,
+  "size_pt": 20.16
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "<-Block1st Street",
+  "east": 413237.51,
+  "north": 1446366.32,
+  "conf": 1.0,
+  "size_pt": 33.12
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "Y-Block",
+  "east": 413396.27,
+  "north": 1446178.77,
+  "conf": 1.0,
+  "size_pt": 25.92
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "3rd Street",
+  "east": 413459.14,
+  "north": 1446177.71,
+  "conf": 1.0,
+  "size_pt": 35.28
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "Y-Block",
+  "east": 413460.2,
+  "north": 1446291.91,
+  "conf": 1.0,
+  "size_pt": 25.92
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "7th",
+  "east": 413501.38,
+  "north": 1446291.17,
+  "conf": 1.0,
+  "size_pt": 9.48
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "Street",
+  "east": 413536.62,
+  "north": 1446290.64,
+  "conf": 1.0,
+  "size_pt": 19.68
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "13th",
+  "east": 413305.36,
+  "north": 1446292.55,
+  "conf": 1.0,
+  "size_pt": 12.72
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "Main",
+  "east": 413306.63,
+  "north": 1446325.25,
+  "conf": 1.0,
+  "size_pt": 14.04
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "Road",
+  "east": 413307.79,
+  "north": 1446361.66,
+  "conf": 1.0,
+  "size_pt": 16.68
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "5th",
+  "east": 413780.38,
+  "north": 1446502.43,
+  "conf": 1.0,
+  "size_pt": 10.2
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "Street",
+  "east": 413782.07,
+  "north": 1446538.21,
+  "conf": 1.0,
+  "size_pt": 19.8
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "3rd Street",
+  "east": 413678.24,
+  "north": 1446529.74,
+  "conf": 1.0,
+  "size_pt": 35.4
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "Af-Block",
+  "east": 413686.71,
+  "north": 1446479.89,
+  "conf": 1.0,
+  "size_pt": 30.24
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "Ist",
+  "east": 413731.05,
+  "north": 1446478.2,
+  "conf": 1.0,
+  "size_pt": 8.52
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "Street",
+  "east": 413764.5,
+  "north": 1446477.03,
+  "conf": 1.0,
+  "size_pt": 19.8
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "479",
+  "east": 413810.86,
+  "north": 1446499.26,
+  "conf": 1.0,
+  "size_pt": 9.96
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "Street",
+  "east": 413812.76,
+  "north": 1446535.14,
+  "conf": 1.0,
+  "size_pt": 20.16
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "Af-Block",
+  "east": 413722.9,
+  "north": 1446581.5,
+  "conf": 1.0,
+  "size_pt": 30.24
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "7th",
+  "east": 413767.89,
+  "north": 1446580.02,
+  "conf": 1.0,
+  "size_pt": 9.48
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "Street",
+  "east": 413803.13,
+  "north": 1446578.64,
+  "conf": 1.0,
+  "size_pt": 19.68
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "Af-Block",
+  "east": 413726.4,
+  "north": 1446617.49,
+  "conf": 1.0,
+  "size_pt": 30.36
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "8th",
+  "east": 413770.75,
+  "north": 1446615.9,
+  "conf": 1.0,
+  "size_pt": 10.08
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "Street",
+  "east": 413806.63,
+  "north": 1446614.63,
+  "conf": 1.0,
+  "size_pt": 19.8
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "-Block",
+  "east": 413394.9,
+  "north": 1446512.28,
+  "conf": 1.0,
+  "size_pt": 17.28
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "3rd Street",
+  "east": 413396.38,
+  "north": 1446567.21,
+  "conf": 1.0,
+  "size_pt": 34.92
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "5th",
+  "east": 413495.98,
+  "north": 1446516.72,
+  "conf": 1.0,
+  "size_pt": 10.08
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "Street",
+  "east": 413496.93,
+  "north": 1446552.6,
+  "conf": 1.0,
+  "size_pt": 19.8
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "L-Block",
+  "east": 413529.85,
+  "north": 1446468.25,
+  "conf": 1.0,
+  "size_pt": 26.64
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "479",
+  "east": 413532.81,
+  "north": 1446509.42,
+  "conf": 1.0,
+  "size_pt": 9.96
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "Street",
+  "east": 413535.35,
+  "north": 1446545.41,
+  "conf": 1.0,
+  "size_pt": 20.28
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "7th",
+  "east": 413447.18,
+  "north": 1446589.75,
+  "conf": 1.0,
+  "size_pt": 9.48
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "Street",
+  "east": 413482.43,
+  "north": 1446588.7,
+  "conf": 1.0,
+  "size_pt": 19.68
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "H-Block",
+  "east": 413822.5,
+  "north": 1446767.36,
+  "conf": 1.0,
+  "size_pt": 27.72
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "H-Block4th St",
+  "east": 413370.87,
+  "north": 1446829.81,
+  "conf": 1.0,
+  "size_pt": 27.6
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "Street18th",
+  "east": 413437.55,
+  "north": 1447235.82,
+  "conf": 1.0,
+  "size_pt": 21.84
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "St",
+  "east": 413471.63,
+  "north": 1447235.82,
+  "conf": 1.0,
+  "size_pt": 6.0
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "17th",
+  "east": 413421.78,
+  "north": 1447197.71,
+  "conf": 1.0,
+  "size_pt": 12.72
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "-Block",
+  "east": 413201.84,
+  "north": 1446792.02,
+  "conf": 1.0,
+  "size_pt": 26.04
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "1st",
+  "east": 413242.06,
+  "north": 1446790.54,
+  "conf": 1.0,
+  "size_pt": 8.04
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "2nd St-",
+  "east": 413264.61,
+  "north": 1446851.29,
+  "conf": 1.0,
+  "size_pt": 22.92
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "-Block",
+  "east": 413192.95,
+  "north": 1447008.04,
+  "conf": 1.0,
+  "size_pt": 17.28
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "6th",
+  "east": 413193.37,
+  "north": 1447041.17,
+  "conf": 1.0,
+  "size_pt": 9.96
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "Street",
+  "east": 413193.9,
+  "north": 1447076.84,
+  "conf": 1.0,
+  "size_pt": 19.68
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "11th",
+  "east": 413483.59,
+  "north": 1446980.63,
+  "conf": 1.0,
+  "size_pt": 11.88
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "Street",
+  "east": 413484.02,
+  "north": 1447017.99,
+  "conf": 1.0,
+  "size_pt": 19.68
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "Street",
+  "east": 413415.75,
+  "north": 1447024.87,
+  "conf": 1.0,
+  "size_pt": 19.56
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "-Block",
+  "east": 413434.91,
+  "north": 1447055.14,
+  "conf": 1.0,
+  "size_pt": 17.16
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "15th",
+  "east": 413471.63,
+  "north": 1447055.14,
+  "conf": 1.0,
+  "size_pt": 12.72
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "Street",
+  "east": 413509.74,
+  "north": 1447055.14,
+  "conf": 1.0,
+  "size_pt": 19.68
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "1Oth",
+  "east": 413187.66,
+  "north": 1447138.44,
+  "conf": 1.0,
+  "size_pt": 12.72
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "St-",
+  "east": 413188.19,
+  "north": 1447164.59,
+  "conf": 1.0,
+  "size_pt": 6.12
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "J-Block17th St",
+  "east": 413240.79,
+  "north": 1447496.4,
+  "conf": 1.0,
+  "size_pt": 26.04
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "H-Block30th Street",
+  "east": 413665.43,
+  "north": 1447432.58,
+  "conf": 1.0,
+  "size_pt": 39.48
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "H-Block",
+  "east": 413774.66,
+  "north": 1447472.59,
+  "conf": 1.0,
+  "size_pt": 27.72
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "25th",
+  "east": 413820.28,
+  "north": 1447470.58,
+  "conf": 1.0,
+  "size_pt": 14.64
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "Street",
+  "east": 413860.08,
+  "north": 1447468.88,
+  "conf": 1.0,
+  "size_pt": 19.68
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "-Block",
+  "east": 413442.63,
+  "north": 1447271.59,
+  "conf": 1.0,
+  "size_pt": 17.28
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "22ndStreet",
+  "east": 413502.22,
+  "north": 1447271.59,
+  "conf": 1.0,
+  "size_pt": 40.68
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "Kathiravan",
+  "east": 413552.29,
+  "north": 1447126.06,
+  "conf": 1.0,
+  "size_pt": 34.92
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "Colony",
+  "east": 413554.51,
+  "north": 1447186.18,
+  "conf": 1.0,
+  "size_pt": 21.72
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "St",
+  "east": 413098.65,
+  "north": 1446805.67,
+  "conf": 1.0,
+  "size_pt": 6.0
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "T.V. NagarKamarajar St. T.V.NagarThiruvalluvarStT.V. NagarAnna St",
+  "east": 413009.63,
+  "north": 1446743.76,
+  "conf": 1.0,
+  "size_pt": 45.48
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "T.V.NagarThiru. Vi.Ka st",
+  "east": 413005.5,
+  "north": 1446585.63,
+  "conf": 1.0,
+  "size_pt": 44.64
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "T.V.NagarNehru Street\u2039",
+  "east": 412996.4,
+  "north": 1446465.92,
+  "conf": 1.0,
+  "size_pt": 44.16
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "BSNL",
+  "east": 414112.09,
+  "north": 1446942.95,
+  "conf": 1.0,
+  "size_pt": 16.2
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "QUARTERS",
+  "east": 414115.16,
+  "north": 1446998.2,
+  "conf": 1.0,
+  "size_pt": 34.92
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "16th StreetG-Block",
+  "east": 414138.44,
+  "north": 1447396.17,
+  "conf": 1.0,
+  "size_pt": 38.28
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "17thG-Block",
+  "east": 414054.83,
+  "north": 1447397.44,
+  "conf": 1.0,
+  "size_pt": 27.48
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "St",
+  "east": 414061.28,
+  "north": 1447437.02,
+  "conf": 1.0,
+  "size_pt": 6.6
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "18thG-Block",
+  "east": 414022.12,
+  "north": 1447396.8,
+  "conf": 1.0,
+  "size_pt": 27.48
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "St",
+  "east": 414028.68,
+  "north": 1447436.39,
+  "conf": 1.0,
+  "size_pt": 6.6
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "29th StreetH-Block",
+  "east": 413731.48,
+  "north": 1447422.42,
+  "conf": 1.0,
+  "size_pt": 40.2
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "2nd Street(D Sector)W-Block",
+  "east": 412953.22,
+  "north": 1447453.54,
+  "conf": 1.0,
+  "size_pt": 37.08
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "Road",
+  "east": 413072.82,
+  "north": 1446679.83,
+  "conf": 1.0,
+  "size_pt": 16.68
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "2nd Street",
+  "east": 413832.98,
+  "north": 1446746.82,
+  "conf": 1.0,
+  "size_pt": 36.48
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "Nvn",
+  "east": 413089.97,
+  "north": 1446535.46,
+  "conf": 1.0,
+  "size_pt": 11.16
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "Ragar",
+  "east": 413091.98,
+  "north": 1446571.97,
+  "conf": 1.0,
+  "size_pt": 19.68
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "14th",
+  "east": 413091.87,
+  "north": 1446609.86,
+  "conf": 1.0,
+  "size_pt": 12.72
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "Street",
+  "east": 413092.82,
+  "north": 1446648.07,
+  "conf": 1.0,
+  "size_pt": 19.8
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "H-Block",
+  "east": 413833.3,
+  "north": 1447407.81,
+  "conf": 1.0,
+  "size_pt": 27.72
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "Road (NBRR)21st Main",
+  "east": 413989.1,
+  "north": 1447281.96,
+  "conf": 1.0,
+  "size_pt": 44.64
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "10th StreetJ-Block",
+  "east": 413183.21,
+  "north": 1447227.67,
+  "conf": 1.0,
+  "size_pt": 37.8
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "8th",
+  "east": 413274.03,
+  "north": 1446990.69,
+  "conf": 0.3,
+  "size_pt": 10.68
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "Street-Block",
+  "east": 413274.24,
+  "north": 1447026.14,
+  "conf": 1.0,
+  "size_pt": 20.04
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "-Block",
+  "east": 413514.82,
+  "north": 1446944.54,
+  "conf": 1.0,
+  "size_pt": 17.28
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "9th",
+  "east": 413515.56,
+  "north": 1446977.67,
+  "conf": 1.0,
+  "size_pt": 9.96
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "Street",
+  "east": 413516.19,
+  "north": 1447013.34,
+  "conf": 1.0,
+  "size_pt": 19.68
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "Wt-Strekt1st(D Sector)",
+  "east": 412880.82,
+  "north": 1447479.47,
+  "conf": 1.0,
+  "size_pt": 35.52
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "W-Block3rd Street(D Sector)",
+  "east": 412876.91,
+  "north": 1447432.9,
+  "conf": 1.0,
+  "size_pt": 35.64
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "Jawaharlal Nehru",
+  "east": 413101.71,
+  "north": 1447272.97,
+  "conf": 1.0,
+  "size_pt": 57.48
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "Road",
+  "east": 413103.3,
+  "north": 1447347.16,
+  "conf": 1.0,
+  "size_pt": 16.56
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "E(Inner Road)",
+  "east": 413105.0,
+  "north": 1447407.6,
+  "conf": 1.0,
+  "size_pt": 42.6
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "G-Block",
+  "east": 414071.13,
+  "north": 1446801.23,
+  "conf": 1.0,
+  "size_pt": 26.88
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "Znd Street",
+  "east": 414135.37,
+  "north": 1446798.69,
+  "conf": 1.0,
+  "size_pt": 36.6
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "G-Block",
+  "east": 413996.08,
+  "north": 1446746.72,
+  "conf": 1.0,
+  "size_pt": 27.0
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "Ist",
+  "east": 414037.15,
+  "north": 1446745.13,
+  "conf": 1.0,
+  "size_pt": 8.04
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "Street",
+  "east": 414071.02,
+  "north": 1446743.76,
+  "conf": 1.0,
+  "size_pt": 19.8
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "Z-Block",
+  "east": 413247.35,
+  "north": 1446259.31,
+  "conf": 1.0,
+  "size_pt": 27.24
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "1AthMain.,Road",
+  "east": 413563.72,
+  "north": 1446031.86,
+  "conf": 1.0,
+  "size_pt": 36.0
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "2ndAvenue Lane",
+  "east": 413475.44,
+  "north": 1446663.42,
+  "conf": 1.0,
+  "size_pt": 43.44
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "G-Block3rd St",
+  "east": 414112.09,
+  "north": 1446772.12,
+  "conf": 1.0,
+  "size_pt": 27.0
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "H-Block",
+  "east": 413783.98,
+  "north": 1447410.67,
+  "conf": 1.0,
+  "size_pt": 27.6
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "Ponni ColonyMain Road",
+  "east": 413662.47,
+  "north": 1447384.74,
+  "conf": 1.0,
+  "size_pt": 47.88
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "21st Main Ro\u00e1d(Part) 6th Aye",
+  "east": 413986.13,
+  "north": 1447424.53,
+  "conf": 1.0,
+  "size_pt": 54.6
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "-Block",
+  "east": 413247.25,
+  "north": 1447193.27,
+  "conf": 1.0,
+  "size_pt": 17.28
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "Z Block6th_Street",
+  "east": 414225.97,
+  "north": 1446797.21,
+  "conf": 1.0,
+  "size_pt": 35.16
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "Y-Block",
+  "east": 413464.01,
+  "north": 1446347.48,
+  "conf": 1.0,
+  "size_pt": 25.92
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "476",
+  "east": 413504.76,
+  "north": 1446346.74,
+  "conf": 1.0,
+  "size_pt": 9.96
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "Street",
+  "east": 413540.43,
+  "north": 1446346.1,
+  "conf": 1.0,
+  "size_pt": 19.68
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "3rd Street",
+  "east": 413241.53,
+  "north": 1446241.85,
+  "conf": 1.0,
+  "size_pt": 35.04
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "St",
+  "east": 413094.41,
+  "north": 1446837.64,
+  "conf": 1.0,
+  "size_pt": 6.0
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "-Block",
+  "east": 413239.1,
+  "north": 1446978.41,
+  "conf": 1.0,
+  "size_pt": 17.16
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "Amman",
+  "east": 413576.42,
+  "north": 1447320.6,
+  "conf": 1.0,
+  "size_pt": 24.84
+ },
+ {
+  "ward": 99,
+  "role": "road_name",
+  "text": "Koil St",
+  "east": 413584.67,
+  "north": 1447371.3,
+  "conf": 1.0,
+  "size_pt": 23.04
+ },
+ {
+  "ward": 99,
+  "role": "location_names",
+  "text": "Park",
+  "east": 414203.22,
+  "north": 1446827.9,
+  "conf": 1.0,
+  "size_pt": 14.4
+ },
+ {
+  "ward": 99,
+  "role": "location_names",
+  "text": "CPWDQuarters",
+  "east": 412914.69,
+  "north": 1446669.14,
+  "conf": 1.0,
+  "size_pt": 28.08
+ },
+ {
+  "ward": 99,
+  "role": "location_names",
+  "text": "SenthilNursingHome",
+  "east": 413343.35,
+  "north": 1446661.94,
+  "conf": 1.0,
+  "size_pt": 24.48
+ },
+ {
+  "ward": 99,
+  "role": "location_names",
+  "text": "Hospital",
+  "east": 413278.68,
+  "north": 1446875.42,
+  "conf": 1.0,
+  "size_pt": 41.16
+ },
+ {
+  "ward": 99,
+  "role": "location_names",
+  "text": "CafeCoffeeDay (CCD)",
+  "east": 413506.14,
+  "north": 1446858.81,
+  "conf": 1.0,
+  "size_pt": 35.04
+ },
+ {
+  "ward": 99,
+  "role": "location_names",
+  "text": "AdyarAnandBhavan",
+  "east": 413772.33,
+  "north": 1446650.51,
+  "conf": 1.0,
+  "size_pt": 23.16
+ },
+ {
+  "ward": 99,
+  "role": "location_names",
+  "text": "AmmaUpavagam",
+  "east": 413159.93,
+  "north": 1446644.79,
+  "conf": 1.0,
+  "size_pt": 33.72
+ },
+ {
+  "ward": 99,
+  "role": "location_names",
+  "text": "NilgrisSupermarket",
+  "east": 413261.75,
+  "north": 1446755.82,
+  "conf": 1.0,
+  "size_pt": 41.88
+ },
+ {
+  "ward": 99,
+  "role": "location_names",
+  "text": "LalithaJewellery",
+  "east": 413403.9,
+  "north": 1446647.54,
+  "conf": 1.0,
+  "size_pt": 29.52
+ },
+ {
+  "ward": 99,
+  "role": "location_names",
+  "text": "KotakMahindra Bank",
+  "east": 413454.17,
+  "north": 1446746.51,
+  "conf": 1.0,
+  "size_pt": 50.04
+ },
+ {
+  "ward": 99,
+  "role": "location_names",
+  "text": "CanaraBankATMSBIATM",
+  "east": 413067.63,
+  "north": 1446534.61,
+  "conf": 1.0,
+  "size_pt": 34.68
+ },
+ {
+  "ward": 99,
+  "role": "location_names",
+  "text": "KarthickTiffen Center",
+  "east": 413640.45,
+  "north": 1446662.15,
+  "conf": 1.0,
+  "size_pt": 43.32
+ },
+ {
+  "ward": 99,
+  "role": "location_names",
+  "text": "IndianBank ATM",
+  "east": 413764.39,
+  "north": 1446924.96,
+  "conf": 1.0,
+  "size_pt": 33.84
+ },
+ {
+  "ward": 99,
+  "role": "location_names",
+  "text": "HoneyJuicePalace",
+  "east": 413772.76,
+  "north": 1446854.78,
+  "conf": 1.0,
+  "size_pt": 23.64
+ },
+ {
+  "ward": 99,
+  "role": "location_names",
+  "text": "Sukham",
+  "east": 413637.49,
+  "north": 1446751.38,
+  "conf": 1.0,
+  "size_pt": 25.56
+ },
+ {
+  "ward": 99,
+  "role": "location_names",
+  "text": "Pharmacy",
+  "east": 413698.88,
+  "north": 1446747.99,
+  "conf": 1.0,
+  "size_pt": 33.72
+ },
+ {
+  "ward": 99,
+  "role": "location_names",
+  "text": "HDFC Bank",
+  "east": 413671.15,
+  "north": 1446726.93,
+  "conf": 1.0,
+  "size_pt": 37.56
+ },
+ {
+  "ward": 99,
+  "role": "location_names",
+  "text": "ShaDentalClinic",
+  "east": 413547.84,
+  "north": 1446742.38,
+  "conf": 1.0,
+  "size_pt": 20.88
+ },
+ {
+  "ward": 99,
+  "role": "location_names",
+  "text": "Kalyan KendraCommunityHall",
+  "east": 413738.89,
+  "north": 1446963.38,
+  "conf": 1.0,
+  "size_pt": 49.08
+ },
+ {
+  "ward": 99,
+  "role": "location_names",
+  "text": "ICICIATM",
+  "east": 413071.55,
+  "north": 1446876.06,
+  "conf": 1.0,
+  "size_pt": 14.4
+ },
+ {
+  "ward": 99,
+  "role": "location_names",
+  "text": "AnjaliSweetsBakery",
+  "east": 413066.47,
+  "north": 1446468.04,
+  "conf": 1.0,
+  "size_pt": 32.16
+ },
+ {
+  "ward": 99,
+  "role": "location_names",
+  "text": "Pump",
+  "east": 412986.03,
+  "north": 1446422.21,
+  "conf": 1.0,
+  "size_pt": 18.24
+ },
+ {
+  "ward": 99,
+  "role": "location_names",
+  "text": "Room",
+  "east": 413027.1,
+  "north": 1446423.58,
+  "conf": 1.0,
+  "size_pt": 18.0
+ },
+ {
+  "ward": 99,
+  "role": "location_names",
+  "text": "SathyaPharmacy",
+  "east": 413213.06,
+  "north": 1446682.68,
+  "conf": 1.0,
+  "size_pt": 30.36
+ },
+ {
+  "ward": 99,
+  "role": "location_names",
+  "text": "IndianBankATM",
+  "east": 413159.29,
+  "north": 1446382.62,
+  "conf": 1.0,
+  "size_pt": 19.08
+ },
+ {
+  "ward": 99,
+  "role": "location_names",
+  "text": "RobinandRobinHealth",
+  "east": 413157.6,
+  "north": 1446191.57,
+  "conf": 1.0,
+  "size_pt": 24.72
+ },
+ {
+  "ward": 99,
+  "role": "location_names",
+  "text": "NeomedHospitalChennal",
+  "east": 413619.18,
+  "north": 1446481.27,
+  "conf": 1.0,
+  "size_pt": 29.04
+ },
+ {
+  "ward": 99,
+  "role": "location_names",
+  "text": "ThirumangalamMetro Bus StopThirumangalam",
+  "east": 413445.49,
+  "north": 1446932.79,
+  "conf": 1.0,
+  "size_pt": 54.12
+ },
+ {
+  "ward": 99,
+  "role": "location_names",
+  "text": "AnnaNagarTower",
+  "east": 414234.34,
+  "north": 1446899.45,
+  "conf": 1.0,
+  "size_pt": 19.92
+ },
+ {
+  "ward": 99,
+  "role": "location_names",
+  "text": "Anna NagarTower StationBus Stop",
+  "east": 414315.94,
+  "north": 1446864.52,
+  "conf": 1.0,
+  "size_pt": 45.24
+ },
+ {
+  "ward": 99,
+  "role": "location_names",
+  "text": "CPWDQuartersBusStop",
+  "east": 413159.29,
+  "north": 1446559.91,
+  "conf": 1.0,
+  "size_pt": 27.96
+ },
+ {
+  "ward": 99,
+  "role": "location_names",
+  "text": "Care",
+  "east": 413198.14,
+  "north": 1446173.79,
+  "conf": 1.0,
+  "size_pt": 14.16
+ },
+ {
+  "ward": 99,
+  "role": "location_names",
+  "text": "ABCRohini park",
+  "east": 413052.5,
+  "north": 1447337.21,
+  "conf": 1.0,
+  "size_pt": 34.56
+ },
+ {
+  "ward": 99,
+  "role": "location_names",
+  "text": "Sri DeviSpeciality Hospial",
+  "east": 413259.53,
+  "north": 1447090.81,
+  "conf": 1.0,
+  "size_pt": 53.76
+ },
+ {
+  "ward": 99,
+  "role": "location_names",
+  "text": "ChinmayaVidhyalaya, cAnna Nagar(",
+  "east": 414094.73,
+  "north": 1447397.65,
+  "conf": 1.0,
+  "size_pt": 36.84
+ },
+ {
+  "ward": 99,
+  "role": "location_names",
+  "text": "AashianaHospital",
+  "east": 414285.03,
+  "north": 1447468.35,
+  "conf": 1.0,
+  "size_pt": 27.0
+ },
+ {
+  "ward": 99,
+  "role": "location_names",
+  "text": "Prakash'Hospial -",
+  "east": 413166.07,
+  "north": 1447025.83,
+  "conf": 1.0,
+  "size_pt": 23.4
+ },
+ {
+  "ward": 99,
+  "role": "location_names",
+  "text": "Park",
+  "east": 413454.59,
+  "north": 1447207.66,
+  "conf": 1.0,
+  "size_pt": 13.08
+ },
+ {
+  "ward": 99,
+  "role": "location_names",
+  "text": "Park",
+  "east": 413689.14,
+  "north": 1447083.09,
+  "conf": 1.0,
+  "size_pt": 13.08
+ },
+ {
+  "ward": 99,
+  "role": "size_label",
+  "text": "VV-",
+  "east": 413946.55,
+  "north": 1446972.9,
+  "conf": 0.3,
+  "size_pt": 9.96
+ }
+]

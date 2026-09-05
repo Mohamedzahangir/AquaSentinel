@@ -1,0 +1,524 @@
+[
+ {
+  "ward": 75,
+  "role": "road_name",
+  "text": "Otteri\u2022 Bridge",
+  "east": 418837.99,
+  "north": 1448152.41,
+  "conf": 1.0,
+  "size_pt": 20.4
+ },
+ {
+  "ward": 75,
+  "role": "road_name",
+  "text": "StreetMuku",
+  "east": 419138.75,
+  "north": 1447501.59,
+  "conf": 1.0,
+  "size_pt": 35.28
+ },
+ {
+  "ward": 75,
+  "role": "road_name",
+  "text": "Thiruvika Street",
+  "east": 418922.44,
+  "north": 1447628.6,
+  "conf": 1.0,
+  "size_pt": 46.8
+ },
+ {
+  "ward": 75,
+  "role": "road_name",
+  "text": "Valluvan",
+  "east": 418849.42,
+  "north": 1447681.2,
+  "conf": 1.0,
+  "size_pt": 22.8
+ },
+ {
+  "ward": 75,
+  "role": "road_name",
+  "text": "Brickkiln5th LaneIallivan Street",
+  "east": 418872.38,
+  "north": 1447701.42,
+  "conf": 1.0,
+  "size_pt": 41.64
+ },
+ {
+  "ward": 75,
+  "role": "road_name",
+  "text": "Strahans Road",
+  "east": 419047.42,
+  "north": 1448082.03,
+  "conf": 1.0,
+  "size_pt": 45.96
+ },
+ {
+  "ward": 75,
+  "role": "road_name",
+  "text": "Bhavani Amman Koil St",
+  "east": 418994.08,
+  "north": 1447570.49,
+  "conf": 1.0,
+  "size_pt": 73.68
+ },
+ {
+  "ward": 75,
+  "role": "road_name",
+  "text": "Chellappan Mudali St",
+  "east": 418992.39,
+  "north": 1448000.42,
+  "conf": 1.0,
+  "size_pt": 64.32
+ },
+ {
+  "ward": 75,
+  "role": "road_name",
+  "text": "Newis Chellappan",
+  "east": 419079.59,
+  "north": 1447597.59,
+  "conf": 1.0,
+  "size_pt": 49.44
+ },
+ {
+  "ward": 75,
+  "role": "road_name",
+  "text": "Mudali St",
+  "east": 419088.9,
+  "north": 1447521.06,
+  "conf": 1.0,
+  "size_pt": 27.24
+ },
+ {
+  "ward": 75,
+  "role": "road_name",
+  "text": "VenkatammalSamadhi Street",
+  "east": 418931.01,
+  "north": 1447374.15,
+  "conf": 1.0,
+  "size_pt": 91.56
+ },
+ {
+  "ward": 75,
+  "role": "road_name",
+  "text": "Venkatadri St",
+  "east": 419139.7,
+  "north": 1447706.29,
+  "conf": 1.0,
+  "size_pt": 39.96
+ },
+ {
+  "ward": 75,
+  "role": "road_name",
+  "text": "NakkiranKamarajStreetKamaraju StreetBalai",
+  "east": 418924.87,
+  "north": 1447552.39,
+  "conf": 1.0,
+  "size_pt": 60.6
+ },
+ {
+  "ward": 75,
+  "role": "road_name",
+  "text": "Padavattaman",
+  "east": 419097.37,
+  "north": 1447679.3,
+  "conf": 1.0,
+  "size_pt": 41.28
+ },
+ {
+  "ward": 75,
+  "role": "road_name",
+  "text": "Koil",
+  "east": 419113.35,
+  "north": 1447627.01,
+  "conf": 1.0,
+  "size_pt": 7.92
+ },
+ {
+  "ward": 75,
+  "role": "road_name",
+  "text": "Street",
+  "east": 419121.6,
+  "north": 1447593.99,
+  "conf": 1.0,
+  "size_pt": 17.04
+ },
+ {
+  "ward": 75,
+  "role": "road_name",
+  "text": "Valluvan",
+  "east": 419106.89,
+  "north": 1447446.44,
+  "conf": 1.0,
+  "size_pt": 22.56
+ },
+ {
+  "ward": 75,
+  "role": "road_name",
+  "text": "Street",
+  "east": 419119.81,
+  "north": 1447402.52,
+  "conf": 1.0,
+  "size_pt": 17.16
+ },
+ {
+  "ward": 75,
+  "role": "road_name",
+  "text": "Kandappa Street",
+  "east": 419053.45,
+  "north": 1447983.49,
+  "conf": 1.0,
+  "size_pt": 51.6
+ },
+ {
+  "ward": 75,
+  "role": "road_name",
+  "text": "Venkatadri Street",
+  "east": 419209.02,
+  "north": 1447434.8,
+  "conf": 1.0,
+  "size_pt": 52.08
+ },
+ {
+  "ward": 75,
+  "role": "road_name",
+  "text": "Ss.Puram",
+  "east": 418639.88,
+  "north": 1447338.59,
+  "conf": 1.0,
+  "size_pt": 27.84
+ },
+ {
+  "ward": 75,
+  "role": "road_name",
+  "text": "FELEEDET\u0414\u0414\u0422\u0432 block buria Ground",
+  "east": 418736.82,
+  "north": 1447332.45,
+  "conf": 0.533,
+  "size_pt": 69.84
+ },
+ {
+  "ward": 75,
+  "role": "road_name",
+  "text": "Ss.Puram 'B Block 5th4th Street3rd StreetSaPuramPuram",
+  "east": 418655.65,
+  "north": 1447415.96,
+  "conf": 1.0,
+  "size_pt": 68.16
+ },
+ {
+  "ward": 75,
+  "role": "road_name",
+  "text": "Main St6th Stre7th StreetB Block 2nd",
+  "east": 418733.85,
+  "north": 1447388.34,
+  "conf": 1.0,
+  "size_pt": 43.08
+ },
+ {
+  "ward": 75,
+  "role": "road_name",
+  "text": "Streed",
+  "east": 418797.56,
+  "north": 1447351.82,
+  "conf": 1.0,
+  "size_pt": 18.24
+ },
+ {
+  "ward": 75,
+  "role": "road_name",
+  "text": "Ss.Puram 'B BlockMain Street6th Street",
+  "east": 418703.9,
+  "north": 1447425.59,
+  "conf": 1.0,
+  "size_pt": 57.24
+ },
+ {
+  "ward": 75,
+  "role": "road_name",
+  "text": "'A Block Ist StreetIS.S.Puram",
+  "east": 418784.23,
+  "north": 1447454.81,
+  "conf": 1.0,
+  "size_pt": 58.92
+ },
+ {
+  "ward": 75,
+  "role": "road_name",
+  "text": "Narayana (M)Ist Lane3rdC82.906NarayanaLaneMain Street(M)HanumantharayanKoil LaneCgBrickkiln2.8521st LaneC12nd Lane2.93rd Lane",
+  "east": 418907.83,
+  "north": 1447930.25,
+  "conf": 0.974,
+  "size_pt": 92.04
+ },
+ {
+  "ward": 75,
+  "role": "road_name",
+  "text": "1a Lane -2.901Padavattammand LaneC13Narayana2.82.Narayana (M)2nd Lane Koil Lane2nd Lane (M)",
+  "east": 418968.05,
+  "north": 1447841.24,
+  "conf": 1.0,
+  "size_pt": 131.64
+ },
+ {
+  "ward": 75,
+  "role": "road_name",
+  "text": "Brickkiln4th Lane",
+  "east": 418894.18,
+  "north": 1447794.67,
+  "conf": 1.0,
+  "size_pt": 27.24
+ },
+ {
+  "ward": 75,
+  "role": "road_name",
+  "text": "S.S.Puram'A Block1st Street",
+  "east": 418755.23,
+  "north": 1447533.13,
+  "conf": 1.0,
+  "size_pt": 56.16
+ },
+ {
+  "ward": 75,
+  "role": "road_name",
+  "text": "2nd Street",
+  "east": 418742.32,
+  "north": 1447557.68,
+  "conf": 1.0,
+  "size_pt": 33.36
+ },
+ {
+  "ward": 75,
+  "role": "road_name",
+  "text": "7th Street",
+  "east": 418757.66,
+  "north": 1447664.06,
+  "conf": 1.0,
+  "size_pt": 31.56
+ },
+ {
+  "ward": 75,
+  "role": "road_name",
+  "text": "Street15thStreet14thStreetMain13thStreet'A BlockBrickkiln RoadOTTERI NALA \u203a12thStreet11th StreetS.S.Puram10th StreetOtteri Dumping Ground Link Road9th Street8th Street7th Street6th Street5th StreetB124th Street3.5633rd Street2nd StreetS.S.Puram",
+  "east": 418753.75,
+  "north": 1447703.22,
+  "conf": 0.982,
+  "size_pt": 187.92
+ },
+ {
+  "ward": 75,
+  "role": "road_name",
+  "text": "Poniamman Koil2nd Street",
+  "east": 419002.55,
+  "north": 1447444.64,
+  "conf": 1.0,
+  "size_pt": 50.04
+ },
+ {
+  "ward": 75,
+  "role": "road_name",
+  "text": "2.612Devi Bhavani.Ellaiamman Koil StreetChellappaStreet",
+  "east": 418984.24,
+  "north": 1447489.1,
+  "conf": 1.0,
+  "size_pt": 103.44
+ },
+ {
+  "ward": 75,
+  "role": "road_name",
+  "text": "StrahansRoad",
+  "east": 418899.9,
+  "north": 1448047.1,
+  "conf": 1.0,
+  "size_pt": 26.52
+ },
+ {
+  "ward": 75,
+  "role": "road_name",
+  "text": "-3rd Street",
+  "east": 418744.96,
+  "north": 1447577.48,
+  "conf": 1.0,
+  "size_pt": 31.8
+ },
+ {
+  "ward": 75,
+  "role": "road_name",
+  "text": "Ponni AmmanKoil Street",
+  "east": 418911.11,
+  "north": 1447451.74,
+  "conf": 1.0,
+  "size_pt": 42.84
+ },
+ {
+  "ward": 75,
+  "role": "road_name",
+  "text": "1St Street",
+  "east": 418971.65,
+  "north": 1447411.3,
+  "conf": 1.0,
+  "size_pt": 30.36
+ },
+ {
+  "ward": 75,
+  "role": "road_name",
+  "text": "Chellappa Lane",
+  "east": 419090.28,
+  "north": 1448000.53,
+  "conf": 1.0,
+  "size_pt": 45.96
+ },
+ {
+  "ward": 75,
+  "role": "road_name",
+  "text": "5th Street",
+  "east": 418751.84,
+  "north": 1447620.77,
+  "conf": 1.0,
+  "size_pt": 31.92
+ },
+ {
+  "ward": 75,
+  "role": "road_name",
+  "text": "6th Street",
+  "east": 418754.17,
+  "north": 1447640.35,
+  "conf": 1.0,
+  "size_pt": 31.92
+ },
+ {
+  "ward": 75,
+  "role": "road_name",
+  "text": "4th Street",
+  "east": 418750.57,
+  "north": 1447598.12,
+  "conf": 1.0,
+  "size_pt": 31.68
+ },
+ {
+  "ward": 75,
+  "role": "road_name",
+  "text": "ChellappaStreet",
+  "east": 419066.89,
+  "north": 1447423.16,
+  "conf": 1.0,
+  "size_pt": 27.72
+ },
+ {
+  "ward": 75,
+  "role": "road_name",
+  "text": "Brickkiln6thLane",
+  "east": 418810.79,
+  "north": 1447923.37,
+  "conf": 1.0,
+  "size_pt": 27.24
+ },
+ {
+  "ward": 75,
+  "role": "road_name",
+  "text": "Narayana(M) Main Street",
+  "east": 418953.55,
+  "north": 1447730.84,
+  "conf": 1.0,
+  "size_pt": 48.72
+ },
+ {
+  "ward": 75,
+  "role": "road_name",
+  "text": "Street",
+  "east": 418675.12,
+  "north": 1447505.19,
+  "conf": 1.0,
+  "size_pt": 18.12
+ },
+ {
+  "ward": 75,
+  "role": "road_name",
+  "text": "1St Street",
+  "east": 418732.05,
+  "north": 1447491.85,
+  "conf": 1.0,
+  "size_pt": 30.84
+ },
+ {
+  "ward": 75,
+  "role": "road_name",
+  "text": "ADPadavattammanKoil Street",
+  "east": 419149.65,
+  "north": 1447445.28,
+  "conf": 1.0,
+  "size_pt": 47.64
+ },
+ {
+  "ward": 75,
+  "role": "road_name",
+  "text": "Lane",
+  "east": 419042.87,
+  "north": 1447837.32,
+  "conf": 1.0,
+  "size_pt": 12.72
+ },
+ {
+  "ward": 75,
+  "role": "location_names",
+  "text": "Balaj",
+  "east": 418893.02,
+  "north": 1447510.37,
+  "conf": 1.0,
+  "size_pt": 15.36
+ },
+ {
+  "ward": 75,
+  "role": "location_names",
+  "text": "Shri BalajiHospitalChennal",
+  "east": 418847.62,
+  "north": 1447426.02,
+  "conf": 1.0,
+  "size_pt": 31.8
+ },
+ {
+  "ward": 75,
+  "role": "location_names",
+  "text": "PoompuharNagar",
+  "east": 418944.77,
+  "north": 1447605.52,
+  "conf": 1.0,
+  "size_pt": 34.44
+ },
+ {
+  "ward": 75,
+  "role": "location_names",
+  "text": "BrickKiln",
+  "east": 418774.17,
+  "north": 1447390.56,
+  "conf": 1.0,
+  "size_pt": 14.52
+ },
+ {
+  "ward": 75,
+  "role": "location_names",
+  "text": "SaravanaTheatre",
+  "east": 418801.26,
+  "north": 1447893.73,
+  "conf": 1.0,
+  "size_pt": 27.24
+ },
+ {
+  "ward": 75,
+  "role": "location_names",
+  "text": "Edward Park",
+  "east": 419087.1,
+  "north": 1447893.31,
+  "conf": 1.0,
+  "size_pt": 38.4
+ },
+ {
+  "ward": 75,
+  "role": "location_names",
+  "text": "\u2022Street",
+  "east": 419144.36,
+  "north": 1447893.63,
+  "conf": 1.0,
+  "size_pt": 17.64
+ }
+]

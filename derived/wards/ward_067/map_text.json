@@ -1,0 +1,821 @@
+[
+ {
+  "ward": 67,
+  "role": "road_name",
+  "text": "Rani Anna StreetKalaiVaKattabomman Street*",
+  "east": 415449.27,
+  "north": 1449446.23,
+  "conf": 1.0,
+  "size_pt": 98.64
+ },
+ {
+  "ward": 67,
+  "role": "road_name",
+  "text": "Anna Street",
+  "east": 415692.04,
+  "north": 1449431.1,
+  "conf": 1.0,
+  "size_pt": 37.32
+ },
+ {
+  "ward": 67,
+  "role": "road_name",
+  "text": "Bharathiyar Street",
+  "east": 415582.61,
+  "north": 1449402.84,
+  "conf": 1.0,
+  "size_pt": 56.76
+ },
+ {
+  "ward": 67,
+  "role": "road_name",
+  "text": "MGR Street",
+  "east": 415566.42,
+  "north": 1449449.94,
+  "conf": 1.0,
+  "size_pt": 34.56
+ },
+ {
+  "ward": 67,
+  "role": "road_name",
+  "text": "Pilayar KoilStreet\u041d\u041c\u041d\u0428\u0410\u041c\u041d\u041d\u042cMuthukumarappaTHHAAHHIPIHAHARoad",
+  "east": 415618.17,
+  "north": 1449350.34,
+  "conf": 0.767,
+  "size_pt": 110.28
+ },
+ {
+  "ward": 67,
+  "role": "road_name",
+  "text": "VOC Street",
+  "east": 415649.18,
+  "north": 1449443.9,
+  "conf": 1.0,
+  "size_pt": 32.64
+ },
+ {
+  "ward": 67,
+  "role": "road_name",
+  "text": "Loco Works 2nd Street",
+  "east": 416325.11,
+  "north": 1449310.65,
+  "conf": 1.0,
+  "size_pt": 72.12
+ },
+ {
+  "ward": 67,
+  "role": "road_name",
+  "text": "G.K.M. ColonyRajaji Street",
+  "east": 416288.7,
+  "north": 1449438.93,
+  "conf": 1.0,
+  "size_pt": 46.92
+ },
+ {
+  "ward": 67,
+  "role": "road_name",
+  "text": "Sai Nagar 4thSt4th St",
+  "east": 415049.44,
+  "north": 1449554.3,
+  "conf": 1.0,
+  "size_pt": 54.12
+ },
+ {
+  "ward": 67,
+  "role": "road_name",
+  "text": "Venkatesan Rd",
+  "east": 415958.83,
+  "north": 1449641.3,
+  "conf": 1.0,
+  "size_pt": 43.2
+ },
+ {
+  "ward": 67,
+  "role": "road_name",
+  "text": "6.768Chinnasamy Raja StreetThanthoni Amman Koil Stkanakkar streetSambasivanStreet",
+  "east": 416750.33,
+  "north": 1449570.07,
+  "conf": 1.0,
+  "size_pt": 79.92
+ },
+ {
+  "ward": 67,
+  "role": "road_name",
+  "text": "Foxen Street",
+  "east": 417380.96,
+  "north": 1449551.23,
+  "conf": 1.0,
+  "size_pt": 39.6
+ },
+ {
+  "ward": 67,
+  "role": "road_name",
+  "text": "Loco Works Ist Street61914414|8444",
+  "east": 416320.98,
+  "north": 1449273.29,
+  "conf": 0.65,
+  "size_pt": 70.08
+ },
+ {
+  "ward": 67,
+  "role": "road_name",
+  "text": "RangamannarStreetBissat Road",
+  "east": 416899.23,
+  "north": 1449288.21,
+  "conf": 1.0,
+  "size_pt": 53.16
+ },
+ {
+  "ward": 67,
+  "role": "road_name",
+  "text": "Govindarajulu St",
+  "east": 416817.74,
+  "north": 1449270.85,
+  "conf": 1.0,
+  "size_pt": 48.84
+ },
+ {
+  "ward": 67,
+  "role": "road_name",
+  "text": "uireetGovarthana Doss St",
+  "east": 417239.15,
+  "north": 1449244.07,
+  "conf": 1.0,
+  "size_pt": 60.72
+ },
+ {
+  "ward": 67,
+  "role": "road_name",
+  "text": "adSomasundaram StreetSomasundaram\" Olreel2nd StreetIst StreetGopal ReddColonyG.K.M. ColonyBarathiar StreetG.K.M. ColonyE.V.R.StreetWARD 67TanSomaiahogi Hutsaja",
+  "east": 416554.76,
+  "north": 1449402.94,
+  "conf": 1.0,
+  "size_pt": 134.52
+ },
+ {
+  "ward": 67,
+  "role": "road_name",
+  "text": "Baburaja St",
+  "east": 416743.66,
+  "north": 1449339.01,
+  "conf": 1.0,
+  "size_pt": 36.36
+ },
+ {
+  "ward": 67,
+  "role": "road_name",
+  "text": "Narayana St",
+  "east": 416730.43,
+  "north": 1449455.02,
+  "conf": 1.0,
+  "size_pt": 38.04
+ },
+ {
+  "ward": 67,
+  "role": "road_name",
+  "text": "ChengalvarayansamiVanjinathan 4Lane4th StChengalvarayan3rd Lanejngthan2nd St",
+  "east": 417108.67,
+  "north": 1449555.46,
+  "conf": 1.0,
+  "size_pt": 95.28
+ },
+ {
+  "ward": 67,
+  "role": "road_name",
+  "text": "3rd Lan2nd St41VanjinathanSomaramasamiSomaramasami St2nd LaneSomaramasami 2nd LaneIst LaneManikka VinayagarRangasiyeeKoil StreetAW00",
+  "east": 417089.09,
+  "north": 1449411.41,
+  "conf": 1.0,
+  "size_pt": 109.56
+ },
+ {
+  "ward": 67,
+  "role": "road_name",
+  "text": "StMarket",
+  "east": 417278.52,
+  "north": 1449649.03,
+  "conf": 1.0,
+  "size_pt": 29.04
+ },
+ {
+  "ward": 67,
+  "role": "road_name",
+  "text": "Vanjinathan1st St",
+  "east": 417148.67,
+  "north": 1449480.31,
+  "conf": 1.0,
+  "size_pt": 33.12
+ },
+ {
+  "ward": 67,
+  "role": "road_name",
+  "text": "53rd St2nd st.1202nd StSt3rd",
+  "east": 417217.35,
+  "north": 1449606.9,
+  "conf": 1.0,
+  "size_pt": 52.56
+ },
+ {
+  "ward": 67,
+  "role": "road_name",
+  "text": "ChengalvarayanLane'Van jinathanE25.925",
+  "east": 417149.94,
+  "north": 1449671.78,
+  "conf": 1.0,
+  "size_pt": 51.48
+ },
+ {
+  "ward": 67,
+  "role": "road_name",
+  "text": "Dimmasamy Durga LanePark Streat",
+  "east": 417074.91,
+  "north": 1449777.2,
+  "conf": 1.0,
+  "size_pt": 71.16
+ },
+ {
+  "ward": 67,
+  "role": "road_name",
+  "text": "\u0440a\u043f\u0456raper Mills RoPrakashAvenueGopal Colony West Main RoadGopal Colony Ist Cross StGopal Colony 2nd Cross StGopal Colony 3rd Cross St",
+  "east": 416888.22,
+  "north": 1449833.09,
+  "conf": 0.938,
+  "size_pt": 121.8
+ },
+ {
+  "ward": 67,
+  "role": "road_name",
+  "text": "Amirthammal Colony",
+  "east": 416783.88,
+  "north": 1449828.32,
+  "conf": 1.0,
+  "size_pt": 64.56
+ },
+ {
+  "ward": 67,
+  "role": "road_name",
+  "text": "KannapiranKoil St",
+  "east": 416813.19,
+  "north": 1449686.07,
+  "conf": 1.0,
+  "size_pt": 33.0
+ },
+ {
+  "ward": 67,
+  "role": "road_name",
+  "text": "VD5Bal97.441MalligaiChithambaram StThottamIst LaneSomaramasamiThulukkanathammanLaneMoorthi Raja StThulukkanathamman",
+  "east": 416912.46,
+  "north": 1449434.7,
+  "conf": 1.0,
+  "size_pt": 127.56
+ },
+ {
+  "ward": 67,
+  "role": "road_name",
+  "text": "Parthasarathy Street",
+  "east": 416919.23,
+  "north": 1449617.27,
+  "conf": 1.0,
+  "size_pt": 66.84
+ },
+ {
+  "ward": 67,
+  "role": "road_name",
+  "text": "(E.V.R Street)Jogi Huts",
+  "east": 416609.05,
+  "north": 1449308.53,
+  "conf": 1.0,
+  "size_pt": 44.04
+ },
+ {
+  "ward": 67,
+  "role": "road_name",
+  "text": "Raja LaneSomaiah",
+  "east": 416663.76,
+  "north": 1449348.43,
+  "conf": 1.0,
+  "size_pt": 30.72
+ },
+ {
+  "ward": 67,
+  "role": "road_name",
+  "text": "Buttmodu KarunanithiButtmodu Cornel9th StreetSridhar Street",
+  "east": 416184.57,
+  "north": 1449467.72,
+  "conf": 1.0,
+  "size_pt": 67.56
+ },
+ {
+  "ward": 67,
+  "role": "road_name",
+  "text": "G.K.M. ColonyAnandan Street\u2022N",
+  "east": 416423.42,
+  "north": 1449410.46,
+  "conf": 1.0,
+  "size_pt": 48.72
+ },
+ {
+  "ward": 67,
+  "role": "road_name",
+  "text": "G.K.M. ColonyV.O.C. StreetG.K.M. ColonyThiruvalluvar St",
+  "east": 416357.28,
+  "north": 1449424.32,
+  "conf": 1.0,
+  "size_pt": 53.16
+ },
+ {
+  "ward": 67,
+  "role": "road_name",
+  "text": "Kattabomman StreetG. K.M. ColonyG.KM",
+  "east": 416248.17,
+  "north": 1449444.75,
+  "conf": 1.0,
+  "size_pt": 63.84
+ },
+ {
+  "ward": 67,
+  "role": "road_name",
+  "text": "Avvai Nagar MainKumaran Nagar Ist StKumaran Nagar Cross StreetKumaran Nagar 2nd StrKumaran Nagar 3rd Street,15",
+  "east": 414853.24,
+  "north": 1449516.41,
+  "conf": 1.0,
+  "size_pt": 99.24
+ },
+ {
+  "ward": 67,
+  "role": "road_name",
+  "text": "Kumaran Nagar Ist StreetStreetCrossKumaran Nagar 2nd StreetSai Nagarnaran Nagar 3rd Street,\u2022 B1",
+  "east": 414896.73,
+  "north": 1449488.99,
+  "conf": 1.0,
+  "size_pt": 100.08
+ },
+ {
+  "ward": 67,
+  "role": "road_name",
+  "text": "Thillaiyadi Valliammai StreetElangoStreetreet",
+  "east": 415227.66,
+  "north": 1449521.59,
+  "conf": 1.0,
+  "size_pt": 86.04
+ },
+ {
+  "ward": 67,
+  "role": "road_name",
+  "text": "8.07/Sai Nagar 2nd Street",
+  "east": 415081.62,
+  "north": 1449470.36,
+  "conf": 1.0,
+  "size_pt": 67.32
+ },
+ {
+  "ward": 67,
+  "role": "road_name",
+  "text": "Amman Koil Street GKM Colony 25th St.G.K.M Colony 24th StAachin Lake Street",
+  "east": 415459.43,
+  "north": 1449678.03,
+  "conf": 1.0,
+  "size_pt": 126.48
+ },
+ {
+  "ward": 67,
+  "role": "road_name",
+  "text": "G.K.M Colony 23rd StArulappa Street",
+  "east": 415522.29,
+  "north": 1449665.54,
+  "conf": 1.0,
+  "size_pt": 65.76
+ },
+ {
+  "ward": 67,
+  "role": "road_name",
+  "text": "G.K.M Colony 22nd StMahadevan StreetcetKMC.",
+  "east": 415567.69,
+  "north": 1449655.8,
+  "conf": 1.0,
+  "size_pt": 66.96
+ },
+ {
+  "ward": 67,
+  "role": "road_name",
+  "text": "G.K.M Colony 21th Stunl SireelNethaji Street",
+  "east": 415608.64,
+  "north": 1449641.09,
+  "conf": 1.0,
+  "size_pt": 64.68
+ },
+ {
+  "ward": 67,
+  "role": "road_name",
+  "text": "G.K.M Colony 20th StvleetG.K.M Colony 19th StNeduncheliyan StreetSarojini Street",
+  "east": 415669.39,
+  "north": 1449622.67,
+  "conf": 1.0,
+  "size_pt": 75.72
+ },
+ {
+  "ward": 67,
+  "role": "road_name",
+  "text": "G.K.M Colony 18th StSubramaniyam StreetMclon 17",
+  "east": 415745.59,
+  "north": 1449593.99,
+  "conf": 0.767,
+  "size_pt": 67.44
+ },
+ {
+  "ward": 67,
+  "role": "road_name",
+  "text": "=G.K.M Colony 17th SteSaransingh StreetCKMT",
+  "east": 415783.16,
+  "north": 1449566.36,
+  "conf": 0.767,
+  "size_pt": 64.44
+ },
+ {
+  "ward": 67,
+  "role": "road_name",
+  "text": "G.K.M Colony 16th Sty' sireetSowthiri Street",
+  "east": 415830.04,
+  "north": 1449565.3,
+  "conf": 1.0,
+  "size_pt": 64.44
+ },
+ {
+  "ward": 67,
+  "role": "road_name",
+  "text": "G.K.M Colony 15th StGeneral Coacher StreetulreetKM Colon",
+  "east": 415877.24,
+  "north": 1449547.31,
+  "conf": 1.0,
+  "size_pt": 75.72
+ },
+ {
+  "ward": 67,
+  "role": "road_name",
+  "text": "vucrer olrColony 14th StAnna Street7.80G.K.M",
+  "east": 415914.17,
+  "north": 1449526.57,
+  "conf": 0.883,
+  "size_pt": 64.44
+ },
+ {
+  "ward": 67,
+  "role": "road_name",
+  "text": "StBahadur SastriButtmodu Lal242",
+  "east": 416079.48,
+  "north": 1449548.16,
+  "conf": 1.0,
+  "size_pt": 55.56
+ },
+ {
+  "ward": 67,
+  "role": "road_name",
+  "text": "Loco Works 2nd Street",
+  "east": 416149.32,
+  "north": 1449324.2,
+  "conf": 1.0,
+  "size_pt": 71.76
+ },
+ {
+  "ward": 67,
+  "role": "road_name",
+  "text": "Gandhi NagarKasturibai St",
+  "east": 416005.19,
+  "north": 1449371.93,
+  "conf": 1.0,
+  "size_pt": 43.44
+ },
+ {
+  "ward": 67,
+  "role": "road_name",
+  "text": "Gandhi NagarWorks RdWater",
+  "east": 415956.29,
+  "north": 1449386.01,
+  "conf": 1.0,
+  "size_pt": 41.16
+ },
+ {
+  "ward": 67,
+  "role": "road_name",
+  "text": "77 ButtmoduKarunanithi9th Street",
+  "east": 416101.17,
+  "north": 1449382.09,
+  "conf": 1.0,
+  "size_pt": 34.92
+ },
+ {
+  "ward": 67,
+  "role": "road_name",
+  "text": "Chitharanjan ColonyAnna Street",
+  "east": 415876.07,
+  "north": 1449379.13,
+  "conf": 1.0,
+  "size_pt": 61.44
+ },
+ {
+  "ward": 67,
+  "role": "road_name",
+  "text": "Chitharanjan Nagar",
+  "east": 415829.51,
+  "north": 1449388.02,
+  "conf": 1.0,
+  "size_pt": 59.52
+ },
+ {
+  "ward": 67,
+  "role": "road_name",
+  "text": "Chitharanjan ColonyV.O.C. Street",
+  "east": 415785.48,
+  "north": 1449402.2,
+  "conf": 1.0,
+  "size_pt": 61.68
+ },
+ {
+  "ward": 67,
+  "role": "road_name",
+  "text": "Kambar Street",
+  "east": 415357.3,
+  "north": 1449387.38,
+  "conf": 1.0,
+  "size_pt": 45.6
+ },
+ {
+  "ward": 67,
+  "role": "road_name",
+  "text": "Ahalamuthug stVivekananda\u00f2 St9B188,432Jeevanadan-St",
+  "east": 415358.99,
+  "north": 1449486.03,
+  "conf": 1.0,
+  "size_pt": 51.6
+ },
+ {
+  "ward": 67,
+  "role": "road_name",
+  "text": "Market St",
+  "east": 417246.14,
+  "north": 1449415.54,
+  "conf": 1.0,
+  "size_pt": 29.52
+ },
+ {
+  "ward": 67,
+  "role": "road_name",
+  "text": "Sivakami Street",
+  "east": 417318.21,
+  "north": 1449580.44,
+  "conf": 1.0,
+  "size_pt": 47.64
+ },
+ {
+  "ward": 67,
+  "role": "road_name",
+  "text": "Kanagar St",
+  "east": 416671.91,
+  "north": 1449643.31,
+  "conf": 1.0,
+  "size_pt": 34.32
+ },
+ {
+  "ward": 67,
+  "role": "road_name",
+  "text": "Perambur Loco Bridge",
+  "east": 416117.15,
+  "north": 1449283.23,
+  "conf": 1.0,
+  "size_pt": 68.4
+ },
+ {
+  "ward": 67,
+  "role": "road_name",
+  "text": "Govindarajulu Lane",
+  "east": 416885.9,
+  "north": 1449217.82,
+  "conf": 1.0,
+  "size_pt": 57.36
+ },
+ {
+  "ward": 67,
+  "role": "road_name",
+  "text": "12th 'A' Pappammal44G.K.M ColonyOG.K.M Colony 12th Street13th StG.K.M ColonySt",
+  "east": 415995.77,
+  "north": 1449532.07,
+  "conf": 1.0,
+  "size_pt": 100.2
+ },
+ {
+  "ward": 67,
+  "role": "road_name",
+  "text": "Loco Works\u043b\u0430j\u04301st Lane2ndLane",
+  "east": 416695.83,
+  "north": 1449303.13,
+  "conf": 1.0,
+  "size_pt": 48.72
+ },
+ {
+  "ward": 67,
+  "role": "road_name",
+  "text": "ChakrapaniThottam",
+  "east": 416792.45,
+  "north": 1449932.9,
+  "conf": 1.0,
+  "size_pt": 33.24
+ },
+ {
+  "ward": 67,
+  "role": "road_name",
+  "text": "6.804Rangasiyee Street",
+  "east": 417026.86,
+  "north": 1449297.63,
+  "conf": 1.0,
+  "size_pt": 55.2
+ },
+ {
+  "ward": 67,
+  "role": "road_name",
+  "text": "Sai Nagar Ist StreetHH/P/HHHAPIH",
+  "east": 415068.7,
+  "north": 1449415.96,
+  "conf": 0.65,
+  "size_pt": 65.16
+ },
+ {
+  "ward": 67,
+  "role": "road_name",
+  "text": "11th St",
+  "east": 416039.9,
+  "north": 1449436.92,
+  "conf": 1.0,
+  "size_pt": 21.6
+ },
+ {
+  "ward": 67,
+  "role": "road_name",
+  "text": "Rajbuth St",
+  "east": 416779.54,
+  "north": 1449211.05,
+  "conf": 1.0,
+  "size_pt": 33.48
+ },
+ {
+  "ward": 67,
+  "role": "road_name",
+  "text": "SomaiahRaja St",
+  "east": 416735.41,
+  "north": 1449395.64,
+  "conf": 1.0,
+  "size_pt": 24.96
+ },
+ {
+  "ward": 67,
+  "role": "road_name",
+  "text": "Palavayal St",
+  "east": 416783.56,
+  "north": 1449309.48,
+  "conf": 1.0,
+  "size_pt": 37.68
+ },
+ {
+  "ward": 67,
+  "role": "road_name",
+  "text": "RailwayProperty",
+  "east": 417053.1,
+  "north": 1449234.97,
+  "conf": 1.0,
+  "size_pt": 26.16
+ },
+ {
+  "ward": 67,
+  "role": "road_name",
+  "text": "ThulukkanathammanKoil Street",
+  "east": 416961.56,
+  "north": 1449371.61,
+  "conf": 1.0,
+  "size_pt": 60.6
+ },
+ {
+  "ward": 67,
+  "role": "road_name",
+  "text": "Gopal Colony East Main Road",
+  "east": 417007.18,
+  "north": 1449799.85,
+  "conf": 1.0,
+  "size_pt": 89.88
+ },
+ {
+  "ward": 67,
+  "role": "road_name",
+  "text": "Munusamy St",
+  "east": 417194.07,
+  "north": 1449431.41,
+  "conf": 1.0,
+  "size_pt": 40.08
+ },
+ {
+  "ward": 67,
+  "role": "road_name",
+  "text": "VanjinathanMain St",
+  "east": 417195.34,
+  "north": 1449531.86,
+  "conf": 1.0,
+  "size_pt": 33.36
+ },
+ {
+  "ward": 67,
+  "role": "road_name",
+  "text": "G.K.M.Colony 26th Street",
+  "east": 415336.98,
+  "north": 1449703.22,
+  "conf": 1.0,
+  "size_pt": 77.28
+ },
+ {
+  "ward": 67,
+  "role": "road_name",
+  "text": "Kumaran Nagar West Extn. Steet",
+  "east": 414744.76,
+  "north": 1449546.04,
+  "conf": 1.0,
+  "size_pt": 103.8
+ },
+ {
+  "ward": 67,
+  "role": "road_name",
+  "text": "Avvai Nagar Main Road",
+  "east": 414909.33,
+  "north": 1449592.61,
+  "conf": 1.0,
+  "size_pt": 72.84
+ },
+ {
+  "ward": 67,
+  "role": "road_name",
+  "text": "PrakashAvenue",
+  "east": 416938.17,
+  "north": 1449879.97,
+  "conf": 1.0,
+  "size_pt": 24.72
+ },
+ {
+  "ward": 67,
+  "role": "road_name",
+  "text": "Park Street",
+  "east": 417099.14,
+  "north": 1449755.82,
+  "conf": 1.0,
+  "size_pt": 35.16
+ },
+ {
+  "ward": 67,
+  "role": "road_name",
+  "text": "Paper Mills Road",
+  "east": 416949.07,
+  "north": 1449934.48,
+  "conf": 1.0,
+  "size_pt": 51.96
+ },
+ {
+  "ward": 67,
+  "role": "road_name",
+  "text": "Paper Mills Road",
+  "east": 417268.26,
+  "north": 1449750.74,
+  "conf": 1.0,
+  "size_pt": 49.32
+ },
+ {
+  "ward": 67,
+  "role": "road_name",
+  "text": "RagavanSt",
+  "east": 417399.17,
+  "north": 1449696.13,
+  "conf": 1.0,
+  "size_pt": 22.92
+ },
+ {
+  "ward": 67,
+  "role": "road_name",
+  "text": "Jawahar Nagar 6th Main Road",
+  "east": 416374.0,
+  "north": 1449492.91,
+  "conf": 1.0,
+  "size_pt": 93.24
+ },
+ {
+  "ward": 67,
+  "role": "road_name",
+  "text": "Thiruvallu Street",
+  "east": 415752.78,
+  "north": 1449403.68,
+  "conf": 1.0,
+  "size_pt": 49.2
+ },
+ {
+  "ward": 67,
+  "role": "road_name",
+  "text": "Ist Street(4444(/+11WorksLOCO",
+  "east": 416567.88,
+  "north": 1449236.45,
+  "conf": 0.825,
+  "size_pt": 67.32
+ }
+]

@@ -1,0 +1,443 @@
+[
+ {
+  "ward": 50,
+  "role": "road_name",
+  "text": "E Kal Mandapam Road",
+  "east": 423777.36,
+  "north": 1449802.48,
+  "conf": 1.0,
+  "size_pt": 71.16
+ },
+ {
+  "ward": 50,
+  "role": "road_name",
+  "text": "C20Corporation Colonyetes 2.3932nd StreetC193rd2.188/C182.725Ist LaneC275th2.332 gVenkatasaC17(Naiken)2.5562nd LaneC162.545Venkatesan StreetWashermen2nd LaneC302.745",
+  "east": 423732.27,
+  "north": 1449648.18,
+  "conf": 1.0,
+  "size_pt": 105.72
+ },
+ {
+  "ward": 50,
+  "role": "road_name",
+  "text": "East Madha Church Street",
+  "east": 423641.68,
+  "north": 1449244.13,
+  "conf": 1.0,
+  "size_pt": 80.04
+ },
+ {
+  "ward": 50,
+  "role": "road_name",
+  "text": "C8South Madhe Church Street2.785.95770\u20ac",
+  "east": 423530.78,
+  "north": 1449125.81,
+  "conf": 1.0,
+  "size_pt": 83.4
+ },
+ {
+  "ward": 50,
+  "role": "road_name",
+  "text": "South Madha Church Street",
+  "east": 423551.09,
+  "north": 1449539.39,
+  "conf": 1.0,
+  "size_pt": 86.04
+ },
+ {
+  "ward": 50,
+  "role": "road_name",
+  "text": "Aandiappan Gramini Street",
+  "east": 423313.3,
+  "north": 1449283.18,
+  "conf": 1.0,
+  "size_pt": 83.04
+ },
+ {
+  "ward": 50,
+  "role": "road_name",
+  "text": "Surya Narayanan Street",
+  "east": 423279.64,
+  "north": 1449811.69,
+  "conf": 1.0,
+  "size_pt": 73.92
+ },
+ {
+  "ward": 50,
+  "role": "road_name",
+  "text": "Mariadoss StreetBazaarstr\u00e9et",
+  "east": 423446.96,
+  "north": 1449048.77,
+  "conf": 1.0,
+  "size_pt": 66.12
+ },
+ {
+  "ward": 50,
+  "role": "road_name",
+  "text": "Lotus Ramasamy Street",
+  "east": 423530.14,
+  "north": 1450333.53,
+  "conf": 1.0,
+  "size_pt": 75.0
+ },
+ {
+  "ward": 50,
+  "role": "road_name",
+  "text": "Market Lane",
+  "east": 423423.57,
+  "north": 1449931.7,
+  "conf": 1.0,
+  "size_pt": 37.44
+ },
+ {
+  "ward": 50,
+  "role": "road_name",
+  "text": "Shaikh Maistry Rd",
+  "east": 423537.87,
+  "north": 1449951.49,
+  "conf": 1.0,
+  "size_pt": 55.56
+ },
+ {
+  "ward": 50,
+  "role": "road_name",
+  "text": "Kumarappa Chetty StreetC159Thandavamurthy Chetty Streef2.651tfC1Amman KoilStreet",
+  "east": 423789.74,
+  "north": 1449463.83,
+  "conf": 1.0,
+  "size_pt": 125.64
+ },
+ {
+  "ward": 50,
+  "role": "road_name",
+  "text": "Appavoo PillaiStreet",
+  "east": 423449.08,
+  "north": 1449360.33,
+  "conf": 1.0,
+  "size_pt": 46.2
+ },
+ {
+  "ward": 50,
+  "role": "road_name",
+  "text": "JINDRA NAGAR MEENAVARCOLONY",
+  "east": 423812.6,
+  "north": 1450684.25,
+  "conf": 1.0,
+  "size_pt": 78.72
+ },
+ {
+  "ward": 50,
+  "role": "road_name",
+  "text": "Throwpathy AmmanKoilStreet",
+  "east": 423828.37,
+  "north": 1450592.81,
+  "conf": 1.0,
+  "size_pt": 58.68
+ },
+ {
+  "ward": 50,
+  "role": "road_name",
+  "text": "\u2022Periya Thambi3rd Street",
+  "east": 423750.16,
+  "north": 1450558.95,
+  "conf": 1.0,
+  "size_pt": 45.36
+ },
+ {
+  "ward": 50,
+  "role": "road_name",
+  "text": "Durai Street (Including Hutting)",
+  "east": 423793.23,
+  "north": 1450455.97,
+  "conf": 1.0,
+  "size_pt": 98.16
+ },
+ {
+  "ward": 50,
+  "role": "road_name",
+  "text": "Periyathambi Street",
+  "east": 423737.35,
+  "north": 1450435.97,
+  "conf": 1.0,
+  "size_pt": 60.84
+ },
+ {
+  "ward": 50,
+  "role": "road_name",
+  "text": "2.842Murthy Street\u0414\u041b\u0414\u0420\u0418\u0414\u0427\u0406Thandava MurthyStreet",
+  "east": 423607.82,
+  "north": 1449007.39,
+  "conf": 1.0,
+  "size_pt": 85.68
+ },
+ {
+  "ward": 50,
+  "role": "road_name",
+  "text": "North Railway Turning Road",
+  "east": 423878.0,
+  "north": 1449672.95,
+  "conf": 1.0,
+  "size_pt": 87.24
+ },
+ {
+  "ward": 50,
+  "role": "road_name",
+  "text": "Sheik Street2nd Lane",
+  "east": 423635.86,
+  "north": 1450081.45,
+  "conf": 1.0,
+  "size_pt": 37.92
+ },
+ {
+  "ward": 50,
+  "role": "road_name",
+  "text": "K\u0438pp\u0438Lane",
+  "east": 423479.34,
+  "north": 1450037.0,
+  "conf": 1.0,
+  "size_pt": 18.36
+ },
+ {
+  "ward": 50,
+  "role": "road_name",
+  "text": "1stSt1stStGurusedi 2nd Street Alias KasiGurusedi 3rd Street Alias KasiIst LaneJ\u00e8sudas.2nd Lane3rd LaneThottamAlberAlbertColonyV\u0119sudossMain RoadLaneColonyVathiyar Eagappan StBentlernd Strettam4thLaneBentlemst LKodimara Street Alias FlaStaf",
+  "east": 423558.29,
+  "north": 1450485.5,
+  "conf": 1.0,
+  "size_pt": 129.96
+ },
+ {
+  "ward": 50,
+  "role": "road_name",
+  "text": "St. Xavier Street",
+  "east": 423696.19,
+  "north": 1450451.74,
+  "conf": 1.0,
+  "size_pt": 51.6
+ },
+ {
+  "ward": 50,
+  "role": "road_name",
+  "text": "2.651Muniyappe ChettyStreet",
+  "east": 423704.33,
+  "north": 1449501.5,
+  "conf": 1.0,
+  "size_pt": 53.88
+ },
+ {
+  "ward": 50,
+  "role": "road_name",
+  "text": "StresquNorth Madha Chruch Street0321.964",
+  "east": 423616.71,
+  "north": 1449398.11,
+  "conf": 1.0,
+  "size_pt": 84.36
+ },
+ {
+  "ward": 50,
+  "role": "road_name",
+  "text": "Madha Koil Street",
+  "east": 423516.17,
+  "north": 1449043.9,
+  "conf": 1.0,
+  "size_pt": 53.88
+ },
+ {
+  "ward": 50,
+  "role": "road_name",
+  "text": "Venkatachala (Naiken) Street",
+  "east": 423323.03,
+  "north": 1449710.2,
+  "conf": 1.0,
+  "size_pt": 89.4
+ },
+ {
+  "ward": 50,
+  "role": "road_name",
+  "text": "Badhala VigneshwararKoil 8th Lane",
+  "east": 423320.28,
+  "north": 1449493.78,
+  "conf": 1.0,
+  "size_pt": 67.68
+ },
+ {
+  "ward": 50,
+  "role": "road_name",
+  "text": "Badhala Vigneshwarar Koil StreetBadhalaVigneshwararKoil Ist Lane",
+  "east": 423404.94,
+  "north": 1449653.79,
+  "conf": 1.0,
+  "size_pt": 123.84
+ },
+ {
+  "ward": 50,
+  "role": "road_name",
+  "text": "Arthoon Road",
+  "east": 423461.99,
+  "north": 1449633.47,
+  "conf": 1.0,
+  "size_pt": 43.2
+ },
+ {
+  "ward": 50,
+  "role": "road_name",
+  "text": "Fakkir Street",
+  "east": 423580.51,
+  "north": 1449920.8,
+  "conf": 1.0,
+  "size_pt": 39.48
+ },
+ {
+  "ward": 50,
+  "role": "road_name",
+  "text": "Husain Street",
+  "east": 423619.88,
+  "north": 1449905.98,
+  "conf": 1.0,
+  "size_pt": 41.64
+ },
+ {
+  "ward": 50,
+  "role": "road_name",
+  "text": "GHouse MohideenPethail Ist Lane",
+  "east": 423685.18,
+  "north": 1449915.08,
+  "conf": 1.0,
+  "size_pt": 55.08
+ },
+ {
+  "ward": 50,
+  "role": "road_name",
+  "text": "Sheik StreetIhulukanathammanKoil StreetIst LaneC24",
+  "east": 423669.09,
+  "north": 1449992.55,
+  "conf": 1.0,
+  "size_pt": 98.88
+ },
+ {
+  "ward": 50,
+  "role": "road_name",
+  "text": "Gouse Mohadeen Pettai Hutting A",
+  "east": 423794.08,
+  "north": 1450225.8,
+  "conf": 1.0,
+  "size_pt": 103.8
+ },
+ {
+  "ward": 50,
+  "role": "road_name",
+  "text": "BrightenLane",
+  "east": 423424.1,
+  "north": 1449991.6,
+  "conf": 1.0,
+  "size_pt": 24.6
+ },
+ {
+  "ward": 50,
+  "role": "road_name",
+  "text": "Thambu Lane",
+  "east": 423479.87,
+  "north": 1449933.07,
+  "conf": 1.0,
+  "size_pt": 39.72
+ },
+ {
+  "ward": 50,
+  "role": "road_name",
+  "text": "Kamaraj Park Street",
+  "east": 423487.6,
+  "north": 1450255.96,
+  "conf": 1.0,
+  "size_pt": 64.2
+ },
+ {
+  "ward": 50,
+  "role": "road_name",
+  "text": "North MadhaChurch Square",
+  "east": 423675.55,
+  "north": 1449429.54,
+  "conf": 1.0,
+  "size_pt": 45.0
+ },
+ {
+  "ward": 50,
+  "role": "location_names",
+  "text": "Military",
+  "east": 423841.17,
+  "north": 1450211.51,
+  "conf": 1.0,
+  "size_pt": 21.6
+ },
+ {
+  "ward": 50,
+  "role": "location_names",
+  "text": "Military",
+  "east": 423953.99,
+  "north": 1450567.62,
+  "conf": 1.0,
+  "size_pt": 21.6
+ },
+ {
+  "ward": 50,
+  "role": "location_names",
+  "text": "SubhaHospital",
+  "east": 423290.86,
+  "north": 1449562.57,
+  "conf": 1.0,
+  "size_pt": 24.24
+ },
+ {
+  "ward": 50,
+  "role": "location_names",
+  "text": "DiabetesResearchCentreand M.",
+  "east": 423621.05,
+  "north": 1449599.39,
+  "conf": 1.0,
+  "size_pt": 26.88
+ },
+ {
+  "ward": 50,
+  "role": "location_names",
+  "text": "MVHospitalForDiabetes ,",
+  "east": 423644.33,
+  "north": 1449742.58,
+  "conf": 1.0,
+  "size_pt": 27.36
+ },
+ {
+  "ward": 50,
+  "role": "location_names",
+  "text": "NichaniHealthCentre",
+  "east": 423503.47,
+  "north": 1449527.64,
+  "conf": 1.0,
+  "size_pt": 22.68
+ },
+ {
+  "ward": 50,
+  "role": "location_names",
+  "text": "GovernmentUnani Hospital",
+  "east": 423560.3,
+  "north": 1449770.41,
+  "conf": 1.0,
+  "size_pt": 44.4
+ },
+ {
+  "ward": 50,
+  "role": "location_names",
+  "text": "ROYAPURAM",
+  "east": 423433.84,
+  "north": 1450075.84,
+  "conf": 1.0,
+  "size_pt": 41.64
+ },
+ {
+  "ward": 50,
+  "role": "size_label",
+  "text": "ha CH",
+  "east": 423526.54,
+  "north": 1449127.19,
+  "conf": 1.0,
+  "size_pt": 13.08
+ }
+]

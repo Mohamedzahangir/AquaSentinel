@@ -1,0 +1,758 @@
+[
+ {
+  "ward": 38,
+  "role": "road_name",
+  "text": "Vaidhyanathan Bridge",
+  "east": 422182.69,
+  "north": 1451431.13,
+  "conf": 1.0,
+  "size_pt": 64.68
+ },
+ {
+  "ward": 38,
+  "role": "road_name",
+  "text": "Kamesh Nagar, Korukupet RoadMn",
+  "east": 421719.48,
+  "north": 1451114.8,
+  "conf": 1.0,
+  "size_pt": 99.48
+ },
+ {
+  "ward": 38,
+  "role": "road_name",
+  "text": "Elaya Mudali Street",
+  "east": 422327.88,
+  "north": 1450933.93,
+  "conf": 1.0,
+  "size_pt": 46.2
+ },
+ {
+  "ward": 38,
+  "role": "road_name",
+  "text": "Ennore High Road",
+  "east": 422238.56,
+  "north": 1452883.69,
+  "conf": 1.0,
+  "size_pt": 54.84
+ },
+ {
+  "ward": 38,
+  "role": "road_name",
+  "text": "NSR Street",
+  "east": 421943.2,
+  "north": 1452722.93,
+  "conf": 1.0,
+  "size_pt": 33.6
+ },
+ {
+  "ward": 38,
+  "role": "road_name",
+  "text": "5th Street4th Street3rd StreetAnna Street2nd Street",
+  "east": 421916.42,
+  "north": 1452569.15,
+  "conf": 1.0,
+  "size_pt": 58.92
+ },
+ {
+  "ward": 38,
+  "role": "road_name",
+  "text": "NedunselianMain Road10th cD71.5779th Streetoth strepet7th StreetVinobha Nagar 6th Street5th Street4th Street3ra Stre",
+  "east": 421851.87,
+  "north": 1452507.56,
+  "conf": 0.962,
+  "size_pt": 97.08
+ },
+ {
+  "ward": 38,
+  "role": "road_name",
+  "text": "Patel NagarTst StreetSanjay Gandhi2nd StreetNagar3rd Street4thStreetMain Ri1.728D6ad2nd StreetPatel Nagar12th StreetIst Street11thStreetstreetC16Nethaji NagarNethaji Nagar Main Road2.430C17haNagarWest",
+  "east": 421780.44,
+  "north": 1452346.06,
+  "conf": 1.0,
+  "size_pt": 168.0
+ },
+ {
+  "ward": 38,
+  "role": "road_name",
+  "text": "Nethaji Nagar 5th Street",
+  "east": 421523.59,
+  "north": 1451843.35,
+  "conf": 1.0,
+  "size_pt": 76.68
+ },
+ {
+  "ward": 38,
+  "role": "road_name",
+  "text": "Nethaji Nagar 2nd St",
+  "east": 421704.24,
+  "north": 1451787.58,
+  "conf": 1.0,
+  "size_pt": 65.52
+ },
+ {
+  "ward": 38,
+  "role": "road_name",
+  "text": "Nethaji Nagar Ist Street",
+  "east": 421804.14,
+  "north": 1451934.69,
+  "conf": 1.0,
+  "size_pt": 75.6
+ },
+ {
+  "ward": 38,
+  "role": "road_name",
+  "text": "Ist StreetCr1.5449C92.536StreetNethajiIst CrossIndirTeemoorthy StreetNagarStJanpatTaskant StreetExtensionTaskant StEnnore High Road",
+  "east": 421901.71,
+  "north": 1452006.12,
+  "conf": 1.0,
+  "size_pt": 122.52
+ },
+ {
+  "ward": 38,
+  "role": "road_name",
+  "text": "Ist StreetRoad Tondiarpet",
+  "east": 421592.7,
+  "north": 1451262.33,
+  "conf": 1.0,
+  "size_pt": 48.48
+ },
+ {
+  "ward": 38,
+  "role": "road_name",
+  "text": "Nehru Nagar 14th Streethru Nacar 1",
+  "east": 421343.26,
+  "north": 1451329.43,
+  "conf": 1.0,
+  "size_pt": 77.16
+ },
+ {
+  "ward": 38,
+  "role": "road_name",
+  "text": "B StreetA StreetApproach RoadNavalar Nagar2.3721U40oE StreetNavalar Nagar",
+  "east": 421618.84,
+  "north": 1451509.34,
+  "conf": 0.913,
+  "size_pt": 67.56
+ },
+ {
+  "ward": 38,
+  "role": "road_name",
+  "text": "Nethaji Nagar 4th Street",
+  "east": 421606.67,
+  "north": 1451863.99,
+  "conf": 1.0,
+  "size_pt": 76.56
+ },
+ {
+  "ward": 38,
+  "role": "road_name",
+  "text": "4InSNethaji Nagar 3rd Street",
+  "east": 421638.63,
+  "north": 1451833.3,
+  "conf": 1.0,
+  "size_pt": 76.32
+ },
+ {
+  "ward": 38,
+  "role": "road_name",
+  "text": "Ennore High Road",
+  "east": 421789.01,
+  "north": 1451296.2,
+  "conf": 1.0,
+  "size_pt": 56.04
+ },
+ {
+  "ward": 38,
+  "role": "road_name",
+  "text": "Vaidhyanathan Street",
+  "east": 421992.3,
+  "north": 1451500.77,
+  "conf": 1.0,
+  "size_pt": 64.08
+ },
+ {
+  "ward": 38,
+  "role": "road_name",
+  "text": "4th Cross Street",
+  "east": 422191.36,
+  "north": 1451671.69,
+  "conf": 1.0,
+  "size_pt": 50.76
+ },
+ {
+  "ward": 38,
+  "role": "road_name",
+  "text": "3rd Main Road",
+  "east": 421920.76,
+  "north": 1451673.81,
+  "conf": 1.0,
+  "size_pt": 45.24
+ },
+ {
+  "ward": 38,
+  "role": "road_name",
+  "text": "a olreel3rd Street2nd Main Road2nd StreetSundaram Nagar4th Stree11702.50",
+  "east": 422032.2,
+  "north": 1451622.48,
+  "conf": 0.85,
+  "size_pt": 74.76
+ },
+ {
+  "ward": 38,
+  "role": "road_name",
+  "text": "Nehru Nagar 11th StA4Nehru Nagar 12th StNehru Nagar Main",
+  "east": 421477.66,
+  "north": 1451353.45,
+  "conf": 1.0,
+  "size_pt": 63.24
+ },
+ {
+  "ward": 38,
+  "role": "road_name",
+  "text": "Ist Street",
+  "east": 421999.82,
+  "north": 1451775.2,
+  "conf": 1.0,
+  "size_pt": 29.88
+ },
+ {
+  "ward": 38,
+  "role": "road_name",
+  "text": "\u00a31st Cross StreetEsundoram Nogar,* 2nd Cross Street3rd Cross Street",
+  "east": 422168.19,
+  "north": 1451589.04,
+  "conf": 1.0,
+  "size_pt": 69.12
+ },
+ {
+  "ward": 38,
+  "role": "road_name",
+  "text": "Ajees Nagar 2nd Street",
+  "east": 421984.26,
+  "north": 1451464.68,
+  "conf": 1.0,
+  "size_pt": 74.64
+ },
+ {
+  "ward": 38,
+  "role": "road_name",
+  "text": "Ist Main Road",
+  "east": 421991.14,
+  "north": 1451538.13,
+  "conf": 1.0,
+  "size_pt": 43.56
+ },
+ {
+  "ward": 38,
+  "role": "road_name",
+  "text": "Nethaji Nagar 6th Streethai Nadar 5th",
+  "east": 421505.07,
+  "north": 1451867.38,
+  "conf": 1.0,
+  "size_pt": 76.8
+ },
+ {
+  "ward": 38,
+  "role": "road_name",
+  "text": "1stStreet",
+  "east": 421690.27,
+  "north": 1451589.67,
+  "conf": 1.0,
+  "size_pt": 29.76
+ },
+ {
+  "ward": 38,
+  "role": "road_name",
+  "text": "Sasthri Nagar.Main Rd2.392D9",
+  "east": 422027.23,
+  "north": 1452420.46,
+  "conf": 1.0,
+  "size_pt": 69.12
+ },
+ {
+  "ward": 38,
+  "role": "road_name",
+  "text": "Vaidhyanathan Service Lane",
+  "east": 422409.48,
+  "north": 1451425.74,
+  "conf": 1.0,
+  "size_pt": 85.68
+ },
+ {
+  "ward": 38,
+  "role": "road_name",
+  "text": "Vaidhyanathan Ist Cross Street",
+  "east": 422447.78,
+  "north": 1451550.72,
+  "conf": 1.0,
+  "size_pt": 97.2
+ },
+ {
+  "ward": 38,
+  "role": "road_name",
+  "text": "Ist Street",
+  "east": 421753.66,
+  "north": 1451309.11,
+  "conf": 1.0,
+  "size_pt": 29.88
+ },
+ {
+  "ward": 38,
+  "role": "road_name",
+  "text": "Vaidhyanathan 2nd Cross Street",
+  "east": 422345.56,
+  "north": 1451555.38,
+  "conf": 1.0,
+  "size_pt": 98.4
+ },
+ {
+  "ward": 38,
+  "role": "road_name",
+  "text": "Ist Street",
+  "east": 421965.32,
+  "north": 1451657.09,
+  "conf": 1.0,
+  "size_pt": 29.88
+ },
+ {
+  "ward": 38,
+  "role": "road_name",
+  "text": "5th Street6th Street5th Main RoadSundaram Nagar",
+  "east": 422054.53,
+  "north": 1451757.52,
+  "conf": 1.0,
+  "size_pt": 68.88
+ },
+ {
+  "ward": 38,
+  "role": "road_name",
+  "text": "Durgadevi Nagar 2nd Street2ndStreetIst StreetCrossgh Road",
+  "east": 421751.33,
+  "north": 1451379.49,
+  "conf": 1.0,
+  "size_pt": 85.44
+ },
+ {
+  "ward": 38,
+  "role": "road_name",
+  "text": "3rd Cross",
+  "east": 421800.12,
+  "north": 1451464.05,
+  "conf": 1.0,
+  "size_pt": 29.28
+ },
+ {
+  "ward": 38,
+  "role": "road_name",
+  "text": "Ath Cross",
+  "east": 421792.39,
+  "north": 1451495.27,
+  "conf": 1.0,
+  "size_pt": 29.4
+ },
+ {
+  "ward": 38,
+  "role": "road_name",
+  "text": "-yur '4ln strNehru Nagar 13th StreetNehru Nagar 9th Street8th",
+  "east": 421375.54,
+  "north": 1451308.58,
+  "conf": 1.0,
+  "size_pt": 79.2
+ },
+ {
+  "ward": 38,
+  "role": "road_name",
+  "text": "7th Street6th Street5th Street4th Street3rd Street2nd Street 1",
+  "east": 421488.03,
+  "north": 1451257.14,
+  "conf": 1.0,
+  "size_pt": 70.92
+ },
+ {
+  "ward": 38,
+  "role": "road_name",
+  "text": "8th Street",
+  "east": 421410.36,
+  "north": 1451269.63,
+  "conf": 1.0,
+  "size_pt": 31.92
+ },
+ {
+  "ward": 38,
+  "role": "road_name",
+  "text": "Gandhi Nagar Main Road",
+  "east": 421626.46,
+  "north": 1451335.46,
+  "conf": 1.0,
+  "size_pt": 70.92
+ },
+ {
+  "ward": 38,
+  "role": "road_name",
+  "text": "1. O. C Road",
+  "east": 421523.8,
+  "north": 1452045.18,
+  "conf": 1.0,
+  "size_pt": 39.6
+ },
+ {
+  "ward": 38,
+  "role": "road_name",
+  "text": "D StreetC Street",
+  "east": 421503.49,
+  "north": 1451523.31,
+  "conf": 1.0,
+  "size_pt": 28.2
+ },
+ {
+  "ward": 38,
+  "role": "road_name",
+  "text": "Nethaji Nagar A Street",
+  "east": 421761.39,
+  "north": 1451680.79,
+  "conf": 1.0,
+  "size_pt": 70.92
+ },
+ {
+  "ward": 38,
+  "role": "road_name",
+  "text": "CrossStreet",
+  "east": 421615.35,
+  "north": 1451714.34,
+  "conf": 1.0,
+  "size_pt": 38.16
+ },
+ {
+  "ward": 38,
+  "role": "road_name",
+  "text": "A Street Ext.",
+  "east": 421827.74,
+  "north": 1451805.46,
+  "conf": 1.0,
+  "size_pt": 39.0
+ },
+ {
+  "ward": 38,
+  "role": "road_name",
+  "text": "Teemoorthy Street",
+  "east": 421868.06,
+  "north": 1451941.57,
+  "conf": 1.0,
+  "size_pt": 55.08
+ },
+ {
+  "ward": 38,
+  "role": "road_name",
+  "text": "NSK Street",
+  "east": 422111.89,
+  "north": 1452594.77,
+  "conf": 1.0,
+  "size_pt": 26.76
+ },
+ {
+  "ward": 38,
+  "role": "road_name",
+  "text": "Chinna Swamy StMGR StreetValluvar Street",
+  "east": 422050.3,
+  "north": 1452616.99,
+  "conf": 1.0,
+  "size_pt": 57.24
+ },
+ {
+  "ward": 38,
+  "role": "road_name",
+  "text": "Vinobha NagarMain RoadIst Street3rd Street",
+  "east": 421993.04,
+  "north": 1452509.78,
+  "conf": 1.0,
+  "size_pt": 51.6
+ },
+ {
+  "ward": 38,
+  "role": "road_name",
+  "text": "Sastri Nagar",
+  "east": 422078.87,
+  "north": 1452492.95,
+  "conf": 1.0,
+  "size_pt": 37.56
+ },
+ {
+  "ward": 38,
+  "role": "road_name",
+  "text": "2nd Street",
+  "east": 422047.33,
+  "north": 1452489.89,
+  "conf": 1.0,
+  "size_pt": 32.16
+ },
+ {
+  "ward": 38,
+  "role": "road_name",
+  "text": "Main RoVinobha Nagar West End Roadunanidhi Noar",
+  "east": 421922.24,
+  "north": 1452322.99,
+  "conf": 1.0,
+  "size_pt": 91.08
+ },
+ {
+  "ward": 38,
+  "role": "road_name",
+  "text": "vurcetvis SireetKarunanidhi Nagar 2nd StreetKarunanidhi Nagar Ist Street",
+  "east": 422009.76,
+  "north": 1452302.67,
+  "conf": 1.0,
+  "size_pt": 96.84
+ },
+ {
+  "ward": 38,
+  "role": "road_name",
+  "text": "rest Ena noaKarunanidhi Nagar Cross Street3rd StreetKarunanidi",
+  "east": 421957.8,
+  "north": 1452305.74,
+  "conf": 1.0,
+  "size_pt": 96.72
+ },
+ {
+  "ward": 38,
+  "role": "road_name",
+  "text": "Indira Gandhi NagarIst StreetJanpath StreetStreetVelayudham Street",
+  "east": 421928.81,
+  "north": 1452147.73,
+  "conf": 1.0,
+  "size_pt": 81.6
+ },
+ {
+  "ward": 38,
+  "role": "road_name",
+  "text": "2nd Street",
+  "east": 421847.21,
+  "north": 1452161.91,
+  "conf": 1.0,
+  "size_pt": 32.76
+ },
+ {
+  "ward": 38,
+  "role": "road_name",
+  "text": "Indira Gandhi Nagar4th Street3rd Street",
+  "east": 421805.83,
+  "north": 1452178.31,
+  "conf": 1.0,
+  "size_pt": 60.48
+ },
+ {
+  "ward": 38,
+  "role": "road_name",
+  "text": "Durgadevi Nagar",
+  "east": 421812.71,
+  "north": 1451681.11,
+  "conf": 1.0,
+  "size_pt": 49.68
+ },
+ {
+  "ward": 38,
+  "role": "road_name",
+  "text": "5th Cross",
+  "east": 421816.31,
+  "north": 1451587.77,
+  "conf": 1.0,
+  "size_pt": 29.4
+ },
+ {
+  "ward": 38,
+  "role": "road_name",
+  "text": "6th Cross",
+  "east": 421880.76,
+  "north": 1451747.36,
+  "conf": 1.0,
+  "size_pt": 29.28
+ },
+ {
+  "ward": 38,
+  "role": "road_name",
+  "text": "10th Street",
+  "east": 421820.44,
+  "north": 1452420.14,
+  "conf": 1.0,
+  "size_pt": 30.48
+ },
+ {
+  "ward": 38,
+  "role": "road_name",
+  "text": "Patel Nagar3rd Street",
+  "east": 421646.35,
+  "north": 1452215.04,
+  "conf": 1.0,
+  "size_pt": 34.2
+ },
+ {
+  "ward": 38,
+  "role": "road_name",
+  "text": "Elaya Mudali Street",
+  "east": 422532.66,
+  "north": 1451541.52,
+  "conf": 1.0,
+  "size_pt": 59.88
+ },
+ {
+  "ward": 38,
+  "role": "road_name",
+  "text": "Elaya Mudali Street",
+  "east": 422735.0,
+  "north": 1452320.02,
+  "conf": 1.0,
+  "size_pt": 60.12
+ },
+ {
+  "ward": 38,
+  "role": "location_names",
+  "text": "Tondiarpet-/MTC Depot",
+  "east": 422909.3,
+  "north": 1452929.09,
+  "conf": 1.0,
+  "size_pt": 37.32
+ },
+ {
+  "ward": 38,
+  "role": "location_names",
+  "text": "CorporationIndian Oil",
+  "east": 421965.63,
+  "north": 1452924.54,
+  "conf": 1.0,
+  "size_pt": 34.08
+ },
+ {
+  "ward": 38,
+  "role": "location_names",
+  "text": "TondiarpetLoco ShedDiesel",
+  "east": 422110.72,
+  "north": 1452209.0,
+  "conf": 1.0,
+  "size_pt": 32.52
+ },
+ {
+  "ward": 38,
+  "role": "location_names",
+  "text": "I\u041eC MTC",
+  "east": 422107.23,
+  "north": 1452890.15,
+  "conf": 1.0,
+  "size_pt": 25.68
+ },
+ {
+  "ward": 38,
+  "role": "location_names",
+  "text": "Terminus",
+  "east": 422161.84,
+  "north": 1452890.15,
+  "conf": 1.0,
+  "size_pt": 25.68
+ },
+ {
+  "ward": 38,
+  "role": "location_names",
+  "text": "VOC Nagar",
+  "east": 422680.08,
+  "north": 1453012.59,
+  "conf": 1.0,
+  "size_pt": 32.52
+ },
+ {
+  "ward": 38,
+  "role": "location_names",
+  "text": "Railway Halt",
+  "east": 422878.71,
+  "north": 1452855.01,
+  "conf": 1.0,
+  "size_pt": 36.96
+ },
+ {
+  "ward": 38,
+  "role": "location_names",
+  "text": "PetroleumBharath",
+  "east": 422246.18,
+  "north": 1451379.91,
+  "conf": 1.0,
+  "size_pt": 30.12
+ },
+ {
+  "ward": 38,
+  "role": "location_names",
+  "text": "Hindustan",
+  "east": 422190.52,
+  "north": 1451062.41,
+  "conf": 1.0,
+  "size_pt": 29.4
+ },
+ {
+  "ward": 38,
+  "role": "location_names",
+  "text": "Petroleum",
+  "east": 422251.26,
+  "north": 1451062.41,
+  "conf": 1.0,
+  "size_pt": 30.12
+ },
+ {
+  "ward": 38,
+  "role": "location_names",
+  "text": "Indian",
+  "east": 421784.77,
+  "north": 1450900.38,
+  "conf": 1.0,
+  "size_pt": 16.92
+ },
+ {
+  "ward": 38,
+  "role": "location_names",
+  "text": "Oil",
+  "east": 421814.62,
+  "north": 1450900.38,
+  "conf": 1.0,
+  "size_pt": 6.6
+ },
+ {
+  "ward": 38,
+  "role": "location_names",
+  "text": "Korukkupet",
+  "east": 421784.77,
+  "north": 1450691.15,
+  "conf": 1.0,
+  "size_pt": 33.24
+ },
+ {
+  "ward": 38,
+  "role": "location_names",
+  "text": "Railway StationTondiryapet",
+  "east": 422229.25,
+  "north": 1451336.84,
+  "conf": 1.0,
+  "size_pt": 46.68
+ },
+ {
+  "ward": 38,
+  "role": "location_names",
+  "text": "Carnesh",
+  "east": 421878.54,
+  "north": 1451176.92,
+  "conf": 1.0,
+  "size_pt": 26.04
+ },
+ {
+  "ward": 38,
+  "role": "location_names",
+  "text": "Nagar",
+  "east": 421928.17,
+  "north": 1451175.44,
+  "conf": 1.0,
+  "size_pt": 19.92
+ },
+ {
+  "ward": 38,
+  "role": "location_names",
+  "text": "Vinoba Nagar",
+  "east": 421708.79,
+  "north": 1452462.16,
+  "conf": 1.0,
+  "size_pt": 40.44
+ }
+]

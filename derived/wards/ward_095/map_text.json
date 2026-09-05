@@ -1,0 +1,1712 @@
+[
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "School Road",
+  "east": 412855.6,
+  "north": 1447444.61,
+  "conf": 1.0,
+  "size_pt": 38.64
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "21st Main Rd",
+  "east": 413968.85,
+  "north": 1447533.59,
+  "conf": 1.0,
+  "size_pt": 37.08
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "Anna Nagar 6th Avenuer",
+  "east": 413402.54,
+  "north": 1447527.24,
+  "conf": 1.0,
+  "size_pt": 75.72
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "3rd Avenue",
+  "east": 412783.32,
+  "north": 1447573.06,
+  "conf": 1.0,
+  "size_pt": 34.8
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "N Main Rd",
+  "east": 412888.62,
+  "north": 1447887.93,
+  "conf": 1.0,
+  "size_pt": 33.12
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "2nd Avenue W Block",
+  "east": 412865.23,
+  "north": 1447663.41,
+  "conf": 1.0,
+  "size_pt": 64.44
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "Anna Nagar 20th Main Road",
+  "east": 413706.81,
+  "north": 1447487.46,
+  "conf": 1.0,
+  "size_pt": 90.84
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "1stSt",
+  "east": 412868.62,
+  "north": 1447503.01,
+  "conf": 1.0,
+  "size_pt": 17.64
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "13th Main Road",
+  "east": 413364.34,
+  "north": 1447524.6,
+  "conf": 1.0,
+  "size_pt": 48.48
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "11th St",
+  "east": 413309.73,
+  "north": 1447727.0,
+  "conf": 1.0,
+  "size_pt": 16.68
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "1 Block 18th St",
+  "east": 413556.21,
+  "north": 1447456.14,
+  "conf": 1.0,
+  "size_pt": 48.24
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "1st St",
+  "east": 413821.85,
+  "north": 1447654.31,
+  "conf": 1.0,
+  "size_pt": 17.76
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "Anna Nagar 25th Street",
+  "east": 413642.57,
+  "north": 1447504.07,
+  "conf": 1.0,
+  "size_pt": 76.56
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "/ Block 26th St",
+  "east": 413549.97,
+  "north": 1447558.77,
+  "conf": 1.0,
+  "size_pt": 49.08
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "1 Block 28th St",
+  "east": 413541.29,
+  "north": 1447674.52,
+  "conf": 1.0,
+  "size_pt": 49.08
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "2nd St",
+  "east": 413240.72,
+  "north": 1447493.17,
+  "conf": 1.0,
+  "size_pt": 21.24
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "2nd St",
+  "east": 413991.71,
+  "north": 1447661.83,
+  "conf": 1.0,
+  "size_pt": 20.76
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "/ Block 33rd St",
+  "east": 413743.53,
+  "north": 1447469.05,
+  "conf": 1.0,
+  "size_pt": 48.6
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "1 Block 34th St",
+  "east": 413850.32,
+  "north": 1447447.57,
+  "conf": 1.0,
+  "size_pt": 49.08
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "/ Block 35th St",
+  "east": 413931.91,
+  "north": 1447504.81,
+  "conf": 1.0,
+  "size_pt": 48.84
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "/ Block36th St",
+  "east": 413841.85,
+  "north": 1447529.57,
+  "conf": 1.0,
+  "size_pt": 49.08
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "/ Block 37th St",
+  "east": 413835.5,
+  "north": 1447491.48,
+  "conf": 1.0,
+  "size_pt": 49.08
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "3rd St",
+  "east": 413994.46,
+  "north": 1447711.77,
+  "conf": 1.0,
+  "size_pt": 19.32
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "40th St",
+  "east": 414086.43,
+  "north": 1447436.14,
+  "conf": 1.0,
+  "size_pt": 23.28
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "4th St",
+  "east": 413838.25,
+  "north": 1447748.06,
+  "conf": 1.0,
+  "size_pt": 19.32
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "in 10th StreetCross6th Street5th5th St",
+  "east": 413835.18,
+  "north": 1447809.0,
+  "conf": 1.0,
+  "size_pt": 44.16
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "5th St",
+  "east": 413297.45,
+  "north": 1447585.86,
+  "conf": 1.0,
+  "size_pt": 19.56
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "/ Block 6th St",
+  "east": 413193.52,
+  "north": 1447737.05,
+  "conf": 1.0,
+  "size_pt": 44.88
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "7th St",
+  "east": 413256.18,
+  "north": 1447684.57,
+  "conf": 1.0,
+  "size_pt": 17.16
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "38th St",
+  "east": 414044.31,
+  "north": 1447564.59,
+  "conf": 1.0,
+  "size_pt": 23.76
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "Anna Nagar 6th Avenue",
+  "east": 413860.58,
+  "north": 1447405.35,
+  "conf": 1.0,
+  "size_pt": 75.84
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "Anna Nagar 6th Avenues",
+  "east": 413283.59,
+  "north": 1447429.37,
+  "conf": 1.0,
+  "size_pt": 75.84
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "37th St",
+  "east": 413373.44,
+  "north": 1448247.99,
+  "conf": 1.0,
+  "size_pt": 23.88
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "36th St",
+  "east": 413368.15,
+  "north": 1448227.57,
+  "conf": 1.0,
+  "size_pt": 23.88
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "35th Street98",
+  "east": 413391.32,
+  "north": 1448176.99,
+  "conf": 1.0,
+  "size_pt": 36.0
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "Venugopalan Street4H88.074H96th8.018S4th Block14th Block 81:Thirumangalam RoPost",
+  "east": 413539.49,
+  "north": 1448148.74,
+  "conf": 1.0,
+  "size_pt": 84.84
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "Q Block 41st St",
+  "east": 413404.23,
+  "north": 1448318.56,
+  "conf": 1.0,
+  "size_pt": 49.92
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "NRN Colony Street",
+  "east": 413437.57,
+  "north": 1448411.56,
+  "conf": 1.0,
+  "size_pt": 57.96
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "18th Main Rd",
+  "east": 413281.15,
+  "north": 1447643.73,
+  "conf": 1.0,
+  "size_pt": 41.16
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "Bharathi nagar2nd Street",
+  "east": 413783.11,
+  "north": 1448564.24,
+  "conf": 1.0,
+  "size_pt": 44.88
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "Kallway \u2192Mannadi Park LaneE Mada Street ExtensionDr Ambedkar Ist StreetMosque 2nd Stain Streetet",
+  "east": 414544.47,
+  "north": 1448992.65,
+  "conf": 0.9,
+  "size_pt": 122.76
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "Chennai Bhattai Road",
+  "east": 414283.17,
+  "north": 1448813.62,
+  "conf": 1.0,
+  "size_pt": 68.04
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "Thirumangalam Road",
+  "east": 413516.52,
+  "north": 1448504.14,
+  "conf": 1.0,
+  "size_pt": 64.08
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "8.1E5th StfordStre\u00e9tckBpost Office15th Block14th",
+  "east": 413711.36,
+  "north": 1448156.26,
+  "conf": 1.0,
+  "size_pt": 68.88
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "Bazaar St",
+  "east": 414215.97,
+  "north": 1448880.39,
+  "conf": 1.0,
+  "size_pt": 30.48
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "East Mada St",
+  "east": 414375.25,
+  "north": 1449047.67,
+  "conf": 1.0,
+  "size_pt": 42.36
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "Mettu StThanthoni AmmanKoil St",
+  "east": 414255.65,
+  "north": 1448585.08,
+  "conf": 1.0,
+  "size_pt": 84.12
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "Bajaniai Koil StreetPonnan Kinaru Street",
+  "east": 414581.19,
+  "north": 1448479.81,
+  "conf": 1.0,
+  "size_pt": 80.76
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "South Mada St",
+  "east": 414192.68,
+  "north": 1448792.99,
+  "conf": 1.0,
+  "size_pt": 46.8
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "Thanthonriya Amman Koil Ist StreetSt. 2nd LaneSouth MadaFC ATM",
+  "east": 414335.24,
+  "north": 1448687.82,
+  "conf": 1.0,
+  "size_pt": 112.56
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "Thiru Vi Ka Main StreetThiru Vi Ka 2ndVMThiru vi ka 1stdicals16",
+  "east": 414455.68,
+  "north": 1448866.21,
+  "conf": 1.0,
+  "size_pt": 73.08
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "Thiru Vi Ka 2nd St",
+  "east": 414426.04,
+  "north": 1448851.29,
+  "conf": 1.0,
+  "size_pt": 49.08
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "New Avadi Road",
+  "east": 414605.85,
+  "north": 1448129.7,
+  "conf": 1.0,
+  "size_pt": 48.0
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "Sannati St",
+  "east": 414274.39,
+  "north": 1448938.69,
+  "conf": 1.0,
+  "size_pt": 32.64
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "Nagar Ist StreetRajiv Gandhi",
+  "east": 414537.38,
+  "north": 1448753.95,
+  "conf": 1.0,
+  "size_pt": 52.44
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "Reddy St",
+  "east": 414154.27,
+  "north": 1448742.21,
+  "conf": 1.0,
+  "size_pt": 28.08
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "Main RoadColony 2ndYasantham",
+  "east": 413890.96,
+  "north": 1447734.62,
+  "conf": 1.0,
+  "size_pt": 107.4
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "K59.951South High Court Colony Ist StThirumangalam RoadThirunagarParkSouth High Court Colony2nd StreetBlorH28H278.67a8.2628th19th Block 29th StH23H246.9377.02530th Street13ht Block 11th StreetH2208.18613th Block 1st StH21H258.314H2~8147",
+  "east": 413638.44,
+  "north": 1448438.02,
+  "conf": 0.976,
+  "size_pt": 203.4
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "W Block 5th StW Block 2nd StF33",
+  "east": 412859.83,
+  "north": 1447558.24,
+  "conf": 1.0,
+  "size_pt": 56.88
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "W Block 4th St",
+  "east": 412927.99,
+  "north": 1447540.15,
+  "conf": 1.0,
+  "size_pt": 47.4
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "13748ectorGandhi parkC sector 20th St",
+  "east": 412861.42,
+  "north": 1447751.66,
+  "conf": 1.0,
+  "size_pt": 64.32
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "C sector 19th St",
+  "east": 412935.61,
+  "north": 1447736.95,
+  "conf": 1.0,
+  "size_pt": 53.4
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "Emayam Colony 3rd St",
+  "east": 412885.66,
+  "north": 1447993.21,
+  "conf": 1.0,
+  "size_pt": 72.96
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "Emayam Colony 2nd St",
+  "east": 412903.97,
+  "north": 1447913.11,
+  "conf": 1.0,
+  "size_pt": 73.8
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "Imayam Colony 1st St",
+  "east": 412999.21,
+  "north": 1447952.69,
+  "conf": 1.0,
+  "size_pt": 69.6
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "East Main Road",
+  "east": 413017.42,
+  "north": 1447571.36,
+  "conf": 1.0,
+  "size_pt": 49.44
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "Jawahaelal Nehru Road",
+  "east": 413104.84,
+  "north": 1447681.19,
+  "conf": 1.0,
+  "size_pt": 72.24
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "1 Block 1st St",
+  "east": 413192.04,
+  "north": 1447500.16,
+  "conf": 1.0,
+  "size_pt": 43.56
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "/ Block 3st St",
+  "east": 413236.49,
+  "north": 1447568.93,
+  "conf": 1.0,
+  "size_pt": 44.52
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "1 Block 29th St",
+  "east": 413538.96,
+  "north": 1447721.5,
+  "conf": 1.0,
+  "size_pt": 49.08
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "/ Block 31th St",
+  "east": 413536.95,
+  "north": 1447786.89,
+  "conf": 1.0,
+  "size_pt": 48.0
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "/ Block 32th St",
+  "east": 413655.37,
+  "north": 1447769.96,
+  "conf": 1.0,
+  "size_pt": 49.08
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "Thirumangalam Road",
+  "east": 413409.1,
+  "north": 1447713.99,
+  "conf": 1.0,
+  "size_pt": 64.08
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "19th Main Road",
+  "east": 413555.68,
+  "north": 1447833.87,
+  "conf": 1.0,
+  "size_pt": 48.6
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "Muthumariamman Koil Stad",
+  "east": 413344.76,
+  "north": 1447871.0,
+  "conf": 1.0,
+  "size_pt": 73.44
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "Thendral Colony 5th Street",
+  "east": 413285.07,
+  "north": 1447922.43,
+  "conf": 1.0,
+  "size_pt": 83.76
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "Thendral Colony 4th Street",
+  "east": 413287.71,
+  "north": 1447959.14,
+  "conf": 1.0,
+  "size_pt": 84.12
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "Thendral Colony 2th Street",
+  "east": 413278.72,
+  "north": 1447997.97,
+  "conf": 1.0,
+  "size_pt": 83.76
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "Thendral Colony 1th Street",
+  "east": 413187.49,
+  "north": 1447947.71,
+  "conf": 1.0,
+  "size_pt": 82.92
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "Mullai NagarIst Street",
+  "east": 413416.3,
+  "north": 1447950.15,
+  "conf": 1.0,
+  "size_pt": 38.16
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "19th St",
+  "east": 413432.92,
+  "north": 1447517.83,
+  "conf": 1.0,
+  "size_pt": 22.08
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "20th St",
+  "east": 413469.0,
+  "north": 1447514.55,
+  "conf": 1.0,
+  "size_pt": 24.12
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "21th St",
+  "east": 413494.09,
+  "north": 1447523.33,
+  "conf": 1.0,
+  "size_pt": 23.28
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "22th St",
+  "east": 413531.76,
+  "north": 1447519.52,
+  "conf": 1.0,
+  "size_pt": 24.0
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "23th St",
+  "east": 413556.84,
+  "north": 1447518.14,
+  "conf": 1.0,
+  "size_pt": 24.12
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "24th St",
+  "east": 413592.72,
+  "north": 1447512.01,
+  "conf": 1.0,
+  "size_pt": 23.88
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "1 Block 30th St",
+  "east": 413537.69,
+  "north": 1447752.61,
+  "conf": 1.0,
+  "size_pt": 48.84
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "13th Main Raod",
+  "east": 413339.89,
+  "north": 1447713.99,
+  "conf": 1.0,
+  "size_pt": 48.48
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "20th Main Road",
+  "east": 413702.68,
+  "north": 1447842.12,
+  "conf": 1.0,
+  "size_pt": 50.4
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "StMullai Nagar 4th",
+  "east": 413476.2,
+  "north": 1447906.34,
+  "conf": 1.0,
+  "size_pt": 62.16
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "6th StSt7th",
+  "east": 413523.51,
+  "north": 1447888.67,
+  "conf": 1.0,
+  "size_pt": 28.44
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "Mullai Nagar 10th_St8th St",
+  "east": 413616.53,
+  "north": 1447918.3,
+  "conf": 1.0,
+  "size_pt": 61.44
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "3rd Main St",
+  "east": 414075.42,
+  "north": 1447670.19,
+  "conf": 1.0,
+  "size_pt": 36.72
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "Ponvizha Nagar Street",
+  "east": 412952.12,
+  "north": 1448200.16,
+  "conf": 1.0,
+  "size_pt": 69.0
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "O Block 14th St",
+  "east": 413055.94,
+  "north": 1448177.1,
+  "conf": 1.0,
+  "size_pt": 50.52
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "Agathiya Nagar Ext 3rd St",
+  "east": 413039.85,
+  "north": 1448241.85,
+  "conf": 1.0,
+  "size_pt": 82.68
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "St3rd St* 7th Str~11thstfStBlock 17th StOO Block 16th StO Block 18thQ Block 19thQ0 Block 7th StBlock20th",
+  "east": 413141.24,
+  "north": 1448193.29,
+  "conf": 1.0,
+  "size_pt": 91.44
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "O Block 24th St",
+  "east": 413216.07,
+  "north": 1448119.54,
+  "conf": 1.0,
+  "size_pt": 51.24
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "O Block 25th St1",
+  "east": 413255.75,
+  "north": 1448120.39,
+  "conf": 1.0,
+  "size_pt": 51.0
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "Block 26th St",
+  "east": 413278.29,
+  "north": 1448118.27,
+  "conf": 1.0,
+  "size_pt": 51.24
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "0 Block 27th St",
+  "east": 413304.22,
+  "north": 1448113.93,
+  "conf": 1.0,
+  "size_pt": 51.36
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "Block 28th St",
+  "east": 413332.37,
+  "north": 1448114.46,
+  "conf": 1.0,
+  "size_pt": 51.24
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "O Block 29th St",
+  "east": 413356.4,
+  "north": 1448108.64,
+  "conf": 1.0,
+  "size_pt": 51.36
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "O Block 30th St",
+  "east": 413383.7,
+  "north": 1448105.47,
+  "conf": 1.0,
+  "size_pt": 51.36
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "14th Block 9th 5t",
+  "east": 413621.93,
+  "north": 1448131.5,
+  "conf": 1.0,
+  "size_pt": 55.68
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "\u0131lru15thBlock3rd St",
+  "east": 413611.88,
+  "north": 1448232.96,
+  "conf": 0.825,
+  "size_pt": 58.8
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": ",8.451 N Block 6th StP Block 31th St G7",
+  "east": 413265.81,
+  "north": 1448198.37,
+  "conf": 1.0,
+  "size_pt": 64.8
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "IN Block 5th St",
+  "east": 413282.85,
+  "north": 1448242.59,
+  "conf": 1.0,
+  "size_pt": 47.88
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "N Block 4th St",
+  "east": 413288.77,
+  "north": 1448279.31,
+  "conf": 1.0,
+  "size_pt": 47.88
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "N Block 3th St",
+  "east": 413273.74,
+  "north": 1448338.77,
+  "conf": 1.0,
+  "size_pt": 47.64
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "O Block 8th St",
+  "east": 413160.4,
+  "north": 1448410.51,
+  "conf": 1.0,
+  "size_pt": 46.92
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "Thiruvallur High Road ge# 44444444Srinivasa AvanueKumarasamy Nagar St",
+  "east": 413272.79,
+  "north": 1448521.18,
+  "conf": 0.825,
+  "size_pt": 80.16
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "Lakshmi St",
+  "east": 413427.31,
+  "north": 1448458.44,
+  "conf": 1.0,
+  "size_pt": 34.08
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "20tr16th Block 21st St",
+  "east": 413859.95,
+  "north": 1448232.86,
+  "conf": 1.0,
+  "size_pt": 55.2
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "-Thitru NagarMain St.",
+  "east": 413842.7,
+  "north": 1448436.96,
+  "conf": 1.0,
+  "size_pt": 37.8
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "Lakshmipuram 3rd StLakshmipuram 4th StNR Componud Street",
+  "east": 413972.34,
+  "north": 1448341.52,
+  "conf": 1.0,
+  "size_pt": 79.56
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "18th Block 20th St",
+  "east": 413772.32,
+  "north": 1448443.41,
+  "conf": 1.0,
+  "size_pt": 59.76
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "Thiruvengadaiah 1st",
+  "east": 413921.12,
+  "north": 1448560.11,
+  "conf": 1.0,
+  "size_pt": 69.72
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "Raja Street",
+  "east": 413991.5,
+  "north": 1448530.17,
+  "conf": 1.0,
+  "size_pt": 35.52
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "Athi Street",
+  "east": 414023.56,
+  "north": 1448495.89,
+  "conf": 1.0,
+  "size_pt": 34.32
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "Embar Ist Street",
+  "east": 414066.11,
+  "north": 1448454.63,
+  "conf": 1.0,
+  "size_pt": 54.24
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "Embar 2nd Street",
+  "east": 414143.26,
+  "north": 1448471.77,
+  "conf": 1.0,
+  "size_pt": 55.44
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "M T H Road I C F Anex Lane",
+  "east": 414278.94,
+  "north": 1448389.24,
+  "conf": 1.0,
+  "size_pt": 94.08
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "4th Street",
+  "east": 414480.23,
+  "north": 1448238.57,
+  "conf": 1.0,
+  "size_pt": 29.88
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "3th Street",
+  "east": 414694.75,
+  "north": 1448223.65,
+  "conf": 1.0,
+  "size_pt": 30.48
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "Wettu Street Lane",
+  "east": 414177.55,
+  "north": 1448658.2,
+  "conf": 1.0,
+  "size_pt": 56.04
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "Villivakkam Railway Station Road",
+  "east": 414540.13,
+  "north": 1449231.13,
+  "conf": 1.0,
+  "size_pt": 100.68
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "PondVillivakkam Railway Stationrark LaneStation Road",
+  "east": 414598.87,
+  "north": 1449094.22,
+  "conf": 1.0,
+  "size_pt": 92.4
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "VCF Colony west 2nd Street",
+  "east": 414554.74,
+  "north": 1448326.18,
+  "conf": 1.0,
+  "size_pt": 82.68
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "ICF Road",
+  "east": 414667.02,
+  "north": 1448365.54,
+  "conf": 1.0,
+  "size_pt": 27.6
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "\u041e\u0411\u0440\u043bMoorthy Nagar",
+  "east": 414769.47,
+  "north": 1448423.63,
+  "conf": 0.65,
+  "size_pt": 43.68
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "South ThirumalaiNagar 3rd RoadSouth ThirumalaiNagar Ist RoadICFSouthMTCTerminiThirumalai Nagar Main RoadMoorthy Nar",
+  "east": 414786.4,
+  "north": 1448492.08,
+  "conf": 1.0,
+  "size_pt": 107.04
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "Thanthonriya AmmanKoil Main Street",
+  "east": 414399.27,
+  "north": 1448543.4,
+  "conf": 1.0,
+  "size_pt": 63.84
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "Venugopal Street",
+  "east": 413458.95,
+  "north": 1448244.81,
+  "conf": 1.0,
+  "size_pt": 51.0
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "O Block 9th St",
+  "east": 413173.84,
+  "north": 1448308.09,
+  "conf": 1.0,
+  "size_pt": 47.4
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "Ist St",
+  "east": 413742.79,
+  "north": 1448482.88,
+  "conf": 1.0,
+  "size_pt": 18.12
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "Dr B R Ambedkar Road",
+  "east": 414922.72,
+  "north": 1448447.11,
+  "conf": 1.0,
+  "size_pt": 73.8
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "wyur 2nd StrNorth Thirumalai Nagar Ist Street",
+  "east": 414823.87,
+  "north": 1448578.52,
+  "conf": 1.0,
+  "size_pt": 106.8
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "Narayana MaSeeyalam Ist StreetMurugesan Nagar 1sChennaiumalai NagarBattai RoadThir5th StreetStreet4thNorth ThirumalaiNagar 2nd Streetrth Thirumal:",
+  "east": 414854.56,
+  "north": 1448721.47,
+  "conf": 1.0,
+  "size_pt": 153.12
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "Ponnagkimaru Street",
+  "east": 414592.84,
+  "north": 1448712.9,
+  "conf": 1.0,
+  "size_pt": 63.72
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "Seeyalam 2nd Street",
+  "east": 414932.35,
+  "north": 1448856.9,
+  "conf": 1.0,
+  "size_pt": 62.28
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "Narayana Maistry Ist Street",
+  "east": 414764.28,
+  "north": 1448866.0,
+  "conf": 1.0,
+  "size_pt": 87.84
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "ThiruvalluvarStreet",
+  "east": 414457.69,
+  "north": 1449112.21,
+  "conf": 1.0,
+  "size_pt": 36.24
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "Mannadi Othavadai St......",
+  "east": 414591.04,
+  "north": 1449174.74,
+  "conf": 1.0,
+  "size_pt": 65.28
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "ThiruveediammanKoil St",
+  "east": 414729.57,
+  "north": 1449008.31,
+  "conf": 1.0,
+  "size_pt": 74.76
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "Narayana Maistry 2nd St",
+  "east": 414676.44,
+  "north": 1448872.77,
+  "conf": 1.0,
+  "size_pt": 78.12
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "Chennai BattaiIst Street",
+  "east": 414711.9,
+  "north": 1448725.38,
+  "conf": 1.0,
+  "size_pt": 45.48
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "East Seeyalam Kenal 2nd Street",
+  "east": 415006.32,
+  "north": 1448985.13,
+  "conf": 1.0,
+  "size_pt": 102.72
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "1st Lane",
+  "east": 414919.43,
+  "north": 1448975.82,
+  "conf": 1.0,
+  "size_pt": 25.56
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "Seeyalam 4th Lane",
+  "east": 414930.86,
+  "north": 1449016.98,
+  "conf": 1.0,
+  "size_pt": 59.64
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "jobhis ibdo5\u00f6jol",
+  "east": 414577.17,
+  "north": 1448845.58,
+  "conf": 0.3,
+  "size_pt": 51.0
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "Reddy Street",
+  "east": 414111.51,
+  "north": 1448676.39,
+  "conf": 1.0,
+  "size_pt": 40.08
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "2st StSeealam",
+  "east": 414860.06,
+  "north": 1448985.13,
+  "conf": 1.0,
+  "size_pt": 48.96
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "19Thanthonriya AmmanKoil Ext 2nd St",
+  "east": 414556.22,
+  "north": 1448596.72,
+  "conf": 1.0,
+  "size_pt": 61.8
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "1 Block 10th St",
+  "east": 413234.27,
+  "north": 1447801.91,
+  "conf": 1.0,
+  "size_pt": 48.0
+ },
+ {
+  "ward": 95,
+  "role": "road_name",
+  "text": "Dr B R Ambedkar Road",
+  "east": 414847.15,
+  "north": 1449115.17,
+  "conf": 1.0,
+  "size_pt": 75.12
+ },
+ {
+  "ward": 95,
+  "role": "location_names",
+  "text": "\u203aAnna Nagar WestMTC DepotF 41",
+  "east": 413051.92,
+  "north": 1447901.26,
+  "conf": 1.0,
+  "size_pt": 53.88
+ },
+ {
+  "ward": 95,
+  "role": "location_names",
+  "text": "Military",
+  "east": 412876.77,
+  "north": 1448303.96,
+  "conf": 1.0,
+  "size_pt": 21.6
+ },
+ {
+  "ward": 95,
+  "role": "location_names",
+  "text": "forest",
+  "east": 412987.57,
+  "north": 1448334.43,
+  "conf": 1.0,
+  "size_pt": 16.68
+ },
+ {
+  "ward": 95,
+  "role": "location_names",
+  "text": "Gandhi park",
+  "east": 412883.12,
+  "north": 1447740.44,
+  "conf": 1.0,
+  "size_pt": 36.24
+ },
+ {
+  "ward": 95,
+  "role": "location_names",
+  "text": "Tblock\u00ae",
+  "east": 413267.82,
+  "north": 1447749.54,
+  "conf": 1.0,
+  "size_pt": 15.96
+ },
+ {
+  "ward": 95,
+  "role": "location_names",
+  "text": "Park",
+  "east": 413247.92,
+  "north": 1447526.18,
+  "conf": 1.0,
+  "size_pt": 13.08
+ },
+ {
+  "ward": 95,
+  "role": "location_names",
+  "text": "V/0CAnna Nagar West",
+  "east": 413419.26,
+  "north": 1448255.71,
+  "conf": 0.65,
+  "size_pt": 53.52
+ },
+ {
+  "ward": 95,
+  "role": "location_names",
+  "text": "Anna NagarRailway Station",
+  "east": 413307.82,
+  "north": 1448039.76,
+  "conf": 1.0,
+  "size_pt": 46.68
+ },
+ {
+  "ward": 95,
+  "role": "location_names",
+  "text": "Park",
+  "east": 413266.76,
+  "north": 1447723.62,
+  "conf": 1.0,
+  "size_pt": 11.4
+ },
+ {
+  "ward": 95,
+  "role": "location_names",
+  "text": "ICFColonyWest",
+  "east": 414501.93,
+  "north": 1448531.12,
+  "conf": 1.0,
+  "size_pt": 19.68
+ },
+ {
+  "ward": 95,
+  "role": "location_names",
+  "text": "ThirunagarPark",
+  "east": 413671.14,
+  "north": 1448490.92,
+  "conf": 1.0,
+  "size_pt": 30.72
+ },
+ {
+  "ward": 95,
+  "role": "location_names",
+  "text": "AxisBank",
+  "east": 414200.83,
+  "north": 1448467.85,
+  "conf": 1.0,
+  "size_pt": 14.28
+ },
+ {
+  "ward": 95,
+  "role": "location_names",
+  "text": "MeaplusS.R.Medicals",
+  "east": 414249.52,
+  "north": 1448453.78,
+  "conf": 1.0,
+  "size_pt": 27.24
+ },
+ {
+  "ward": 95,
+  "role": "location_names",
+  "text": "St. JohnWilliamsMatriculation",
+  "east": 414351.12,
+  "north": 1448504.46,
+  "conf": 1.0,
+  "size_pt": 38.28
+ },
+ {
+  "ward": 95,
+  "role": "location_names",
+  "text": "GurudevPharmacy",
+  "east": 414168.24,
+  "north": 1448601.8,
+  "conf": 1.0,
+  "size_pt": 30.36
+ },
+ {
+  "ward": 95,
+  "role": "location_names",
+  "text": "HDFC,BankATM",
+  "east": 414750.84,
+  "north": 1448349.88,
+  "conf": 1.0,
+  "size_pt": 17.28
+ },
+ {
+  "ward": 95,
+  "role": "location_names",
+  "text": "HDFC ATM",
+  "east": 414302.54,
+  "north": 1448780.93,
+  "conf": 1.0,
+  "size_pt": 31.68
+ },
+ {
+  "ward": 95,
+  "role": "location_names",
+  "text": "IndianBank",
+  "east": 413389.31,
+  "north": 1448530.28,
+  "conf": 1.0,
+  "size_pt": 16.92
+ },
+ {
+  "ward": 95,
+  "role": "location_names",
+  "text": "AmbedkarStatue",
+  "east": 414165.91,
+  "north": 1448851.08,
+  "conf": 1.0,
+  "size_pt": 30.36
+ },
+ {
+  "ward": 95,
+  "role": "location_names",
+  "text": "VMMedicals",
+  "east": 414393.45,
+  "north": 1448838.28,
+  "conf": 1.0,
+  "size_pt": 24.84
+ },
+ {
+  "ward": 95,
+  "role": "location_names",
+  "text": "SBI ATM",
+  "east": 414420.12,
+  "north": 1449020.9,
+  "conf": 1.0,
+  "size_pt": 25.08
+ },
+ {
+  "ward": 95,
+  "role": "location_names",
+  "text": "AakashBakery",
+  "east": 414430.91,
+  "north": 1449086.07,
+  "conf": 1.0,
+  "size_pt": 21.48
+ },
+ {
+  "ward": 95,
+  "role": "location_names",
+  "text": "CauveryTrustHospital",
+  "east": 414491.34,
+  "north": 1448472.61,
+  "conf": 1.0,
+  "size_pt": 26.4
+ },
+ {
+  "ward": 95,
+  "role": "location_names",
+  "text": "ICFMTCTerminus",
+  "east": 414872.13,
+  "north": 1448469.86,
+  "conf": 1.0,
+  "size_pt": 25.68
+ },
+ {
+  "ward": 95,
+  "role": "location_names",
+  "text": "KalpanaHotelStop",
+  "east": 414199.67,
+  "north": 1448722.74,
+  "conf": 1.0,
+  "size_pt": 23.52
+ },
+ {
+  "ward": 95,
+  "role": "location_names",
+  "text": "KallukadaiStop",
+  "east": 414493.35,
+  "north": 1448634.07,
+  "conf": 1.0,
+  "size_pt": 30.6
+ },
+ {
+  "ward": 95,
+  "role": "location_names",
+  "text": "Busstop",
+  "east": 414861.65,
+  "north": 1448402.36,
+  "conf": 1.0,
+  "size_pt": 18.24
+ },
+ {
+  "ward": 95,
+  "role": "location_names",
+  "text": "Welcome Colony",
+  "east": 414454.2,
+  "north": 1448684.33,
+  "conf": 1.0,
+  "size_pt": 49.08
+ },
+ {
+  "ward": 95,
+  "role": "location_names",
+  "text": "Pond",
+  "east": 414654.96,
+  "north": 1449131.78,
+  "conf": 1.0,
+  "size_pt": 16.56
+ },
+ {
+  "ward": 95,
+  "role": "location_names",
+  "text": "Pond",
+  "east": 413504.56,
+  "north": 1448006.96,
+  "conf": 1.0,
+  "size_pt": 16.56
+ },
+ {
+  "ward": 95,
+  "role": "location_names",
+  "text": "Cultvert",
+  "east": 413411.01,
+  "north": 1448031.09,
+  "conf": 1.0,
+  "size_pt": 22.56
+ },
+ {
+  "ward": 95,
+  "role": "location_names",
+  "text": "Cultvert",
+  "east": 412765.33,
+  "north": 1448455.47,
+  "conf": 1.0,
+  "size_pt": 22.44
+ },
+ {
+  "ward": 95,
+  "role": "location_names",
+  "text": "PadiRailwayStation",
+  "east": 412759.29,
+  "north": 1448508.48,
+  "conf": 1.0,
+  "size_pt": 23.76
+ },
+ {
+  "ward": 95,
+  "role": "size_label",
+  "text": "V.UTL",
+  "east": 414089.29,
+  "north": 1447595.59,
+  "conf": 1.0,
+  "size_pt": 15.0
+ }
+]

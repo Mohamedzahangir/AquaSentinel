@@ -1,0 +1,407 @@
+[
+ {
+  "ward": 98,
+  "role": "road_name",
+  "text": "Medavakkam Tank RoadTTTTATTTHTTTTE",
+  "east": 417784.17,
+  "north": 1447113.65,
+  "conf": 0.65,
+  "size_pt": 62.4
+ },
+ {
+  "ward": 98,
+  "role": "road_name",
+  "text": "Raji Street",
+  "east": 416700.06,
+  "north": 1447291.45,
+  "conf": 1.0,
+  "size_pt": 32.88
+ },
+ {
+  "ward": 98,
+  "role": "road_name",
+  "text": "Mettu Street",
+  "east": 416895.1,
+  "north": 1447818.27,
+  "conf": 1.0,
+  "size_pt": 39.36
+ },
+ {
+  "ward": 98,
+  "role": "road_name",
+  "text": "NMK Street",
+  "east": 417327.41,
+  "north": 1447939.13,
+  "conf": 1.0,
+  "size_pt": 35.04
+ },
+ {
+  "ward": 98,
+  "role": "road_name",
+  "text": "Ayanavaram Road",
+  "east": 417469.12,
+  "north": 1447496.86,
+  "conf": 1.0,
+  "size_pt": 56.28
+ },
+ {
+  "ward": 98,
+  "role": "road_name",
+  "text": "Ujjini Street",
+  "east": 417248.47,
+  "north": 1447697.94,
+  "conf": 1.0,
+  "size_pt": 36.6
+ },
+ {
+  "ward": 98,
+  "role": "road_name",
+  "text": "Police Manickam Street",
+  "east": 417131.52,
+  "north": 1447633.49,
+  "conf": 1.0,
+  "size_pt": 73.2
+ },
+ {
+  "ward": 98,
+  "role": "road_name",
+  "text": "C K Street",
+  "east": 417064.22,
+  "north": 1447648.52,
+  "conf": 1.0,
+  "size_pt": 33.12
+ },
+ {
+  "ward": 98,
+  "role": "road_name",
+  "text": "Culvert",
+  "east": 417049.19,
+  "north": 1446800.6,
+  "conf": 1.0,
+  "size_pt": 19.8
+ },
+ {
+  "ward": 98,
+  "role": "road_name",
+  "text": "Culvert",
+  "east": 418172.04,
+  "north": 1446812.46,
+  "conf": 1.0,
+  "size_pt": 19.8
+ },
+ {
+  "ward": 98,
+  "role": "road_name",
+  "text": "Kuttiappan1st Street",
+  "east": 417781.95,
+  "north": 1446977.76,
+  "conf": 1.0,
+  "size_pt": 68.04
+ },
+ {
+  "ward": 98,
+  "role": "road_name",
+  "text": "Parthasarathy Street!",
+  "east": 417115.12,
+  "north": 1447771.5,
+  "conf": 1.0,
+  "size_pt": 64.8
+ },
+ {
+  "ward": 98,
+  "role": "road_name",
+  "text": "Bumping Station Road",
+  "east": 417410.6,
+  "north": 1446940.72,
+  "conf": 1.0,
+  "size_pt": 63.12
+ },
+ {
+  "ward": 98,
+  "role": "road_name",
+  "text": "Kuttiappa Ist Road",
+  "east": 417663.42,
+  "north": 1446947.07,
+  "conf": 1.0,
+  "size_pt": 57.36
+ },
+ {
+  "ward": 98,
+  "role": "road_name",
+  "text": "Kuttiappa 2nd Road",
+  "east": 417784.81,
+  "north": 1446907.6,
+  "conf": 1.0,
+  "size_pt": 59.4
+ },
+ {
+  "ward": 98,
+  "role": "road_name",
+  "text": "Lock Street",
+  "east": 417723.85,
+  "north": 1446883.26,
+  "conf": 1.0,
+  "size_pt": 33.12
+ },
+ {
+  "ward": 98,
+  "role": "road_name",
+  "text": "David NagarStreet",
+  "east": 417732.21,
+  "north": 1446788.54,
+  "conf": 1.0,
+  "size_pt": 35.16
+ },
+ {
+  "ward": 98,
+  "role": "road_name",
+  "text": "LockmaNagar Street",
+  "east": 417833.17,
+  "north": 1446796.69,
+  "conf": 1.0,
+  "size_pt": 37.08
+ },
+ {
+  "ward": 98,
+  "role": "road_name",
+  "text": "Aspiran Garden 2nd Street",
+  "east": 417359.69,
+  "north": 1446817.54,
+  "conf": 1.0,
+  "size_pt": 68.76
+ },
+ {
+  "ward": 98,
+  "role": "road_name",
+  "text": "Aspiran Garden 1st Street",
+  "east": 417205.18,
+  "north": 1446809.7,
+  "conf": 1.0,
+  "size_pt": 73.56
+ },
+ {
+  "ward": 98,
+  "role": "road_name",
+  "text": "Water Work",
+  "east": 417093.11,
+  "north": 1446889.5,
+  "conf": 1.0,
+  "size_pt": 31.44
+ },
+ {
+  "ward": 98,
+  "role": "road_name",
+  "text": "New Avadi Road",
+  "east": 416866.21,
+  "north": 1446990.25,
+  "conf": 1.0,
+  "size_pt": 47.52
+ },
+ {
+  "ward": 98,
+  "role": "road_name",
+  "text": "Mettu Road",
+  "east": 416869.6,
+  "north": 1447635.08,
+  "conf": 1.0,
+  "size_pt": 32.76
+ },
+ {
+  "ward": 98,
+  "role": "road_name",
+  "text": "Narayanan Road",
+  "east": 416973.1,
+  "north": 1447937.02,
+  "conf": 1.0,
+  "size_pt": 47.28
+ },
+ {
+  "ward": 98,
+  "role": "road_name",
+  "text": "Rangappa Street",
+  "east": 417002.94,
+  "north": 1447915.43,
+  "conf": 1.0,
+  "size_pt": 48.48
+ },
+ {
+  "ward": 98,
+  "role": "road_name",
+  "text": "PalaniappaStreetatreeRamanthan Streetaniappa Ist StroatRangaiah StreetRamanthanStreet Lane",
+  "east": 417095.12,
+  "north": 1447881.45,
+  "conf": 0.913,
+  "size_pt": 98.04
+ },
+ {
+  "ward": 98,
+  "role": "road_name",
+  "text": "Rangaiah Street",
+  "east": 417123.8,
+  "north": 1447851.72,
+  "conf": 1.0,
+  "size_pt": 46.56
+ },
+ {
+  "ward": 98,
+  "role": "road_name",
+  "text": "Palaniappa Ist Street",
+  "east": 417175.44,
+  "north": 1447849.28,
+  "conf": 1.0,
+  "size_pt": 63.0
+ },
+ {
+  "ward": 98,
+  "role": "road_name",
+  "text": "Palaniappa Street",
+  "east": 417218.62,
+  "north": 1447835.74,
+  "conf": 1.0,
+  "size_pt": 51.72
+ },
+ {
+  "ward": 98,
+  "role": "road_name",
+  "text": "Ambekar Nagar 2nd StreetAmbolar 1.",
+  "east": 417304.34,
+  "north": 1447824.94,
+  "conf": 1.0,
+  "size_pt": 78.36
+ },
+ {
+  "ward": 98,
+  "role": "road_name",
+  "text": "- Lna slreeAmbekar Nagar Ist StreetAnna 3rdCross Street",
+  "east": 417345.4,
+  "north": 1447799.12,
+  "conf": 0.825,
+  "size_pt": 97.08
+ },
+ {
+  "ward": 98,
+  "role": "road_name",
+  "text": "Anna 2ndCross StreetAnna 1stCross Street",
+  "east": 417330.17,
+  "north": 1447681.12,
+  "conf": 1.0,
+  "size_pt": 44.16
+ },
+ {
+  "ward": 98,
+  "role": "road_name",
+  "text": "Anna Street",
+  "east": 417391.65,
+  "north": 1447810.97,
+  "conf": 1.0,
+  "size_pt": 34.92
+ },
+ {
+  "ward": 98,
+  "role": "road_name",
+  "text": "KalaiganarStreet",
+  "east": 417326.57,
+  "north": 1447609.89,
+  "conf": 1.0,
+  "size_pt": 29.64
+ },
+ {
+  "ward": 98,
+  "role": "road_name",
+  "text": "nna IstStreetss StreetTHIRUIKoilMadKalaiganarStreetSolaiammanSolaiamman Koil Cross Street",
+  "east": 417387.42,
+  "north": 1447613.28,
+  "conf": 1.0,
+  "size_pt": 87.96
+ },
+ {
+  "ward": 98,
+  "role": "road_name",
+  "text": "Madha Koil Lane",
+  "east": 417492.08,
+  "north": 1447630.21,
+  "conf": 1.0,
+  "size_pt": 48.0
+ },
+ {
+  "ward": 98,
+  "role": "road_name",
+  "text": "SolaiammanKoil Street",
+  "east": 417495.05,
+  "north": 1447566.82,
+  "conf": 1.0,
+  "size_pt": 35.28
+ },
+ {
+  "ward": 98,
+  "role": "road_name",
+  "text": "= OVenKatesapuram Colony South Street",
+  "east": 417627.44,
+  "north": 1447863.04,
+  "conf": 0.65,
+  "size_pt": 109.08
+ },
+ {
+  "ward": 98,
+  "role": "road_name",
+  "text": "Mettu Road",
+  "east": 416879.23,
+  "north": 1447901.99,
+  "conf": 1.0,
+  "size_pt": 33.96
+ },
+ {
+  "ward": 98,
+  "role": "road_name",
+  "text": "D B Shanmugam Street",
+  "east": 417104.01,
+  "north": 1447627.35,
+  "conf": 1.0,
+  "size_pt": 70.56
+ },
+ {
+  "ward": 98,
+  "role": "road_name",
+  "text": "Avenue Road",
+  "east": 417115.01,
+  "north": 1446890.35,
+  "conf": 1.0,
+  "size_pt": 38.16
+ },
+ {
+  "ward": 98,
+  "role": "location_names",
+  "text": "DeepamEyeHospital",
+  "east": 417898.57,
+  "north": 1446948.13,
+  "conf": 1.0,
+  "size_pt": 25.32
+ },
+ {
+  "ward": 98,
+  "role": "location_names",
+  "text": "AYANAVARAM",
+  "east": 417105.49,
+  "north": 1447712.65,
+  "conf": 1.0,
+  "size_pt": 41.88
+ },
+ {
+  "ward": 98,
+  "role": "location_names",
+  "text": "THIRUVALLUVAR NAGAR",
+  "east": 417500.44,
+  "north": 1447645.98,
+  "conf": 1.0,
+  "size_pt": 71.88
+ },
+ {
+  "ward": 98,
+  "role": "location_names",
+  "text": "Kilpauk Water Works",
+  "east": 416976.59,
+  "north": 1447312.4,
+  "conf": 1.0,
+  "size_pt": 70.92
+ }
+]

@@ -1,0 +1,254 @@
+[
+ {
+  "ward": 51,
+  "role": "road_name",
+  "text": "ThulukkanamStreetThiruvetriyur,B2High4.739RoadGanganStreet",
+  "east": 422148.18,
+  "north": 1449499.61,
+  "conf": 1.0,
+  "size_pt": 49.32
+ },
+ {
+  "ward": 51,
+  "role": "road_name",
+  "text": "1514trlest Cemetry Road!WashermanpelSouth Cemetry Road",
+  "east": 422233.89,
+  "north": 1449517.6,
+  "conf": 1.0,
+  "size_pt": 82.92
+ },
+ {
+  "ward": 51,
+  "role": "road_name",
+  "text": "Solaiappan StreetJeer Naiken Street& Srirangammal StreetRamanujar StreGuruvappa Chetty3.965Street",
+  "east": 422656.35,
+  "north": 1449971.89,
+  "conf": 1.0,
+  "size_pt": 117.36
+ },
+ {
+  "ward": 51,
+  "role": "road_name",
+  "text": "D104.32NarayancAzhagammal StreetManikanaManikandaroEast Cemetery RoadKalingarayan 3rd LaneLaneani3rdManikandan 5th Lane4thNKalingarayan Main Roadane5.472LanKalingarayan 2nd LaneC3Kalingarayan Ist Lane4.546 RManikandan6thLane7th LaneLaneC15.364Cementry Road8thCementry Road",
+  "east": 422454.54,
+  "north": 1449453.9,
+  "conf": 1.0,
+  "size_pt": 174.6
+ },
+ {
+  "ward": 51,
+  "role": "road_name",
+  "text": "Cementry Road",
+  "east": 422434.01,
+  "north": 1449360.88,
+  "conf": 1.0,
+  "size_pt": 43.56
+ },
+ {
+  "ward": 51,
+  "role": "road_name",
+  "text": "Narayand Naicken StreetManikandan 4thManikandaraLaneLaneLaneLane9th2ndManikandan 5th Lane.472",
+  "east": 422599.41,
+  "north": 1449501.31,
+  "conf": 1.0,
+  "size_pt": 108.48
+ },
+ {
+  "ward": 51,
+  "role": "road_name",
+  "text": "Telugu Chetty Street",
+  "east": 422514.01,
+  "north": 1449675.91,
+  "conf": 1.0,
+  "size_pt": 58.92
+ },
+ {
+  "ward": 51,
+  "role": "road_name",
+  "text": "N N Garden",
+  "east": 422388.29,
+  "north": 1449603.0,
+  "conf": 1.0,
+  "size_pt": 33.24
+ },
+ {
+  "ward": 51,
+  "role": "road_name",
+  "text": "SelvaVinayagarKoil LaneKosapettaiLane",
+  "east": 422610.52,
+  "north": 1449841.09,
+  "conf": 1.0,
+  "size_pt": 61.8
+ },
+ {
+  "ward": 51,
+  "role": "road_name",
+  "text": "\u2022Manikandan 9th LaneAlias Vadiv",
+  "east": 422633.28,
+  "north": 1449378.13,
+  "conf": 1.0,
+  "size_pt": 61.32
+ },
+ {
+  "ward": 51,
+  "role": "road_name",
+  "text": "Perambalu Chetty Street",
+  "east": 422640.89,
+  "north": 1449707.55,
+  "conf": 1.0,
+  "size_pt": 70.56
+ },
+ {
+  "ward": 51,
+  "role": "road_name",
+  "text": "AdyarAnandBhavanNaiken Zth Lane6thLaneNaiken 8th Lane5th5th Lane&Narayanappa10th Lane rNarasaiya StreetAQNarayanappaNaikenNarayanappa3rd LaneNaiken",
+  "east": 422776.46,
+  "north": 1449732.52,
+  "conf": 1.0,
+  "size_pt": 138.0
+ },
+ {
+  "ward": 51,
+  "role": "road_name",
+  "text": "NainiappantIhottam3rd Lane",
+  "east": 422143.73,
+  "north": 1449613.69,
+  "conf": 1.0,
+  "size_pt": 30.6
+ },
+ {
+  "ward": 51,
+  "role": "road_name",
+  "text": "East CemeteryBurial GroundHut661",
+  "east": 422284.48,
+  "north": 1449618.13,
+  "conf": 1.0,
+  "size_pt": 51.36
+ },
+ {
+  "ward": 51,
+  "role": "road_name",
+  "text": "Selvavinayagar Koil StreetAndiyappanStreet",
+  "east": 422569.67,
+  "north": 1449723.42,
+  "conf": 1.0,
+  "size_pt": 73.92
+ },
+ {
+  "ward": 51,
+  "role": "road_name",
+  "text": "Jandara Pillayar Koil Street",
+  "east": 422804.5,
+  "north": 1449887.76,
+  "conf": 1.0,
+  "size_pt": 78.96
+ },
+ {
+  "ward": 51,
+  "role": "road_name",
+  "text": "5thppaLane10th LaneNaiken",
+  "east": 422834.02,
+  "north": 1449716.86,
+  "conf": 0.86,
+  "size_pt": 46.08
+ },
+ {
+  "ward": 51,
+  "role": "road_name",
+  "text": "Moneyagan Chowltry RoadGroundD3.142",
+  "east": 422785.13,
+  "north": 1449495.7,
+  "conf": 1.0,
+  "size_pt": 69.84
+ },
+ {
+  "ward": 51,
+  "role": "road_name",
+  "text": "2nd Lane",
+  "east": 422727.67,
+  "north": 1449593.58,
+  "conf": 1.0,
+  "size_pt": 26.16
+ },
+ {
+  "ward": 51,
+  "role": "road_name",
+  "text": "Ist Lane",
+  "east": 422712.96,
+  "north": 1449555.48,
+  "conf": 1.0,
+  "size_pt": 23.64
+ },
+ {
+  "ward": 51,
+  "role": "road_name",
+  "text": "7th Lane",
+  "east": 422509.78,
+  "north": 1449394.32,
+  "conf": 1.0,
+  "size_pt": 25.08
+ },
+ {
+  "ward": 51,
+  "role": "road_name",
+  "text": "8th Lane",
+  "east": 422548.72,
+  "north": 1449382.68,
+  "conf": 1.0,
+  "size_pt": 25.2
+ },
+ {
+  "ward": 51,
+  "role": "road_name",
+  "text": "Lane4th LaneIst",
+  "east": 422194.53,
+  "north": 1449603.53,
+  "conf": 1.0,
+  "size_pt": 25.32
+ },
+ {
+  "ward": 51,
+  "role": "road_name",
+  "text": "2nd Lane",
+  "east": 422162.46,
+  "north": 1449566.6,
+  "conf": 1.0,
+  "size_pt": 26.76
+ },
+ {
+  "ward": 51,
+  "role": "location_names",
+  "text": "Roques",
+  "east": 422622.8,
+  "north": 1449439.08,
+  "conf": 1.0,
+  "size_pt": 20.04
+ },
+ {
+  "ward": 51,
+  "role": "location_names",
+  "text": "RobinsonGround",
+  "east": 422779.21,
+  "north": 1449559.29,
+  "conf": 1.0,
+  "size_pt": 25.08
+ },
+ {
+  "ward": 51,
+  "role": "location_names",
+  "text": "AdyarAnandaBhavan",
+  "east": 422860.69,
+  "north": 1449834.43,
+  "conf": 1.0,
+  "size_pt": 21.72
+ },
+ {
+  "ward": 51,
+  "role": "location_names",
+  "text": "Washermanpet",
+  "east": 422255.16,
+  "north": 1449510.62,
+  "conf": 1.0,
+  "size_pt": 39.96
+ }
+]

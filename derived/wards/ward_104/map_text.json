@@ -1,0 +1,326 @@
+[
+ {
+  "ward": 104,
+  "role": "road_name",
+  "text": "Vellala Street",
+  "east": 418876.78,
+  "north": 1446594.14,
+  "conf": 1.0,
+  "size_pt": 38.04
+ },
+ {
+  "ward": 104,
+  "role": "road_name",
+  "text": "Audiappa Street",
+  "east": 418913.18,
+  "north": 1446367.78,
+  "conf": 1.0,
+  "size_pt": 49.8
+ },
+ {
+  "ward": 104,
+  "role": "road_name",
+  "text": "PurusawalkamHigh Road",
+  "east": 418997.21,
+  "north": 1446700.92,
+  "conf": 1.0,
+  "size_pt": 42.36
+ },
+ {
+  "ward": 104,
+  "role": "road_name",
+  "text": "Raja Annamalai Rd",
+  "east": 419190.23,
+  "north": 1446155.92,
+  "conf": 1.0,
+  "size_pt": 60.0
+ },
+ {
+  "ward": 104,
+  "role": "road_name",
+  "text": "Perumal 2nd Street",
+  "east": 419140.07,
+  "north": 1446952.36,
+  "conf": 1.0,
+  "size_pt": 58.44
+ },
+ {
+  "ward": 104,
+  "role": "road_name",
+  "text": "Perumal 1St Street",
+  "east": 419148.85,
+  "north": 1446912.04,
+  "conf": 1.0,
+  "size_pt": 56.88
+ },
+ {
+  "ward": 104,
+  "role": "road_name",
+  "text": "Perumal StreetSaravana",
+  "east": 418995.2,
+  "north": 1446451.7,
+  "conf": 1.0,
+  "size_pt": 46.92
+ },
+ {
+  "ward": 104,
+  "role": "road_name",
+  "text": "Madum Lane",
+  "east": 418757.73,
+  "north": 1446433.39,
+  "conf": 1.0,
+  "size_pt": 38.88
+ },
+ {
+  "ward": 104,
+  "role": "road_name",
+  "text": "EVR PeriyarSalai (Poonamallee",
+  "east": 419122.08,
+  "north": 1445997.19,
+  "conf": 1.0,
+  "size_pt": 57.48
+ },
+ {
+  "ward": 104,
+  "role": "road_name",
+  "text": "Gengu Reddy Subway",
+  "east": 418905.03,
+  "north": 1445834.53,
+  "conf": 1.0,
+  "size_pt": 64.92
+ },
+ {
+  "ward": 104,
+  "role": "road_name",
+  "text": "4Thandavarayan Street",
+  "east": 419088.74,
+  "north": 1447209.09,
+  "conf": 1.0,
+  "size_pt": 64.8
+ },
+ {
+  "ward": 104,
+  "role": "road_name",
+  "text": "Nancy Street",
+  "east": 419092.45,
+  "north": 1447162.74,
+  "conf": 1.0,
+  "size_pt": 38.04
+ },
+ {
+  "ward": 104,
+  "role": "road_name",
+  "text": "\u2022PonnanStreet",
+  "east": 418941.01,
+  "north": 1447246.76,
+  "conf": 1.0,
+  "size_pt": 43.92
+ },
+ {
+  "ward": 104,
+  "role": "road_name",
+  "text": "Veerasamy Street",
+  "east": 419116.58,
+  "north": 1447036.28,
+  "conf": 1.0,
+  "size_pt": 51.96
+ },
+ {
+  "ward": 104,
+  "role": "road_name",
+  "text": "Thandavan Street",
+  "east": 419116.26,
+  "north": 1447079.98,
+  "conf": 1.0,
+  "size_pt": 51.36
+ },
+ {
+  "ward": 104,
+  "role": "road_name",
+  "text": "Shanmugarayan Street",
+  "east": 418870.64,
+  "north": 1447126.44,
+  "conf": 1.0,
+  "size_pt": 69.96
+ },
+ {
+  "ward": 104,
+  "role": "location_names",
+  "text": "Corporation 8Asphalt Plant-",
+  "east": 418826.83,
+  "north": 1445789.35,
+  "conf": 1.0,
+  "size_pt": 41.4
+ },
+ {
+  "ward": 104,
+  "role": "location_names",
+  "text": "FClGodown",
+  "east": 418553.06,
+  "north": 1445720.24,
+  "conf": 1.0,
+  "size_pt": 21.6
+ },
+ {
+  "ward": 104,
+  "role": "location_names",
+  "text": "Dr AslamYousuf A\u0421linic 3.4",
+  "east": 419041.44,
+  "north": 1446755.52,
+  "conf": 1.0,
+  "size_pt": 27.96
+ },
+ {
+  "ward": 104,
+  "role": "location_names",
+  "text": "AdyarAnandaBhavan",
+  "east": 419130.23,
+  "north": 1446754.89,
+  "conf": 1.0,
+  "size_pt": 23.52
+ },
+ {
+  "ward": 104,
+  "role": "location_names",
+  "text": "Doctor RexsHospitals",
+  "east": 418761.01,
+  "north": 1446554.25,
+  "conf": 1.0,
+  "size_pt": 37.56
+ },
+ {
+  "ward": 104,
+  "role": "location_names",
+  "text": "NobleHospital, Chennai",
+  "east": 419118.8,
+  "north": 1446363.66,
+  "conf": 1.0,
+  "size_pt": 54.0
+ },
+ {
+  "ward": 104,
+  "role": "location_names",
+  "text": "ApolloFirStreet MedicalFoundation",
+  "east": 418216.43,
+  "north": 1445850.3,
+  "conf": 1.0,
+  "size_pt": 51.96
+ },
+ {
+  "ward": 104,
+  "role": "location_names",
+  "text": "K.JHospital",
+  "east": 418955.19,
+  "north": 1446014.65,
+  "conf": 1.0,
+  "size_pt": 24.24
+ },
+ {
+  "ward": 104,
+  "role": "location_names",
+  "text": "Sudha Hospital,Chennai",
+  "east": 419120.49,
+  "north": 1446046.18,
+  "conf": 1.0,
+  "size_pt": 47.04
+ },
+ {
+  "ward": 104,
+  "role": "location_names",
+  "text": "V.K.Hospital",
+  "east": 418923.87,
+  "north": 1446300.69,
+  "conf": 1.0,
+  "size_pt": 34.8
+ },
+ {
+  "ward": 104,
+  "role": "location_names",
+  "text": "GangadeeshwaryKoil",
+  "east": 419160.39,
+  "north": 1446617.95,
+  "conf": 1.0,
+  "size_pt": 46.44
+ },
+ {
+  "ward": 104,
+  "role": "location_names",
+  "text": "ChennaiChetpat",
+  "east": 417890.92,
+  "north": 1445699.82,
+  "conf": 1.0,
+  "size_pt": 23.4
+ },
+ {
+  "ward": 104,
+  "role": "location_names",
+  "text": "TVH Lumbini Square",
+  "east": 418639.62,
+  "north": 1447206.34,
+  "conf": 1.0,
+  "size_pt": 61.44
+ },
+ {
+  "ward": 104,
+  "role": "location_names",
+  "text": "MekalaTheatre",
+  "east": 418762.7,
+  "north": 1447088.02,
+  "conf": 1.0,
+  "size_pt": 21.24
+ },
+ {
+  "ward": 104,
+  "role": "location_names",
+  "text": "Otteri Nala",
+  "east": 418525.76,
+  "north": 1447295.55,
+  "conf": 1.0,
+  "size_pt": 28.68
+ },
+ {
+  "ward": 104,
+  "role": "location_names",
+  "text": "TempleTank",
+  "east": 419154.78,
+  "north": 1446675.31,
+  "conf": 1.0,
+  "size_pt": 19.68
+ },
+ {
+  "ward": 104,
+  "role": "location_names",
+  "text": "Pond",
+  "east": 417977.69,
+  "north": 1445604.58,
+  "conf": 1.0,
+  "size_pt": 15.0
+ },
+ {
+  "ward": 104,
+  "role": "location_names",
+  "text": "Pond",
+  "east": 417749.53,
+  "north": 1445557.17,
+  "conf": 1.0,
+  "size_pt": 15.0
+ },
+ {
+  "ward": 104,
+  "role": "location_names",
+  "text": "Pond",
+  "east": 418722.27,
+  "north": 1447303.91,
+  "conf": 1.0,
+  "size_pt": 15.0
+ },
+ {
+  "ward": 104,
+  "role": "location_names",
+  "text": "ChetpetDRailway Station",
+  "east": 417885.41,
+  "north": 1445509.97,
+  "conf": 1.0,
+  "size_pt": 46.68
+ }
+]
