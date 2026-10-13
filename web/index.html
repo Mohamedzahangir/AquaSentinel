@@ -673,45 +673,174 @@ input[type=range]::-webkit-slider-thumb:hover { transform: scale(1.2); }
 .sw.stripe { background: repeating-linear-gradient(90deg, #ff3b4f 0 3px, #2b3b3f 3px 6px); }
 
 /* ==========================================================================
-   Simulation Panel (SWMM Dec 2015 Dynamic Wave)
+   Simulation Panel (Rainfall Scenario & SWMM Diagnostic)
    ========================================================================== */
 #sim {
   position: fixed; bottom: 38px; left: 50%;
   transform: translateX(-50%);
-  width: min(680px, calc(100vw - 32px));
-  background: rgba(9, 14, 21, 0.95);
-  backdrop-filter: blur(24px);
-  -webkit-backdrop-filter: blur(24px);
+  width: min(740px, calc(100vw - 32px));
+  max-height: calc(100vh - 100px);
+  overflow-y: auto;
+  background: rgba(8, 13, 20, 0.96);
+  backdrop-filter: blur(28px);
+  -webkit-backdrop-filter: blur(28px);
   border: 1px solid var(--border-medium);
   border-radius: var(--radius-lg);
   padding: 12px 16px;
-  box-shadow: 0 20px 50px rgba(0, 0, 0, 0.8), 0 0 0 1px rgba(245, 158, 11, 0.2);
+  box-shadow: 0 20px 50px rgba(0, 0, 0, 0.85), 0 0 0 1px rgba(46, 224, 207, 0.2);
   z-index: 60;
   display: none;
 }
 #sim.on { display: block; animation: floatUp 0.22s ease-out; }
 @keyframes floatUp { from { opacity: 0; transform: translate(-50%, 14px); } to { opacity: 1; transform: translate(-50%, 0); } }
 
-.sim-header {
+/* Simulation Mode Tabs */
+.sim-mode-bar {
   display: flex; justify-content: space-between; align-items: center;
-  gap: 12px; margin-bottom: 8px; flex-wrap: wrap;
+  gap: 10px; margin-bottom: 10px; padding-bottom: 8px;
+  border-bottom: 1px solid var(--border-subtle);
+  flex-wrap: wrap;
 }
-.sim-tag-group {
+.sim-mode-tabs {
+  display: flex; gap: 4px; background: rgba(0, 0, 0, 0.4);
+  padding: 2px; border-radius: var(--radius-sm); border: 1px solid var(--border-subtle);
+}
+.sim-mode-btn {
+  display: flex; align-items: center; gap: 6px;
+  background: transparent; border: 1px solid transparent;
+  color: var(--txt-muted); font-size: 11px; font-weight: 500;
+  padding: 4px 10px; border-radius: 3px; cursor: pointer;
+  transition: all 0.15s ease;
+}
+.sim-mode-btn:hover { color: var(--txt-bright); }
+.sim-mode-btn.active {
+  background: rgba(46, 224, 207, 0.18);
+  color: var(--accent-cyan);
+  border: 1px solid rgba(46, 224, 207, 0.4);
+}
+.sim-mode-btn.active.swmm {
+  background: rgba(245, 158, 11, 0.18);
+  color: var(--accent-amber);
+  border-color: rgba(245, 158, 11, 0.4);
+}
+.sim-header-actions {
   display: flex; align-items: center; gap: 8px;
 }
 .sim-badge {
-  font-family: var(--font-mono); font-size: 10px; font-weight: 600;
+  font-family: var(--font-mono); font-size: 9.5px; font-weight: 600;
   letter-spacing: 0.08em; text-transform: uppercase;
-  color: var(--accent-amber);
-  background: rgba(245, 158, 11, 0.12);
-  border: 1px solid rgba(245, 158, 11, 0.35);
+  color: var(--accent-cyan);
+  background: rgba(46, 224, 207, 0.1);
+  border: 1px solid rgba(46, 224, 207, 0.3);
   padding: 2px 7px; border-radius: 3px;
 }
-.sim-time-display {
-  font-family: var(--font-mono); font-size: 12px;
-  color: var(--txt-bright); font-variant-numeric: tabular-nums;
+.sim-badge.swmm {
+  color: var(--accent-amber);
+  background: rgba(245, 158, 11, 0.12);
+  border-color: rgba(245, 158, 11, 0.35);
 }
-.sim-ctrl-group {
+.sim-btn-icon {
+  background: transparent; border: 1px solid var(--border-subtle);
+  color: var(--txt-muted); font-size: 11px;
+  width: 22px; height: 22px; border-radius: var(--radius-sm);
+  display: flex; align-items: center; justify-content: center;
+  cursor: pointer; transition: all 0.12s;
+}
+.sim-btn-icon:hover { background: rgba(255, 255, 255, 0.1); color: var(--txt-bright); }
+
+/* Scenario Parameter Deck */
+.sim-deck {
+  background: rgba(14, 21, 30, 0.6);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-md);
+  padding: 10px 12px;
+  margin-bottom: 8px;
+}
+.sim-param-row {
+  display: grid;
+  grid-template-columns: 1.8fr 1.3fr 1.6fr;
+  gap: 12px;
+  align-items: center;
+}
+@media (max-width: 680px) {
+  .sim-param-row { grid-template-columns: 1fr; }
+}
+.sim-param-item {
+  display: flex; flex-direction: column; gap: 4px;
+}
+.sim-lbl-row {
+  display: flex; justify-content: space-between; align-items: center;
+  font-size: 10.5px; color: var(--txt-muted); font-weight: 500;
+}
+.sim-val-wrap {
+  display: flex; align-items: center; gap: 4px;
+}
+.sim-num-input {
+  width: 58px; height: 22px;
+  background: var(--bg-input);
+  border: 1px solid var(--border-medium);
+  border-radius: var(--radius-sm);
+  color: var(--accent-cyan);
+  font-family: var(--font-mono); font-size: 12px; font-weight: 600;
+  text-align: right; padding: 0 4px;
+  outline: none;
+}
+.sim-num-input:focus { border-color: var(--accent-cyan); }
+.sim-unit {
+  font-family: var(--font-mono); font-size: 10px; color: var(--txt-dim);
+}
+.sim-range {
+  width: 100%; height: 5px;
+  -webkit-appearance: none; appearance: none;
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 3px; outline: none; cursor: pointer;
+}
+.sim-range::-webkit-slider-thumb {
+  -webkit-appearance: none; appearance: none;
+  width: 14px; height: 14px; border-radius: 50%;
+  background: var(--accent-cyan);
+  box-shadow: 0 0 8px var(--accent-cyan);
+  cursor: pointer; border: none;
+}
+.sim-range::-moz-range-thumb {
+  width: 14px; height: 14px; border-radius: 50%;
+  background: var(--accent-cyan);
+  box-shadow: 0 0 8px var(--accent-cyan);
+  cursor: pointer; border: none;
+}
+.sim-select {
+  height: 24px;
+  background: var(--bg-input); color: var(--txt-main);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-sm);
+  font-family: var(--font-mono); font-size: 10.5px;
+  padding: 0 6px; outline: none; width: 100%;
+}
+.sim-presets {
+  display: flex; gap: 4px; flex-wrap: wrap;
+}
+.sim-chip {
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid var(--border-subtle);
+  border-radius: 3px;
+  color: var(--txt-dim); font-size: 10px; font-family: var(--font-mono);
+  padding: 3px 6px; cursor: pointer; transition: all 0.12s;
+}
+.sim-chip:hover { background: rgba(255, 255, 255, 0.1); color: var(--txt-bright); }
+.sim-chip.active {
+  background: rgba(46, 224, 207, 0.15);
+  border-color: rgba(46, 224, 207, 0.45);
+  color: var(--accent-cyan); font-weight: 600;
+}
+
+/* Action row inside deck */
+.sim-action-row {
+  display: flex; justify-content: space-between; align-items: center;
+  gap: 8px; margin-top: 8px; padding-top: 6px;
+  border-top: 1px solid rgba(255, 255, 255, 0.04);
+  flex-wrap: wrap;
+}
+.sim-act-left {
   display: flex; align-items: center; gap: 6px;
 }
 .sim-btn {
@@ -723,24 +852,90 @@ input[type=range]::-webkit-slider-thumb:hover { transform: scale(1.2); }
   transition: all 0.14s;
 }
 .sim-btn:hover { background: rgba(255, 255, 255, 0.12); color: var(--txt-bright); }
+.sim-btn.toggle.active {
+  background: rgba(46, 224, 207, 0.18);
+  border-color: rgba(46, 224, 207, 0.5);
+  color: var(--accent-cyan);
+}
+.sim-btn.play-btn {
+  font-weight: 600; min-width: 64px; text-align: center;
+  background: rgba(46, 224, 207, 0.15);
+  border-color: rgba(46, 224, 207, 0.35);
+  color: var(--accent-cyan);
+}
+.sim-btn.play-btn:hover { background: rgba(46, 224, 207, 0.25); color: #fff; }
 .sim-btn.peak {
   background: rgba(245, 158, 11, 0.16); border-color: rgba(245, 158, 11, 0.4);
   color: var(--accent-amber); font-weight: 600;
 }
-.sim-select {
-  background: var(--bg-input); color: var(--txt-main);
-  border: 1px solid var(--border-subtle);
-  border-radius: var(--radius-sm);
+
+/* Timeline & Hyetograph Header */
+.sim-timeline-header {
+  display: flex; justify-content: space-between; align-items: center;
+  gap: 12px; margin-bottom: 6px; flex-wrap: wrap;
+}
+.sim-tag-group {
+  display: flex; align-items: center; gap: 8px;
+}
+.sim-time-display {
+  font-family: var(--font-mono); font-size: 12px; font-weight: 600;
+  color: var(--txt-bright); font-variant-numeric: tabular-nums;
+}
+.sim-rate-display {
   font-family: var(--font-mono); font-size: 11px;
-  padding: 4px 6px; outline: none;
+  color: var(--accent-cyan);
+}
+.sim-ctrl-group {
+  display: flex; align-items: center; gap: 6px;
 }
 #hyeto {
-  width: 100%; height: 44px; display: block; margin: 6px 0 4px; cursor: pointer;
+  width: 100%; height: 42px; display: block; margin: 4px 0; cursor: pointer;
+  border-radius: 3px; background: rgba(0, 0, 0, 0.25);
 }
+
+/* Live Telemetry Summary Cards Grid */
+.sim-metrics-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 8px; margin-top: 8px;
+}
+@media (max-width: 620px) {
+  .sim-metrics-grid { grid-template-columns: repeat(2, 1fr); }
+}
+.sim-metric-card {
+  background: rgba(14, 20, 28, 0.85);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-sm);
+  padding: 6px 8px;
+  display: flex; flex-direction: column; gap: 2px;
+}
+.sm-lbl {
+  font-family: var(--font-mono); font-size: 9px; font-weight: 600;
+  letter-spacing: 0.06em; color: var(--txt-dim); text-transform: uppercase;
+}
+.sm-val {
+  font-family: var(--font-mono); font-size: 13px; font-weight: 700;
+  color: var(--txt-bright); font-variant-numeric: tabular-nums;
+}
+.sm-val small { font-size: 10px; font-weight: 400; color: var(--txt-dim); }
+.sm-delta {
+  font-family: var(--font-mono); font-size: 9.5px; color: var(--txt-muted);
+}
+.sm-delta.warn { color: var(--accent-amber); }
+.sm-delta.alert { color: var(--accent-rose); }
+.sm-delta.good { color: var(--accent-emerald); }
+
 #simwarn {
-  font-size: 10.5px; color: var(--accent-amber); line-height: 1.4;
-  margin-top: 6px; opacity: 0.9;
+  font-size: 10.5px; line-height: 1.45;
+  margin-top: 8px; padding-top: 6px;
+  border-top: 1px solid rgba(255, 255, 255, 0.05);
+  color: var(--txt-muted);
 }
+#simwarn b { color: var(--txt-bright); }
+#simwarn.scenario { color: var(--txt-muted); }
+#simwarn.scenario b { color: var(--accent-cyan); }
+#simwarn.swmm { color: var(--accent-amber); }
+
 
 /* ==========================================================================
    Bottom Telemetry Strip
@@ -874,6 +1069,106 @@ input[type=range]::-webkit-slider-thumb:hover { transform: scale(1.2); }
 .maplibregl-ctrl-bottom-right { margin-bottom: 28px; }
 .maplibregl-ctrl-top-right { display: none; }
 
+/* ==========================================================================
+   Flood Risk Heatmap & Priority Hotspots Styling
+   ========================================================================== */
+.badge-pill {
+  font-family: var(--font-mono); font-size: 9.5px; font-weight: 600;
+  letter-spacing: 0.06em; text-transform: uppercase;
+  padding: 2px 6px; border-radius: 3px;
+  background: rgba(46, 224, 207, 0.12); color: var(--accent-cyan);
+  border: 1px solid rgba(46, 224, 207, 0.3);
+}
+.badge-pill.vhigh {
+  background: rgba(239, 68, 68, 0.16); color: #ef4444; border-color: rgba(239, 68, 68, 0.45);
+}
+.badge-pill.high {
+  background: rgba(249, 115, 22, 0.16); color: #f97316; border-color: rgba(249, 115, 22, 0.45);
+}
+.badge-pill.mod {
+  background: rgba(245, 158, 11, 0.16); color: #f59e0b; border-color: rgba(245, 158, 11, 0.45);
+}
+.badge-pill.low {
+  background: rgba(56, 189, 248, 0.16); color: #38bdf8; border-color: rgba(56, 189, 248, 0.45);
+}
+
+.hotspot-list {
+  display: flex; flex-direction: column; gap: 6px; margin-top: 8px;
+}
+.hotspot-item {
+  display: flex; align-items: flex-start; gap: 10px;
+  background: rgba(12, 18, 26, 0.75);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-sm);
+  padding: 8px 10px; cursor: pointer;
+  transition: all 0.15s ease;
+}
+.hotspot-item:hover {
+  background: rgba(22, 32, 45, 0.9);
+  border-color: rgba(46, 224, 207, 0.4);
+  transform: translateX(2px);
+}
+.hotspot-rank {
+  font-family: var(--font-mono); font-size: 11px; font-weight: 700;
+  width: 22px; height: 22px; border-radius: 50%;
+  display: flex; align-items: center; justify-content: center;
+  background: rgba(239, 68, 68, 0.18); color: #ef4444;
+  border: 1px solid rgba(239, 68, 68, 0.4);
+  flex-shrink: 0; margin-top: 2px;
+}
+.hotspot-info {
+  flex: 1; display: flex; flex-direction: column; gap: 2px; min-width: 0;
+}
+.hotspot-title-row {
+  display: flex; justify-content: space-between; align-items: center; gap: 6px;
+}
+.hotspot-title {
+  font-size: 11.5px; font-weight: 600; color: var(--txt-bright);
+  white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+}
+.hotspot-score {
+  font-family: var(--font-mono); font-size: 12px; font-weight: 700; color: #ef4444;
+}
+.hotspot-desc {
+  font-size: 10.5px; color: var(--txt-muted); line-height: 1.35;
+}
+.hotspot-action {
+  font-size: 10px; color: var(--accent-cyan); font-family: var(--font-mono); margin-top: 2px;
+}
+
+/* Factor Contribution Bars in Inspector Detail */
+.risk-factor-grid {
+  display: flex; flex-direction: column; gap: 6px; margin: 8px 0;
+}
+.risk-bar-row {
+  display: flex; flex-direction: column; gap: 2px;
+}
+.risk-bar-labels {
+  display: flex; justify-content: space-between; font-size: 10.5px;
+}
+.risk-bar-track {
+  height: 5px; width: 100%;
+  background: rgba(255, 255, 255, 0.08);
+  border-radius: 3px; overflow: hidden;
+}
+.risk-bar-fill {
+  height: 100%; border-radius: 3px;
+  transition: width 0.3s ease;
+}
+
+/* Legend Gradient Bar */
+.heatmap-grad-bar {
+  height: 10px; width: 100%;
+  border-radius: 3px;
+  background: linear-gradient(90deg, #38bdf8 0%, #10b981 30%, #f59e0b 60%, #f97316 80%, #ef4444 100%);
+  margin: 6px 0 3px;
+  border: 1px solid rgba(255, 255, 255, 0.15);
+}
+.heatmap-grad-labels {
+  display: flex; justify-content: space-between;
+  font-family: var(--font-mono); font-size: 9px; color: var(--txt-dim);
+}
+
 .legacy-sink { display: none !important; }
 </style>
 </head>
@@ -923,11 +1218,15 @@ input[type=range]::-webkit-slider-thumb:hover { transform: scale(1.2); }
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor"><circle cx="12" cy="12" r="10"/><path d="M12 16v-4"/><path d="M12 8h.01"/></svg>
       <span>Inspector</span>
     </button>
+    <button class="nav-btn active" id="btnToggleHeatmap" title="Toggle Data-Driven Flood Risk Heatmap Overlay">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor"><circle cx="12" cy="12" r="10"/><path d="M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20"/><path d="M2 12h20"/></svg>
+      <span>Heatmap</span>
+    </button>
     <button class="nav-btn" id="btnToggleCompare" title="Before vs After Network Intervention Comparison">
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor"><path d="M16 3h5v5M4 20L21 3M21 16v5h-5M15 15l6 6M4 4l5 5"/></svg>
       <span>Compare</span>
     </button>
-    <button class="nav-btn" id="btnToggleSim" title="SWMM December 2015 Dynamic Wave Model">
+    <button class="nav-btn" id="btnToggleSim" title="Rainfall-Driven Flood Simulation &amp; SWMM Diagnostic">
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor"><polygon points="5 3 19 12 5 21 5 3"/></svg>
       <span>Simulation</span>
     </button>
@@ -1020,6 +1319,22 @@ input[type=range]::-webkit-slider-thumb:hover { transform: scale(1.2); }
             <span>Culvert Conduits</span>
           </div>
         </label>
+        <!-- Flood Risk Heatmap Layer Toggle -->
+        <label class="layer-item highlight-item">
+          <div class="layer-item-left">
+            <input type="checkbox" class="custom-chk" id="tHeatmap" checked>
+            <span style="font-weight: 600; color: var(--accent-cyan);">Flood Risk Heatmap</span>
+          </div>
+          <span class="badge-pill" id="badgeHeatmapTier">Multi-Factor</span>
+        </label>
+        <div id="heatmapControls" class="sub-ctrl-panel" style="padding: 6px 10px 10px; margin-bottom: 6px; background: rgba(0,0,0,0.25); border-radius: var(--radius-sm);">
+          <div style="display: flex; justify-content: space-between; font-size: 10.5px; color: var(--txt-dim); margin-bottom: 4px;">
+            <span>Overlay Opacity</span>
+            <span id="txtHeatmapOpacity" style="font-family: var(--font-mono); color: var(--txt-main);">75%</span>
+          </div>
+          <input type="range" id="sHeatmapOpacity" min="10" max="100" value="75" step="5" class="sim-range" aria-label="Heatmap opacity">
+        </div>
+
         <label class="layer-item">
           <div class="layer-item-left">
             <input type="checkbox" class="custom-chk" id="tChambers" checked>
@@ -1188,6 +1503,23 @@ input[type=range]::-webkit-slider-thumb:hover { transform: scale(1.2); }
         </div>
       </div>
 
+      <!-- Data-Driven Flood Risk Telemetry Card -->
+      <div class="data-card" id="riskDetailCard" style="display: none;">
+        <div class="data-card-title" style="display: flex; justify-content: space-between; align-items: center;">
+          <span>Flood Risk Assessment</span>
+          <span class="badge-pill" id="riskDetailBadge">Moderate Risk</span>
+        </div>
+        <div style="padding: 10px 12px; display: flex; flex-direction: column; gap: 6px;">
+          <div style="display: flex; justify-content: space-between; align-items: baseline;">
+            <span style="font-size: 11px; color: var(--txt-muted);">Composite Risk Index</span>
+            <span id="riskDetailScore" style="font-family: var(--font-mono); font-size: 18px; font-weight: 700; color: var(--accent-cyan);">— / 100</span>
+          </div>
+          <div class="risk-factor-grid" id="riskFactorGrid"></div>
+          <div id="riskRecommendation" style="font-size: 11px; color: var(--accent-cyan); background: rgba(46, 224, 207, 0.08); border: 1px solid rgba(46, 224, 207, 0.25); border-radius: 4px; padding: 6px 8px; line-height: 1.4;"></div>
+          <div id="riskProvenanceNote" style="font-size: 10px; color: var(--txt-dim); line-height: 1.35; margin-top: 2px;"></div>
+        </div>
+      </div>
+
       <div class="data-card">
         <div class="data-card-title">Hydraulic &amp; Geometric Telemetry</div>
         <dl class="data-grid" id="rkv"></dl>
@@ -1214,6 +1546,17 @@ input[type=range]::-webkit-slider-thumb:hover { transform: scale(1.2); }
         <div class="stat-box">
           <div class="stat-box-val" id="ovOutfalls">247</div>
           <div class="stat-box-lbl">Surveyed Outfalls</div>
+        </div>
+      </div>
+
+      <!-- Priority Risk Hotspots & Authority Intervention Ranking -->
+      <div class="data-card" id="cardPriorityHotspots">
+        <div class="data-card-title" style="display: flex; justify-content: space-between; align-items: center;">
+          <span>Critical Risk Hotspots (GCC Priority)</span>
+          <span class="badge-pill vhigh" id="badgeHotspotCount">Top 5 Action Areas</span>
+        </div>
+        <div id="hotspotList" class="hotspot-list">
+          <!-- Populated dynamically with ranked hotspot items -->
         </div>
       </div>
 
@@ -1271,29 +1614,128 @@ input[type=range]::-webkit-slider-thumb:hover { transform: scale(1.2); }
      Simulation Panel (SWMM 2015 Dynamic Wave)
      ======================================================================== -->
 <section id="sim">
-  <div class="sim-header">
+  <!-- Mode Switcher Tabs -->
+  <div class="sim-mode-bar">
+    <div class="sim-mode-tabs">
+      <button class="sim-mode-btn active" id="tabModeScenario" title="Client-side 1D Manning conveyance and rational runoff scenario model">
+        <svg viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor"><path d="M13 2L3 14h9l-1 8 10-12h-9l1-8z"/></svg>
+        <span>Rainfall Scenario</span>
+      </button>
+      <button class="sim-mode-btn" id="tabModeSWMM" title="EPA-SWMM 5.2 Dynamic Wave benchmark run for December 2015">
+        <svg viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor"><line x1="18" y1="20" x2="18" y2="10"/><line x1="12" y1="20" x2="12" y2="4"/><line x1="6" y1="20" x2="6" y2="14"/></svg>
+        <span>SWMM 2015 Benchmark</span>
+      </button>
+    </div>
+    <div class="sim-header-actions">
+      <span class="sim-badge" id="simModelBadge">1D Manning Conveyance</span>
+      <button class="sim-btn-icon" id="simClose" title="Hide simulation timeline">✕</button>
+    </div>
+  </div>
+
+  <!-- Scenario Parameter Deck (active in Rainfall Scenario mode) -->
+  <div id="simScenarioDeck" class="sim-deck">
+    <div class="sim-param-row">
+      <!-- Total Rainfall Slider & Input -->
+      <div class="sim-param-item">
+        <div class="sim-lbl-row">
+          <label for="simRainSlider">Total Rainfall</label>
+          <div class="sim-val-wrap">
+            <input type="number" id="simRainNum" min="10" max="500" value="120" step="5" class="sim-num-input" aria-label="Rainfall in millimeters">
+            <span class="sim-unit">mm</span>
+          </div>
+        </div>
+        <input type="range" id="simRainSlider" min="10" max="500" value="120" step="5" class="sim-range" aria-label="Rainfall slider in millimeters">
+      </div>
+
+      <!-- Storm Duration -->
+      <div class="sim-param-item">
+        <div class="sim-lbl-row">
+          <label for="simDuration">Storm Duration</label>
+        </div>
+        <select id="simDuration" class="sim-select" aria-label="Storm duration">
+          <option value="1">1 hr (Flash Cloudburst)</option>
+          <option value="3" selected>3 hr (Intense Squall)</option>
+          <option value="6">6 hr (Monsoon Storm)</option>
+          <option value="12">12 hr (Extended Depression)</option>
+          <option value="24">24 hr (Full-Day Cyclone)</option>
+        </select>
+      </div>
+
+      <!-- Quick Storm Presets -->
+      <div class="sim-param-item">
+        <div class="sim-lbl-row">
+          <label>Design Storms</label>
+        </div>
+        <div class="sim-presets">
+          <button class="sim-chip" data-mm="40" data-dur="3" title="40 mm in 3h (2-year storm)">40mm</button>
+          <button class="sim-chip active" data-mm="120" data-dur="3" title="120 mm in 3h (Cloudburst)">120mm</button>
+          <button class="sim-chip" data-mm="220" data-dur="6" title="220 mm in 6h (Severe Monsoon)">220mm</button>
+          <button class="sim-chip" data-mm="345" data-dur="12" title="345 mm in 12h (Dec 2015 Equiv)">345mm</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Scenario Controls & Comparison Actions -->
+    <div class="sim-action-row">
+      <div class="sim-act-left">
+        <button class="sim-btn" id="btnSimReset" title="Reset to default 120 mm / 3h scenario">↺ Reset</button>
+        <button class="sim-btn toggle" id="btnSimCompareBase" title="Toggle delta comparison against a 50 mm baseline storm">
+          <span>⚖ Baseline Comparison (50 mm)</span>
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Timeline Header & Playback Strip -->
+  <div class="sim-timeline-header">
     <div class="sim-tag-group">
-      <span class="sim-badge">SWMM Dynamic Wave Diagnostic</span>
       <span class="sim-time-display" id="simtime">—</span>
+      <span class="sim-rate-display" id="simRateDisplay">Intensity: 48.0 mm/h</span>
     </div>
     <div class="sim-ctrl-group">
       <button class="sim-btn" id="simPrev" title="Step Back 1 Hour">◄ -1h</button>
-      <button class="sim-btn" id="simPlay">▶ Play</button>
+      <button class="sim-btn play-btn" id="simPlay">▶ Play</button>
       <button class="sim-btn" id="simNext" title="Step Forward 1 Hour">+1h ►</button>
-      <button class="sim-btn peak" id="simPeak" title="Jump to Dec 2, 2015 08:30 IST Peak Cloudburst">⚡ Peak (345 mm)</button>
+      <button class="sim-btn peak" id="simPeak" title="Jump to Peak Rainfall Hour">⚡ Peak</button>
       <select class="sim-select" id="simSpeed" aria-label="Playback speed">
         <option value="0.5">½ h/s</option>
         <option value="2" selected>2 h/s</option>
         <option value="6">6 h/s</option>
         <option value="24">24 h/s</option>
       </select>
-      <button class="sim-btn" id="simClose" title="Hide simulation timeline">✕</button>
     </div>
   </div>
+
   <canvas id="hyeto" title="Click anywhere on the hyetograph to jump directly to that simulation hour"></canvas>
-  <input type="range" id="simt" min="0" max="191" value="0" step="0.25" aria-label="Simulation timestamp scrubber">
-  <div id="simwarn">
-    <b>Model Calibration Diagnostic:</b> Dec 2015 extreme rainfall event (345 mm peak). Displays computed hydraulic surcharge and street overflow for the extracted network.
+  <input type="range" id="simt" min="0" max="23" value="0" step="0.25" aria-label="Simulation timestamp scrubber">
+
+  <!-- Live Scenario Telemetry Grid -->
+  <div class="sim-metrics-grid" id="simMetricsGrid">
+    <div class="sim-metric-card">
+      <span class="sm-lbl">PEAK INTENSITY</span>
+      <span class="sm-val" id="smPeakInt">48.0 mm/h</span>
+      <span class="sm-delta" id="smDeltaInt">Huff distribution</span>
+    </div>
+    <div class="sim-metric-card">
+      <span class="sm-lbl">OVERLOADED RUNS</span>
+      <span class="sm-val" id="smOverloadRuns">1,842 <small>/ 5,513</small></span>
+      <span class="sm-delta warn" id="smDeltaRuns">33.4% of network</span>
+    </div>
+    <div class="sim-metric-card">
+      <span class="sm-lbl">SURCHARGED MANHOLES</span>
+      <span class="sm-val" id="smSurchargedNodes">1,215 <small>/ 5,941</small></span>
+      <span class="sm-delta warn" id="smDeltaNodes">20.4% backed up</span>
+    </div>
+    <div class="sim-metric-card">
+      <span class="sm-lbl">STREET OVERFLOW</span>
+      <span class="sm-val" id="smOverflowVol">428 <small>nodes</small></span>
+      <span class="sm-delta alert" id="smDeltaOverflow">Active street ponding</span>
+    </div>
+  </div>
+
+  <!-- Scientific Honesty & Model Calibration Diagnostic Note -->
+  <div id="simwarn" class="scenario">
+    <b>Experimental Scenario Estimate:</b> 1D Manning kinematic conveyance and rational runoff diagnostic (n=0.015, C=0.75). Evaluates structural culvert capacity and surcharging client-side from surveyed network geometry. <i>Not a validated real-world flood forecast.</i>
   </div>
 </section>
 
@@ -1416,7 +1858,8 @@ function applyBase(){
   }
   map.addSource('base', {type:'raster', tiles:B.tiles(state.labels), tileSize:256, maxzoom:B.maxzoom, attribution:B.attribution});
   const first = map.getStyle().layers[0];
-  map.addLayer({id:'base', type:'raster', source:'base'}, map.getLayer('swd') ? 'swd' : (first && first.id));
+  const beforeLayer = map.getLayer('floodRiskHeatmap') ? 'floodRiskHeatmap' : (map.getLayer('swd') ? 'swd' : (first && first.id));
+  map.addLayer({id:'base', type:'raster', source:'base'}, beforeLayer);
   if(state.labels && B.labels){
     map.addSource('labels', {type:'raster', tiles:[B.labels], tileSize:256, maxzoom:B.maxzoom});
     map.addLayer({id:'labels', type:'raster', source:'labels'});
@@ -1447,10 +1890,13 @@ const state = {
   ghost: true,
   up: true,
   sim: false,
+  heatmap: true,
+  heatmapOpacity: 0.75,
   compareMode: false,
   compareSub: 'intervention' // 'baseline', 'intervention', 'diff'
 };
 
+let currentFeature = null;
 let zEx = Math.max(1, Math.min(40, +(Q.get('ex') || 6)));
 
 const isDrawn = c => !(c.fg || '').includes('geometry_inferred') && !(c.fg || '').includes('junction_link') && !c.x;
@@ -1558,6 +2004,7 @@ function buildAdjacencyGraph(){
     if(adjIn.has(c.t)) adjIn.get(c.t).push({ c, from: c.f });
   }
 }
+buildAdjacencyGraph();
 
 function traceUpstream(startNodeId){
   buildAdjacencyGraph();
@@ -1763,6 +2210,38 @@ const LEGENDS = () => {
 const drawLegend = () => {
   const el = document.getElementById('legend');
   if(!el) return;
+  if(state.heatmap){
+    document.getElementById('legendTitle').textContent = 'Flood Risk Heatmap';
+    el.innerHTML = `
+      <div class="heatmap-grad-bar"></div>
+      <div class="heatmap-grad-labels">
+        <span>Lower (&lt;25)</span>
+        <span>Moderate (25-49)</span>
+        <span>High (50-74)</span>
+        <span>Very High (&ge;75)</span>
+      </div>
+      <div class="lrow"><i class="sw" style="background:#ef4444"></i><span><b>Very High Risk:</b> Structural sumps &amp; severe overload</span></div>
+      <div class="lrow"><i class="sw" style="background:#f97316"></i><span><b>High Risk:</b> Lowland depressions &amp; capacity bottlenecks</span></div>
+      <div class="lrow"><i class="sw" style="background:#eab308"></i><span><b>Moderate Risk:</b> Surcharging branches under storm loading</span></div>
+      <div class="lrow"><i class="sw" style="background:#06b6d4"></i><span><b>Lower Risk:</b> Free-surface gravity gradient &amp; adequate outfall</span></div>
+      <div style="font-size: 10px; color: var(--txt-dim); margin-top: 6px; padding-top: 5px; border-top: 1px solid var(--border-subtle); line-height: 1.35;">
+        <b>Multi-Factor Index:</b> 35% hydraulic load · 25% lowland elevation · 15% adverse slope · 15% 2015 flood record · 10% survey completeness.<br>
+        <i>Surveyed 2015 flood history clearly distinguished from simulated scenario estimates.</i>
+      </div>
+    `;
+    return;
+  }
+  if(state.sim){
+    document.getElementById('legendTitle').textContent = SIM.mode === 'scenario' ? 'Rainfall Scenario Loading' : 'SWMM 2015 Diagnostic';
+    el.innerHTML = `
+      <div class="lrow"><i class="sw" style="background:#2ee0cf"></i><span>Conduit Flow (Normal Gravity Conveyance)</span></div>
+      <div class="lrow"><i class="sw" style="background:#38bdf8"></i><span>Conduit Full / Surcharged Crown</span></div>
+      <div class="lrow"><i class="sw" style="background:#5eead4"></i><span>Manhole Surcharge Water Column</span></div>
+      <div class="lrow"><i class="sw" style="background:rgba(46, 224, 207, 0.7)"></i><span>Street Surface Ponding Discs</span></div>
+      <div class="lrow"><i class="sw stripe"></i><span>Adverse Slope Bottleneck / Sump</span></div>
+    `;
+    return;
+  }
   document.getElementById('legendTitle').textContent = activeTrace ? 'Hydraulic Trace Active' : (state.compareMode && state.compareSub === 'diff') ? 'Intervention Highlights' : 'Active Classification';
   el.innerHTML =
     LEGENDS().map(([c,t]) => `<div class="lrow"><i class="sw" style="background:${c}${c.startsWith('linear') ? ';width:54px' : ''}"></i><span>${t}</span></div>`).join('')
@@ -2068,10 +2547,29 @@ function buildTIN(){
   return m;
 }
 
-/* ---- SWMM Simulation ---------------------------------------------------- */
-const SIM = {loaded:false, steps:0, t:0, playing:false, speed:2, nodeIdx:new Int32Array(nodes.length).fill(-1),
-  linkIdx:new Int32Array(conduits.length).fill(-1), texW:2048, perRow:0, meta:null, lastFrame:0};
-const simUni = {uSimT:{value:0}, uSteps:{value:1}, uPerRow:{value:1}, uTexW:{value:2048}, uLinkDep:{value:null}, uLinkVel:{value:null},
+/* ---- Hydraulic & Rainfall Simulation Engine ----------------------------- */
+const SIM = {
+  loaded: false,
+  mode: 'scenario', // 'scenario' | 'swmm'
+  steps: 24,
+  t: 9, // default to storm peak step
+  playing: false,
+  speed: 2,
+  rainMm: 120,
+  durHours: 3,
+  compareBase: false,
+  nodeIdx: new Int32Array(nodes.length),
+  linkIdx: new Int32Array(conduits.length),
+  texW: 2048,
+  perRow: 85,
+  meta: null,
+  lastFrame: 0,
+  totalNodeSlots: nodes.length,
+  totalLinkSlots: conduits.length
+};
+nodes.forEach((n, i) => { SIM.nodeIdx[i] = i; });
+conduits.forEach((c, i) => { SIM.linkIdx[i] = i; });
+const simUni = {uSimT:{value:9}, uSteps:{value:24}, uPerRow:{value:85}, uTexW:{value:2048}, uLinkDep:{value:null}, uLinkVel:{value:null},
   uNodeDep:{value:null}, uNodeFld:{value:null}, uZEx:uni.uZEx, uMsl:uni.uMsl, uZ0:uni.uZ0, uAnim:{value:0}, uCam:uni.uCam};
 const SIM_SAMPLE = `
   uniform float uSimT, uSteps, uPerRow, uTexW;
@@ -2189,6 +2687,466 @@ function placeColumnChunk(ch){
   for(const m of [ch.cols, ch.ponds]){ m.computeBoundingSphere(); m.boundingSphere.radius += 80; }
 }
 
+/* ==========================================================================
+   Rainfall-Driven Flood Simulation Engine (1D Manning Conveyance & SWMM Benchmark)
+   ========================================================================== */
+const SCEN_STEPS = 24;
+let hydraulicsInit = false;
+let scenTex = null;
+let scenData = null;
+let scenMetrics = null;
+let baseMetrics = null;
+let swmmLoaded = false;
+let hyetoBars = null;
+
+function initConduitHydraulics(){
+  if(hydraulicsInit) return;
+  buildAdjacencyGraph();
+
+  // 1. Calculate upstream tributary counts for each node via reverse DFS
+  const tribMemo = new Map();
+  function getTrib(nid, visited = new Set()){
+    if(visited.has(nid)) return 1;
+    if(tribMemo.has(nid)) return tribMemo.get(nid);
+    visited.add(nid);
+    let count = 1;
+    const feeders = adjIn.get(nid) || [];
+    for(const {from} of feeders){
+      count += getTrib(from, visited);
+    }
+    tribMemo.set(nid, count);
+    return count;
+  }
+  for(const n of nodes){
+    n._trib = getTrib(n.id);
+  }
+
+  // 2. Compute Manning capacities for all conduits
+  const nRough = 0.015; // Standard concrete box culvert roughness
+  for(const c of conduits){
+    const nf = byId.get(c.f), nt = byId.get(c.t);
+    const w = c.wd ?? ASSUME.PH_W;
+    const d = c.dp ?? ASSUME.PH_D;
+    const A = w * d;
+    const P = w + 2 * d;
+    const Rh = A / P;
+    let s = c.s;
+    if(s == null || s === 0){
+      if(nf && nt && nf._inv0 != null && nt._inv0 != null && c.L > 0){
+        s = (nf._inv0 - nt._inv0) / c.L;
+      } else {
+        s = 0.001;
+      }
+    }
+    const isAdv = s <= 0;
+    const sEff = isAdv ? 0.0003 : Math.max(0.0001, s);
+    // Manning full capacity Qcap = (1/n) * A * Rh^(2/3) * sqrt(sEff) * (isAdv ? 0.35 : 1.0)
+    const Qcap = (1.0 / nRough) * A * Math.pow(Rh, 2/3) * Math.sqrt(sEff) * (isAdv ? 0.35 : 1.0);
+    c._w = w;
+    c._d = d;
+    c._A = A;
+    c._Rh = Rh;
+    c._sEff = sEff;
+    c._isAdv = isAdv;
+    c._Qcap = Qcap;
+  }
+
+  hydraulicsInit = true;
+}
+
+function ensureScenarioTextures(){
+  if(scenTex) return scenTex;
+  const S = SCEN_STEPS;
+  const perRow = Math.floor(SIM.texW / S); // 85
+  const H_n = Math.ceil(nodes.length / perRow);
+  const H_c = Math.ceil(conduits.length / perRow);
+
+  const nDepData = new Float32Array(SIM.texW * H_n);
+  const nFldData = new Float32Array(SIM.texW * H_n);
+  const cDepData = new Float32Array(SIM.texW * H_c);
+  const cVelData = new Float32Array(SIM.texW * H_c);
+
+  const texNDep = new THREE.DataTexture(nDepData, SIM.texW, H_n, THREE.RedFormat, THREE.FloatType);
+  const texNFld = new THREE.DataTexture(nFldData, SIM.texW, H_n, THREE.RedFormat, THREE.FloatType);
+  const texCDep = new THREE.DataTexture(cDepData, SIM.texW, H_c, THREE.RedFormat, THREE.FloatType);
+  const texCVel = new THREE.DataTexture(cVelData, SIM.texW, H_c, THREE.RedFormat, THREE.FloatType);
+
+  for(const t of [texNDep, texNFld, texCDep, texCVel]){
+    t.minFilter = t.magFilter = THREE.NearestFilter;
+  }
+
+  scenData = { nDepData, nFldData, cDepData, cVelData, perRow, S };
+  scenTex = { nodeDep: texNDep, nodeFld: texNFld, linkDep: texCDep, linkVel: texCVel, perRow, S };
+  return scenTex;
+}
+
+function runRainScenario(rainMm, durHours){
+  initConduitHydraulics();
+  ensureScenarioTextures();
+
+  const S = SCEN_STEPS;
+  const perRow = scenData.perRow;
+  const dtSec = (durHours * 3600) / S;
+  const Acatch = 32000; // m2 per manhole catchment
+  const C_runoff = 0.75; // Urban Chennai runoff coefficient
+
+  // Synthetic Huff design storm unimodal distribution (peak at step 9, ~38% into storm)
+  const pProfile = new Float32Array(S);
+  let pSum = 0;
+  for(let t = 0; t < S; t++){
+    const v = Math.exp(-Math.pow((t - 9) / 4.2, 2));
+    pProfile[t] = v;
+    pSum += v;
+  }
+  for(let t = 0; t < S; t++) pProfile[t] /= (pSum || 1);
+
+  const intensities = new Float32Array(S);
+  let peakInt = 0;
+  for(let t = 0; t < S; t++){
+    const rStepMm = pProfile[t] * rainMm;
+    const intMmH = (rStepMm / dtSec) * 3600;
+    intensities[t] = intMmH;
+    if(intMmH > peakInt) peakInt = intMmH;
+  }
+
+  scenData.nDepData.fill(0);
+  scenData.nFldData.fill(0);
+  scenData.cDepData.fill(0);
+  scenData.cVelData.fill(0);
+
+  let peakOverloads = 0;
+  let peakSurcharges = 0;
+  let peakPondingNodes = 0;
+  let peakOverflowRateLps = 0;
+
+  const condFlowMap = new Float32Array(conduits.length * S);
+  const condDepthMap = new Float32Array(conduits.length * S);
+  const nodeFldMap = new Float32Array(nodes.length * S);
+  const nodeWaterMSLMap = new Float32Array(nodes.length * S);
+
+  for(let t = 0; t < S; t++){
+    const intMmH = intensities[t];
+    const qLocal = (C_runoff * (intMmH / 1000) * Acatch) / 3600; // m3/s per node
+
+    let stepOver = 0;
+    let stepSur = 0;
+    let stepPond = 0;
+    let stepOverflowLps = 0;
+
+    // Conduits
+    for(let ci = 0; ci < conduits.length; ci++){
+      const c = conduits[ci];
+      const slot = SIM.linkIdx[ci];
+      if(slot < 0) continue;
+
+      const nf = byId.get(c.f);
+      const tribCount = nf?._trib ?? 1;
+      const alpha = Math.max(0.28, 0.72 / (1 + 0.04 * Math.sqrt(tribCount)));
+      const qIn = tribCount * qLocal * alpha;
+      const lambda = qIn / Math.max(0.001, c._Qcap);
+
+      if(lambda >= 1.0) stepOver++;
+
+      let d, v;
+      if(lambda < 1.0){
+        d = c._d * Math.min(1.0, Math.max(0.04, Math.pow(lambda, 0.6)));
+        v = Math.min(3.5, Math.max(0.1, qIn / Math.max(0.05, c._w * d)));
+      } else {
+        d = c._d;
+        v = Math.min(4.0, c._Qcap / Math.max(0.05, c._w * c._d));
+      }
+
+      condDepthMap[ci * S + t] = d;
+      condFlowMap[ci * S + t] = qIn;
+
+      const row = Math.floor(slot / perRow);
+      const col0 = (slot - row * perRow) * S;
+      scenData.cDepData[row * SIM.texW + col0 + t] = d;
+      scenData.cVelData[row * SIM.texW + col0 + t] = v;
+    }
+
+    // Nodes
+    for(let ni = 0; ni < nodes.length; ni++){
+      const n = nodes[ni];
+      const slot = SIM.nodeIdx[ni];
+      if(slot < 0) continue;
+
+      const outs = adjOut.get(n.id) || [];
+      let maxL = 0;
+      for(const {c} of outs){
+        const l = condFlowMap[c._i * S + t] / Math.max(0.001, c._Qcap);
+        if(l > maxL) maxL = l;
+      }
+      if(outs.length === 0 && (adjIn.get(n.id) || []).length > 0){
+        maxL = isOutfall(n) ? 0.35 : 1.15;
+      }
+
+      let waterLevelMSL, overflowLps = 0;
+      if(maxL <= 1.0){
+        const d = n._d * Math.min(1.0, Math.max(0.04, Math.pow(maxL, 0.6)));
+        waterLevelMSL = n._inv0 + d;
+      } else {
+        stepSur++;
+        const surHead = Math.min(Math.max(0, n._cover ?? 1.5), (maxL - 1.0) * 0.65);
+        waterLevelMSL = n._topMSL + surHead;
+        const streetLvl = n.road ?? n._ref;
+        if(waterLevelMSL >= streetLvl - 0.02){
+          overflowLps = Math.min(350, (maxL - 1.0) * 32);
+          stepPond++;
+          stepOverflowLps += overflowLps;
+        }
+      }
+
+      nodeFldMap[ni * S + t] = overflowLps;
+      nodeWaterMSLMap[ni * S + t] = waterLevelMSL;
+
+      const row = Math.floor(slot / perRow);
+      const col0 = (slot - row * perRow) * S;
+      scenData.nDepData[row * SIM.texW + col0 + t] = waterLevelMSL;
+      scenData.nFldData[row * SIM.texW + col0 + t] = overflowLps;
+    }
+
+    if(stepOver > peakOverloads) peakOverloads = stepOver;
+    if(stepSur > peakSurcharges) peakSurcharges = stepSur;
+    if(stepPond > peakPondingNodes) peakPondingNodes = stepPond;
+    if(stepOverflowLps > peakOverflowRateLps) peakOverflowRateLps = stepOverflowLps;
+  }
+
+  scenTex.nodeDep.needsUpdate = true;
+  scenTex.nodeFld.needsUpdate = true;
+  scenTex.linkDep.needsUpdate = true;
+  scenTex.linkVel.needsUpdate = true;
+
+  scenMetrics = {
+    rainMm,
+    durHours,
+    intensities,
+    peakInt,
+    peakOverloadedConduits: peakOverloads,
+    overloadPct: (peakOverloads / conduits.length) * 100,
+    peakSurchargedNodes: peakSurcharges,
+    surchargedPct: (peakSurcharges / nodes.length) * 100,
+    peakPondingNodes,
+    peakOverflowRateLps,
+    condFlowMap,
+    condDepthMap,
+    nodeFldMap,
+    nodeWaterMSLMap
+  };
+
+  updateScenarioTelemetryUI();
+  return scenMetrics;
+}
+
+function getBaselineMetrics(){
+  if(baseMetrics) return baseMetrics;
+  initConduitHydraulics();
+  const S = SCEN_STEPS;
+  const dtSec = (3 * 3600) / S;
+  const Acatch = 32000;
+  const C_runoff = 0.75;
+  const pProfile = new Float32Array(S);
+  let pSum = 0;
+  for(let t = 0; t < S; t++){ const v = Math.exp(-Math.pow((t - 9) / 4.2, 2)); pProfile[t] = v; pSum += v; }
+  for(let t = 0; t < S; t++) pProfile[t] /= (pSum || 1);
+
+  let peakOver = 0, peakSur = 0, peakPond = 0;
+  for(let t = 0; t < S; t++){
+    const intMmH = ((pProfile[t] * 50) / dtSec) * 3600;
+    const qLocal = (C_runoff * (intMmH / 1000) * Acatch) / 3600;
+    let sOver = 0, sSur = 0, sPond = 0;
+    for(let ci = 0; ci < conduits.length; ci++){
+      const c = conduits[ci];
+      const nf = byId.get(c.f);
+      const tribCount = nf?._trib ?? 1;
+      const alpha = Math.max(0.28, 0.72 / (1 + 0.04 * Math.sqrt(tribCount)));
+      const qIn = tribCount * qLocal * alpha;
+      if(qIn >= c._Qcap) sOver++;
+    }
+    for(let ni = 0; ni < nodes.length; ni++){
+      const n = nodes[ni];
+      const outs = adjOut.get(n.id) || [];
+      let maxL = 0;
+      for(const {c} of outs){
+        const tribCount = (byId.get(c.f)?._trib ?? 1);
+        const alpha = Math.max(0.28, 0.72 / (1 + 0.04 * Math.sqrt(tribCount)));
+        const l = (tribCount * qLocal * alpha) / Math.max(0.001, c._Qcap);
+        if(l > maxL) maxL = l;
+      }
+      if(maxL > 1.0){
+        sSur++;
+        const surHead = Math.min(Math.max(0, n._cover ?? 1.5), (maxL - 1.0) * 0.65);
+        if(n._topMSL + surHead >= (n.road ?? n._ref) - 0.02) sPond++;
+      }
+    }
+    if(sOver > peakOver) peakOver = sOver;
+    if(sSur > peakSur) peakSur = sSur;
+    if(sPond > peakPond) peakPond = sPond;
+  }
+  baseMetrics = { peakOverloadedConduits: peakOver, peakSurchargedNodes: peakSur, peakPondingNodes: peakPond };
+  return baseMetrics;
+}
+
+function updateScenarioTelemetryUI(){
+  if(!scenMetrics) return;
+  const smPeakInt = document.getElementById('smPeakInt');
+  const smDeltaInt = document.getElementById('smDeltaInt');
+  const smOverloadRuns = document.getElementById('smOverloadRuns');
+  const smDeltaRuns = document.getElementById('smDeltaRuns');
+  const smSurchargedNodes = document.getElementById('smSurchargedNodes');
+  const smDeltaNodes = document.getElementById('smDeltaNodes');
+  const smOverflowVol = document.getElementById('smOverflowVol');
+  const smDeltaOverflow = document.getElementById('smDeltaOverflow');
+
+  if(smPeakInt) smPeakInt.textContent = `${scenMetrics.peakInt.toFixed(1)} mm/h`;
+  if(smDeltaInt) smDeltaInt.textContent = `${scenMetrics.rainMm} mm in ${scenMetrics.durHours}h`;
+  if(smOverloadRuns) smOverloadRuns.innerHTML = `${scenMetrics.peakOverloadedConduits.toLocaleString()} <small>/ ${conduits.length.toLocaleString()}</small>`;
+  if(smSurchargedNodes) smSurchargedNodes.innerHTML = `${scenMetrics.peakSurchargedNodes.toLocaleString()} <small>/ ${nodes.length.toLocaleString()}</small>`;
+  if(smOverflowVol) smOverflowVol.innerHTML = `${scenMetrics.peakPondingNodes.toLocaleString()} <small>nodes (${(scenMetrics.peakOverflowRateLps).toFixed(0)} L/s)</small>`;
+
+  if(SIM.compareBase){
+    const base = getBaselineMetrics();
+    const dOver = scenMetrics.peakOverloadedConduits - base.peakOverloadedConduits;
+    const dSur = scenMetrics.peakSurchargedNodes - base.peakSurchargedNodes;
+    const dPond = scenMetrics.peakPondingNodes - base.peakPondingNodes;
+    if(smDeltaRuns){ smDeltaRuns.textContent = `${dOver >= 0 ? '+' : ''}${dOver.toLocaleString()} vs 50mm base`; smDeltaRuns.className = dOver > 0 ? 'sm-delta warn' : 'sm-delta good'; }
+    if(smDeltaNodes){ smDeltaNodes.textContent = `${dSur >= 0 ? '+' : ''}${dSur.toLocaleString()} vs 50mm base`; smDeltaNodes.className = dSur > 0 ? 'sm-delta warn' : 'sm-delta good'; }
+    if(smDeltaOverflow){ smDeltaOverflow.textContent = `${dPond >= 0 ? '+' : ''}${dPond.toLocaleString()} vs 50mm base`; smDeltaOverflow.className = dPond > 0 ? 'sm-delta alert' : 'sm-delta good'; }
+  } else {
+    if(smDeltaRuns){ smDeltaRuns.textContent = `${scenMetrics.overloadPct.toFixed(1)}% of network`; smDeltaRuns.className = 'sm-delta warn'; }
+    if(smDeltaNodes){ smDeltaNodes.textContent = `${scenMetrics.surchargedPct.toFixed(1)}% backed up`; smDeltaNodes.className = 'sm-delta warn'; }
+    if(smDeltaOverflow){ smDeltaOverflow.textContent = `Active street ponding`; smDeltaOverflow.className = 'sm-delta alert'; }
+  }
+}
+
+function getNodeScenarioTelemetry(n, t){
+  if(!scenMetrics) return null;
+  t = Math.max(0, Math.min(SCEN_STEPS - 1, Math.round(t)));
+  const intMmH = scenMetrics.intensities[t] || 0;
+  const qLocal = (0.75 * (intMmH / 1000) * 32000) / 3600;
+  const slot = SIM.nodeIdx[n._i];
+  let waterMSL = n._topMSL;
+  let overflowRate = 0;
+  if(slot >= 0 && scenData){
+    const row = Math.floor(slot / scenData.perRow);
+    const col0 = (slot - row * scenData.perRow) * SCEN_STEPS;
+    waterMSL = scenData.nDepData[row * SIM.texW + col0 + t] || n._topMSL;
+    overflowRate = scenData.nFldData[row * SIM.texW + col0 + t] || 0;
+  }
+  const surHead = Math.max(0, waterMSL - n._topMSL);
+  const pondR = overflowRate <= 0 ? 0 : Math.min(14, 1.5 + 2.0 * Math.log(1.0 + overflowRate / 20.0));
+  return {
+    qLocal,
+    intensity: intMmH,
+    tribNodes: n._trib || 1,
+    tribArea: (n._trib || 1) * 32000,
+    waterMSL,
+    surchargeHead: surHead,
+    overflowRate,
+    pondRadius: pondR
+  };
+}
+
+function getConduitScenarioTelemetry(c, t){
+  if(!scenMetrics) return null;
+  t = Math.max(0, Math.min(SCEN_STEPS - 1, Math.round(t)));
+  const slot = SIM.linkIdx[c._i];
+  let depth = 0, vel = 0;
+  if(slot >= 0 && scenData){
+    const row = Math.floor(slot / scenData.perRow);
+    const col0 = (slot - row * scenData.perRow) * SCEN_STEPS;
+    depth = scenData.cDepData[row * SIM.texW + col0 + t] || 0;
+    vel = scenData.cVelData[row * SIM.texW + col0 + t] || 0;
+  }
+  const qFlow = scenMetrics.condFlowMap[c._i * SCEN_STEPS + t] || 0;
+  const lambda = qFlow / Math.max(0.001, c._Qcap);
+  const isAdv = c._isAdv;
+  let bottleneck = isAdv ? 'Negative gradient: Reverse sump throttling conveyance'
+    : lambda >= 1.0 ? 'Conveyance bottleneck: Peak runoff exceeds culvert cross-section'
+    : lambda >= 0.8 ? 'Conveyance warning: Culvert nearing full gravity capacity'
+    : 'Adequate downstream gravity capacity';
+
+  return {
+    qCap: c._Qcap,
+    qFlow,
+    lambda,
+    depth,
+    velocity: vel,
+    bottleneck
+  };
+}
+
+async function loadSWMMData(){
+  if(swmmLoaded) return;
+  try {
+    const [metaSim, buf] = await Promise.all([
+      fetch('data/swmm.json').then(r => r.json()),
+      fetch('data/swmm.bin').then(r => r.arrayBuffer())
+    ]);
+    const u16 = new Uint16Array(buf), S = metaSim.steps, NN = metaSim.nodes.length, NL = metaSim.links.length;
+    SIM.meta = metaSim;
+    SIM.swmmSteps = S;
+    const perRow = Math.floor(SIM.texW / S); // 10
+    SIM.perRowSWMM = perRow;
+
+    const nodePosInSWMM = new Map(metaSim.nodes.map((id, idx) => [id, idx]));
+    const linkPosInSWMM = new Map(metaSim.links.map((id, idx) => [id, idx]));
+
+    const H_n = Math.ceil(nodes.length / perRow);
+    const H_c = Math.ceil(conduits.length / perRow);
+
+    const swmmNDep = new Float32Array(SIM.texW * H_n);
+    const swmmNFld = new Float32Array(SIM.texW * H_n);
+    const swmmCDep = new Float32Array(SIM.texW * H_c);
+    const swmmCVel = new Float32Array(SIM.texW * H_c);
+
+    // Map SWMM data to node index slots
+    for(let ni = 0; ni < nodes.length; ni++){
+      const n = nodes[ni];
+      const swmmIdx = nodePosInSWMM.get(n.id);
+      if(swmmIdx === undefined) continue;
+      const row = Math.floor(ni / perRow);
+      const col0 = (ni - row * perRow) * S;
+      for(let t = 0; t < S; t++){
+        swmmNDep[row * SIM.texW + col0 + t] = u16[swmmIdx * S + t] * 0.001;
+        swmmNFld[row * SIM.texW + col0 + t] = u16[(NN + swmmIdx) * S + t];
+      }
+    }
+
+    // Map SWMM data to conduit index slots
+    for(let ci = 0; ci < conduits.length; ci++){
+      const c = conduits[ci];
+      const swmmIdx = linkPosInSWMM.get(`${c.f}__${c.t}`) ?? linkPosInSWMM.get(`${c.t}__${c.f}`);
+      if(swmmIdx === undefined) continue;
+      const row = Math.floor(ci / perRow);
+      const col0 = (ci - row * perRow) * S;
+      for(let t = 0; t < S; t++){
+        swmmCDep[row * SIM.texW + col0 + t] = u16[(2 * NN * S) + swmmIdx * S + t] * 0.001;
+        swmmCVel[row * SIM.texW + col0 + t] = u16[(2 * NN * S + NL * S) + swmmIdx * S + t] * 0.001;
+      }
+    }
+
+    const mkTex = (data, H) => {
+      const tex = new THREE.DataTexture(data, SIM.texW, H, THREE.RedFormat, THREE.FloatType);
+      tex.minFilter = tex.magFilter = THREE.NearestFilter;
+      tex.needsUpdate = true;
+      return tex;
+    };
+
+    SIM.swmmTex = {
+      nodeDep: mkTex(swmmNDep, H_n),
+      nodeFld: mkTex(swmmNFld, H_n),
+      linkDep: mkTex(swmmCDep, H_c),
+      linkVel: mkTex(swmmCVel, H_c),
+      perRow,
+      steps: S
+    };
+    swmmLoaded = true;
+  } catch(err){
+    console.warn('AquaSentinal: SWMM benchmark dataset load skipped or deferred', err);
+  }
+}
+
 async function loadSim(){
   if(SIM.loaded){
     state.sim = true;
@@ -2198,83 +3156,324 @@ async function loadSim(){
       if(ch.water) ch.water.visible = true;
       if(ch.cols){ ch.cols.visible = true; ch.ponds.visible = true; }
     }
+    applySimMode(SIM.mode);
+    drawLegend();
     map.triggerRepaint();
     return;
   }
-  toast('Loading SWMM dynamic wave data (December 2015 run)...', 4000);
-  const [metaSim, buf] = await Promise.all([fetch('data/swmm.json').then(r => r.json()), fetch('data/swmm.bin').then(r => r.arrayBuffer())]);
-  const u16 = new Uint16Array(buf), S = metaSim.steps, NN = metaSim.nodes.length, NL = metaSim.links.length;
-  SIM.meta = metaSim; SIM.steps = S; SIM.u16 = u16;
-  const nodePos = new Map(metaSim.nodes.map((n, i) => [n, i])), linkPos = new Map(metaSim.links.map((n, i) => [n, i]));
-  nodes.forEach((n, i) => { SIM.nodeIdx[i] = nodePos.get(n.id) ?? -1; });
-  conduits.forEach((c, i) => { SIM.linkIdx[i] = linkPos.get(`${c.f}__${c.t}`) ?? linkPos.get(`${c.t}__${c.f}`) ?? -1; });
-  const perRow = Math.floor(SIM.texW / S); SIM.perRow = perRow;
-  const mk = (off, count, scale) => {
-    const H = Math.ceil(count / perRow), data = new Float32Array(SIM.texW * H);
-    for(let e = 0; e < count; e++){ const row = Math.floor(e/perRow), c0 = (e - row*perRow) * S;
-      for(let t = 0; t < S; t++) data[row*SIM.texW + c0 + t] = u16[off + e*S + t] * scale; }
-    const tex = new THREE.DataTexture(data, SIM.texW, H, THREE.RedFormat, THREE.FloatType);
-    tex.minFilter = tex.magFilter = THREE.NearestFilter; tex.needsUpdate = true; return tex;
-  };
-  simUni.uNodeDep.value = mk(0, NN, 0.001); simUni.uNodeFld.value = mk(NN*S, NN, 1);
-  simUni.uLinkDep.value = mk(2*NN*S, NL, 0.001); simUni.uLinkVel.value = mk(2*NN*S + NL*S, NL, 0.001);
-  simUni.uSteps.value = S; simUni.uPerRow.value = perRow; simUni.uTexW.value = SIM.texW;
+
+  // Ensure Three.js water and column meshes are built
   for(const ch of chunks.values()){
-    ch.water = buildWaterChunk(ch); if(ch.water) scene.add(ch.water);
-    buildColumnChunk(ch); if(ch.cols){ placeColumnChunk(ch); scene.add(ch.cols); scene.add(ch.ponds); }
+    if(!ch.water){ ch.water = buildWaterChunk(ch); if(ch.water) scene.add(ch.water); }
+    if(!ch.cols){ buildColumnChunk(ch); if(ch.cols){ placeColumnChunk(ch); scene.add(ch.cols); scene.add(ch.ponds); } }
   }
-  SIM.loaded = true; state.sim = true;
-  document.getElementById('simt').max = S - 1;
+
+  // Run scenario model
+  runRainScenario(SIM.rainMm, SIM.durHours);
+
+  // Attach scenario textures
+  simUni.uNodeDep.value = scenTex.nodeDep;
+  simUni.uNodeFld.value = scenTex.nodeFld;
+  simUni.uLinkDep.value = scenTex.linkDep;
+  simUni.uLinkVel.value = scenTex.linkVel;
+  simUni.uSteps.value = SCEN_STEPS;
+  simUni.uPerRow.value = scenTex.perRow;
+  simUni.uTexW.value = SIM.texW;
+
+  SIM.loaded = true;
+  state.sim = true;
   document.getElementById('sim').classList.add('on');
   document.getElementById('btnToggleSim').classList.add('active');
   document.getElementById('tFlow').checked = false; state.flow = false; uni.uFlow.value = 0;
-  drawHyeto(); setSimT(+(Q.get('t') || 0)); map.triggerRepaint();
-  toast('Simulated water levels loaded. Hydraulic diagnostic model active.', 7000);
+
+  applySimMode('scenario');
+  setSimT(9); // Default to storm peak
+  drawLegend();
+  map.triggerRepaint();
+  toast('Interactive Rainfall Flood Simulation active. Drag slider to test events.', 5000);
+
+  // Preload SWMM benchmark in background
+  loadSWMMData();
 }
 
-let hyetoBars = null;
-function drawHyeto(){
-  const cv = document.getElementById('hyeto'); const W = cv.clientWidth, H = cv.clientHeight; if(!W) return;
-  cv.width = W * devicePixelRatio; cv.height = H * devicePixelRatio;
-  const g = cv.getContext('2d'); g.scale(devicePixelRatio, devicePixelRatio); g.clearRect(0, 0, W, H);
-  if(!hyetoBars){
-    hyetoBars = new Float32Array(SIM.steps);
-    fetch('data/rainfall.json').then(r => r.json()).then(r => {
-      const t0 = Date.parse('2015-11-30T00:00:00+05:30');
-      for(const [ts, mm] of (r.hourly_mm || [])){ const [d, t] = ts.split(' '); const [M, D, Y] = d.split('/');
-        const h = Math.round((Date.parse(`${Y}-${M}-${D}T${t}:00+05:30`) - t0) / 3.6e6); if(h >= 0 && h < SIM.steps) hyetoBars[h] = mm; }
-      drawHyeto();
-    }); return;
+function applySimMode(mode){
+  SIM.mode = mode;
+  const isScenario = mode === 'scenario';
+  const tabScen = document.getElementById('tabModeScenario');
+  const tabSWMM = document.getElementById('tabModeSWMM');
+  const deck = document.getElementById('simScenarioDeck');
+  const badge = document.getElementById('simModelBadge');
+  const warn = document.getElementById('simwarn');
+  const simt = document.getElementById('simt');
+
+  if(isScenario){
+    tabScen.classList.add('active');
+    tabSWMM.classList.remove('active');
+    deck.style.display = 'block';
+    badge.textContent = '1D Manning Conveyance';
+    badge.className = 'sim-badge';
+    warn.className = 'scenario';
+    warn.innerHTML = '<b>Experimental Scenario Estimate:</b> 1D Manning kinematic conveyance & rational runoff diagnostic (n=0.015, C=0.75). Evaluates structural culvert capacity and surcharging client-side from surveyed network geometry. <i>Not a validated real-world flood forecast.</i>';
+
+    simUni.uNodeDep.value = scenTex.nodeDep;
+    simUni.uNodeFld.value = scenTex.nodeFld;
+    simUni.uLinkDep.value = scenTex.linkDep;
+    simUni.uLinkVel.value = scenTex.linkVel;
+    simUni.uSteps.value = SCEN_STEPS;
+    simUni.uPerRow.value = scenTex.perRow;
+    SIM.steps = SCEN_STEPS;
+    simt.max = SCEN_STEPS - 1;
+    setSimT(SIM.t % SCEN_STEPS);
+  } else {
+    tabScen.classList.remove('active');
+    tabSWMM.classList.add('active');
+    deck.style.display = 'none';
+    badge.textContent = 'SWMM Dynamic Wave Diagnostic';
+    badge.className = 'sim-badge swmm';
+    warn.className = 'swmm';
+    warn.innerHTML = '<b>SWMM 2015 Benchmark Model:</b> EPA-SWMM 5.2 Dynamic Wave run for Dec 2015 extreme rainfall (345 mm peak). Note documented limitations and lack of predictive skill against observed street flood records.';
+
+    if(swmmLoaded && SIM.swmmTex){
+      simUni.uNodeDep.value = SIM.swmmTex.nodeDep;
+      simUni.uNodeFld.value = SIM.swmmTex.nodeFld;
+      simUni.uLinkDep.value = SIM.swmmTex.linkDep;
+      simUni.uLinkVel.value = SIM.swmmTex.linkVel;
+      simUni.uSteps.value = SIM.swmmSteps;
+      simUni.uPerRow.value = SIM.perRowSWMM;
+      SIM.steps = SIM.swmmSteps;
+      simt.max = SIM.steps - 1;
+      setSimT(56.5);
+    } else {
+      toast('Loading SWMM December 2015 benchmark dataset...', 3000);
+      loadSWMMData().then(() => {
+        if(SIM.mode === 'swmm') applySimMode('swmm');
+      });
+    }
   }
-  const mx = Math.max(1, ...hyetoBars); const bw = W / SIM.steps;
-  g.fillStyle = '#1b262e'; g.fillRect(0, H-1, W, 1);
-  for(let i = 0; i < SIM.steps; i++){ const h = hyetoBars[i]/mx * (H-12); g.fillStyle = '#3fa9ff'; g.fillRect(i*bw, H-1-h, Math.max(1, bw-0.5), h); }
-  g.fillStyle = '#94a3b8'; g.font = '9px IBM Plex Mono, monospace';
-  for(let d = 0; d < 8; d++){ g.fillRect(d*24*bw, 0, 1, H); g.fillText(['30 Nov','1 Dec','2 Dec','3','4','5','6','7'][d], d*24*bw + 3, 9); }
-  g.fillText(`${mx.toFixed(0)} mm/h peak`, W - 74, 9);
-  const x = SIM.t * bw; g.fillStyle = '#f59e0b'; g.fillRect(x-1, 0, 2, H);
+  drawHyeto();
+  drawLegend();
+  map.triggerRepaint();
+}
+
+function drawHyeto(){
+  const cv = document.getElementById('hyeto');
+  if(!cv) return;
+  const W = cv.clientWidth, H = cv.clientHeight;
+  if(!W || !H) return;
+  cv.width = W * devicePixelRatio;
+  cv.height = H * devicePixelRatio;
+  const g = cv.getContext('2d');
+  g.scale(devicePixelRatio, devicePixelRatio);
+  g.clearRect(0, 0, W, H);
+
+  if(SIM.mode === 'scenario'){
+    if(!scenMetrics) return;
+    const S = SCEN_STEPS;
+    const bw = W / S;
+    const mx = Math.max(1, scenMetrics.peakInt);
+
+    g.fillStyle = 'rgba(255,255,255,0.06)';
+    g.fillRect(0, H - 1, W, 1);
+
+    for(let i = 0; i < S; i++){
+      const intVal = scenMetrics.intensities[i] || 0;
+      const h = (intVal / mx) * (H - 12);
+      const isPeak = Math.abs(intVal - mx) < 0.1;
+      g.fillStyle = isPeak ? '#f59e0b' : '#2ee0cf';
+      g.fillRect(i * bw + 1, H - 1 - h, Math.max(2, bw - 2), h);
+    }
+
+    g.fillStyle = '#94a3b8';
+    g.font = '9px IBM Plex Mono, monospace';
+    g.fillText('0h', 4, 10);
+    g.fillText(`${(SIM.durHours * 0.5).toFixed(1)}h`, W * 0.48, 10);
+    g.fillText(`${SIM.durHours}h`, W - 22, 10);
+    g.fillText(`${mx.toFixed(1)} mm/h peak`, W * 0.52 - 30, 22);
+
+    const x = (SIM.t / (S - 1)) * (W - bw) + bw / 2;
+    g.fillStyle = '#f59e0b';
+    g.fillRect(x - 1, 0, 2, H);
+  } else {
+    if(!hyetoBars){
+      hyetoBars = new Float32Array(SIM.steps || 192);
+      fetch('data/rainfall.json').then(r => r.json()).then(r => {
+        const t0 = Date.parse('2015-11-30T00:00:00+05:30');
+        for(const [ts, mm] of (r.hourly_mm || [])){
+          const [d, t] = ts.split(' ');
+          const [M, D, Y] = d.split('/');
+          const h = Math.round((Date.parse(`${Y}-${M}-${D}T${t}:00+05:30`) - t0) / 3.6e6);
+          if(h >= 0 && h < (SIM.steps || 192)) hyetoBars[h] = mm;
+        }
+        drawHyeto();
+      });
+      return;
+    }
+    const S = SIM.steps || 192;
+    const mx = Math.max(1, ...hyetoBars);
+    const bw = W / S;
+    g.fillStyle = '#1b262e';
+    g.fillRect(0, H - 1, W, 1);
+    for(let i = 0; i < S; i++){
+      const h = hyetoBars[i] / mx * (H - 12);
+      g.fillStyle = '#3fa9ff';
+      g.fillRect(i * bw, H - 1 - h, Math.max(1, bw - 0.5), h);
+    }
+    g.fillStyle = '#94a3b8';
+    g.font = '9px IBM Plex Mono, monospace';
+    for(let d = 0; d < 8; d++){
+      g.fillRect(d * 24 * bw, 0, 1, H);
+      g.fillText(['30 Nov','1 Dec','2 Dec','3','4','5','6','7'][d], d * 24 * bw + 3, 9);
+    }
+    g.fillText(`${mx.toFixed(0)} mm/h peak`, W - 74, 9);
+    const x = SIM.t * bw;
+    g.fillStyle = '#f59e0b';
+    g.fillRect(x - 1, 0, 2, H);
+  }
 }
 
 function setSimT(t){
-  SIM.t = Math.max(0, Math.min(SIM.steps-1, t)); simUni.uSimT.value = SIM.t;
+  SIM.t = Math.max(0, Math.min(SIM.steps - 1, t));
+  simUni.uSimT.value = SIM.t;
   document.getElementById('simt').value = SIM.t;
-  const d = new Date(Date.parse('2015-11-30T00:00:00+05:30') + SIM.t * 3.6e6);
-  document.getElementById('simtime').textContent = d.toLocaleString('en-IN', {timeZone:'Asia/Kolkata', day:'numeric', month:'short', hour:'2-digit', minute:'2-digit', hour12:false}) + ' IST';
-  drawHyeto(); map.triggerRepaint();
+
+  if(SIM.mode === 'scenario'){
+    const elapsedH = (SIM.t / (SCEN_STEPS - 1)) * SIM.durHours;
+    document.getElementById('simtime').textContent = `Storm Timeline: ${elapsedH.toFixed(2)}h / ${SIM.durHours}h`;
+    const curInt = scenMetrics ? (scenMetrics.intensities[Math.round(SIM.t)] || 0) : 0;
+    const rateEl = document.getElementById('simRateDisplay');
+    if(rateEl) rateEl.textContent = `Intensity: ${curInt.toFixed(1)} mm/h`;
+  } else {
+    const d = new Date(Date.parse('2015-11-30T00:00:00+05:30') + SIM.t * 3.6e6);
+    document.getElementById('simtime').textContent = d.toLocaleString('en-IN', {
+      timeZone: 'Asia/Kolkata', day: 'numeric', month: 'short', hour: '2-digit', minute: '2-digit', hour12: false
+    }) + ' IST';
+    const rateEl = document.getElementById('simRateDisplay');
+    if(rateEl && hyetoBars) rateEl.textContent = `Rate: ${(hyetoBars[Math.round(SIM.t)] || 0).toFixed(1)} mm/h`;
+  }
+
+  drawHyeto();
+  map.triggerRepaint();
   if(currentFeature && currentFeature.type === 'node') showNode(currentFeature.data);
+  if(currentFeature && currentFeature.type === 'conduit') showConduit(currentFeature.data);
 }
 
+// Interactive Scenario Input Controls
+const sliderRain = document.getElementById('simRainSlider');
+const numRain = document.getElementById('simRainNum');
+const selDuration = document.getElementById('simDuration');
+
+function onRainfallChange(newMm){
+  newMm = Math.max(10, Math.min(500, +newMm || 120));
+  SIM.rainMm = newMm;
+  if(sliderRain) sliderRain.value = newMm;
+  if(numRain) numRain.value = newMm;
+
+  // Clear preset chip active styles if custom value
+  document.querySelectorAll('.sim-presets .sim-chip').forEach(c => {
+    c.classList.toggle('active', +c.dataset.mm === newMm && +c.dataset.dur === SIM.durHours);
+  });
+
+  runRainScenario(SIM.rainMm, SIM.durHours);
+  calculateFloodRisk(SIM.rainMm, SIM.durHours);
+  drawHyeto();
+  drawLegend();
+  map.triggerRepaint();
+  if(currentFeature && currentFeature.type === 'node') showNode(currentFeature.data);
+  if(currentFeature && currentFeature.type === 'conduit') showConduit(currentFeature.data);
+}
+
+if(sliderRain) sliderRain.addEventListener('input', e => onRainfallChange(e.target.value));
+if(numRain) numRain.addEventListener('change', e => onRainfallChange(e.target.value));
+if(selDuration) selDuration.addEventListener('change', e => {
+  SIM.durHours = +e.target.value || 3;
+  document.querySelectorAll('.sim-presets .sim-chip').forEach(c => {
+    c.classList.toggle('active', +c.dataset.mm === SIM.rainMm && +c.dataset.dur === SIM.durHours);
+  });
+  runRainScenario(SIM.rainMm, SIM.durHours);
+  calculateFloodRisk(SIM.rainMm, SIM.durHours);
+  drawLegend();
+  setSimT(SIM.t);
+});
+
+// Presets
+document.querySelectorAll('.sim-presets .sim-chip').forEach(chip => {
+  chip.addEventListener('click', () => {
+    const mm = +chip.dataset.mm;
+    const dur = +chip.dataset.dur;
+    SIM.rainMm = mm;
+    SIM.durHours = dur;
+    if(sliderRain) sliderRain.value = mm;
+    if(numRain) numRain.value = mm;
+    if(selDuration) selDuration.value = dur;
+    document.querySelectorAll('.sim-presets .sim-chip').forEach(c => c.classList.remove('active'));
+    chip.classList.add('active');
+    runRainScenario(mm, dur);
+    calculateFloodRisk(mm, dur);
+    drawLegend();
+    setSimT(9); // peak
+    toast(`Design storm activated: ${mm} mm in ${dur}h`, 3200);
+  });
+});
+
+// Reset Button
+const btnReset = document.getElementById('btnSimReset');
+if(btnReset){
+  btnReset.addEventListener('click', () => {
+    SIM.rainMm = 120;
+    SIM.durHours = 3;
+    SIM.compareBase = false;
+    const btnCmp = document.getElementById('btnSimCompareBase');
+    if(btnCmp) btnCmp.classList.remove('active');
+    if(sliderRain) sliderRain.value = 120;
+    if(numRain) numRain.value = 120;
+    if(selDuration) selDuration.value = 3;
+    document.querySelectorAll('.sim-presets .sim-chip').forEach(c => {
+      c.classList.toggle('active', +c.dataset.mm === 120 && +c.dataset.dur === 3);
+    });
+    runRainScenario(120, 3);
+    calculateFloodRisk(120, 3);
+    drawLegend();
+    setSimT(9);
+    toast('Simulation scenario reset to default 120 mm / 3h cloudburst.', 3000);
+  });
+}
+
+// Baseline Comparison Toggle
+const btnCompareBase = document.getElementById('btnSimCompareBase');
+if(btnCompareBase){
+  btnCompareBase.addEventListener('click', () => {
+    SIM.compareBase = !SIM.compareBase;
+    btnCompareBase.classList.toggle('active', SIM.compareBase);
+    updateScenarioTelemetryUI();
+    toast(SIM.compareBase ? 'Baseline comparison enabled (comparing against 50 mm / 3h GCC storm).' : 'Baseline comparison cleared.', 3200);
+  });
+}
+
+// Mode Tabs
+const tabModeScen = document.getElementById('tabModeScenario');
+const tabModeSWMM = document.getElementById('tabModeSWMM');
+if(tabModeScen) tabModeScen.addEventListener('click', () => applySimMode('scenario'));
+if(tabModeSWMM) tabModeSWMM.addEventListener('click', () => applySimMode('swmm'));
+
+// Timeline & Playback Listeners
 document.getElementById('simt').addEventListener('input', e => setSimT(+e.target.value));
 document.getElementById('simSpeed').addEventListener('change', e => SIM.speed = +e.target.value);
 document.getElementById('simPlay').addEventListener('click', () => {
-  SIM.playing = !SIM.playing; SIM.lastFrame = performance.now();
-  document.getElementById('simPlay').textContent = SIM.playing ? '❚❚ Pause' : '▶ Play'; map.triggerRepaint();
+  SIM.playing = !SIM.playing;
+  SIM.lastFrame = performance.now();
+  document.getElementById('simPlay').textContent = SIM.playing ? '❚❚ Pause' : '▶ Play';
+  map.triggerRepaint();
 });
 document.getElementById('simPrev').addEventListener('click', () => setSimT(Math.max(0, SIM.t - 1)));
 document.getElementById('simNext').addEventListener('click', () => setSimT(Math.min(SIM.steps - 1, SIM.t + 1)));
 document.getElementById('simPeak').addEventListener('click', () => {
-  setSimT(56.5);
-  toast('Jumped to Dec 2, 2015 Cloudburst Peak (345 mm observed, 49 mm/h intensity)', 4500);
+  if(SIM.mode === 'scenario'){
+    setSimT(9);
+    toast(`Jumped to scenario peak rainfall hour (step 9: ${scenMetrics.peakInt.toFixed(1)} mm/h)`, 3500);
+  } else {
+    setSimT(56.5);
+    toast('Jumped to Dec 2, 2015 Cloudburst Peak (345 mm observed, 49 mm/h intensity)', 4500);
+  }
 });
 document.getElementById('hyeto').addEventListener('click', e => {
   const rect = e.target.getBoundingClientRect();
@@ -2283,13 +3482,15 @@ document.getElementById('hyeto').addEventListener('click', e => {
   setSimT(Math.round(ratio * (SIM.steps - 1)));
 });
 document.getElementById('simClose').addEventListener('click', () => {
-  state.sim = false; SIM.playing = false;
+  state.sim = false;
+  SIM.playing = false;
   document.getElementById('sim').classList.remove('on');
   document.getElementById('btnToggleSim').classList.remove('active');
   for(const ch of chunks.values()){
     if(ch.water) ch.water.visible = false;
     if(ch.cols){ ch.cols.visible = false; ch.ponds.visible = false; }
   }
+  drawLegend();
   map.triggerRepaint();
 });
 
@@ -2388,10 +3589,403 @@ function applyLOD(){
 }
 map.on('zoom', applyLOD);
 
+/* =========================================================================
+   Data-Driven Flood Risk Heatmap & Multi-Factor Vulnerability Engine
+   Factors:
+   1. S_hyd  (35%): Hydraulic Load Factor (Manning conveyance ratio, surcharge head, ponding)
+   2. S_elev (25%): Lowland Elevation Vulnerability (Ground MSL relative to coastal baseline)
+   3. S_slope(15%): Structural Bottlenecks & Adverse Slope (Negative bed fall sumps & sluggish slope)
+   4. S_hist (15%): Historical Flood Proximity (Surveyed distance to Dec 2015 inundation record)
+   5. S_data (10%): Data Completeness & Uncertainty (Unsurveyed ghost sections & missing inverts)
+   ========================================================================= */
+
+const nodeRiskMap = new Map();
+let rankedHotspots = [];
+let floodRiskGeoJSON = { type: 'FeatureCollection', features: [] };
+
+function calculateSingleNodeRisk(n, rainMm, durHours){
+  const intensity = (rainMm || 120) / Math.max(0.5, durHours || 3);
+
+  // 1. Hydraulic Loading (35%)
+  const outs = adjOut.get(n.id) || [];
+  const ins = adjIn.get(n.id) || [];
+
+  let maxLambda = 0;
+  let hasAdverseOut = false;
+  let hasFlatOut = false;
+
+  const trib = n._trib || 1;
+  const runoffFlow = 0.85 * (intensity / 3.6e6) * (trib * 3200);
+
+  for(const item of outs){
+    const c = item.c;
+    const qCap = Math.max(0.02, c._Qcap || 0.5);
+    const lam = runoffFlow / qCap;
+    if(lam > maxLambda) maxLambda = lam;
+    if(c.s != null && c.s < 0) hasAdverseOut = true;
+    else if(c.s != null && c.s < 0.001) hasFlatOut = true;
+  }
+
+  let sHyd = 0;
+  if(outs.length === 0){
+    sHyd = isOutfall(n) ? 20 : (intensity > 40 ? 70 : 40);
+  } else {
+    if(maxLambda >= 1.0) sHyd = Math.min(100, 75 + (maxLambda - 1.0) * 25);
+    else sHyd = maxLambda * 75;
+  }
+  if(intensity > 50 && (n._d || 1) < 0.9) sHyd = Math.min(100, sHyd + 15);
+  sHyd = Math.max(0, Math.min(100, sHyd));
+
+  // 2. Terrain Lowland Elevation (25%)
+  const gElev = n.road ?? n._ref ?? 6.0;
+  const sElev = Math.max(0, Math.min(100, ((10.0 - gElev) / 7.5) * 100));
+
+  // 3. Structural Bottleneck & Adverse Slope (15%)
+  let sSlope = 0;
+  if(hasAdverseOut) sSlope += 65;
+  else if(hasFlatOut) sSlope += 30;
+  if(ins.length > 2 && outs.length === 1) sSlope += 20;
+  sSlope = Math.max(0, Math.min(100, sSlope));
+
+  // 4. Historical 2015 Flood Proximity (15%)
+  let sHist = 0;
+  if(n.fl != null){
+    if(n.fl <= 5) sHist = 100;
+    else if(n.fl < 25) sHist = 80;
+    else if(n.fl < 50) sHist = 60;
+    else if(n.fl < 100) sHist = 35;
+    else if(n.fl < 200) sHist = 15;
+  }
+
+  // 5. Data Uncertainty & Completeness (10%)
+  let sData = 0;
+  if(!n._surv) sData += 50;
+  if(n.inv == null) sData += 40;
+  if(outs.some(item => !isDrawn(item.c))) sData += 20;
+  sData = Math.max(0, Math.min(100, sData));
+
+  const score = Math.round(
+    0.35 * sHyd +
+    0.25 * sElev +
+    0.15 * sSlope +
+    0.15 * sHist +
+    0.10 * sData
+  );
+
+  let tier, tierClass, color;
+  if(score >= 75){
+    tier = 'Very High Risk';
+    tierClass = 'vhigh';
+    color = '#ef4444';
+  } else if(score >= 50){
+    tier = 'High Risk';
+    tierClass = 'high';
+    color = '#f97316';
+  } else if(score >= 25){
+    tier = 'Moderate Risk';
+    tierClass = 'mod';
+    color = '#eab308';
+  } else {
+    tier = 'Lower Risk';
+    tierClass = 'low';
+    color = '#06b6d4';
+  }
+
+  let recommendation = '';
+  if(hasAdverseOut){
+    recommendation = 'GCC Priority 1: Correct adverse bed slope / clear reverse sump trapping stormwater. Regrade invert or deploy suction unit.';
+  } else if(sHyd >= 75){
+    recommendation = 'GCC Priority 1: Augment conduit cross-section capacity; barrel surcharges severely under current design storm.';
+  } else if(sElev >= 70 && sHist >= 60){
+    recommendation = 'GCC Priority 2: Critical coastal depression; install high-volume mobile dewatering pump & non-return tidal flap.';
+  } else if(sData >= 60){
+    recommendation = 'GCC Survey Action: Dispatch ground survey crew to measure unverified invert depth and barrel dimensions.';
+  } else if(score >= 50){
+    recommendation = 'GCC Priority 3: Pre-monsoon desilting and clear inlet trash screens to prevent localized waterlogging.';
+  } else {
+    recommendation = 'Routine Maintenance: Monitor outfall clearance and ensure free-surface gravity discharge.';
+  }
+
+  return {
+    id: n.id,
+    score,
+    tier,
+    tierClass,
+    color,
+    sHyd: Math.round(sHyd),
+    sElev: Math.round(sElev),
+    sSlope: Math.round(sSlope),
+    sHist: Math.round(sHist),
+    sData: Math.round(sData),
+    recommendation,
+    gElev: +gElev.toFixed(2),
+    fl: n.fl != null ? Math.round(n.fl) : null,
+    hasAdverseOut,
+    maxLambda: +maxLambda.toFixed(2),
+    isUnsurveyed: !n._surv
+  };
+}
+
+function calculateFloodRisk(rainMm, durHours){
+  nodeRiskMap.clear();
+  const features = [];
+  const list = [];
+
+  for(let i = 0; i < nodes.length; i++){
+    const n = nodes[i];
+    const r = calculateSingleNodeRisk(n, rainMm, durHours);
+    nodeRiskMap.set(n.id, r);
+    list.push({ node: n, risk: r });
+    features.push({
+      type: 'Feature',
+      geometry: { type: 'Point', coordinates: [n.lon, n.lat] },
+      properties: {
+        id: n.id,
+        risk: r.score,
+        tier: r.tier,
+        tierClass: r.tierClass,
+        sHyd: r.sHyd,
+        sElev: r.sElev,
+        sSlope: r.sSlope,
+        sHist: r.sHist,
+        sData: r.sData,
+        ward: n.w || ''
+      }
+    });
+  }
+
+  floodRiskGeoJSON = { type: 'FeatureCollection', features };
+
+  list.sort((a, b) => b.risk.score - a.risk.score);
+  rankedHotspots = list.slice(0, 20);
+
+  const src = map.getSource('floodRisk');
+  if(src) src.setData(floodRiskGeoJSON);
+
+  const vhighCount = list.filter(item => item.risk.score >= 75).length;
+  const badgeHeatmapTier = document.getElementById('badgeHeatmapTier');
+  if(badgeHeatmapTier){
+    badgeHeatmapTier.textContent = `${vhighCount} Critical Hotspots`;
+    badgeHeatmapTier.className = `badge-pill ${vhighCount > 0 ? 'vhigh' : 'ok'}`;
+  }
+
+  updateHotspotsUI();
+  if(currentFeature && currentFeature.type === 'node') showNode(currentFeature.data);
+}
+
+function updateHotspotsUI(){
+  const container = document.getElementById('hotspotList');
+  if(!container) return;
+  if(!rankedHotspots.length){
+    container.innerHTML = '<div style="padding:10px; font-size:11px; color:var(--txt-muted);">Calculating flood risk hotspots...</div>';
+    return;
+  }
+
+  const badgeCount = document.getElementById('badgeHotspotCount');
+  if(badgeCount) badgeCount.textContent = `Top ${Math.min(10, rankedHotspots.length)} Action Areas`;
+
+  const topList = rankedHotspots.slice(0, 10);
+  container.innerHTML = topList.map((item, idx) => {
+    const n = item.node;
+    const r = item.risk;
+    const keyReason = r.hasAdverseOut ? 'Reverse Sump Defect'
+      : r.sHyd >= 75 ? 'Conduit Surcharged'
+      : (r.sElev >= 70 && r.sHist >= 60) ? 'Lowland Inundation'
+      : r.sData >= 60 ? 'Unsurveyed Gap'
+      : 'Hydraulic Bottleneck';
+
+    return `
+      <div class="hotspot-item" data-id="${n.id}" data-idx="${n._i}">
+        <div class="hotspot-rank">#${idx + 1}</div>
+        <div class="hotspot-info">
+          <div class="hotspot-title">
+            <span>${n.id}</span>
+            <span class="badge-pill ${r.tierClass}">${r.score}</span>
+          </div>
+          <div class="hotspot-sub">Ward ${n.w || '—'} · ${keyReason} · Elev ${r.gElev}m</div>
+        </div>
+      </div>
+    `;
+  }).join('');
+
+  container.querySelectorAll('.hotspot-item').forEach(el => {
+    el.addEventListener('click', () => {
+      const id = el.dataset.id;
+      const n = byId.get(id);
+      if(n){
+        map.flyTo({
+          center: [n.lon, n.lat],
+          zoom: Math.max(16.5, map.getZoom()),
+          pitch: 62,
+          duration: 1400
+        });
+        setHighlight(n._i);
+        showNode(n);
+      }
+    });
+  });
+}
+
+function initFloodRiskMapLayers(){
+  if(!map || !map.getStyle()) return;
+  if(map.getSource('floodRisk')){
+    const s = map.getSource('floodRisk');
+    if(s && floodRiskGeoJSON) s.setData(floodRiskGeoJSON);
+    return;
+  }
+
+  if(!floodRiskGeoJSON || !floodRiskGeoJSON.features || !floodRiskGeoJSON.features.length){
+    calculateFloodRisk(SIM.rainMm, SIM.durHours);
+  }
+
+  map.addSource('floodRisk', {
+    type: 'geojson',
+    data: floodRiskGeoJSON
+  });
+
+  const beforeLayer = map.getLayer('swd') ? 'swd' : undefined;
+
+  map.addLayer({
+    id: 'floodRiskHeatmap',
+    type: 'heatmap',
+    source: 'floodRisk',
+    maxzoom: 17.5,
+    layout: {
+      visibility: state.heatmap ? 'visible' : 'none'
+    },
+    paint: {
+      'heatmap-weight': [
+        'interpolate', ['linear'], ['get', 'risk'],
+        0, 0,
+        25, 0.25,
+        50, 0.65,
+        75, 0.95,
+        100, 1.25
+      ],
+      'heatmap-intensity': [
+        'interpolate', ['linear'], ['zoom'],
+        11, 0.55,
+        13, 0.9,
+        15, 1.45,
+        17, 2.2
+      ],
+      'heatmap-color': [
+        'interpolate', ['linear'], ['heatmap-density'],
+        0, 'rgba(11, 19, 34, 0)',
+        0.15, 'rgba(6, 182, 212, 0.30)',
+        0.35, 'rgba(16, 185, 129, 0.58)',
+        0.55, 'rgba(234, 179, 8, 0.80)',
+        0.75, 'rgba(249, 115, 22, 0.90)',
+        0.90, 'rgba(239, 68, 68, 0.96)',
+        1.0, '#b91c1c'
+      ],
+      'heatmap-radius': [
+        'interpolate', ['linear'], ['zoom'],
+        11, 14,
+        13, 24,
+        15, 38,
+        17, 56
+      ],
+      'heatmap-opacity': state.heatmap ? state.heatmapOpacity : 0
+    }
+  }, beforeLayer);
+
+  map.addLayer({
+    id: 'floodRiskPoints',
+    type: 'circle',
+    source: 'floodRisk',
+    minzoom: 13.5,
+    layout: {
+      visibility: state.heatmap ? 'visible' : 'none'
+    },
+    paint: {
+      'circle-radius': [
+        'interpolate', ['linear'], ['zoom'],
+        13.5, 2.5,
+        15, 4.5,
+        17, 8,
+        19, 14
+      ],
+      'circle-color': [
+        'case',
+        ['>=', ['get', 'risk'], 75], '#ef4444',
+        ['>=', ['get', 'risk'], 50], '#f97316',
+        ['>=', ['get', 'risk'], 25], '#eab308',
+        '#06b6d4'
+      ],
+      'circle-stroke-color': '#07101e',
+      'circle-stroke-width': [
+        'interpolate', ['linear'], ['zoom'],
+        13.5, 0.5,
+        16, 1.5
+      ],
+      'circle-opacity': [
+        'interpolate', ['linear'], ['zoom'],
+        13.5, 0.2,
+        14.5, 0.85
+      ]
+    }
+  }, beforeLayer);
+
+  map.on('click', 'floodRiskPoints', (e) => {
+    if(!e.features || !e.features.length) return;
+    const f = e.features[0];
+    const node = byId.get(f.properties.id);
+    if(node){
+      setHighlight(node._i);
+      showNode(node);
+    }
+  });
+
+  map.on('mouseenter', 'floodRiskPoints', () => {
+    if(state.heatmap) map.getCanvas().style.cursor = 'pointer';
+  });
+  map.on('mouseleave', 'floodRiskPoints', () => {
+    if(state.heatmap) map.getCanvas().style.cursor = '';
+  });
+}
+
+function setHeatmapVisible(vis){
+  state.heatmap = !!vis;
+  const tHeatmap = document.getElementById('tHeatmap');
+  if(tHeatmap) tHeatmap.checked = state.heatmap;
+  const btnToggle = document.getElementById('btnToggleHeatmap');
+  if(btnToggle) btnToggle.classList.toggle('active', state.heatmap);
+  const ctrlPanel = document.getElementById('heatmapControls');
+  if(ctrlPanel) ctrlPanel.style.display = state.heatmap ? 'block' : 'none';
+
+  if(map.getLayer('floodRiskHeatmap')){
+    map.setLayoutProperty('floodRiskHeatmap', 'visibility', state.heatmap ? 'visible' : 'none');
+    map.setPaintProperty('floodRiskHeatmap', 'heatmap-opacity', state.heatmap ? state.heatmapOpacity : 0);
+  }
+  if(map.getLayer('floodRiskPoints')){
+    map.setLayoutProperty('floodRiskPoints', 'visibility', state.heatmap ? 'visible' : 'none');
+  }
+  drawLegend();
+  map.triggerRepaint();
+}
+
+function setHeatmapOpacity(val){
+  const op = Math.max(0.1, Math.min(1.0, val));
+  state.heatmapOpacity = op;
+  const txt = document.getElementById('txtHeatmapOpacity');
+  if(txt) txt.textContent = `${Math.round(op * 100)}%`;
+  const slider = document.getElementById('sHeatmapOpacity');
+  if(slider) slider.value = Math.round(op * 100);
+  if(map.getLayer('floodRiskHeatmap')){
+    map.setPaintProperty('floodRiskHeatmap', 'heatmap-opacity', state.heatmap ? op : 0);
+  }
+  map.triggerRepaint();
+}
+
+// Initial calculation on load
+calculateFloodRisk(SIM.rainMm, SIM.durHours);
+
 /* Ward Boundaries */
 const wardChips = [];
 function addOverlays(){
   if(!map.getLayer('swd')) map.addLayer(layer);
+  initFloodRiskMapLayers();
   if(wardsFC && !map.getSource('wards')){
     map.addSource('wards', {type:'geojson', data:wardsFC});
     map.addLayer({
@@ -2423,8 +4017,20 @@ function syncWardChips(){
   const show = state.wards && map.getZoom() >= 14, b = show ? map.getBounds() : null;
   for(const mk of wardChips){ const want = show && b.contains(mk.getLngLat()); if(want && !mk._map) mk.addTo(map); else if(!want && mk._map) mk.remove(); }
 }
-map.on('style.load', addOverlays);
+if(map.isStyleLoaded()){
+  addOverlays();
+} else {
+  map.on('style.load', addOverlays);
+}
+map.on('load', addOverlays);
 map.on('moveend', syncWardChips);
+
+setTimeout(() => {
+  const bootEl = document.getElementById('boot');
+  if(bootEl && !bootEl.classList.contains('gone')){
+    bootEl.classList.add('gone');
+  }
+}, 1200);
 
 /* Picking & Feature Selection */
 const v4 = new THREE.Vector4();
@@ -2469,7 +4075,6 @@ function pickConduit(px, py, tol){
 
 function setHighlight(i){ uni.uHi.value = i; map.triggerRepaint(); }
 const fmt = (v, d = 3, u = '') => v == null ? '—' : (+v).toFixed(d) + u;
-let currentFeature = null;
 
 function showOverview(){
   currentFeature = null;
@@ -2477,6 +4082,7 @@ function showOverview(){
   document.getElementById('inspectorTitle').textContent = 'Intelligence Inspector';
   document.getElementById('inspectorDetail').style.display = 'none';
   document.getElementById('inspectorOverview').style.display = 'block';
+  updateHotspotsUI();
 }
 
 function showNode(n){
@@ -2510,16 +4116,34 @@ function showNode(n){
     rows.push(['SWMM Simulated Flood', n.fh == null ? 'Not modeled' : fmt(n.fh, 2, ' h')]);
   }
   if(SIM.loaded && state.sim){
-    const k = SIM.nodeIdx[n._i];
-    if(k >= 0){
-      const S = SIM.steps, t = Math.round(SIM.t), d = SIM.u16[k*S + t] / 1000, f = SIM.u16[(SIM.meta.nodes.length + k)*S + t];
-      rows.push(['Simulated Water Depth', `${d.toFixed(2)} m above invert${d > n._d ? ' (surcharged)' : ''}`]);
-      if(f > 0) rows.push(['Street Overflow Discharge', `${f} L/s`]);
-    } else rows.push(['Simulated Water Depth', 'Node not in hydraulic model']);
+    if(SIM.mode === 'scenario'){
+      const sc = getNodeScenarioTelemetry(n, Math.round(SIM.t));
+      if(sc){
+        rows.push(['Scenario Diagnostic', `${SIM.rainMm} mm in ${SIM.durHours}h (${sc.intensity.toFixed(1)} mm/h at step)`]);
+        rows.push(['Local Inflow Q', `${sc.qLocal.toFixed(3)} m³/s (local runoff)`]);
+        rows.push(['Tributary Nodes in Basin', `${sc.tribNodes} nodes (${(sc.tribArea/10000).toFixed(1)} ha)`]);
+        rows.push(['Water Surface Level', `${sc.waterMSL.toFixed(3)} m MSL`]);
+        rows.push(['Manhole Surcharge Head', sc.surchargeHead > 0 ? `${sc.surchargeHead.toFixed(2)} m above crown (surcharged)` : 'None (free gravity surface)']);
+        rows.push(['Street Overflow Discharge', sc.overflowRate > 0 ? `${sc.overflowRate.toFixed(1)} L/s` : '0 L/s (no street overflow)']);
+        if(sc.pondRadius > 0) rows.push(['Surface Puddle Disc Radius', `${sc.pondRadius.toFixed(1)} m`]);
+      }
+    } else {
+      const k = SIM.nodeIdx[n._i];
+      if(k >= 0 && SIM.u16 && SIM.meta){
+        const S = SIM.steps, t = Math.round(SIM.t), d = SIM.u16[k*S + t] / 1000, f = SIM.u16[(SIM.meta.nodes.length + k)*S + t];
+        rows.push(['SWMM Water Depth', `${d.toFixed(2)} m above invert${d > n._d ? ' (surcharged)' : ''}`]);
+        if(f > 0) rows.push(['Street Overflow Discharge', `${f} L/s`]);
+      } else rows.push(['SWMM Water Depth', 'Node not in benchmark model']);
+    }
   }
 
   document.getElementById('rkv').innerHTML = rows.map(([k,v]) => {
-    const cls = (k === '2015 Flood Record' && v !== 'None within 200 m') ? 'warn' : (k === 'Hydraulic Discharge' && v.includes('sump')) ? 'warn' : (k === 'Outfall Terminal' && v.startsWith('Yes')) ? 'ok' : (v.startsWith('Unsurveyed') ? 'ghost' : '');
+    const cls = (k === '2015 Flood Record' && v !== 'None within 200 m') ? 'warn'
+      : (k.includes('Surcharge') && !v.startsWith('None')) ? 'warn'
+      : (k.includes('Street Overflow') && !v.startsWith('0')) ? 'warn'
+      : (k === 'Hydraulic Discharge' && v.includes('sump')) ? 'warn'
+      : (k === 'Outfall Terminal' && v.startsWith('Yes')) ? 'ok'
+      : (v.startsWith('Unsurveyed') ? 'ghost' : '');
     return `<dt>${k}</dt><dd class="${cls}">${v}</dd>`;
   }).join('');
 
@@ -2532,6 +4156,59 @@ function showNode(n){
   noteEl.textContent = noteText;
   noteEl.className = (n.fl != null && n.fl < 20) ? 'context-note warn' : 'context-note';
 
+  // Populate Flood Risk Assessment Card
+  const rData = nodeRiskMap.get(n.id) || calculateSingleNodeRisk(n, SIM.rainMm, SIM.durHours);
+  if(rData){
+    const card = document.getElementById('riskDetailCard');
+    if(card) card.style.display = 'block';
+    const badge = document.getElementById('riskDetailBadge');
+    if(badge){
+      badge.className = 'badge-pill ' + rData.tierClass;
+      badge.textContent = rData.tier;
+    }
+    const scoreEl = document.getElementById('riskDetailScore');
+    if(scoreEl){
+      scoreEl.textContent = `${rData.score} / 100`;
+      scoreEl.style.color = rData.color;
+    }
+    const grid = document.getElementById('riskFactorGrid');
+    if(grid){
+      grid.innerHTML = `
+        <div class="risk-factor-row">
+          <span class="risk-factor-lbl">Drainage Load Factor</span>
+          <div class="risk-bar-track"><div class="risk-bar-fill" style="width: ${rData.sHyd}%; background: ${rData.sHyd >= 75 ? '#ef4444' : rData.sHyd >= 50 ? '#f97316' : '#2ee0cf'};"></div></div>
+          <span class="risk-factor-val">${rData.sHyd}%</span>
+        </div>
+        <div class="risk-factor-row">
+          <span class="risk-factor-lbl">Lowland Depression</span>
+          <div class="risk-bar-track"><div class="risk-bar-fill" style="width: ${rData.sElev}%; background: ${rData.sElev >= 70 ? '#f97316' : '#38bdf8'};"></div></div>
+          <span class="risk-factor-val">${rData.sElev}%</span>
+        </div>
+        <div class="risk-factor-row">
+          <span class="risk-factor-lbl">Adverse Bed Slope / Sump</span>
+          <div class="risk-bar-track"><div class="risk-bar-fill" style="width: ${rData.sSlope}%; background: ${rData.sSlope > 0 ? '#ef4444' : '#64748b'};"></div></div>
+          <span class="risk-factor-val">${rData.sSlope}%</span>
+        </div>
+        <div class="risk-factor-row">
+          <span class="risk-factor-lbl">2015 Flood Record Dist.</span>
+          <div class="risk-bar-track"><div class="risk-bar-fill" style="width: ${rData.sHist}%; background: ${rData.sHist >= 60 ? '#ef4444' : '#94a3b8'};"></div></div>
+          <span class="risk-factor-val">${rData.fl != null ? `${rData.fl}m` : 'None'}</span>
+        </div>
+        <div class="risk-factor-row">
+          <span class="risk-factor-lbl">Survey Uncertainty</span>
+          <div class="risk-bar-track"><div class="risk-bar-fill" style="width: ${rData.sData}%; background: ${rData.sData >= 50 ? '#eab308' : '#64748b'};"></div></div>
+          <span class="risk-factor-val">${rData.sData}%</span>
+        </div>
+      `;
+    }
+    const recEl = document.getElementById('riskRecommendation');
+    if(recEl) recEl.textContent = rData.recommendation;
+    const provEl = document.getElementById('riskProvenanceNote');
+    if(provEl){
+      provEl.innerHTML = `<b>Methodology Provenance:</b> Multi-factor index (${SIM.rainMm} mm in ${SIM.durHours}h storm), ground MSL (${rData.gElev} m), reverse slope detection, and surveyed Dec 2015 inundation record. <i>Distinguishes recorded 2015 flooding from estimated future scenario risk.</i>`;
+    }
+  }
+
   document.getElementById('inspectorOverview').style.display = 'none';
   document.getElementById('inspectorDetail').style.display = 'block';
   document.getElementById('inspector').classList.remove('collapsed');
@@ -2541,6 +4218,8 @@ function showNode(n){
 
 function showConduit(c){
   currentFeature = {type:'conduit', data:c};
+  const riskCard = document.getElementById('riskDetailCard');
+  if(riskCard) riskCard.style.display = 'none';
   document.getElementById('inspectorTitle').textContent = 'Conduit Telemetry';
   const nf = byId.get(c.f), nt = byId.get(c.t);
   document.getElementById('rid').textContent = `${c.f} → ${c.t}`;
@@ -2562,8 +4241,37 @@ function showConduit(c){
     ['Polyline Vertices', `${c._p.length}${c.bp ? ` (${c.bp.length} intermediate inverts)` : ''}`],
   ];
 
+  if(SIM.loaded && state.sim){
+    if(SIM.mode === 'scenario'){
+      const sc = getConduitScenarioTelemetry(c, Math.round(SIM.t));
+      if(sc){
+        rows.push(['Scenario Diagnostic', `${SIM.rainMm} mm in ${SIM.durHours}h event`]);
+        rows.push(['Manning Capacity Qcap', `${sc.qCap.toFixed(3)} m³/s (${(sc.qCap*1000).toFixed(0)} L/s)`]);
+        rows.push(['Simulated Discharge Q', `${sc.qFlow.toFixed(3)} m³/s (${(sc.qFlow*1000).toFixed(0)} L/s)`]);
+        rows.push(['Hydraulic Load Factor λ', `${(sc.lambda*100).toFixed(1)}% ${sc.lambda >= 1.0 ? '🚨 OVERLOADED' : sc.lambda >= 0.8 ? '⚠️ NEAR CAPACITY' : '✅ ADEQUATE'}`]);
+        rows.push(['Conduit Water Depth', `${sc.depth.toFixed(2)} m / ${(c._d || ASSUME.PH_D).toFixed(2)} m (${((sc.depth / Math.max(0.01, c._d || ASSUME.PH_D))*100).toFixed(0)}% full)`]);
+        rows.push(['Conveyance Velocity', `${sc.velocity.toFixed(2)} m/s`]);
+        rows.push(['Bottleneck Diagnostic', sc.bottleneck]);
+      }
+    } else {
+      const k = SIM.linkIdx[c._i];
+      if(k >= 0 && SIM.u16 && SIM.meta){
+        const S = SIM.steps, t = Math.round(SIM.t);
+        const NN = SIM.meta.nodes.length;
+        const NL = SIM.meta.links.length;
+        const d = SIM.u16[(2*NN*S) + k*S + t] / 1000;
+        const v = SIM.u16[(2*NN*S + NL*S) + k*S + t] / 1000;
+        rows.push(['SWMM Conduit Depth', `${d.toFixed(2)} m / ${(c.dp || ASSUME.PH_D).toFixed(2)} m`]);
+        rows.push(['SWMM Flow Velocity', `${v.toFixed(2)} m/s`]);
+      } else rows.push(['SWMM Status', 'Conduit not in benchmark model']);
+    }
+  }
+
   document.getElementById('rkv').innerHTML = rows.map(([k,v]) => {
-    const cls = v.includes('UPHILL') ? 'warn' : v.startsWith('Unsurveyed') ? 'ghost' : '';
+    const cls = v.includes('UPHILL') ? 'warn'
+      : (k.includes('Load Factor') && v.includes('OVERLOADED')) ? 'warn'
+      : (k.includes('Bottleneck') && !v.startsWith('Adequate')) ? 'warn'
+      : v.startsWith('Unsurveyed') ? 'ghost' : '';
     return `<dt>${k}</dt><dd class="${cls}">${v}</dd>`;
   }).join('');
 
@@ -2694,6 +4402,8 @@ const pressSeg = (id, val) => [...document.getElementById(id).children].forEach(
 
 segment('network', 'network', () => {
   setCounts();
+  buildAdjacencyGraph();
+  calculateFloodRisk(SIM.rainMm, SIM.durHours);
   if(built){
     uni.uDrawnOnly.value = state.network === 'drawn' ? 1 : 0;
     recolourAll();
@@ -2731,6 +4441,15 @@ document.getElementById('tVeil').addEventListener('change', () => { syncDatumSur
 document.getElementById('tFlow').addEventListener('change', ev => { state.flow = ev.target.checked; uni.uFlow.value = state.flow ? 1 : 0; map.triggerRepaint(); });
 document.getElementById('tWards').addEventListener('change', ev => { state.wards = ev.target.checked; if(map.getLayer('wards')) map.setLayoutProperty('wards', 'visibility', state.wards ? 'visible' : 'none'); syncWardChips(); });
 document.getElementById('tLabels').addEventListener('change', ev => { state.labels = ev.target.checked; applyBase(); });
+
+const tHeatmapEl = document.getElementById('tHeatmap');
+if(tHeatmapEl) tHeatmapEl.addEventListener('change', e => setHeatmapVisible(e.target.checked));
+
+const sHeatmapOpacityEl = document.getElementById('sHeatmapOpacity');
+if(sHeatmapOpacityEl) sHeatmapOpacityEl.addEventListener('input', e => setHeatmapOpacity(e.target.value / 100));
+
+const btnToggleHeatmapEl = document.getElementById('btnToggleHeatmap');
+if(btnToggleHeatmapEl) btnToggleHeatmapEl.addEventListener('click', () => setHeatmapVisible(!state.heatmap));
 
 /* Shell Drawer & Panel Toggles */
 const sidebarEl = document.getElementById('sidebar');
@@ -2770,6 +4489,8 @@ function setCompareSub(sub){
     pressSeg('network', 'conn');
     desc.innerHTML = '<b>Highlight Inferred Links:</b> Cyan = Survey ground truth · Amber = Road-routed links · Purple = Straight chords · Rose = Cross-ward boundary links.';
   }
+  buildAdjacencyGraph();
+  calculateFloodRisk(SIM.rainMm, SIM.durHours);
   setCounts();
   recolourAll();
   drawLegend();
